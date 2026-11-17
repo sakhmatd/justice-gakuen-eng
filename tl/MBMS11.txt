@@ -1,0 +1,2596 @@
+## MBMS11 g0 s0000
+JP: 五輪祭…とうとうこの日がやってきたか。{p}
+EN: The Gorin Festival... The day's finally here.{p}
+
+## MBMS11 g0 s0001
+JP: （「五輪祭」とは、スポーツ名門校五輪高校{n}{sp}が開催する拡張スケールの体育祭で、{p}
+EN: (The "Gorin Festival" is a huge sports meet held by Gorin High, a famous sports school.{p}
+
+## MBMS11 g0 s0002
+JP: {sp}高校単位で行われるイベントとしては{n}{sp}国内最大級のスポーツイベントである。）{p}
+EN: It's one of the biggest high-school sports events in the country.){p}
+
+## MBMS11 g0 s0003
+JP: ただ規模が大きいだけの体育祭なら、{n}まだいいけど…。{p}{end}
+EN: If it were just a big sports day, that'd be fine...{p}{end}
+
+## MBMS11 g0 s0004
+JP: 来年のクラブの予算は、{n}五輪祭の成績で決まってしまうんだ。{n}シビアな話だよな、実際。{p}{end}
+EN: But next year's club budgets depend on how we do at the Gorin Festival. It's a harsh deal, really.{p}{end}
+
+## MBMS11 g0 s0005
+JP: おはよう、{v1}{col:0}クン{col:-}。{p}
+EN: Good morning, {v1}{col:0}-kun{col:-}.{p}
+
+## MBMS11 g0 s0006
+JP: あ、響子先生。{n}おはようございます。{p}{end}
+EN: Oh, Kyoko-sensei. Good morning.{p}{end}
+
+## MBMS11 g0 s0007
+JP: うふふ、{v1}{col:0}クン{col:-}はいつも元気ね。{p}
+EN: Hehe, {v1}{col:0}-kun{col:-}, you're always so full of energy.{p}
+
+## MBMS11 g0 s0008
+JP: そんな{v1}{col:0}クン{col:-}を見ていると、{n}先生まで元気になってきちゃうから、{n}ほんと不思議ね。{p}{end}
+EN: Watching you, {v1}{col:0}-kun{col:-}, perks me up too. Funny how that works.{p}{end}
+
+## MBMS11 g0 s0009
+JP: ところで、{n}{v1}{col:0}クン{col:-}は{n}何の種目に出るの?{p}{end}
+EN: By the way, {v1}{col:0}-kun{col:-}, which event are you entering?{p}{end}
+
+## MBMS11 g0 s0010
+JP: えーと、俺は…{p}
+EN: Um, I'm...{p}
+
+## MBMS11 g0 s0012
+JP: そう、頑張ってね。{n}先生も応援してるわ。{p}{end}
+EN: I see. Do your best. I'll be cheering for you.{p}{end}
+
+## MBMS11 g0 s0013
+JP: でもね、決して無茶をしては駄目よ。{p}
+EN: But you mustn't overdo it, okay?{p}
+
+## MBMS11 g0 s0014
+JP: 思わぬ事故のために、{n}選手生命を断たれてしまった生徒達を{n}先生はたくさん見てきたわ。{p}{end}
+EN: I've seen so many students whose athletic careers ended in a freak accident.{p}{end}
+
+## MBMS11 g0 s0015
+JP: {v1}{col:0}クン{col:-}だけには、{n}そうはなってほしくないの…{p}{end}
+EN: I don't want that to happen to you, {v1}{col:0}-kun{col:-}...{p}{end}
+
+## MBMS11 g0 s0016
+JP: だから、無茶はしないって{n}先生と約束してちょうだい。{p}{end}
+EN: So promise me you won't push yourself too hard.{p}{end}
+
+## MBMS11 g0 s0017
+JP: （先生と、約束するか?）{p}{end}
+EN: (Should I promise her?){p}{end}
+
+## MBMS11 g0 s0018
+JP: 約束する{n}ここで燃え尽きてもかまわない{p}
+EN: I promise{n}I don't care if I burn out today{p}
+
+## MBMS11 g0 s0019
+JP: はい、わかりました。{n}約束します。{p}
+EN: Okay, I understand. I promise.{p}
+
+## MBMS11 g0 s0020
+JP: ありがとう、{v1}{col:0}クン{col:-}。{p}{end}
+EN: Thank you, {v1}{col:0}-kun{col:-}.{p}{end}
+
+## MBMS11 g0 s0021
+JP: じゃあ、頑張ってきてね。{p}{end}
+EN: Well then, go give it your all.{p}{end}
+
+## MBMS11 g0 s0022
+JP: 響子先生のお心づかいは{n}すごく嬉しいです。{p}
+EN: I'm really glad you care, Kyoko-sensei.{p}
+
+## MBMS11 g0 s0023
+JP: でも、今はこの身が果てようとも、{n}勝利をつかまなくては{n}いけない時なんです…。{p}
+EN: But right now I have to grab victory, even if it breaks me...{p}
+
+## MBMS11 g0 s0024
+JP: すみません、響子先生。{n}じゃあ俺、これで失礼します。{p}{end}
+EN: I'm sorry, Kyoko-sensei. I'll be going now.{p}{end}
+
+## MBMS11 g0 s0025
+JP: あ、{v1}{col:0}クン{col:-}!{n}待って!{p}
+EN: Ah, {v1}{col:0}-kun{col:-}! Wait!{p}
+
+## MBMS11 g0 s0027
+JP: おっ、{v3:3}。{n}そういえば、{n}お前もホームラン競争に{n}出るんだったっけな。{p}{end}
+EN: Oh, {v3:3}. Right, you're in the Home Run Derby too, huh?{p}{end}
+
+## MBMS11 g0 s0028
+JP: 野球部の来年の予算がかかってるんだから、{n}負けられないよな。{p}{end}
+EN: The baseball club's budget for next year is on the line. We can't afford to lose.{p}{end}
+
+## MBMS11 g0 s0029
+JP: なあ、{v3:3}。{n}正直なところ、自信はどうだ?{p}
+EN: Hey, {v3:3}. Honestly, how confident are you?{p}
+
+## MBMS11 g0 s0030
+JP: 自信?{n}そうだなぁ。{p}{end}
+EN: Confident? Let's see...{p}{end}
+
+## MBMS11 g0 s0031
+JP: まかせとけ{n}そこそこいけるよ{n}全然だめだよ{p}
+EN: Leave it to me{n}I'll do all right{n}I'm totally hopeless{p}
+
+## MBMS11 g0 s0032
+JP: へへっ、頼もしいな。{n}じゃ、期待してるぜ!{p}
+EN: Heh, that's the spirit. I'm countin' on ya!{p}
+
+## MBMS11 g0 s0033
+JP: ま、お互い肩の力抜いて行こうぜ!{p}{end}
+EN: Well, let's both loosen up out there!{p}{end}
+
+## MBMS11 g0 s0034
+JP: おいおい、いきなり気合負けしてて{n}どうするんだよ。{n}頼むぜ、ほんとに。{p}
+EN: Whoa, whoa, losing your nerve already? C'mon, man, I'm counting on you.{p}
+
+## MBMS11 g0 s0035
+JP: へぇー、やるじゃんか。{n}予告どおりの結果を出してくるなんて、{n}正直驚きだぜ。{p}{end}
+EN: Heh, not bad. Pulling off exactly what you called? Gotta say, I'm surprised.{p}{end}
+
+## MBMS11 g0 s0036
+JP: おいおい、人が結果を出してきたってのに{n}そのリアクションかよ。{p}
+EN: Hey, I deliver the goods and that's your reaction?{p}
+
+## MBMS11 g0 s0037
+JP: お前の事だから、{n}口ではでかいことを言っておいて、{n}全然だめっていう展開を{n}予想してたんだけどな。{p}
+EN: Knowing you, I figured you'd talk big and then totally flop.{p}
+
+## MBMS11 g0 s0038
+JP: 見事に恵切られちまったな、{n}はは、まいったね、こりゃ。{p}
+EN: Guess you proved me wrong, huh. Ha ha, ya got me.{p}
+
+## MBMS11 g0 s0039
+JP: だけど、まったくたいしたヤツだぜ。{n}言ってみれば、{n}予告ホームランみたいなもんだからな。{p}{end}
+EN: But man, you're really something. It's like calling your shot and hitting the homer.{p}{end}
+
+## MBMS11 g0 s0040
+JP: （俺の活躍もあって、{n}{sp}野球部の予算は確保できたみたいだ。{n}{sp}将馬も終始ご機嫌だったし、{n}{sp}ホントによかったな。）{p}
+EN: (Thanks partly to me, the baseball club's budget looks secure. Shoma was in a great mood the whole time. I'm really glad.){p}
+
+## MBMS11 g0 s0041
+JP: （こうして、無事五輪祭は終了した。）{p}{end}
+EN: (And so the Gorin Festival ended without a hitch.){p}{end}
+
+## MBMS11 g0 s0042
+JP: おっ、今日のヒーローのお帰りだな。{p}
+EN: Oh, here comes today's hero.{p}
+
+## MBMS11 g0 s0043
+JP: これがプロ野球だったら、{n}今頃はヒーローインタビューって{n}ところだな。{p}
+EN: If this were pro baseball, you'd be doing the hero interview right about now.{p}
+
+## MBMS11 g0 s0044
+JP: よせよ、将馬。{n}照れるじゃないか。{p}
+EN: Knock it off, Shoma. You're embarrassing me.{p}
+
+## MBMS11 g0 s0045
+JP: 何言ってやがる。{n}野球部は、お前のおかげで救われた{n}ようなもんなんだぜ?{p}{end}
+EN: What're you talking about? You pretty much saved the baseball club, y'know?{p}{end}
+
+## MBMS11 g0 s0046
+JP: （なんとか野球部の予算は{n}{sp}確保できたみたいだ。{n}{sp}将馬も終始ご機嫌だったし、{n}{sp}ホントによかったな。）{p}{end}
+EN: (Looks like the baseball club's budget is safe. Shoma was in a great mood the whole time. I'm really glad.){p}{end}
+
+## MBMS11 g0 s0048
+JP: おい、何が全然だめなんだよ?{n}謙遜もそこまでいけばイヤミだぜ。{p}
+EN: Hey, what was "totally hopeless" about that? Modesty that extreme is just rubbing it in.{p}
+
+## MBMS11 g0 s0049
+JP: そ、そんなつもりはなかったんだ。{n}ゴメン、将馬。{p}{end}
+EN: I-I didn't mean it like that. Sorry, Shoma.{p}{end}
+
+## MBMS11 g0 s0050
+JP: フン。{n}でもまあ、お前のおかげで野球部の{n}予算の方は問題なさそうだしな。{p}{end}
+EN: Hmph. Well, thanks to you, the baseball club's budget should be fine.{p}{end}
+
+## MBMS11 g0 s0051
+JP: いちおう、礼は言っとくぜ。{p}
+EN: So I guess I'll say thanks.{p}
+
+## MBMS11 g0 s0052
+JP: （なんとか野球部の予算は{n}{sp}確保できたみたいだ。{n}{sp}あとは、将馬の機嫌さえ{n}{sp}直ってくれればいいんだけどな…。）{p}{end}
+EN: (Looks like the baseball club's budget is safe. Now if only Shoma would cheer up...){p}{end}
+
+## MBMS11 g0 s0053
+JP: （ともかく、無事五輪祭は終了した。）{p}{end}
+EN: (Anyway, the Gorin Festival ended without a hitch.){p}{end}
+
+## MBMS11 g0 s0054
+JP: どうした、調子でも悪かったのか?{p}{end}
+EN: What's up, were you off your game?{p}{end}
+
+## MBMS11 g0 s0055
+JP: うーん、ちょっとね。{p}{end}
+EN: Yeah, kind of.{p}{end}
+
+## MBMS11 g0 s0056
+JP: そっか。{n}まあ、そこそこの成績だったみたいだから{n}別にいいけどな。{p}
+EN: I see. Well, you did okay, so it's no big deal.{p}
+
+## MBMS11 g0 s0057
+JP: この分なら、{n}なんとか今年と同じくらいの予算は{n}確保できるみたいだぜ。{p}
+EN: At this rate, we should keep about the same budget as this year.{p}
+
+## MBMS11 g0 s0058
+JP: （結局、野球部はなんとか{n}{sp}予算の確保ができたみたいだ。{n}{sp}思ったほどの成績は出せなかったけど、{n}{sp}結果オーライだな。）{p}{end}
+EN: (In the end, the baseball club managed to keep its budget. I didn't do as well as I'd hoped, but all's well that ends well.){p}{end}
+
+## MBMS11 g0 s0060
+JP: まあ、お前の実力じゃこんなもんだよな?{p}
+EN: Well, that's about what you're good for, right?{p}
+
+## MBMS11 g0 s0061
+JP: ひでぇ言われようだなぁ、まったく。{p}
+EN: That's a brutal way to put it.{p}
+
+## MBMS11 g0 s0062
+JP: まあ、そう言うなよ。{n}要するに、お前は自分の実力を冷静に{n}分析できてるってことだろ?{p}{end}
+EN: Hey, don't be like that. It means you can size up your own skill calmly, right?{p}{end}
+
+## MBMS11 g0 s0063
+JP: でかい口たたいておいて{n}結果が散々ってのよりは{n}よっぽどいいと思うぜ。{p}
+EN: That's way better than talking big and then bombing.{p}
+
+## MBMS11 g0 s0064
+JP: そんなもんなのかな?{p}{end}
+EN: Is that how it works?{p}{end}
+
+## MBMS11 g0 s0065
+JP: それにこの分なら、{n}なんとか今年と同じくらいの予算は{n}確保できるみたいだぜ。{p}{end}
+EN: Besides, at this rate, we should keep about the same budget as this year.{p}{end}
+
+## MBMS11 g0 s0066
+JP: （結局、野球部はなんとか{n}{sp}予算の確保ができたみたいだ。{n}{sp}よかった、よかった。）{p}
+EN: (In the end, the baseball club managed to keep its budget. Phew, what a relief.){p}
+
+## MBMS11 g0 s0068
+JP: なんだよ、{v3:3}。{n}言ってたよりも、調子良かったじゃないか。{p}
+EN: What's this, {v3:3}? You did better than you said you would.{p}
+
+## MBMS11 g0 s0069
+JP: うん、とりあえずホッとしたよ。{p}
+EN: Yeah, I'm just relieved.{p}
+
+## MBMS11 g0 s0070
+JP: ひょっとしてお前、{n}謙遜してたのか?{p}{end}
+EN: Were you being modest, by any chance?{p}{end}
+
+## MBMS11 g0 s0071
+JP: そんなわけないだろ。{n}自信があったら、{n}あるって素直に言うよ。{p}
+EN: No way. If I were confident, I'd just say so.{p}
+
+## MBMS11 g0 s0072
+JP: まあともかく、この分なら{n}今年と同じくらいの予算は{n}確保できるみたいだな。{p}
+EN: Well, anyway, at this rate we should keep about the same budget as this year.{p}
+
+## MBMS11 g0 s0073
+JP: （結局、野球部はなんとか予算の確保が{n}{sp}できたみたいだ。よかった、よかった。）{p}
+EN: (In the end, the baseball club managed to keep its budget. Phew, what a relief.){p}
+
+## MBMS11 g0 s0077
+JP: まったく、あまりにお粗末で{n}怒る気にもならねえよ。{p}
+EN: Man, that was so pathetic I can't even get mad.{p}
+
+## MBMS11 g0 s0078
+JP: ご、ごめん。{p}{end}
+EN: S-sorry.{p}{end}
+
+## MBMS11 g0 s0079
+JP: この調子じゃ、{n}来年の予算、やばいかもな…。{p}{end}
+EN: At this rate, next year's budget might be in trouble...{p}{end}
+
+## MBMS11 g0 s0081
+JP: （結局、野球部の来年の予算は、{n}{sp}今年にくらべて20%も{n}{sp}減らされてしまったらしい。{n}{sp}うう、俺のせいかも。）{p}{end}
+EN: (In the end, the baseball club's budget for next year got cut by a whole 20%. Ugh, that might be my fault.){p}{end}
+
+## MBMS11 g0 s0082
+JP: （こうして、五輪祭は終了した。）{p}{end}
+EN: (And so the Gorin Festival came to an end.){p}{end}
+
+## MBMS11 g0 s0084
+JP: うん、ちょっとね…。{p}{end}
+EN: Yeah, kind of...{p}{end}
+
+## MBMS11 g0 s0085
+JP: それにしても、かなりひどい成績だったな。{n}野球部始まって以来じゃないか?{p}{end}
+EN: Still, that was a pretty awful showing. Might be the worst since the club started.{p}{end}
+
+## MBMS11 g0 s0091
+JP: う…、す、すまん。{p}
+EN: Ugh... S-sorry.{p}
+
+## MBMS11 g0 s0092
+JP: まあ、そう落ち込むなよ。{n}要するに、お前は自分の実力を冷静に{n}分析できてるってことだろ?{p}{end}
+EN: Hey, don't get so down. It means you can size up your own skill calmly, right?{p}{end}
+
+## MBMS11 g0 s0093
+JP: でかい口たたいておいて、{n}結果が散々ってのよりは{n}まだましだと思うぜ。{p}
+EN: That's still better than talking big and then bombing.{p}
+
+## MBMS11 g0 s0094
+JP: そんなものなのかな?{p}{end}
+EN: Is that how it works?{p}{end}
+
+## MBMS11 g0 s0095
+JP: でも、この調子じゃ来年の予算は{n}やばいかもしれないな…。{p}{end}
+EN: But at this rate, next year's budget might be in trouble...{p}{end}
+
+## MBMS11 g0 s0098
+JP: 来たか、{v3:5}。{n}いよいよ五輪祭だな。{p}{end}
+EN: There you are, {v3:5}. The Gorin Festival's finally here.{p}{end}
+
+## MBMS11 g0 s0099
+JP: サッカー部の{n}来年の予算がかかってるんだから、{n}負けられないよな。{p}
+EN: The soccer club's budget for next year is on the line. We can't afford to lose.{p}
+
+## MBMS11 g0 s0100
+JP: なあ、{v3:5}。{n}正直なところ、自信はどうなんだ?{p}
+EN: Hey, {v3:5}. Honestly, how confident are you?{p}
+
+## MBMS11 g0 s0103
+JP: 頼もしいお言葉だな。{n}お前には、期待してるぜ!{p}
+EN: Now that's reassuring. I'm counting on you!{p}
+
+## MBMS11 g0 s0104
+JP: まあ、お互い肩の力抜いて行こうぜ!{p}
+EN: Well, let's both loosen up out there!{p}
+
+## MBMS11 g0 s0105
+JP: まあ勝負なんてものは、実際始まって{n}みないとわからないものだからな。{n}意外と、うまくいくかもしれないぜ?{p}{end}
+EN: Well, you never know how a match'll go until it starts. It might go better than you think.{p}{end}
+
+## MBMS11 g0 s0106
+JP: すごいじゃないか、{v3:5}!{p}{end}
+EN: That was amazing, {v3:5}!{p}{end}
+
+## MBMS11 g0 s0107
+JP: 予告どおりの成績を出すなんてな。{n}正直、お前の事を見直したよ。{p}
+EN: Putting up the results you called? Honestly, you've gone up in my book.{p}
+
+## MBMS11 g0 s0108
+JP: ははっ、なんだか照れるな。{p}
+EN: Haha, that's kinda embarrassing.{p}
+
+## MBMS11 g0 s0109
+JP: もっと胸を張っていいんだぜ。{n}お前は、それに見合うだけの成績を{n}出してるんだからな。{p}{end}
+EN: Hold your head high. Your results earned it.{p}{end}
+
+## MBMS11 g0 s0110
+JP: この調子なら、{n}来年のサッカー部の予算は{n}心配なさそうだな。{p}{end}
+EN: At this rate, the soccer club won't have to worry about next year's budget.{p}{end}
+
+## MBMS11 g0 s0111
+JP: （俺の活躍もあって、サッカー部の予算は{n}{sp}確保できたみたいだ。{n}{sp}ロベルトも終始ご機嫌だったし、{n}{sp}ホントによかったな。）{p}
+EN: (Thanks partly to me, the soccer club's budget looks secure. Roberto was in a great mood the whole time. I'm really glad.){p}
+
+## MBMS11 g0 s0113
+JP: よう、お疲れだったな。{n}あまり自信なさそうにしていたわりには{n}すごい成績じゃないか。驚いたよ。{p}
+EN: Hey, good work out there. For someone who didn't sound confident, those are great results. I'm impressed.{p}
+
+## MBMS11 g0 s0114
+JP: いや、ホントに偶然なんだよ。{n}たまたまさ。{p}
+EN: No, it was really a fluke. Just luck.{p}
+
+## MBMS11 g0 s0115
+JP: 謙遜か?{n}「能ある鷹は爪を隠す」っていうしな。{n}まったく、食えないヤツだぜ。{p}{end}
+EN: Being modest? Like they say, "the clever hawk hides its claws." You're a sly one.{p}{end}
+
+## MBMS11 g0 s0116
+JP: かんべんしてくれよ、ロベルト。{n}ホントにそんなんじゃないんだって。{p}
+EN: Give me a break, Roberto. It's really not like that.{p}
+
+## MBMS11 g0 s0117
+JP: まあ、ともかくお前のおかげで{n}サッカー部の予算の心配は{n}しないですみそうだぜ。{p}
+EN: Well, anyway, thanks to you the soccer club won't have to worry about its budget.{p}
+
+## MBMS11 g0 s0118
+JP: （なんとかサッカー部の予算は{n}{sp}確保できたみたいだ。{n}{sp}ロベルトも終始ご機嫌だったし{n}{sp}ホントによかったな。）{p}
+EN: (Looks like the soccer club's budget is safe. Roberto was in a great mood the whole time. I'm really glad.){p}
+
+## MBMS11 g0 s0120
+JP: おいおい、{n}全然自信がないなんて言って、{n}謙遜もそこまでいけばイヤミだぜ。{p}
+EN: Come on, saying you had zero confidence? Modesty that extreme is just rubbing it in.{p}
+
+## MBMS11 g0 s0121
+JP: そ、そんなつもりはなかったんだよ、{n}ロベルト。{p}
+EN: I-I didn't mean it like that, Roberto.{p}
+
+## MBMS11 g0 s0122
+JP: でもまあ、お前のおかげで{n}サッカー部の予算の方は{n}問題なさそうだしな。{p}
+EN: Well, thanks to you, the soccer club's budget should be fine.{p}
+
+## MBMS11 g0 s0124
+JP: （なんとかサッカー部の予算は{n}{sp}確保できたみたいだ。{n}{sp}あとは、ロベルトの機嫌さえ{n}{sp}直ってくれればいいんだけどな…。）{p}{end}
+EN: (Looks like the soccer club's budget is safe. Now if only Roberto would cheer up...){p}{end}
+
+## MBMS11 g0 s0128
+JP: そうか。{n}まあ、そこそこの成績だったみたいだから{n}別に問題ないだろう。{p}
+EN: I see. Well, you did okay, so there's no real problem.{p}
+
+## MBMS11 g0 s0129
+JP: この分なら、なんとか今年と同じくらいの{n}予算は確保できるみたいだぜ。{p}{end}
+EN: At this rate, we should keep about the same budget as this year.{p}{end}
+
+## MBMS11 g0 s0130
+JP: （結局、サッカー部はなんとか予算の確保が{n}{sp}できたみたいだ。思ったほどの成績は{n}{sp}出せなかったけど、結果オーライだな。）{p}{end}
+EN: (In the end, the soccer club managed to keep its budget. I didn't do as well as I'd hoped, but all's well that ends well.){p}{end}
+
+## MBMS11 g0 s0132
+JP: まあ、こんなもんじゃないのか?{p}
+EN: Well, isn't that about what you expected?{p}
+
+## MBMS11 g0 s0133
+JP: 俺としては、{n}満足いく成績じゃないんだけどね。{p}
+EN: It's not a result I'm happy with, though.{p}
+
+## MBMS11 g0 s0134
+JP: だが、ある意味りっぱだぜ。{n}要するに、お前は自分の実力を{n}冷静に分析できてるってことだろ?{p}
+EN: But in a way, that's admirable. It means you can size up your own skill calmly, right?{p}
+
+## MBMS11 g0 s0135
+JP: でかい口たたいておきながら、{n}結果が散々ってのよりは{n}全然まだましだと思うぜ。{p}
+EN: That's way better than talking big and then bombing.{p}
+
+## MBMS11 g0 s0137
+JP: それにこの分なら、なんとか今年と同じ{n}くらいの予算は確保できるみたいだし、{n}心配はいらないよ。{p}
+EN: Besides, at this rate we should keep about the same budget as this year. No need to worry.{p}
+
+## MBMS11 g0 s0138
+JP: （結局、サッカー部はなんとか予算の確保が{n}{sp}できたみたいだ。よかった、よかった。）{p}
+EN: (In the end, the soccer club managed to keep its budget. Phew, what a relief.){p}
+
+## MBMS11 g0 s0140
+JP: なんだよ、{v3:5}。{n}言ってたよりも{n}調子良かったじゃないか。{p}
+EN: What's this, {v3:5}? You did better than you said you would.{p}
+
+## MBMS11 g0 s0143
+JP: そんなわけないだろ。{n}自信があったら、あるって{n}素直に言うよ。{p}
+EN: No way. If I were confident, I'd just say so.{p}
+
+## MBMS11 g0 s0145
+JP: （結局、サッカー部はなんとか{n}{sp}予算の確保ができたみたいだ。{n}{sp}よかった、よかった。）{p}
+EN: (In the end, the soccer club managed to keep its budget. Phew, what a relief.){p}
+
+## MBMS11 g0 s0149
+JP: まったく、お粗末だったな。{p}
+EN: Man, that was pathetic.{p}
+
+## MBMS11 g0 s0153
+JP: （結局、サッカー部の来年の予算は、{n}{sp}今年にくらべて20%も{n}{sp}減らされてしまったらしい。{n}{sp}うう、俺のせいかも。）{p}{end}
+EN: (In the end, the soccer club's budget for next year got cut by a whole 20%. Ugh, that might be my fault.){p}{end}
+
+## MBMS11 g0 s0155
+JP: それにしても、{n}かなりひどい成績だったな。{n}お前、手を抜いてたんじゃないのか?{p}
+EN: Still, that was a pretty awful showing. Were you slacking off out there?{p}
+
+## MBMS11 g0 s0157
+JP: スマン。{n}ちょっといいすぎたな。{p}{end}
+EN: Sorry. I went a little too far.{p}{end}
+
+## MBMS11 g0 s0158
+JP: だが、この調子じゃ、{n}来年の予算、やばいかもな…。{p}
+EN: But at this rate, next year's budget might be in trouble...{p}
+
+## MBMS11 g0 s0159
+JP: （結局、サッカー部の来年の予算は、{n}{sp}今年にくらべて{n}{sp}20%も減らされてしまったらしい。{n}{sp}うう、俺のせいかも。）{p}{end}
+EN: (In the end, the soccer club's budget for next year got cut by a whole 20%. Ugh, that might be my fault.){p}{end}
+
+## MBMS11 g0 s0161
+JP: まあ、お前の実力じゃ{n}こんなもんだよな?{p}{end}
+EN: Well, that's about what you're good for, right?{p}{end}
+
+## MBMS11 g0 s0164
+JP: でかい口たたいておきながら、{n}結果が散々ってのよりは{n}まだましだと思うぜ。{p}
+EN: That's still better than talking big and then bombing.{p}
+
+## MBMS11 g0 s0166
+JP: でも、この調子じゃ{n}来年の予算はやばいかもしれないな…。{p}{end}
+EN: But at this rate, next year's budget might be in trouble...{p}{end}
+
+## MBMS11 g0 s0169
+JP: {v7:4}じゃない。{n}そういえば、アンタもサービス合戦に{n}出るんだったね。{p}{end}
+EN: Oh, it's {v7:4}. Right, you're in the serve contest too.{p}{end}
+
+## MBMS11 g0 s0170
+JP: バレー部の来年の予算がかかってるから、{n}負けられないよな。{p}
+EN: The volleyball club's budget for next year is on the line. We can't afford to lose.{p}
+
+## MBMS11 g0 s0171
+JP: そうだね。{n}でも、正直なところ自信はどうなの?{p}
+EN: Right. But honestly, how confident are you?{p}
+
+## MBMS11 g0 s0174
+JP: へぇ、頼もしいじゃない。{n}期待してるわよ!{p}
+EN: Ooh, that's reassuring. I'm counting on you!{p}
+
+## MBMS11 g0 s0175
+JP: ま、お互い肩の力抜いて行きましょ。{p}
+EN: Well, let's both loosen up out there.{p}
+
+## MBMS11 g0 s0176
+JP: 大丈夫。{n}ボールをよく見て、{n}決して最後まであきらめなければね。{p}{end}
+EN: You'll be fine. Just watch the ball and never give up till the end.{p}{end}
+
+## MBMS11 g0 s0177
+JP: すごいじゃない、{v7:4}!{p}
+EN: That was amazing, {v7:4}!{p}
+
+## MBMS11 g0 s0178
+JP: 予告どおりの成績を出すなんて、{n}なかなかできることじゃないわよ。{p}{end}
+EN: Putting up the results you called? Not many people can pull that off.{p}{end}
+
+## MBMS11 g0 s0180
+JP: もっと胸を張ってもいいんじゃない?{n}アンタは、それに見合うだけの{n}成績を出してるんだからさ。{p}{end}
+EN: You should be prouder, you know. Your results earned it.{p}{end}
+
+## MBMS11 g0 s0181
+JP: この調子なら、{n}来年のバレー部の予算は{n}心配なさそうだね。{p}
+EN: At this rate, the volleyball club won't have to worry about next year's budget.{p}
+
+## MBMS11 g0 s0182
+JP: （俺の活躍もあって、バレー部の予算は{n}{sp}確保できたみたいだ。{n}{sp}夏も終始ご機嫌だったし、{n}{sp}ホントによかったな。）{p}
+EN: (Thanks partly to me, the volleyball club's budget looks secure. Natsu was in a great mood the whole time. I'm really glad.){p}
+
+## MBMS11 g0 s0184
+JP: お疲れさま。{n}あまり自信なさそうにしていたわりには{n}すごい成績じゃない。驚いたわ。{p}
+EN: Good work out there. For someone who didn't sound confident, those are great results. I'm impressed.{p}
+
+## MBMS11 g0 s0186
+JP: 謙遜なんてめずらしいわね。{n}いつもなら、{n}テングになってるところなのに。{p}{end}
+EN: Modest? That's rare for you. Usually you'd have a big head by now.{p}{end}
+
+## MBMS11 g0 s0187
+JP: かんべんしてくれよ、夏。{n}ホントにそんなんじゃないんだって。{p}{end}
+EN: Give me a break, Natsu. It's really not like that.{p}{end}
+
+## MBMS11 g0 s0188
+JP: まあ、ともかくアンタのおかげで{n}バレー部の予算の心配は{n}しないですみそうだね。{p}
+EN: Well, anyway, thanks to you the volleyball club won't have to worry about its budget.{p}
+
+## MBMS11 g0 s0189
+JP: （なんとかバレー部の予算は{n}{sp}確保できたみたいだ。{n}{sp}夏も終始ご機嫌だったし{n}{sp}ホントによかったな。）{p}
+EN: (Looks like the volleyball club's budget is safe. Natsu was in a great mood the whole time. I'm really glad.){p}
+
+## MBMS11 g0 s0191
+JP: 全然自信がないなんて言って、{n}謙遜も度が過ぎるとイヤミだよ。{p}{end}
+EN: Saying you had zero confidence? Modesty that extreme is just rubbing it in.{p}{end}
+
+## MBMS11 g0 s0192
+JP: そ、そんなつもりはなかったんだよ、夏。{p}
+EN: I-I didn't mean it like that, Natsu.{p}
+
+## MBMS11 g0 s0193
+JP: でもまあ、アンタのおかげでバレー部の{n}予算の方は問題なさそうだしね。{p}{end}
+EN: Well, thanks to you, the volleyball club's budget should be fine.{p}{end}
+
+## MBMS11 g0 s0194
+JP: （なんとかバレー部の予算は確保できた{n}{sp}みたいだ。これで一安心だな。）{p}
+EN: (Looks like the volleyball club's budget is safe. That's a load off my mind.){p}
+
+## MBMS11 g0 s0196
+JP: {v7:4}、調子でも悪かったの?{p}
+EN: {v7:4}, were you off your game?{p}
+
+## MBMS11 g0 s0198
+JP: そう。{n}でも、そこそこの成績だったみたいだから{n}別に問題ないんじゃない?{p}{end}
+EN: I see. Well, you did okay, so there's no real problem, right?{p}{end}
+
+## MBMS11 g0 s0199
+JP: この分なら、{n}なんとか今年と同じくらいの{n}予算は確保できるみたいだしね。{p}{end}
+EN: At this rate, we should keep about the same budget as this year.{p}{end}
+
+## MBMS11 g0 s0200
+JP: （結局、バレー部はなんとか{n}{sp}予算の確保ができたみたいだ。{n}{sp}思ったほどの成績は出せなかったけど、{n}{sp}結果オーライだな。）{p}
+EN: (In the end, the volleyball club managed to keep its budget. I didn't do as well as I'd hoped, but all's well that ends well.){p}
+
+## MBMS11 g0 s0202
+JP: まあ、こんなもんなんじゃない?{p}
+EN: Well, isn't that about what you expected?{p}
+
+## MBMS11 g0 s0204
+JP: ある意味立派だと思うわよ。{n}要するに、アンタは{n}自分の実力を冷静に分析できてたって{n}ことだからね。{p}
+EN: I think that's admirable in a way. It means you sized up your own skill calmly.{p}
+
+## MBMS11 g0 s0205
+JP: でかい口たたいておいて、{n}結果が散々ってのよりは全然いいわよ。{p}
+EN: That's way better than talking big and then bombing.{p}
+
+## MBMS11 g0 s0207
+JP: それに、この分なら{n}なんとか今年と同じくらいの予算は{n}確保できるみたいだし、{n}心配はいらないよ。{p}{end}
+EN: Besides, at this rate we should keep about the same budget as this year. No need to worry.{p}{end}
+
+## MBMS11 g0 s0208
+JP: （結局、バレー部はなんとか{n}{sp}予算の確保ができたみたいだ。{n}{sp}よかった、よかった。）{p}{end}
+EN: (In the end, the volleyball club managed to keep its budget. Phew, what a relief.){p}{end}
+
+## MBMS11 g0 s0210
+JP: {v7:4}、自分で言ってたよりも{n}調子良かったんじゃない?{p}{end}
+EN: {v7:4}, didn't you do better than you said you would?{p}{end}
+
+## MBMS11 g0 s0212
+JP: ひょっとして、謙遜してたの?{p}{end}
+EN: Were you being modest, by any chance?{p}{end}
+
+## MBMS11 g0 s0213
+JP: そんなわけないだろ。{n}自信があったら、あるって素直に言うよ。{p}{end}
+EN: No way. If I were confident, I'd just say so.{p}{end}
+
+## MBMS11 g0 s0214
+JP: まあともかく、{n}この分なら今年と同じくらいの予算は{n}確保できるみたいだよ。{p}
+EN: Well, anyway, at this rate we should keep about the same budget as this year.{p}
+
+## MBMS11 g0 s0219
+JP: まったく、お粗末だったね。{p}
+EN: Geez, that was pathetic.{p}
+
+## MBMS11 g0 s0221
+JP: この調子じゃ、{n}来年の予算、やばいかもね…。{p}{end}
+EN: At this rate, next year's budget might be in trouble...{p}{end}
+
+## MBMS11 g0 s0223
+JP: （結局、バレー部の来年の予算は、{n}{sp}今年にくらべて20%も{n}{sp}減らされてしまったらしい。{n}{sp}うう、俺のせいかも。）{p}
+EN: (In the end, the volleyball club's budget for next year got cut by a whole 20%. Ugh, that might be my fault.){p}
+
+## MBMS11 g0 s0225
+JP: それにしても、かなりひどい成績だったね。{n}アンタ、手を抜いてたんじゃないの?{p}{end}
+EN: Still, that was a pretty awful showing. Were you slacking off out there?{p}{end}
+
+## MBMS11 g0 s0227
+JP: ごめん、ちょっといいすぎた。{p}{end}
+EN: Sorry, I went a little too far.{p}{end}
+
+## MBMS11 g0 s0228
+JP: でも、この調子じゃ、{n}来年の予算、やばいかもね…。{p}
+EN: But at this rate, next year's budget might be in trouble...{p}
+
+## MBMS11 g0 s0229
+JP: （結局、バレー部の来年の予算は、{n}{sp}今年にくらべて{n}{sp}20%も減らされてしまったらしい。{n}{sp}うう、俺のせいかも。）{p}
+EN: (In the end, the volleyball club's budget for next year got cut by a whole 20%. Ugh, that might be my fault.){p}
+
+## MBMS11 g0 s0231
+JP: まあ、アンタの実力じゃ{n}こんなもんかもね。{p}
+EN: Well, maybe that's about what you're good for.{p}
+
+## MBMS11 g0 s0232
+JP: う…、ご、ごめん。{p}
+EN: Ugh... S-sorry.{p}
+
+## MBMS11 g0 s0233
+JP: まあまあ、そう落ち込むことないよ。{n}要するに、アンタは自分の実力を{n}冷静に分析できてるってことでしょ?{p}
+EN: Come on, don't get so down. It means you can size up your own skill calmly, right?{p}
+
+## MBMS11 g0 s0234
+JP: 自分の力がわかってるなら、{n}きっと上達も早いはずだよ。{p}
+EN: If you know your own ability, you're sure to improve fast.{p}
+
+## MBMS11 g0 s0236
+JP: でも、この調子じゃ来年の予算は{n}やばいかもしれないね…。{p}{end}
+EN: But at this rate, next year's budget might be in trouble...{p}{end}
+
+## MBMS11 g0 s0239
+JP: 教室には何人かの生徒が、{n}しゃべったり遊んだりしている。{n}もう少し、ブラブラするかな……。{p}
+EN: A few students are in the classroom, chatting and goofing around. Maybe I'll hang around a bit longer...{p}
+
+## MBMS11 g0 s0240
+JP: 「あ、いたいた!!」{p}{end}
+EN: "Oh, there you are!!"{p}{end}
+
+## MBMS11 g0 s0241
+JP: ひなたがパタパタと教室に入ってきた。{p}{end}
+EN: Hinata comes pattering into the classroom.{p}{end}
+
+## MBMS11 g0 s0242
+JP: ねぇ{v7:1}!{n}調理実習でケーキ作ったんだ!{n}食べてみてよ!!{p}
+EN: Hey, {v7:1}! I made a cake in cooking class! Try some!!{p}
+
+## MBMS11 g0 s0243
+JP: （う…ひなたの差し出す皿には、{n}{sp}確かにケーキらしきモノがのっているが…{n}{sp}どう見ても美味しそうにはみえない。）{p}{end}
+EN: (Ugh... There's definitely something cake-like on the plate she's holding out... but it does not look tasty at all.){p}{end}
+
+## MBMS11 g0 s0244
+JP: （しかしひなたの顔見てると、{n}{sp}逃げるわけにもいかないなぁ…）{p}
+EN: (But with that look on her face, I can't exactly run away...){p}
+
+## MBMS11 g0 s0245
+JP: 食べてみる{n}ここは退散する{p}
+EN: Try it{n}Make a run for it{p}
+
+## MBMS11 g0 s0246
+JP: あ、ああ、ちょっと今日は腹の調子が{n}悪いんだ!{n}また今度にしてくれるかな…。{n}ゴメン!{sp}じゃあな!!{p}{end}
+EN: Uh, um, my stomach's acting up today! Can we do this another time...? Sorry! See ya!!{p}{end}
+
+## MBMS11 g0 s0247
+JP: あ、ちょっと!{n}{v7:1}～!!{n}逃げるのぉ!?{p}
+EN: Hey, wait! {v7:1}～!! You're running away!?{p}
+
+## MBMS11 g0 s0248
+JP: ……{n}悪いけど、さすがにアレは{n}食えないよな…。{n}さて、どこに行こうか?{p}{end}
+EN: ...Sorry, but there's no way I could eat that... Now, where should I go?{p}{end}
+
+## MBMS11 g0 s0249
+JP: う…じゃあもらってみようかな…。{n}これでいいかな…。{p}{end}
+EN: Uh... Guess I'll try some, then... This piece okay?{p}{end}
+
+## MBMS11 g0 s0250
+JP: パク………モグモグモグ……{p}
+EN: Chomp... munch munch munch...{p}
+
+## MBMS11 g0 s0251
+JP: （う…これは……なんとも…{n}{sp}コトバにはできない味だ…。{n}{sp}正直にいうと……マズイ。）{p}
+EN: (Ugh... This is... a taste beyond words... Honestly... it's awful.){p}
+
+## MBMS11 g0 s0252
+JP: あ、{v7:4}!{n}こんなところにいたんだ。{n}あ、ひなのケーキ、食べてるんだね。{n}アタシのも食べてみてよ!{p}
+EN: Oh, {v7:4}! So this is where you were. Oh, you're eating Hina's cake. Try mine too!{p}
+
+## MBMS11 g0 s0253
+JP: （こっちは間違いなくケーキだ。{n}{sp}それもかなり美味しそう…。{n}{sp}口直しにはピッタリかも…）{p}
+EN: (This one is definitely a cake. And it looks really good... Perfect for getting rid of the aftertaste...){p}
+
+## MBMS11 g0 s0254
+JP: じゃ、さっそく……{n}パク………モグモグモグ……{p}
+EN: Okay, here goes... Chomp... munch munch munch...{p}
+
+## MBMS11 g0 s0255
+JP: （おおっ!{sp}さすが夏!!{n}{sp}美味い!!{sp}これならそのままケーキ屋に{n}{sp}だせるぞ!!）{p}{end}
+EN: (Whoa! That's Natsu for you!! Delicious!! She could sell this in a bakery as is!!){p}{end}
+
+## MBMS11 g0 s0256
+JP: あ、夏ずるいよ～{n}夏の方が美味しいに決まってるじゃん!!{n}夏はいつもケーキ作ってるもん。{p}{end}
+EN: Aw, Natsu, no fair～ Of course yours tastes better!! You bake cakes all the time.{p}{end}
+
+## MBMS11 g0 s0257
+JP: そうとも限らないじゃない。{n}ひなのケーキも自信作だから、{n}{v7:4}に食べて{n}もらおうと思ったんじゃないの?{p}
+EN: Not necessarily. You're proud of yours too, Hina. Isn't that why you wanted {v7:4} to try it?{p}
+
+## MBMS11 g0 s0258
+JP: そうだけど……{n}ねぇ、正直にいって?{n}どっちのケーキが美味しかった?{p}{end}
+EN: Well, yeah... Hey, be honest, okay? Which cake tasted better?{p}{end}
+
+## MBMS11 g0 s0259
+JP: やっぱり夏かな{n}ひなたの方がおいしかったよ{n}どっちも美味しかったよ{p}
+EN: Natsu's, I guess{n}Yours was better, Hinata{n}They were both good{p}
+
+## MBMS11 g0 s0260
+JP: やっぱり、夏の方が美味しかったかな。{n}見た目もよかったしね。{p}{end}
+EN: Gotta say, Natsu's tasted better. It looked nicer too.{p}{end}
+
+## MBMS11 g0 s0261
+JP: やっぱり～。{n}そうよね、私ほとんどケーキなんて{n}焼かないもん…。{p}{end}
+EN: I knew it～. Yeah, I hardly ever bake cakes...{p}{end}
+
+## MBMS11 g0 s0262
+JP: {v7:1}、{n}ムリして食べなくていいよ。{n}私が食べるから…。{p}
+EN: {v7:1}, you don't have to force yourself to eat it. I'll eat it...{p}
+
+## MBMS11 g0 s0263
+JP: アリガトね、{v7:4}。{n}でもひなには{n}ちょっと悪いことしちゃったかな?{p}
+EN: Thanks, {v7:4}. But maybe we were a little mean to Hina?{p}
+
+## MBMS11 g0 s0264
+JP: （とはいえ…、あんなケーキ食べさせる{n}{sp}のも十分悪いことだと思うんだけどな…）{p}
+EN: (Then again... making someone eat that cake is pretty mean too...){p}
+
+## MBMS11 g0 s0265
+JP: ひなたの方が美味しかったよ。{p}{end}
+EN: Yours tasted better, Hinata.{p}{end}
+
+## MBMS11 g0 s0266
+JP: ヤッターーー!!{sp}ねぇ、ホント?{n}私も一口もらっていいかな?{n}{v7:1}にあげようと{n}思って一口も食べてないんだ!{p}{end}
+EN: Yaaay!! Really? Can I have a bite too? I saved it all for you, {v7:1}, so I haven't had a single bite!{p}{end}
+
+## MBMS11 g0 s0267
+JP: ま、待った!{sp}ひなた!!{n}これは俺が全部もらうよ。{n}せっかくひなたからもらったのに{n}悪いじゃないか。{p}{end}
+EN: W-wait! Hinata!! I'll take all of it. It'd be rude after you gave it to me.{p}{end}
+
+## MBMS11 g0 s0268
+JP: そんなことないよー。{n}私が作ったんだしー。{p}
+EN: That's not true～. I made it, after all～.{p}
+
+## MBMS11 g0 s0269
+JP: とにかく!!{n}これは俺が全部もらう!{n}いいね?{p}
+EN: Anyway!! I'm taking all of it! Got it?{p}
+
+## MBMS11 g0 s0270
+JP: {col:0}『ケーキらしきモノ』{col:-}をもらった!!{p}
+EN: Got the {col:0}"Cake-Like Thing"{col:-}!!{p}
+
+## MBMS11 g0 s0271
+JP: {v7:4}……。{n}優しいのね……。{p}{end}
+EN: {v7:4}... That's sweet of you...{p}{end}
+
+## MBMS11 g0 s0272
+JP: ふーん、残念～。{p}{end}
+EN: Hmph, too bad～.{p}{end}
+
+## MBMS11 g0 s0273
+JP: どっちも美味しかったよ。{n}ありがとう!{p}
+EN: They were both good. Thanks!{p}
+
+## MBMS11 g0 s0274
+JP: {v7:1}……{n}ムリしてない?{n}美味しくなければ、美味しくないって{n}いってくれていいんだよ?{p}
+EN: {v7:1}... You're not forcing yourself? If it's bad, you can just say so, you know?{p}
+
+## MBMS11 g0 s0275
+JP: そんなことないって。{n}どっちも美味しかったよ。{p}
+EN: No, really. They were both good.{p}
+
+## MBMS11 g0 s0276
+JP: {v7:4}……{n}優しいんだね。{p}{end}
+EN: {v7:4}... You're sweet.{p}{end}
+
+## MBMS11 g0 s0277
+JP: ところでひなた、{n}ひなたはこのケーキ食べたの?{p}
+EN: By the way, Hinata, did you eat any of this cake?{p}
+
+## MBMS11 g0 s0278
+JP: ううん!{n}{v7:1}に食べてもらおうと思って{n}取っておいたんだ!{p}
+EN: Nope! I saved it so you could have it, {v7:1}!{p}
+
+## MBMS11 g0 s0279
+JP: （そりゃそうか……{n}{sp}自分で食べてたら、{n}{sp}人には勧めないよな…）{p}
+EN: (Figures... If she'd tasted it herself, she'd never offer it to anyone...){p}
+
+## MBMS11 g0 s0280
+JP: 「おい!!{n}{sp}いいかげんにしろってのが{n}{sp}わかんねぇのか!?」{p}
+EN: "Hey!! Don't you get it when I say knock it off!?"{p}
+
+## MBMS11 g0 s0281
+JP: あれ、屋上で何か騒ぎが起こっているぞ。{n}あの声は……バツだな。{p}
+EN: Huh, there's some kind of commotion on the roof. That voice... it's Batsu.{p}
+
+## MBMS11 g0 s0282
+JP: オレはなぁ、{n}そういうネチネチしたイジメが{n}大キライなんだよ!!{n}いいかげんにその手を放しやがれ!!{p}{end}
+EN: Listen up! I can't stand that kind of slimy bullying!! Get your hands off him already!!{p}{end}
+
+## MBMS11 g0 s0283
+JP: （見ると、5～6人の男子生徒が一人の{n}{sp}生徒を囲んで何かしているようだ…。{n}{sp}バツのいうとおり、イジメなのか?）{p}{end}
+EN: (Looks like five or six guys have a student surrounded... Is Batsu right? Is this bullying?){p}{end}
+
+## MBMS11 g0 s0284
+JP: {col:3}一般生徒{col:-}{n}「なんだぁ!?{sp}なんか文句あんのかよ!?{n}{sp}俺達はな、コイツと遊んでやってんだよ!{n}{sp}なぁっ!!」{p}{end}
+EN: {col:3}Student{col:-}{n}"Huh!? You got a problem!? We're just playin' with him! Right!!"{p}{end}
+
+## MBMS11 g0 s0285
+JP: お・ま・え・ら・なぁぁぁ!!{n}オレをこれ以上怒らせるなよぉ!!{p}
+EN: You. Guys. Are. Askin' for it!! Don't make me any madder!!{p}
+
+## MBMS11 g0 s0286
+JP: （なんかモメてるな。{n}{sp}バツは今にも飛び掛かりそうな勢いだ…{n}{sp}いくらバツでも6人相手じゃ、{n}{sp}分が悪いんじゃないのか?）{p}
+EN: (They're arguing. Batsu looks ready to jump them any second... Even Batsu's gonna have it rough against six guys, right?){p}
+
+## MBMS11 g0 s0287
+JP: バツに加勢する{n}バツを止める{n}関わらない{p}{end}
+EN: Back Batsu up{n}Stop Batsu{n}Stay out of it{p}{end}
+
+## MBMS11 g0 s0288
+JP: バツに加勢する{n}バツを止める{p}{end}
+EN: Back Batsu up{n}Stop Batsu{p}{end}
+
+## MBMS11 g0 s0289
+JP: うかつに関わると、痛い目にあいそうだ…。{n}ここは逃げた方がいいな…。{n}……{n}さてどこに行こうか?{p}{end}
+EN: Getting mixed up in this could get me hurt... I'd better get out of here... ...Now, where should I go?{p}{end}
+
+## MBMS11 g0 s0290
+JP: （ここはバツに手を貸すべきだな!!）{p}{end}
+EN: (I should give Batsu a hand!!){p}{end}
+
+## MBMS11 g0 s0291
+JP: てめぇら!!{sp}覚悟しろよ!!{p}{end}
+EN: You punks!! Get ready!!{p}{end}
+
+## MBMS11 g0 s0292
+JP: {face:2}飛び出すバツ。{n}一人目にストレートをかました所を{n}二人目に横から狙われる…{face:255}{p}
+EN: {face:2}Batsu charges in. He lands a straight on the first guy, but the second one goes for him from the side...{face:255}{p}
+
+## MBMS11 g0 s0293
+JP: ……あ、あれ!?{n}誰か助けてくれたのか!?{n}あ!{sp}お前…、{v3:0}…。{p}
+EN: ...Huh!? Did someone help me out!? Ah! It's you... {v3:0}...{p}
+
+## MBMS11 g0 s0294
+JP: 手を貸すぜ!!{n}バツ!!{p}{end}
+EN: I got your back, Batsu!!{p}{end}
+
+## MBMS11 g0 s0295
+JP: よし!!{n}いくぞぉぉぉ!!{p}
+EN: Alright!! Let's gooo!!{p}
+
+## MBMS11 g0 s0297
+JP: （いじめられていた生徒は{n}{sp}俺達に礼をいって去っていった。{n}{sp}俺もバツも少しは殴られたが、{n}{sp}ほとんど楽勝だったな…）{p}
+EN: (The bullied student thanked us and left. Batsu and I took a few hits, but it was pretty much a cakewalk...){p}
+
+## MBMS11 g0 s0298
+JP: {v3:0}…、ありがとな。{n}お前がいなけりゃ、{n}もっとてこずってたぜ…{n}お前……強いな。{p}
+EN: {v3:0}... thanks. Without you I'd have had a harder time... You're... tough.{p}
+
+## MBMS11 g0 s0299
+JP: （バツを止めないと!!）{p}{end}
+EN: (I've gotta stop Batsu!!){p}{end}
+
+## MBMS11 g0 s0301
+JP: 待て!!{sp}バツ!!{n}やめろって!!{p}
+EN: Wait!! Batsu!! Knock it off!!{p}
+
+## MBMS11 g0 s0302
+JP: !?……お前、{v3:0}…。{n}グッ!!{p}{end}
+EN: !? ...You, {v3:0}... Ugh!!{p}{end}
+
+## MBMS11 g0 s0303
+JP: （こっちに気を取られたスキに{n}{sp}バツが一発食らった!!{n}{sp}ちぃ!{sp}こうなったら仕方ないか!!）{p}
+EN: (Batsu got hit while I had him distracted!! Dang! Guess there's no choice now!!){p}
+
+## MBMS11 g0 s0305
+JP: （いじめられていた生徒は{n}{sp}俺達に礼をいって去っていった。{n}{sp}なんとか勝ったものの、{n}{sp}バツも俺もかなり苦戦した。）{p}{end}
+EN: (The bullied student thanked us and left. We managed to win, but Batsu and I had a really tough time.){p}{end}
+
+## MBMS11 g0 s0306
+JP: 礼はいわないぜ、{v3:0}。{n}俺一人でも勝てたんだからな…。{p}
+EN: I ain't thanking you, {v3:0}. I could've won on my own...{p}
+
+## MBMS11 g0 s0307
+JP: バツ……なんでケンカなんて……。{p}{end}
+EN: Batsu... why'd you even pick a fight...{p}{end}
+
+## MBMS11 g0 s0308
+JP: オレはさ、あんなイジメをみてると{n}ムカつくんだ。{n}ついカッとなってさ…。{p}{end}
+EN: Seeing bullying like that just ticks me off. I lost my temper...{p}{end}
+
+## MBMS11 g0 s0309
+JP: （このまっすぐな所が{n}{sp}バツのいいトコロだ…{n}{sp}ちょっとケンカっぱやいけどな。）{p}{end}
+EN: (That straightforwardness is Batsu's good side... Though he's a little quick to fight.){p}{end}
+
+## MBMS11 g0 s0310
+JP: {v3:0}……。{n}ありがとな……。{p}{end}
+EN: {v3:0}... Thanks...{p}{end}
+
+## MBMS11 g0 s0311
+JP: 体育館には…誰もいない……。{n}しかたない、戻るか…{n}お、向こうから恭介がやってきた。{n}もう帰るところかな。{p}
+EN: There's... nobody in the gym... Oh well, guess I'll head back... Oh, here comes Kyosuke. Maybe he's going home.{p}
+
+## MBMS11 g0 s0312
+JP: 一緒に帰ろうと誘う{n}見送る{p}
+EN: Ask to walk home together{n}See him off{p}
+
+## MBMS11 g0 s0313
+JP: よぉ、恭介。{n}今から帰りか?{n}じゃあ、また明日な。{p}
+EN: Hey, Kyosuke. Heading home? See you tomorrow, then.{p}
+
+## MBMS11 g0 s0314
+JP: 恭介はちょっと挨拶して{n}そのまま去っていった。{n}さて、俺も別のところに行ってみようか。{p}
+EN: Kyosuke said a quick goodbye and left. Well, I'll try going somewhere else.{p}
+
+## MBMS11 g0 s0315
+JP: よぉ、恭介。{n}今から帰りか?{n}一緒に帰らないか?{p}{end}
+EN: Hey, Kyosuke. Heading home? Want to walk together?{p}{end}
+
+## MBMS11 g0 s0316
+JP: ああ、{v5:2}か。{n}いいとも、一緒に帰ろう。{p}{end}
+EN: Ah, {v5:2}. Sure, let's walk together.{p}{end}
+
+## MBMS11 g0 s0317
+JP: どうだ、最近は?{n}風紀委員の仕事、忙しいか?{p}{end}
+EN: So how's it going lately? Busy with committee work?{p}{end}
+
+## MBMS11 g0 s0318
+JP: ああ、そうだな。{n}この仕事は年中無休だからな。{n}なかなかヒマにはならんよ。{p}
+EN: Yes, I suppose. This job never takes a day off. I rarely get any free time.{p}
+
+## MBMS11 g0 s0319
+JP: 今日も教室で授業中にマンガを読んでいる{n}生徒がいたんで、風紀委員として{n}注意したんだが……、なんで授業に{n}集中できないのか、僕には理解できんな。{p}{end}
+EN: Today a student was reading manga in class, so I warned him as a committee member... I can't understand why people can't focus in class.{p}{end}
+
+## MBMS11 g0 s0320
+JP: まさか君は授業中に、{n}マンガを読んではいないだろうな?{p}
+EN: You don't read manga during class, I hope?{p}
+
+## MBMS11 g0 s0321
+JP: 校則違反だからな{n}勉強のさまたげになるからな{n}実はたまに読んでるんだ{p}{end}
+EN: It's against school rules{n}It gets in the way of studying{n}Actually, I sometimes do{p}{end}
+
+## MBMS11 g0 s0322
+JP: 校則違反だからな。{n}そんなことはしてないさ。{p}{end}
+EN: It's against school rules. I'd never do that.{p}{end}
+
+## MBMS11 g0 s0323
+JP: 校則違反か……。確かにそれは{n}正しいんだが、誤解しないで欲しいのは{n}校則は僕たちを縛るものではなく、{n}守るものだということだ。{p}
+EN: Against school rules... True enough, but don't misunderstand. School rules don't bind us. They protect us.{p}
+
+## MBMS11 g0 s0324
+JP: 『校則だから』と、{n}単純にしたがうのではなく{n}その規則の意味をもっと考えて欲しい。{n}風紀委員をやってると、いつも思うんだ。{p}
+EN: Rather than simply obeying "because it's the rules," I want people to think about what the rules mean. I always feel that, on the committee.{p}
+
+## MBMS11 g0 s0326
+JP: そんな調子で、結局1時間くらい{n}校則に関する話を聞かされた…。{n}俺は授業中にマンガなんて{n}読んでないのになぁ。{p}
+EN: And so I ended up hearing about school rules for about an hour... And I don't even read manga in class.{p}
+
+## MBMS11 g0 s0327
+JP: 勉強のさまたげになるからな。{n}授業にいらないモノは持ってきてないよ。{p}{end}
+EN: It gets in the way of studying. I don't bring stuff to class that I don't need.{p}{end}
+
+## MBMS11 g0 s0328
+JP: その通りだ。{n}マンガなんていつでも読めるものだからな。{n}別にマンガが悪いといってるわけじゃない、{n}僕もたまには読む。{p}{end}
+EN: Exactly. Manga can be read anytime. I'm not saying manga is bad. I read it now and then myself.{p}{end}
+
+## MBMS11 g0 s0329
+JP: だが、授業中に読むというのは{n}感心しないな。……風紀が乱れるとか、{n}そんな理由じゃない。もっと大事なモノを{n}ムダにしてると思うんだ。{p}{end}
+EN: But reading it in class isn't admirable. ...It's not about discipline or anything like that. I think it wastes something far more important.{p}{end}
+
+## MBMS11 g0 s0331
+JP: そんな調子で、結局1時間くらい{n}マンガに関する話を聞かされた…。{n}恭介はホントに情熱をもって{n}風紀委員をやってるんだな…。{p}
+EN: And so I ended up hearing about manga for about an hour... Kyosuke really is passionate about his committee work...{p}
+
+## MBMS11 g0 s0332
+JP: いやぁ、実は俺もたまに読むんだ。{n}恭介も読むか?{n}おもしろいぜ。{p}{end}
+EN: Well, actually, I read it sometimes. Want to read some, Kyosuke? It's fun.{p}{end}
+
+## MBMS11 g0 s0333
+JP: ………そうか。{n}なんとなく予想はついていたが……{n}君を見損なったよ。{p}{end}
+EN: ...I see. I had a feeling... I'm disappointed in you.{p}{end}
+
+## MBMS11 g0 s0334
+JP: 僕が風紀委員だから言うわけじゃないが、{n}授業中にマンガを読むのは感心しないな。{n}人生の大事な部分をムダにしているとは{n}思わないか……。{p}
+EN: I'm not saying this as a committee member, but reading manga in class isn't good. Don't you think you're wasting a precious part of your life...?{p}
+
+## MBMS11 g0 s0336
+JP: そんな調子で、結局1時間くらい{n}マンガについて説教された。{n}……確かに、授業中にマンガを読むのは{n}まずいかもしれないな……。{p}{end}
+EN: And so I got lectured about manga for about an hour... I guess reading manga in class might be a bad idea...{p}{end}
+
+## MBMS11 g0 s0337
+JP: {col:3}岩{col:-}{n}「うーん、困ったのう…。」{p}
+EN: {col:3}Gan{col:-}{n}"Hmm, this is a real pickle..."{p}
+
+## MBMS11 g0 s0338
+JP: 岩の声がする…。{p}{end}
+EN: I hear Gan's voice...{p}{end}
+
+## MBMS11 g0 s0339
+JP: 声をかける{n}やめとく{p}{end}
+EN: Talk to him{n}Leave him be{p}{end}
+
+## MBMS11 g0 s0341
+JP: ねえ岩、何困ってるの?{p}
+EN: Hey, Gan, what's wrong?{p}
+
+## MBMS11 g0 s0342
+JP: それがのう、{n}放課後にとっておいた{n}『やまぶき印の特製おにぎりセット』{n}をどれから食べようか悩んでおるんじゃ。{p}
+EN: Well, y'see, I saved a "Yamabuki Brand Special Rice Ball Set" for after school, an' I can't decide which to eat first.{p}
+
+## MBMS11 g0 s0343
+JP: うん分かるよ{n}どうして?{p}{end}
+EN: Yeah, I get it{n}What's the problem?{p}{end}
+
+## MBMS11 g0 s0344
+JP: こんな重要な事がわからんのか?{n}おぬしには{n}おにぎりを語る資格は無いのう。{n}じゃあの。{p}
+EN: Ya don't get somethin' this important? Then ya ain't fit to talk rice balls. See ya.{p}
+
+## MBMS11 g0 s0345
+JP: あきれられてしまった…{n}こっちがあきれたいぐらいなのに…。{p}
+EN: He's fed up with me... When I'm the one who should be fed up...{p}
+
+## MBMS11 g0 s0346
+JP: うん分かるよ、{n}どれから食べるか迷うもんな。{p}{end}
+EN: Yeah, I get it. It's hard to pick which to eat first.{p}{end}
+
+## MBMS11 g0 s0347
+JP: ほうじゃろ!{n}おぬしならどれから食べるかのう?{p}
+EN: Ain't it, though! Which would you eat first?{p}
+
+## MBMS11 g0 s0348
+JP: うめ{n}かつお{n}明太子{n}野沢菜{p}{end}
+EN: Pickled plum{n}Bonito{n}Spicy cod roe{n}Pickled greens{p}{end}
+
+## MBMS11 g0 s0349
+JP: むむむっ!{n}やはり定番からいきおるか!{n}おぬし、なかなか分かっておるのう!{p}
+EN: Hmmm! Startin' with a classic, eh! You know your stuff!{p}
+
+## MBMS11 g0 s0350
+JP: いやあ、それほどでも…{n}（ただ好きなものを{n}{sp}言っただけなのに…。）{p}{end}
+EN: Oh, it's nothing... (I just said what I like...){p}{end}
+
+## MBMS11 g0 s0351
+JP: じゃあお礼に{n}これやるぞい!{p}{end}
+EN: Then here, this is for ya as thanks!{p}{end}
+
+## MBMS11 g0 s0352
+JP: {col:0}『三色おにぎり』{col:-}を手に入れた!{p}
+EN: Got the {col:0}"Three-Color Rice Ball"{col:-}!{p}
+
+## MBMS11 g0 s0353
+JP: ありがとう!{n}（なんか得しちゃったなあ。）{p}
+EN: Thanks! (Guess I lucked out.){p}
+
+## MBMS11 g0 s0354
+JP: むむむっ!{n}おにぎりの定番をあえてはずすとは!{n}おぬし、おにぎり革命児じゃのう!{p}{end}
+EN: Hmmm! Skippin' the classics on purpose! You're a rice ball revolutionary!{p}{end}
+
+## MBMS11 g0 s0355
+JP: いやあ、それほどでも…{n}（そんなにたいそうに{n}{sp}言わなくてもいいのに…。）{p}
+EN: Oh, it's nothing... (No need to make such a big deal of it...){p}
+
+## MBMS11 g0 s0359
+JP: さ、さむいっ!{n}さすがに屋上に来ると{n}冬が近づいてきているのを感じるなあ…。{p}{end}
+EN: B-brr, it's cold! Up on the roof, you can really feel winter coming...{p}{end}
+
+## MBMS11 g0 s0363
+JP: なんか怪しい行動に見られたかなあ。{n}さて、どこに行こうかな?{p}{end}
+EN: Did that look suspicious? Now, where should I go?{p}{end}
+
+## MBMS11 g0 s0365
+JP: わしか?{n}わしは考え事をする時は{n}いつもこの屋上にくるんでな。{p}
+EN: Me? I always come up to this roof when I need to think.{p}
+
+## MBMS11 g0 s0368
+JP: そうじゃ、今考えている事を{n}生徒から考えた意見として{n}言ってみてくれんか?{p}
+EN: Ah, yes. Would you give me a student's view on what I'm considering now?{p}
+
+## MBMS11 g0 s0369
+JP: 何についてですか?{p}
+EN: About what, sir?{p}
+
+## MBMS11 g0 s0370
+JP: 『理想の生徒』{n}というものについてだ。{p}
+EN: It concerns "the ideal student."{p}
+
+## MBMS11 g0 s0371
+JP: 『理想の生徒』?{p}{end}
+EN: "The ideal student"?{p}{end}
+
+## MBMS11 g0 s0372
+JP: そうだ、『理想の生徒』とは{n}一体何なのだろうと{n}いつも考えて悩んでいるのだ。{n}君の意見を聞かせてくれないか?{p}{end}
+EN: Yes. I'm always pondering what the ideal student truly is. Will you tell me your opinion?{p}{end}
+
+## MBMS11 g0 s0375
+JP: 『理想の生徒』とは?{p}{end}
+EN: "The ideal student" is...?{p}{end}
+
+## MBMS11 g0 s0376
+JP: 先生を信頼できる生徒のこと{n}勉強ができる生徒のこと{n}礼儀が正しくできる生徒のこと{p}{end}
+EN: One who can trust teachers{n}One who studies well{n}One with good manners{p}{end}
+
+## MBMS11 g0 s0377
+JP: なるほどな、{n}『先生を信頼できる生徒のこと』か。{n}社会はすべて信頼関係で{n}成り立っているからな…。{p}
+EN: I see, "a student who can trust teachers." All of society rests on trust...{p}
+
+## MBMS11 g0 s0378
+JP: そうか、『勉強ができる生徒のこと』か。{n}学校の本文は勉学だからな。{n}王道の答えだな。{p}{end}
+EN: I see, "a student who studies well." A student's duty is study, after all. The classic answer.{p}{end}
+
+## MBMS11 g0 s0379
+JP: 『礼儀が正しくできる生徒のこと』か。{n}確かに礼節は重んじなければいかんな。{p}
+EN: "A student with good manners." Indeed, courtesy must be respected.{p}
+
+## MBMS11 g0 s0380
+JP: 君の『理想の生徒』に対する{n}考えがよく分かったよ。{n}今後の教育方針の一つにそれを{n}入れてみるとしよう。{p}
+EN: I understand your view of the ideal student well. I'll try including it in our educational policy.{p}
+
+## MBMS11 g0 s0381
+JP: それと、お礼と言ってはなんだが、{n}これを受け取ってくれたまえ。{p}
+EN: And, as a token of thanks, please accept this.{p}
+
+## MBMS11 g0 s0382
+JP: {col:0}『忌野流護身術の本』{col:-}を手に入れた!{p}
+EN: Got the {col:0}"Imawano-Style Self-Defense Book"{col:-}!{p}
+
+## MBMS11 g0 s0383
+JP: そ、そんな!{n}僕の意見なんかが使われるなんて、{n}大変なことになってしまった…。{p}
+EN: N-no way! My opinion's actually going to be used? This got serious...{p}
+
+## MBMS11 g0 s0384
+JP: 五輪祭も間近だし…みんな練習やってるん{n}だろうな。{n}あっロベルトが何かやってるぞ!{p}
+EN: The Gorin Festival's coming up... Everyone must be practicing. Oh, Roberto's up to something!{p}
+
+## MBMS11 g0 s0385
+JP: 近よる{n}他の所へ行く{p}{end}
+EN: Go over{n}Go somewhere else{p}{end}
+
+## MBMS11 g0 s0386
+JP: よう!{v3:5}。{n}シュート練習の前に{n}ウォーミングアップしてるんだが、{n}{v3:5}も一緒にやるかい?{p}
+EN: Hey! {v3:5}. I'm warming up before shooting practice. Want to join me, {v3:5}?{p}
+
+## MBMS11 g0 s0387
+JP: よしいっちょやってみるか{n}サッカーは苦手なんでやめとくよ{p}{end}
+EN: Okay, let's give it a shot{n}I'm bad at soccer, I'll pass{p}{end}
+
+## MBMS11 g0 s0389
+JP: ボールが前にいったらヒザで{n}ボールが上にいったらアタマで{n}ボールが後ろにいったらカカトで{n}ボールを蹴るとうまくいく。{p}{end}
+EN: If the ball goes forward, use your knee. If it goes up, use your head. If it goes behind you, use your heel. Kick it like that and it works.{p}{end}
+
+## MBMS11 g0 s0394
+JP: カカト{n}アタマ{n}ヒザ{p}{end}
+EN: Heel{n}Head{n}Knee{p}{end}
+
+## MBMS11 g0 s0399
+JP: ヒザ{n}カカト{n}アタマ{p}{end}
+EN: Knee{n}Heel{n}Head{p}{end}
+
+## MBMS11 g0 s0409
+JP: ヒジ{n}ヒザ{n}ピザ{p}{end}
+EN: Elbow{n}Knee{n}Pizza{p}{end}
+
+## MBMS11 g0 s0410
+JP: なかなかうまいじゃないか。才能あるぜ!{n}コレもっていきな!{p}
+EN: Pretty good! You've got talent! Take this!{p}
+
+## MBMS11 g0 s0411
+JP: {col:0}『ブラジルのコイン』{col:-}を手に入れた。{n}あっありがとう…。{p}
+EN: Got the {col:0}"Brazilian Coin"{col:-}. Oh, thank you...{p}
+
+## MBMS11 g0 s0412
+JP: これだけうまいのなら{n}五輪祭では、サッカーやるしかないな!{n}じゃあ、これはお守りがわりだ。{n}ほれっ。{p}{end}
+EN: If you're this good, you've gotta play soccer at the Gorin Festival! Here, take this as a good-luck charm.{p}{end}
+
+## MBMS11 g0 s0416
+JP: あーあ失敗だ!{n}どこからピザなんか持ってきたんだ?{n}もっと落ち着いてやらないとダメだな…。{n}今度はもっとがんばれよ。{p}{end}
+EN: Aw, you missed! Where'd you even get a pizza? You need to calm down... Try harder next time.{p}{end}
+
+## MBMS11 g0 s0420
+JP: お、ちょうど保健室から{n}将馬が出てくるところだ。{n}指に包帯を巻いている。{n}ケガでもしたのかな。{p}
+EN: Oh, Shoma's just coming out of the infirmary. His finger's bandaged. Did he get hurt?{p}
+
+## MBMS11 g0 s0421
+JP: よぉ、将馬。{n}お前が保健室に来るなんて珍しいな。{n}ケガでもしたのか?{p}{end}
+EN: Hey, Shoma. You at the infirmary? That's rare. Get hurt?{p}{end}
+
+## MBMS11 g0 s0422
+JP: ああ、{v3:3}か。{n}ちょっと突き指しちゃってよう。{n}おかげで今日の練習は中止さ。{p}{end}
+EN: Oh, {v3:3}. Jammed my finger. So no practice for me today.{p}{end}
+
+## MBMS11 g0 s0423
+JP: ところで帰りにスポーツ用品店に{n}行こうと思ってるんだけど、{n}どうだ?{n}一緒に行かないか?{p}{end}
+EN: By the way, I'm thinkin' of hittin' the sporting goods store on the way home. How 'bout it? Wanna come?{p}{end}
+
+## MBMS11 g0 s0424
+JP: 一緒に行く{n}遠慮しておく{p}{end}
+EN: Go with him{n}No, thanks{p}{end}
+
+## MBMS11 g0 s0425
+JP: 悪いけど、今日はいいや。{n}ちょっと用事があるんだ。{n}また今度誘ってくれよ。{p}
+EN: Sorry, not today. I've got something to do. Ask me again sometime.{p}
+
+## MBMS11 g0 s0426
+JP: 将馬は帰っていった。{n}さてと、俺はこれからどこに行こうかな。{p}{end}
+EN: Shoma went home. Now, where should I go next?{p}{end}
+
+## MBMS11 g0 s0427
+JP: スポーツ用品店か、いいね。{n}行こう。{p}{end}
+EN: The sporting goods store? Sounds good. Let's go.{p}{end}
+
+## MBMS11 g0 s0428
+JP: ええと、これだこれだ。{n}欲しかったんだよなぁこのシューズ。{p}
+EN: Let's see... This is it! I've been wanting these shoes.{p}
+
+## MBMS11 g0 s0429
+JP: どうだ?{sp}かっこいいだろ?{n}お、3色色違いがあるな。{n}黒に赤に、げっピンクなんてあるのか。{n}どの色がいいかな?{p}
+EN: Whaddaya think? Cool, right? Oh, they come in three colors. Black, red, and... ugh, pink? Which color's best?{p}
+
+## MBMS11 g0 s0430
+JP: スタンダードに黒だろ{n}バットと合わせて赤かな{n}ここは一発ピンクだ!!{p}{end}
+EN: Black's the standard{n}Red, to match your bat{n}Go wild with pink!!{p}{end}
+
+## MBMS11 g0 s0431
+JP: スタンダードに黒だろ、やっぱり。{n}野球のユニフォームには黒が一番{n}映えるからな。{p}{end}
+EN: Black's the standard, obviously. Black looks best with a baseball uniform.{p}{end}
+
+## MBMS11 g0 s0432
+JP: やっぱりなぁ。{n}オイラもいつも黒だからなぁ。{n}黒にしとくかぁ、やっぱり。{p}{end}
+EN: Figured. I always go with black too. Guess I'll get black after all.{p}{end}
+
+## MBMS11 g0 s0433
+JP: バットと合わせて赤かな。{n}赤といえば、なにしろ情熱の色だからな。{p}{end}
+EN: Red, to match your bat. Red's the color of passion, after all.{p}{end}
+
+## MBMS11 g0 s0434
+JP: そういわれてみれば、そうだな!{n}バットとコーディネートするってのは{n}いい考えじゃねぇか。{n}赤にするか!!{p}{end}
+EN: Now that ya mention it, yeah! Matchin' with my bat's a great idea. Red it is!!{p}{end}
+
+## MBMS11 g0 s0435
+JP: ここは一発ピンクだ!{n}将馬にはピンクが似合うって!!{n}男ならピンクだ!!{p}{end}
+EN: Go wild with pink! Pink totally suits you, Shoma!! Real men wear pink!!{p}{end}
+
+## MBMS11 g0 s0436
+JP: おいおい…{v3:3}、{n}マジかよ…?{n}いくら何でもそれはないよな?{n}悪いけど、オイラは黒にさせてもらうわ…。{p}
+EN: Whoa, whoa... {v3:3}, you serious...? No way, right? Sorry, but I'm goin' with black...{p}
+
+## MBMS11 g0 s0437
+JP: ふぅ、買ってきたぜ。{n}悪いな、つき合わせた上に{n}見立ててもらってよ。{p}{end}
+EN: Phew, got 'em. Sorry for draggin' ya along and makin' ya pick 'em out, too.{p}{end}
+
+## MBMS11 g0 s0438
+JP: ほら、これやるよ。{p}
+EN: Here, this is for you.{p}
+
+## MBMS11 g0 s0439
+JP: {col:0}『赤のリストバンド』{col:-}を手に入れた!{p}
+EN: Got the {col:0}"Red Wristband"{col:-}!{p}
+
+## MBMS11 g0 s0440
+JP: 格闘技するんだったらあった方がいいだろ?{n}たまたま売ってたからさ……。{n}ほら、俺のシューズとおそろいだし……。{p}
+EN: If you're into martial arts, you could use one, right? They just happened to have 'em...... Besides, it matches my shoes......{p}
+
+## MBMS11 g0 s0441
+JP: ありがとよ、今日は楽しかったぜ。{n}またつき合ってくれよな!{n}じゃあな!!{p}{end}
+EN: Thanks, today was fun. Come hang out again sometime! See ya!!{p}{end}
+
+## MBMS11 g0 s0442
+JP: あっ英雄先生だ!{p}{end}
+EN: Oh, it's Hideo-sensei!{p}{end}
+
+## MBMS11 g0 s0443
+JP: 英雄センセ～!{n}他の所にいこう{p}
+EN: Hideo-sensei!{n}Go somewhere else{p}
+
+## MBMS11 g0 s0444
+JP: やっと見つけました。こんな所に{n}いらっしゃったんですか。{p}{end}
+EN: There you are, finally. So this is where you were.{p}{end}
+
+## MBMS11 g0 s0445
+JP: はいっ私ですか?{p}{end}
+EN: Yes! Me?{p}{end}
+
+## MBMS11 g0 s0446
+JP: 英雄先生に質問があるんです。{n}入学したときからずぅーっとギモンに{n}思っていたんですけど。{p}{end}
+EN: I have some questions for you, Hideo-sensei. I've been wondering about them ever since I enrolled.{p}{end}
+
+## MBMS11 g0 s0447
+JP: その肩の謎の物体はいったいなんですか?{n}空手九段って本当ですか?{n}どうして結婚しないんですか?{n}某アニメ映画監督に似ていませんか?{p}
+EN: What's that thing on your shoulder?{n}Are you really a 9th-dan in karate?{n}Why haven't you gotten married?{n}Don't you look like an anime director?{p}
+
+## MBMS11 g0 s0448
+JP: コレは名門島津流空手術有段者の証。{n}コレを付けると集中力がまして{n}実力を100%発揮することができると{n}いわれているのです。{p}{end}
+EN: This is proof of rank in the noble Shimazu-style karate. It's said that wearing it sharpens your focus, so you can use 100% of your ability.{p}{end}
+
+## MBMS11 g0 s0449
+JP: 僕もつけてみたいんですけどいいですか?{p}
+EN: Can I try wearing it too?{p}
+
+## MBMS11 g0 s0450
+JP: 島津流以外のモノが付けても{n}意味がないモノですが、{n}かまいませんか?{p}{end}
+EN: It means nothing if someone outside the Shimazu style wears it. Is that all right?{p}{end}
+
+## MBMS11 g0 s0451
+JP: いいです。ぜひお願いします。{p}{end}
+EN: That's fine. Please, I'd love to.{p}{end}
+
+## MBMS11 g0 s0452
+JP: それじゃあ。（ガシッ!ガシッ!）{n}あら付きませんねぇ??{p}{end}
+EN: Well then. (Clamp! Clamp!) Oh my, it won't stay on??{p}{end}
+
+## MBMS11 g0 s0453
+JP: つきませんって先生、付ける金具とか{n}無いんですか?{p}
+EN: It won't stay on? Sensei, isn't there a clip or something to attach it?{p}
+
+## MBMS11 g0 s0454
+JP: いえ私にはそのまま付くのですが…{n}おかしいですねぇ…。{p}
+EN: No, on me it just stays on by itself... How odd...{p}
+
+## MBMS11 g0 s0455
+JP: （やっぱり謎の物体だ!どういう仕組みで{n}{sp}くっついているのだろう??）{p}
+EN: (It really is a mystery object! How does it even stay on??){p}
+
+## MBMS11 g0 s0456
+JP: 生徒が怖がるといけないので秘密にしていた{n}のですが、どこでそれを聞いたのですか?{n}まあいいでしょう。空手九段というのは{n}本当です。なんなら、少し試してみますか?{p}{end}
+EN: I kept it secret so as not to scare the students. Where did you hear that? Well, no matter. Yes, I am a 9th-dan. Shall I show you a little?{p}{end}
+
+## MBMS11 g0 s0457
+JP: えっ、それはちょっと…。{p}{end}
+EN: Huh? Um, I'd rather not...{p}{end}
+
+## MBMS11 g0 s0458
+JP: 行きますよ!{n}「はっ!とぉっ!やぁーっ!」{p}
+EN: Here I come! "Hah! Toh! Yaaah!"{p}
+
+## MBMS11 g0 s0459
+JP: （はっ早すぎる。目で追うのがやっとだ。{n}{sp}何となく少し自分のスピードも速く{n}{sp}なったような気がする。）{p}
+EN: (Wh-whoa, he's way too fast. I can barely follow him with my eyes. Somehow I feel like I got a little faster myself.){p}
+
+## MBMS11 g0 s0460
+JP: ほっといて下さい。{n}私だってがんばってはいるんですから。{p}{end}
+EN: Please leave me alone. I am trying my best, you know.{p}{end}
+
+## MBMS11 g0 s0461
+JP: なんかきげんそこねちゃったみたいだな。{p}
+EN: Looks like I put him in a bad mood.{p}
+
+## MBMS11 g0 s0462
+JP: このあいだ駅の近くでサインして下さいと{n}いわれたのですがその人とまちがえられたの{n}でしょうか?一応「島津英雄」とサインして{n}おきましたが…。{p}{end}
+EN: The other day near the station, someone asked for my autograph. Perhaps they mistook me for that person? I signed it "Hideo Shimazu" anyway...{p}{end}
+
+## MBMS11 g0 s0463
+JP: 君にも1枚あげましょう。{p}{end}
+EN: I'll give you one too.{p}{end}
+
+## MBMS11 g0 s0464
+JP: （うわぁキツいなぁ…。）{n}{col:0}『島津英雄サイン色紙』{col:-}を手に入れた。{p}
+EN: (Oof, that's awkward...) Got the {col:0}"Hideo Shimazu Autograph"{col:-}.{p}
+
+## MBMS11 g0 s0466
+JP: なんか今日はもうくたくただぁ。{n}保健室に休みにいこうかな。{p}
+EN: I'm totally beat today. Maybe I'll go rest in the infirmary.{p}
+
+## MBMS11 g0 s0468
+JP: あらどうしたの?なんかすごく疲れた～って{n}顔してるわよ。{p}{end}
+EN: Oh my, what's wrong? You look completely worn out.{p}{end}
+
+## MBMS11 g0 s0470
+JP: じゃあちょっと先生がマッサージして{n}あげるわ{col:5}♥{col:-}{p}
+EN: Then let me give you a little massage{col:5}♥{col:-}{p}
+
+## MBMS11 g0 s0473
+JP: あ～すっきりした!なんか元気爆発って感{n}じになりました。ありがとうございました。{p}{end}
+EN: Ahh, that feels great! I'm bursting with energy now. Thank you very much.{p}{end}
+
+## MBMS11 g0 s0475
+JP: マッサージに完全燃焼アタックの練習を{n}混ぜるのはやめてほしい気はするけど、{n}本当に元気になるもんな、{n}先生のマッサージは。またこよう。{p}
+EN: I kinda wish she wouldn't mix Burning Vigor Attack practice into her massages, but they really do perk me up. I'll come again.{p}
+
+## MBMS11 g0 s0479
+JP: おめえ放課後の誰もいない教室に{n}何しに来たんだ?{n}さては…。{p}{end}
+EN: Hey, what're ya doin' in an empty classroom after school? Don't tell me...{p}{end}
+
+## MBMS11 g0 s0480
+JP: エッジをさがしてたんだよ{n}何でもないよ{p}
+EN: I was looking for you, Edge{n}It's nothing{p}
+
+## MBMS11 g0 s0483
+JP: ちょうどよかった、{n}エッジをさがしてたんだよ。{p}
+EN: Perfect timing. I was looking for you, Edge.{p}
+
+## MBMS11 g0 s0486
+JP: そうか!{n}よくオレ様が{n}クイズ得意だって知ってるじゃねえか。{p}{end}
+EN: Heh! So ya know I'm a quiz master, huh!{p}{end}
+
+## MBMS11 g0 s0487
+JP: ま、まあね。{n}（本当だったんだ。）{p}
+EN: Y-yeah, kinda. (So it's actually true.){p}
+
+## MBMS11 g0 s0488
+JP: しゃあねえなあ。{n}じゃあとっておきのクイズでも{n}出してやるか!{p}
+EN: Fine, fine. I'll hit ya with my best quiz!{p}
+
+## MBMS11 g0 s0489
+JP: 正解できたらほめてやるぜ!{n}じゃあいくぜ!{p}
+EN: Get it right and I'll praise ya! Here goes!{p}
+
+## MBMS11 g0 s0490
+JP: これから挙げるカプコンのゲームの中で{n}仲間はずれはどれだ?{p}
+EN: Of these Capcom games, which one's the odd one out?{p}
+
+## MBMS11 g0 s0491
+JP: ストリートファイターZERO{n}バンパイアセイヴァー{n}ポケットファイター{n}私立ジャスティス学園{p}{end}
+EN: Street Fighter Alpha{n}Darkstalkers 3{n}Pocket Fighter{n}Rival Schools{p}{end}
+
+## MBMS11 g0 s0492
+JP: 正解!{n}『私立ジャスティス学園』だけが{n}3Dゲームだって{n}よく分かったじゃねえか!{p}
+EN: Correct! Ya figured out that only "Rival Schools" is a 3D game, huh!{p}
+
+## MBMS11 g0 s0493
+JP: オレ様のクイズを解くとは、{n}ほめてやるぜ!{p}
+EN: Ya cracked the great Edge's quiz! I gotta hand it to ya!{p}
+
+## MBMS11 g0 s0494
+JP: またいいネタがあったら{n}おめえに出してやるぜ!{n}じゃあな!{p}
+EN: If I find another good one, you'll be the first to hear it! Later!{p}
+
+## MBMS11 g0 s0495
+JP: 分かる問題で良かった。{p}
+EN: Glad it was one I knew.{p}
+
+## MBMS11 g0 s0496
+JP: ブ、ブー!{n}全然わかってねえなあ!{p}
+EN: Bzzzt! Ya don't get it at all!{p}
+
+## MBMS11 g0 s0497
+JP: 正解は言わねえから{n}もう一度さっき挙げた{n}カプコンのゲームを{n}やり直してみるんだな。{p}{end}
+EN: I ain't tellin' ya the answer. Go play those Capcom games again and figure it out.{p}{end}
+
+## MBMS11 g0 s0499
+JP: 正解はなんだったんだろう。{n}気になるなあ。{p}
+EN: I wonder what the answer was. It's bugging me.{p}
+
+## MBMS11 g0 s0500
+JP: {col:3}アキラ{col:-}{n}「はいっ!{n}{sp}やーっ!{n}{sp}たーっ!」{p}{end}
+EN: {col:3}Akira{col:-}{n}"Hup! Yah! Tah!"{p}{end}
+
+## MBMS11 g0 s0506
+JP: 実は、今新しい軸移動の型の練習を{n}しているんだ。{n}{v3:10}もやってみないか?{p}{end}
+EN: Actually, I'm practicing a new sidestep form. Want to try it too, {v3:10}?{p}{end}
+
+## MBMS11 g0 s0510
+JP: オレが出す攻撃が{n}右パンチなら右に軸移動{n}左パンチなら左に軸移動で避けてくれ。{n}じゃ、いくぞ!{p}
+EN: If I throw a right punch, sidestep right. A left punch, sidestep left. Here I come!{p}
+
+## MBMS11 g0 s0512
+JP: 右パンチ!{p}
+EN: Right punch!{p}
+
+## MBMS11 g0 s0513
+JP: 右に軸移動{n}左に軸移動{p}
+EN: Sidestep right{n}Sidestep left{p}
+
+## MBMS11 g0 s0515
+JP: 左パンチ!{p}
+EN: Left punch!{p}
+
+## MBMS11 g0 s0517
+JP: いいぞ!{n}ではこれはどうだ!{p}{end}
+EN: Good! Now how about this!{p}{end}
+
+## MBMS11 g0 s0518
+JP: 左キック!{p}
+EN: Left kick!{p}
+
+## MBMS11 g0 s0520
+JP: そうだ!{n}たとえキックでもやり方は一緒だ!{n}それが分かってるなら{n}軸移動に関しては完ペキだな。{p}
+EN: That's it! Even with a kick, it works the same! If you get that, your sidestep is perfect.{p}
+
+## MBMS11 g0 s0522
+JP: おかげでいい練習ができた。{n}礼を言うぞ。{n}また相手をしてくれ、じゃあな!{p}{end}
+EN: That was good practice, thanks to you. Spar with me again sometime. See you!{p}{end}
+
+## MBMS11 g0 s0523
+JP: カンが当たって良かったあ。{p}
+EN: Glad my hunch paid off.{p}
+
+## MBMS11 g0 s0524
+JP: ダメだ!ダメだ!ダメだ!{n}もっとちゃんと相手の攻撃を見ろ!{n}それでは相手の思うままだぞ!{p}{end}
+EN: No! No! No! Watch your opponent's attacks properly! Like that, you're playing right into their hands!{p}{end}
+
+## MBMS11 g0 s0525
+JP: 実戦では注意するんだな!{n}じゃあな!{p}{end}
+EN: Be careful in a real fight! See you!{p}{end}
+
+## MBMS11 g0 s0526
+JP: …勉強します。{n}怒られてしまった…。{p}{end}
+EN: ...I'll work on it. Man, I got chewed out...{p}{end}
+
+## MBMS11 g0 s0527
+JP: ロイがいるぞ!{n}なんか疲れてそうだなぁ…。{p}
+EN: There's Roy! He looks kinda tired...{p}
+
+## MBMS11 g0 s0528
+JP: 近くにいく{n}他の場所に行く{p}
+EN: Go over{n}Go somewhere else{p}
+
+## MBMS11 g0 s0529
+JP: やぁ、{v3:6}!{n}今クラブが終わった所なんだよ。{p}{end}
+EN: Hi, {v3:6}! I just finished club.{p}{end}
+
+## MBMS11 g0 s0530
+JP: やぁ!{sp}ロイ。{p}
+EN: Hey, Roy!{p}
+
+## MBMS11 g0 s0531
+JP: もうすぐ待望の五輪祭だな!{n}ところで君はなにに出るつもりなんだい。{p}
+EN: The Gorin Festival is almost here! So what are you going to enter?{p}
+
+## MBMS11 g0 s0532
+JP: 野球かな{n}サッカーかな{n}バレーかな{n}まだ決めてないよ{p}{end}
+EN: Baseball, I guess{n}Soccer, I guess{n}Volleyball, I guess{n}I haven't decided yet{p}{end}
+
+## MBMS11 g0 s0533
+JP: それならボクがコツを教えてやるゼ!{p}
+EN: Then I'll teach you some tips!{p}
+
+## MBMS11 g0 s0534
+JP: 最初はバッターボックスから動かずに打って{n}みてバットのシンの位置を覚えることだね。{n}5回は失敗できるんだから失敗しても慎重に{n}タイミングを合わせていくことだね。{p}{end}
+EN: First, bat without leaving the batter's box and learn where the bat's sweet spot is. You can miss 5 times, so take your time and work on your timing.{p}{end}
+
+## MBMS11 g0 s0535
+JP: まず適当にゲージを合わせて蹴ってみて{n}どの角度ならどの方向にボールが飛ぶのかを{n}覚えることだね。ボールを曲げるのはそれが{n}できるようになってからだ。{p}{end}
+EN: First, set the gauge any old way and kick, and learn which angle sends the ball which way. Curving the ball comes after you can do that.{p}{end}
+
+## MBMS11 g0 s0536
+JP: まずサーブの角度と飛距離の関係をよく覚え{n}ることだ。45度の角度が一番飛ぶからね。{n}そしてフィールドを見て最初はとにかく雷蔵{n}学園長にあてないように注意することだ。{p}{end}
+EN: First, learn how serve angle affects distance. 45 degrees goes the farthest. Then check the field, and at first, just be careful not to hit Principal Raizo.{p}{end}
+
+## MBMS11 g0 s0537
+JP: ありがとう助かったよ。{p}
+EN: Thanks, that really helps.{p}
+
+## MBMS11 g0 s0538
+JP: いやいや!{n}それよりふだんの練習を{n}しっかりやっておいたほうがいいゼ!{p}
+EN: It's nothing! More importantly, you should keep up your regular practice!{p}
+
+## MBMS11 g0 s0539
+JP: それだったら最初は野球を選ぶといいゼ!{n}一番操作が簡単だからな。{n}まぁ、どの競技を選んでも{n}重要なのはタイミングさ。{p}{end}
+EN: Then pick baseball first! It has the easiest controls. But whatever event you pick, timing is what matters.{p}{end}
+
+## MBMS11 g0 s0541
+JP: あっ……{n}机で気持ちよさそうに居眠りしてるのは…{n}…ボーマンだな。{p}
+EN: Oh... That's Boman, dozing happily at his desk...{p}
+
+## MBMS11 g0 s0542
+JP: 近くに行く{n}他の場所にいこう{p}{end}
+EN: Go over{n}Go somewhere else{p}{end}
+
+## MBMS11 g0 s0543
+JP: ホントによく寝てるなぁ。{n}わーっ!{n}ボーマンよだれが落ちそうだ!{p}{end}
+EN: He's really out cold. Whoa! Boman's drool is about to drip!{p}{end}
+
+## MBMS11 g0 s0544
+JP: 話しかけて起こす{n}そっとしておく{n}となりのティファニーに報告{n}そっとハンカチでふいてあげる{p}
+EN: Wake him up{n}Leave him be{n}Tell Tiffany next to him{n}Quietly wipe it with a hankie{p}
+
+## MBMS11 g0 s0545
+JP: ボーマン!ボーマンってば!{n}よだれが落ちるぞ!{p}
+EN: Boman! Hey, Boman! You're gonna drool!{p}
+
+## MBMS11 g0 s0546
+JP: 「ハッ!」{n}{v5:8}でしたか。{n}なにかありましたか?{p}{end}
+EN: "Ah!" Oh, it is {v5:8}. Is something the matter?{p}{end}
+
+## MBMS11 g0 s0547
+JP: ボーマン居眠りしてただろ。{n}よだれが教科書に落ちそうだったよ。{p}
+EN: You were dozing, Boman. Your drool almost hit your textbook.{p}
+
+## MBMS11 g0 s0548
+JP: 居眠りなどしていません。{n}たった今まで私は神の啓示を{n}受けていたのです。{n}「ジュルッ。」{p}{end}
+EN: I was not dozing. Until just now, I was receiving a revelation from God. "Slurp."{p}{end}
+
+## MBMS11 g0 s0549
+JP: 苦しい言い訳だなぁ。{n}今よだれ思いっきりふいたじゃないか!{p}
+EN: That's a lame excuse. You just totally wiped your drool!{p}
+
+## MBMS11 g0 s0550
+JP: コレは神にごちそうしてもらって{n}いた証拠です。{p}
+EN: This is proof that God was treating me to a feast.{p}
+
+## MBMS11 g0 s0551
+JP: （食べ物の夢を見ていたに違いないな…。）{p}{end}
+EN: (He must've been dreaming about food...){p}{end}
+
+## MBMS11 g0 s0552
+JP: あーっ、よだれが～…………。{p}{end}
+EN: Aaah, the drool...!............{p}{end}
+
+## MBMS11 g0 s0553
+JP: 落ちちゃった。{n}教科書から何からべちょべちょだ!{p}{end}
+EN: It dripped. His textbook and everything are soaked!{p}{end}
+
+## MBMS11 g0 s0554
+JP: しかし体が大きいだけあってよだれの量も{n}ハンパじゃないなぁ。{n}こりゃボーマンが起きたらびっくりする{n}だろうな……。{p}
+EN: Guess with a body that big, he drools a ton too. Boman's gonna be shocked when he wakes up......{p}
+
+## MBMS11 g0 s0555
+JP: ねぇねぇティファニー。{n}ちょっとボーマンを見てよ、{n}こんなに居眠りしちゃってさ……。{p}{end}
+EN: Hey, hey, Tiffany. Look at Boman, he's totally out cold......{p}{end}
+
+## MBMS11 g0 s0556
+JP: あちゃー!ティファニーも寝てるよ……。{n}しかもこっちはもう{n}机が『よだれの海』状態になってるよ。{n}（ダメだこりゃ…。）{p}
+EN: Oh man! Tiffany's asleep too...... And her desk is already a "sea of drool." (This is hopeless...){p}
+
+## MBMS11 g0 s0557
+JP: もう、しかたないなぁ。{n}俺のハンカチでふいてあげるか……。{n}（ふきふき…っと。）{p}{end}
+EN: Geez, can't be helped. I'll wipe it with my handkerchief...... (Wipe, wipe...){p}{end}
+
+## MBMS11 g0 s0558
+JP: はっ!{v5:8}{n}何をやっているのですか?{p}{end}
+EN: Ah! {v5:8}, what are you doing?{p}{end}
+
+## MBMS11 g0 s0559
+JP: 急に起きないでよ!{n}びっくりするじゃないか!{n}ボーマンが居眠りしてたから{n}よだれをふいてたんじゃないか!{p}{end}
+EN: Don't wake up so suddenly! You scared me! You were dozing, so I was wiping your drool!{p}{end}
+
+## MBMS11 g0 s0560
+JP: それはありがとうございます。{n}わざわざこんなコトまでしてもらって。{n}お礼にこれから教会に連れていって{n}あげましょう。{p}{end}
+EN: Why, thank you very much. You went to such trouble for me. As thanks, I shall take you to church now.{p}{end}
+
+## MBMS11 g0 s0561
+JP: なんだそりゃ?{n}と思いながらも教会に連れて行かれた。{n}無理矢理お祈りをあげさせられた……。{p}
+EN: "What the...?" I thought, but I got dragged to church anyway and made to pray......{p}
+
+## MBMS11 g0 s0563
+JP: 冬も近いとあって、{n}屋上にはほとんど人がいない。{n}……お、あそこにいるのは雹さんだな。{n}何を見てるんだろう?{p}{end}
+EN: With winter near, hardly anyone's on the roof. ......Oh, that's Hyo-san over there. What's he looking at?{p}{end}
+
+## MBMS11 g0 s0564
+JP: 近づいてみる{n}そっとしておく{p}{end}
+EN: Go closer{n}Leave him be{p}{end}
+
+## MBMS11 g0 s0565
+JP: なんか真剣に下をみてるな…。{n}コワイからそっとしておこう…。{n}……{n}別の場所にいってみようか。{p}
+EN: He's staring down really intently... He's scary, so I'll leave him be... ...... Guess I'll try somewhere else.{p}
+
+## MBMS11 g0 s0566
+JP: すぐ近くまで行ってみたが雹は気付かない。{n}やけに真剣に下をみてるな。{n}俺も下を見てみよう。{p}
+EN: I went right up close, but Hyo didn't notice. He's staring down awfully intently. I'll take a look too.{p}
+
+## MBMS11 g0 s0567
+JP: （こちら側のフェンスからはグラウンドが{n}{sp}見える。人はまばらだが、クラブ活動や、{n}{sp}ひなたぼっこしている人が見える。）{p}
+EN: (From this side of the fence you can see the field. There aren't many people, just some doing club activities or sunbathing.){p}
+
+## MBMS11 g0 s0568
+JP: （あそこで本を読んでいるのは響子先生か。{n}{sp}グラウンドでは、ジョギングしている{n}{sp}夏が見える。{n}{sp}元気に走り回っているのは…ひなたか?）{p}{end}
+EN: (The one reading a book over there is Kyoko-sensei. Natsu is jogging on the field. And the one running around like crazy... Hinata?){p}{end}
+
+## MBMS11 g0 s0569
+JP: !!お前は…{v0}か…。{n}いつからそこに居たのだ?{p}
+EN: !! You... {v0}... How long have you been there?{p}
+
+## MBMS11 g0 s0570
+JP: （雹さんがやっとこちらに気付いた。{n}{sp}こっちをにらむ眼がちょっと恐い…。{n}{sp}何を見てたか聞いてみようか?）{p}
+EN: (Hyo-san finally noticed me. The glare in his eyes is kinda scary... Should I ask what he was looking at?){p}
+
+## MBMS11 g0 s0571
+JP: 聞いてみる{n}コワイからやめておく{p}{end}
+EN: Ask him{n}Don't, it's too scary{p}{end}
+
+## MBMS11 g0 s0572
+JP: ああ、雹さん。{n}今日は天気がいいですね。{n}俺は今ここに来たところですけど、何か?{p}{end}
+EN: Oh, Hyo-san. Nice weather today, huh? I just got here, actually. Something wrong?{p}{end}
+
+## MBMS11 g0 s0573
+JP: …いや…気にするな。{n}たしかに今日は天気がいいな。{n}私はこれで失礼する。{n}さらばだ。{p}{end}
+EN: ...No... Never mind. It is indeed fine weather today. I'll take my leave. Farewell.{p}{end}
+
+## MBMS11 g0 s0574
+JP: あ…どうも…。{n}結局何を見てたのかな…?{p}{end}
+EN: Ah... sure... So what was he looking at, anyway...?{p}{end}
+
+## MBMS11 g0 s0575
+JP: 雹さん、何見てたんですか?{n}なんか真剣に見てましたけど。{p}{end}
+EN: Hyo-san, what were you looking at? You seemed really focused on it.{p}{end}
+
+## MBMS11 g0 s0576
+JP: …教えてほしいか?{n}……{n}教えてやろう…{p}{end}
+EN: ...You wish to know? ...... Then I'll tell you...{p}{end}
+
+## MBMS11 g0 s0577
+JP: （…と、{n}{sp}雹さんの眼を見た瞬間、{n}{sp}彼の眼が不気味に光った…）{p}{end}
+EN: (...and the instant I looked into Hyo-san's eyes, they glowed eerily...){p}{end}
+
+## MBMS11 g0 s0578
+JP: {v0}…いいか、{n}ここで私に会った事は忘れろ。{n}お前はここで誰にも会っていない。{n}そして何も見てはいない…。{p}{end}
+EN: {v0}... Listen. Forget you met me here. You met no one here. And you saw nothing...{p}{end}
+
+## MBMS11 g0 s0579
+JP: …特に…{n}私が……を…見ていた事は…{n}……に…忘れろ…{n}いいな……{p}
+EN: ...Above all... that I was... watching...... Forget it... completely... Understood......{p}
+
+## MBMS11 g0 s0581
+JP: ……う…ん。{n}なんか、ボーっとしてたみたいだ…。{n}あれ…誰かと話してたと思ったんだけど、{n}気のせいだろうか…?{p}
+EN: ......Uh... huh. I must've spaced out... Huh... I thought I was talking to someone. Was I imagining it...?{p}
+
+## MBMS11 g1 s0000
+JP: 五輪祭……{n}とうとうこの日がやってきたわ。{p}
+EN: The Gorin Festival...... The day has finally come.{p}
+
+## MBMS11 g1 s0001
+JP: （「五輪祭」とは、{n}{sp}スポーツ名門校である{n}{sp}五輪高校が開催する{n}{sp}拡張スケールの体育祭で、{p}{end}
+EN: (The "Gorin Festival" is a supersized sports meet hosted by Gorin High, a school famous for sports,{p}{end}
+
+## MBMS11 g1 s0002
+JP: {sp}高校単位で行われるイベントとしては{n}{sp}国内最大級の{n}{sp}スポーツイベントである。）{p}
+EN: and it's one of the biggest high-school sports events in the country.){p}
+
+## MBMS11 g1 s0004
+JP: 来年のクラブの予算は、{n}五輪祭の成績で決まってしまう。{n}シビアな話だよね、実際。{p}{end}
+EN: Next year's club budgets are decided by our results at the Gorin Festival. Pretty harsh, honestly.{p}{end}
+
+## MBMS11 g1 s0005
+JP: おはよう、{v1}{col:0}さん{col:-}。{p}
+EN: Good morning, {v1}{col:0}-san{col:-}.{p}
+
+## MBMS11 g1 s0007
+JP: うふふ…{n}{v1}{col:0}さん{col:-}はいつも元気ね。{p}{end}
+EN: Hehe... You're always so full of energy, {v1}{col:0}-san{col:-}.{p}{end}
+
+## MBMS11 g1 s0008
+JP: そんな{v1}{col:0}さん{col:-}を見ていると、{n}先生まで元気になってきちゃうから、{n}ほんと不思議ね。{p}{end}
+EN: It's funny, really. Just seeing you like that, {v1}{col:0}-san{col:-}, perks even me up.{p}{end}
+
+## MBMS11 g1 s0009
+JP: ところで、{n}{v1}{col:0}さん{col:-}は{n}何の種目に出るの?{p}{end}
+EN: By the way, {v1}{col:0}-san{col:-}, what event are you entering?{p}{end}
+
+## MBMS11 g1 s0010
+JP: えーと、私は…{p}
+EN: Um, I'm...{p}
+
+## MBMS11 g1 s0015
+JP: {v1}{col:0}さん{col:-}だけには、{n}そうはなってほしくないの…{p}{end}
+EN: I just don't want that to happen to you, {v1}{col:0}-san{col:-}...{p}{end}
+
+## MBMS11 g1 s0017
+JP: （先生と、約束するの?）{p}{end}
+EN: (Should I promise her?){p}{end}
+
+## MBMS11 g1 s0020
+JP: ありがとう、{v1}{col:0}さん{col:-}。{p}{end}
+EN: Thank you, {v1}{col:0}-san{col:-}.{p}{end}
+
+## MBMS11 g1 s0024
+JP: すみません、響子先生。{n}じゃあ私、これで失礼します。{p}{end}
+EN: I'm sorry, Kyoko-sensei. I'll be going now.{p}{end}
+
+## MBMS11 g1 s0025
+JP: あ、{v1}{col:0}さん{col:-}!{n}待って!{p}
+EN: Ah, {v1}{col:0}-san{col:-}! Wait!{p}
+
+## MBMS11 g1 s0028
+JP: 野球部の来年の予算がかかってるんだから、{n}負けられないわ。{p}
+EN: Next year's baseball budget is riding on this, so I can't lose.{p}
+
+## MBMS11 g1 s0030
+JP: 自信?{n}そうねぇ。{p}
+EN: Confident? Hmm, let's see.{p}
+
+## MBMS11 g1 s0031
+JP: まかせといて{n}そこそこいけるわ{n}全然だめ{p}{end}
+EN: Leave it to me{n}I'll do all right{n}Not at all{p}{end}
+
+## MBMS11 g1 s0036
+JP: え～!{n}せっかく結果を出してきたってのに、{n}そんなリアクション?{p}{end}
+EN: Whaat! I actually pull it off and that's the reaction I get?{p}{end}
+
+## MBMS11 g1 s0040
+JP: （私の活躍もあって、{n}{sp}野球部の予算は確保できたみたいだ。{n}{sp}将馬も終始ご機嫌だったし、{n}{sp}ホントによかった。）{p}{end}
+EN: (Thanks in part to me, the baseball club's budget looks safe. Shoma was in a great mood the whole time, so I'm really glad.){p}{end}
+
+## MBMS11 g1 s0044
+JP: やめてよ、将馬。{n}照れるじゃない。{p}
+EN: Stop it, Shoma. You're embarrassing me.{p}
+
+## MBMS11 g1 s0046
+JP: （なんとか野球部の予算は{n}{sp}確保できたみたい。{n}{sp}将馬も終始ご機嫌だったし、{n}{sp}ホントによかった。）{p}{end}
+EN: (Looks like the baseball club's budget is safe somehow. Shoma was in a great mood the whole time, so I'm really glad.){p}{end}
+
+## MBMS11 g1 s0049
+JP: そ、そんなつもりはなかったの。{n}ゴメン、将馬。{p}
+EN: I-I didn't mean it like that. Sorry, Shoma.{p}
+
+## MBMS11 g1 s0052
+JP: （なんとか野球部の予算は{n}{sp}確保できたみたい。{n}{sp}あとは、将馬の機嫌さえ{n}{sp}直ってくれればいいんだけどな…。）{p}
+EN: (Looks like the baseball club's budget is safe somehow. Now if only Shoma would cheer up...){p}
+
+## MBMS11 g1 s0057
+JP: この分なら、{n}なんとか今年と同じくらいの予算は{n}確保できるみたいだね。{p}
+EN: At this rate, looks like we'll get about the same budget as this year.{p}
+
+## MBMS11 g1 s0061
+JP: ひどい言われようね、{n}まったく。{p}{end}
+EN: Wow, harsh. Seriously.{p}{end}
+
+## MBMS11 g1 s0062
+JP: まあ、そう言うなよ。{n}要するに、お前は自分の実力を{n}冷静に分析できてるってことだろ?{p}{end}
+EN: Aw, don't be like that. It just means you can size up your own skills calmly, right?{p}{end}
+
+## MBMS11 g1 s0066
+JP: （結局、野球部はなんとか{n}{sp}予算の確保ができたみたい。{n}{sp}よかった、よかった。）{p}{end}
+EN: (In the end, the baseball club managed to keep its budget. Good, good.){p}{end}
+
+## MBMS11 g1 s0068
+JP: なんだよ、{v3:3}。{n}言ってたよりも、{n}調子良かったじゃないか。{p}{end}
+EN: Hey, {v3:3}. You did way better than you said you would.{p}{end}
+
+## MBMS11 g1 s0069
+JP: うん、とりあえずホッとした。{p}{end}
+EN: Yeah, I'm just relieved for now.{p}{end}
+
+## MBMS11 g1 s0071
+JP: そんなわけないでしょ。{n}自信があったら、{n}あるって素直に言うよ。{p}{end}
+EN: No way. If I were confident, I'd just say so.{p}{end}
+
+## MBMS11 g1 s0077
+JP: まったく、{n}あまりにお粗末で{n}怒る気にもならねえよ。{p}{end}
+EN: Geez, that was so pathetic I can't even get mad.{p}{end}
+
+## MBMS11 g1 s0081
+JP: （結局、野球部の来年の予算は、{n}{sp}今年にくらべて20%も{n}{sp}減らされてしまったらしい。{n}{sp}うう、私のせいかも。）{p}{end}
+EN: (In the end, the baseball club's budget for next year got cut by a whole 20%. Ugh, it might be my fault.){p}{end}
+
+## MBMS11 g1 s0085
+JP: それにしても、{n}かなりひどい成績だったな。{n}野球部始まって以来じゃないか?{p}
+EN: Still, that was a pretty awful showing. Worst in the baseball club's history, huh?{p}
+
+## MBMS11 g1 s0092
+JP: まあ、そう落ち込むなよ。{n}要するに、お前は自分の実力を{n}冷静に分析できてるってことだろ?{p}{end}
+EN: Come on, don't be so down. It just means you can size up your own skills calmly, right?{p}{end}
+
+## MBMS11 g1 s0095
+JP: でも、この調子じゃ{n}来年の予算は{n}やばいかもしれないな…。{p}
+EN: But at this rate, next year's budget could be in trouble...{p}
+
+## MBMS11 g1 s0098
+JP: 来たか、{v8:5}。{n}いよいよ五輪祭だな。{p}{end}
+EN: You made it, {v8:5}. The Gorin Festival's finally here.{p}{end}
+
+## MBMS11 g1 s0099
+JP: サッカー部の{n}来年の予算がかかってるんだから、{n}負けられないよね。{p}
+EN: Next year's soccer budget is riding on this, so we can't lose, right?{p}
+
+## MBMS11 g1 s0100
+JP: まあな。{n}でも、{v8:5}。{n}正直なところ、自信はどうなんだ?{p}{end}
+EN: Sure. But {v8:5}, honestly, how confident are you?{p}{end}
+
+## MBMS11 g1 s0105
+JP: まあ勝負なんてものは、{n}実際始まってみないと{n}わからないものだからな。{n}意外と、うまくいくかもしれないぜ?{p}
+EN: Well, you never know how a match will go until it starts. It might go better than you think.{p}
+
+## MBMS11 g1 s0106
+JP: すごいじゃないか、{v8:5}!{p}{end}
+EN: That's amazing, {v8:5}!{p}{end}
+
+## MBMS11 g1 s0108
+JP: なんだか照れちゃうな。{p}
+EN: This is kinda embarrassing.{p}
+
+## MBMS11 g1 s0109
+JP: もっと胸を張っていいんだぜ。{n}お前は、それに見合うだけの{n}成績を出してるんだからな。{p}{end}
+EN: You can stand tall. Your results earned it.{p}{end}
+
+## MBMS11 g1 s0111
+JP: （私の活躍もあって、サッカー部の予算は{n}{sp}確保できたみたい。{n}{sp}ロベルトも終始ご機嫌だったし、{n}{sp}ホントによかったな。）{p}{end}
+EN: (Thanks in part to me, the soccer club's budget looks safe. Roberto was in a great mood the whole time, so I'm really glad.){p}{end}
+
+## MBMS11 g1 s0114
+JP: ううん、ほとんど偶然みたいなものよ。{p}{end}
+EN: No, it was mostly luck.{p}{end}
+
+## MBMS11 g1 s0115
+JP: 謙遜か?{n}「能ある鷹は爪を隠す」っていうからな。{n}食えないヤツだ。{p}
+EN: Being modest? They say "the clever hawk hides its talons." You're a sly one.{p}
+
+## MBMS11 g1 s0116
+JP: かんべんしてよ、ロベルト。{n}ホントにそんなんじゃないんだって。{p}
+EN: Give me a break, Roberto. It really wasn't like that.{p}
+
+## MBMS11 g1 s0118
+JP: （なんとかサッカー部の予算は{n}{sp}確保できたみたい。{n}{sp}ロベルトも終始ご機嫌だったし{n}{sp}ホントによかったな。）{p}{end}
+EN: (Looks like the soccer club's budget is safe somehow. Roberto was in a great mood the whole time, so I'm really glad.){p}{end}
+
+## MBMS11 g1 s0121
+JP: そ、そんなつもりはなかったんだけど。{p}{end}
+EN: I-I didn't mean it like that.{p}{end}
+
+## MBMS11 g1 s0124
+JP: （なんとかサッカー部の予算は{n}{sp}確保できたみたい。{n}{sp}あとは、ロベルトの機嫌さえ{n}{sp}直ってくれればいいんだけどな…。）{p}
+EN: (Looks like the soccer club's budget is safe somehow. Now if only Roberto would cheer up...){p}
+
+## MBMS11 g1 s0130
+JP: （結局、サッカー部はなんとか{n}{sp}予算の確保ができたみたい。{n}{sp}思ったほどの成績は{n}{sp}出せなかったけど、結果オーライだな。）{p}
+EN: (In the end, the soccer club managed to keep its budget. I didn't do as well as I hoped, but all's well that ends well.){p}
+
+## MBMS11 g1 s0133
+JP: 私としては、{n}満足いく成績じゃないんだけどね。{p}
+EN: I'm not happy with my results, though.{p}
+
+## MBMS11 g1 s0134
+JP: だが、ある意味立派だぜ。{n}要するに、お前は自分の実力を{n}冷静に分析できてるってことだろ?{p}{end}
+EN: Still, that's admirable in a way. It just means you can size up your own skills calmly, right?{p}{end}
+
+## MBMS11 g1 s0135
+JP: でかい口たたいておきながら、{n}結果が散々ってのよりは{n}全然いいと思うぜ。{p}{end}
+EN: That's way better than talking big and then bombing.{p}{end}
+
+## MBMS11 g1 s0137
+JP: それにこの分なら、{n}なんとか今年と同じくらいの予算は{n}確保できるみたいだし{n}心配はいらないよ。{p}
+EN: Besides, at this rate we'll get about the same budget as this year, so don't worry.{p}
+
+## MBMS11 g1 s0138
+JP: （結局、サッカー部はなんとか{n}{sp}予算の確保ができたみたい。{n}{sp}よかった、よかった。）{p}{end}
+EN: (In the end, the soccer club managed to keep its budget. Good, good.){p}{end}
+
+## MBMS11 g1 s0140
+JP: なんだよ、{v8:5}。{n}言ってたよりも、{n}調子良かったじゃないか。{p}{end}
+EN: Hey, {v8:5}. You did way better than you said you would.{p}{end}
+
+## MBMS11 g1 s0141
+JP: うん、とりあえずホッとしたわ。{p}
+EN: Yeah, I'm just relieved for now.{p}
+
+## MBMS11 g1 s0143
+JP: そんなわけないでしょ。{n}自信があったら、あるって素直に言うよ。{p}
+EN: No way. If I were confident, I'd just say so.{p}
+
+## MBMS11 g1 s0153
+JP: （結局、サッカー部の来年の予算は、{n}{sp}今年にくらべて20%も減らされて{n}{sp}しまったらしい。うう、私のせいかも。）{p}{end}
+EN: (In the end, the soccer club's budget for next year got cut by a whole 20%. Ugh, it might be my fault.){p}{end}
+
+## MBMS11 g1 s0157
+JP: スマン、{n}ちょっといいすぎたな。{p}{end}
+EN: Sorry, I went a bit too far.{p}{end}
+
+## MBMS11 g1 s0159
+JP: （結局、サッカー部の来年の予算は、{n}{sp}今年にくらべて{n}{sp}20%も減らされてしまったらしい。{n}{sp}うう、私のせいかも。）{p}{end}
+EN: (In the end, the soccer club's budget for next year got cut by a whole 20%. Ugh, it might be my fault.){p}{end}
+
+## MBMS11 g1 s0169
+JP: {v8:4}じゃない。{n}そういえば、{n}アンタもサービス合戦に{n}出るんだったね。{p}
+EN: Oh, it's {v8:4}. Come to think of it, you're in the serve contest too, huh?{p}
+
+## MBMS11 g1 s0170
+JP: バレー部の来年の予算がかかってるから、{n}負けられないよね。{p}
+EN: Next year's volleyball budget is riding on this, so we can't lose, right?{p}
+
+## MBMS11 g1 s0177
+JP: すごいじゃない、{v8:4}!{p}
+EN: That's amazing, {v8:4}!{p}
+
+## MBMS11 g1 s0179
+JP: あはは、なんだか照れるな。{p}
+EN: Ahaha, this is kinda embarrassing.{p}
+
+## MBMS11 g1 s0182
+JP: （私の活躍もあって、バレー部の予算は{n}{sp}確保できたみたいだ。{n}{sp}夏も終始ご機嫌だったし、{n}{sp}ホントによかったな。）{p}
+EN: (Thanks in part to me, the volleyball club's budget looks safe. Natsu was in a great mood the whole time, so I'm really glad.){p}
+
+## MBMS11 g1 s0185
+JP: ううん、ホントに偶然。{n}たまたまよ。{p}{end}
+EN: No, really, it was luck. Just a fluke.{p}{end}
+
+## MBMS11 g1 s0186
+JP: {v8:4}が謙遜なんて{n}めずらしいわね。{p}
+EN: {v8:4} being modest? That's rare.{p}
+
+## MBMS11 g1 s0187
+JP: かんべんしてよ、夏。{n}ホントにそんなんじゃないんだってば。{p}
+EN: Give me a break, Natsu. It really wasn't like that.{p}
+
+## MBMS11 g1 s0189
+JP: （なんとかバレー部の予算は{n}{sp}確保できたみたい。{n}{sp}夏も終始ご機嫌だったし{n}{sp}ホントによかったな。）{p}{end}
+EN: (Looks like the volleyball club's budget is safe somehow. Natsu was in a great mood the whole time, so I'm really glad.){p}{end}
+
+## MBMS11 g1 s0192
+JP: そ、そんなつもりはなかったんだけど…。{p}
+EN: I-I didn't mean it like that...{p}
+
+## MBMS11 g1 s0194
+JP: （なんとかバレー部の予算は確保できた{n}{sp}みたい。これで一安心だな。）{p}{end}
+EN: (Looks like the volleyball club's budget is safe somehow. That's a relief.){p}{end}
+
+## MBMS11 g1 s0196
+JP: {v8:4}、調子でも悪かったの?{p}
+EN: {v8:4}, were you not feeling well?{p}
+
+## MBMS11 g1 s0200
+JP: （結局、バレー部はなんとか{n}{sp}予算の確保ができたみたい。{n}{sp}思ったほどの成績は出せなかったけど、{n}{sp}結果オーライだな。）{p}{end}
+EN: (In the end, the volleyball club managed to keep its budget. I didn't do as well as I hoped, but all's well that ends well.){p}{end}
+
+## MBMS11 g1 s0208
+JP: （結局、バレー部はなんとか{n}{sp}予算の確保ができたみたい。{n}{sp}よかった、よかった。）{p}
+EN: (In the end, the volleyball club managed to keep its budget. Good, good.){p}
+
+## MBMS11 g1 s0210
+JP: {v8:4}、自分で言ってたよりも{n}調子良かったんじゃない?{p}{end}
+EN: {v8:4}, you did better than you said you would, didn't you?{p}{end}
+
+## MBMS11 g1 s0212
+JP: ひょっとして、謙遜してたとか?{p}
+EN: Were you just being modest?{p}
+
+## MBMS11 g1 s0223
+JP: （結局、バレー部の来年の予算は、{n}{sp}今年にくらべて20%も{n}{sp}減らされてしまったらしい。{n}{sp}うう、私のせいかも。）{p}
+EN: (In the end, the volleyball club's budget for next year got cut by a whole 20%. Ugh, it might be my fault.){p}
+
+## MBMS11 g1 s0229
+JP: （結局、バレー部の来年の予算は、{n}{sp}今年にくらべて{n}{sp}20%も減らされてしまったらしい。{n}{sp}うう、私のせいかも。）{p}
+EN: (In the end, the volleyball club's budget for next year got cut by a whole 20%. Ugh, it might be my fault.){p}
+
+## MBMS11 g1 s0239
+JP: 教室には何人かの生徒が、{n}しゃべったり遊んだりしている。{n}もう少し、ブラブラしようかな……。{p}{end}
+EN: A few students are chatting and goofing around in the classroom. Maybe I'll wander a bit more......{p}{end}
+
+## MBMS11 g1 s0242
+JP: ねぇ{v9:1}!{n}調理実習でケーキ作ったんだ!{n}食べてみてよ!!{p}
+EN: Hey, {v9:1}! I made a cake in cooking class! Try it!!{p}
+
+## MBMS11 g1 s0243
+JP: （う……ひなたの差し出す皿には、{n}{sp}確かにケーキらしきモノがのっているけど{n}{sp}どう見ても美味しそうにはみえないナ。）{p}{end}
+EN: (Ugh...... There's definitely something cake-like on Hinata's plate, but it doesn't look tasty no matter how you slice it.){p}{end}
+
+## MBMS11 g1 s0244
+JP: （しかしひなたの顔見てると、{n}{sp}逃げるわけにもいかないよネ……）{p}{end}
+EN: (But with Hinata looking at me like that, I can't exactly run away......){p}{end}
+
+## MBMS11 g1 s0246
+JP: え、ええ、ちょっと今日は腹の調子が{n}悪くって{n}また今度にしてくれるかナ……。{n}ゴメンね!{sp}じゃネ!!{p}{end}
+EN: Uh, um, my stomach's a little off today. Could we do this another time......? Sorry! Bye!!{p}{end}
+
+## MBMS11 g1 s0247
+JP: あ、ちょっと!{n}{v9:1}～!!{n}逃げるのぉ!?{p}
+EN: Hey, wait! {v9:1}～!! You're running away!?{p}
+
+## MBMS11 g1 s0248
+JP: ……{n}悪いけど、さすがにアレは{n}食べれないよね…。{n}さて、どこに行こうかな?{p}{end}
+EN: ...... Sorry, but I really can't eat that... Now, where should I go?{p}{end}
+
+## MBMS11 g1 s0249
+JP: ん…じゃあもらってみようかナ……。{n}これでいいかな……。{p}{end}
+EN: Mm... I guess I'll try some...... Is this piece okay......{p}{end}
+
+## MBMS11 g1 s0251
+JP: （う…これは……なんとも…{n}{sp}いいようがない味…。{n}{sp}正直にいうと……美味しくない。）{p}
+EN: (Ugh... this is...... a flavor beyond... words... Honestly...... it's not good.){p}
+
+## MBMS11 g1 s0252
+JP: あ、{v8:4}!{n}こんなところにいたんだ。{n}あ、ひなのケーキ、食べてるんだね。{n}アタシのも食べてみる?{p}{end}
+EN: Oh, {v8:4}! So this is where you were. Oh, you're eating Hina's cake. Wanna try mine too?{p}{end}
+
+## MBMS11 g1 s0253
+JP: （こっちは間違いなくケーキね。{n}{sp}それもかなり美味しそう…。{n}{sp}口直しにはピッタリかも…）{p}
+EN: (This one is definitely a cake. And it looks really good... Perfect for getting rid of the aftertaste...){p}
+
+## MBMS11 g1 s0254
+JP: じゃ、もらうね……{n}パク………モグモグモグ……{p}
+EN: Okay, I'll have some...... Nom...... munch munch munch......{p}
+
+## MBMS11 g1 s0255
+JP: （おいしぃ～!{sp}さすがは夏ね!!{n}{sp}これならそのままケーキ屋に{n}{sp}だせちゃうかも!!）{p}
+EN: (Yummy! That's Natsu for you!! She could sell this at a cake shop as is!!){p}
+
+## MBMS11 g1 s0257
+JP: そうとも限らないじゃない。{n}ひなのケーキも自信作だから、{n}{v8:4}に食べて{n}もらおうと思ったんじゃないの?{p}
+EN: Not necessarily. Hina's proud of her cake too. That's why she wanted {v8:4} to try it, right?{p}
+
+## MBMS11 g1 s0258
+JP: そうだけど……{n}ねぇねぇ、どうかな?{n}どっちのケーキが美味しかった?{p}{end}
+EN: Well, yeah...... Hey, hey, so? Which cake tasted better?{p}{end}
+
+## MBMS11 g1 s0259
+JP: やっぱり夏ネ{n}ひなたの方がおいしかったヨ{n}どっちも美味しかったよ{p}{end}
+EN: Natsu's, of course{n}Hinata's was better{n}They were both good{p}{end}
+
+## MBMS11 g1 s0260
+JP: やっぱり、夏の方が美味しかったわ。{n}見た目もよかったしね。{p}
+EN: Natsu's was better, I'd say. It looked nicer too.{p}
+
+## MBMS11 g1 s0261
+JP: やっぱり～。{n}そうよね。{n}私、ほとんどケーキなんて焼かないもん…。{n}ちぇっ。{p}{end}
+EN: I knew it. Yeah. I hardly ever bake cakes... Darn.{p}{end}
+
+## MBMS11 g1 s0262
+JP: {v9:1}、{n}ムリして食べなくていいよ。{n}私が食べるから…。{p}
+EN: {v9:1}, you don't have to force yourself to eat it. I'll eat it...{p}
+
+## MBMS11 g1 s0263
+JP: アリガトね、{v8:4}。{n}でも、ひなには{n}ちょっと悪いことしちゃったかな?{p}{end}
+EN: Thanks, {v8:4}. But maybe that was a little mean to Hina?{p}{end}
+
+## MBMS11 g1 s0264
+JP: （う～ん、でも……、{n}{sp}あんなケーキ食べさせるのも{n}{sp}十分悪いことだと思うんだけどネェ…）{p}
+EN: (Hmm, but...... making people eat a cake like that is plenty mean too, if you ask me...){p}
+
+## MBMS11 g1 s0265
+JP: ひなたの方が美味しかったヨ。{p}{end}
+EN: Hinata's was better.{p}{end}
+
+## MBMS11 g1 s0266
+JP: ふふ～ん、やったネ!!{n}ね、私も一口もらっていい?{n}{v9:1}に食べさせてあげようと{n}思って一口も食べてないんだ!{p}{end}
+EN: Heheh, yay!! Hey, can I have a bite too? I saved it all for {v9:1}, so I haven't had a single bite!{p}{end}
+
+## MBMS11 g1 s0267
+JP: ちょ、ちょっと待って!{sp}ひなた!!{n}これは私が全部もらうワ。{n}せっかくひなたからもらったのに{n}悪いじゃない。{p}{end}
+EN: W-wait a sec, Hinata!! I'll have all of it. You made it for me, so it'd be rude not to.{p}{end}
+
+## MBMS11 g1 s0269
+JP: とにかく!!{n}これは私が全部もらうワ!{n}いいわね?{p}
+EN: Anyway!! I'm having all of it! Okay?{p}
+
+## MBMS11 g1 s0271
+JP: {v8:4}……。{n}優しいのね……。{p}{end}
+EN: {v8:4}...... You're so kind......{p}{end}
+
+## MBMS11 g1 s0274
+JP: {v9:1}……{n}ムリしてない?{n}美味しくなければ、美味しくないって{n}いってくれていいんだよ?{p}
+EN: {v9:1}...... Are you forcing yourself? If it wasn't good, you can just tell me, okay?{p}
+
+## MBMS11 g1 s0275
+JP: そんなことないヨ。{n}どっちも美味しかった。{p}
+EN: It's not like that. They were both good.{p}
+
+## MBMS11 g1 s0276
+JP: {v8:4}……{n}優しいんだね。{p}{end}
+EN: {v8:4}...... You're sweet.{p}{end}
+
+## MBMS11 g1 s0277
+JP: ところでひなた、{n}ひなたはこのケーキ食べた?{p}{end}
+EN: By the way, Hinata, did you try this cake yourself?{p}{end}
+
+## MBMS11 g1 s0278
+JP: ううん、{v9:1}に{n}食べさせてあげようと思って{n}取っておいたんだ!{p}
+EN: Nope, I saved it all for {v9:1}!{p}
+
+## MBMS11 g1 s0279
+JP: （そうよね……{n}{sp}自分で食べてたら、{n}{sp}人には勧めないよネ…）{p}
+EN: (Figures...... If she'd tried it, she wouldn't be offering it to anyone...){p}
+
+## MBMS11 g1 s0281
+JP: あれ、屋上で何か騒ぎが起こっている?{n}あの声は……バツね。{p}
+EN: Huh, is something going on up on the roof? That voice...... it's Batsu.{p}
+
+## MBMS11 g1 s0283
+JP: （見ると、5～6人の男子生徒が一人の{n}{sp}生徒を囲んで何かしているみたい…。{n}{sp}バツのいうとおり、イジメなのかナ?）{p}
+EN: (Looks like 5 or 6 guys are surrounding one student and doing something... Is it bullying, like Batsu said?){p}
+
+## MBMS11 g1 s0286
+JP: （なんかモメてる……。{n}{sp}バツは今にも飛び掛かりそうな勢いだ…{n}{sp}でも、いくらバツでも6人相手じゃ、{n}{sp}分が悪いんじゃない?）{p}
+EN: (They're arguing...... Batsu looks ready to pounce any second... But even Batsu can't take on six guys, right?){p}
+
+## MBMS11 g1 s0289
+JP: うかつに関わると、痛い目にあいそうネ…。{n}ここは逃げた方がいいかも……。{n}……{n}さてどこに行こうかな?{p}
+EN: If I get careless and butt in, I'll get hurt... Maybe I should get out of here...... ...... Now, where to?{p}
+
+## MBMS11 g1 s0290
+JP: （ここはバツに手を貸すべきね!!）{p}
+EN: (I've gotta lend Batsu a hand!!){p}
+
+## MBMS11 g1 s0292
+JP: {face:2}飛び出すバツ。{n}一人目にストレートを当てた所を{n}二人目に横から狙われて…{face:255}{p}{end}
+EN: {face:2}Batsu charges in. He lands a straight on the first guy, but the second one comes at him from the side...{face:255}{p}{end}
+
+## MBMS11 g1 s0293
+JP: ……あ、あれ!?{n}誰か助けてくれた!?{n}あ!{sp}お前…、{v3:0}…。{p}
+EN: ......Wh-what!? Someone helped me!? Ah! You... {v3:0}...{p}
+
+## MBMS11 g1 s0294
+JP: 間に合った。{n}手を貸すよ!!{n}バツ!!{p}
+EN: Made it in time. I'll help, Batsu!!{p}
+
+## MBMS11 g1 s0295
+JP: お、おぉ!!{n}大丈夫だろうな!?{p}{end}
+EN: O-oh!! You gonna be okay!?{p}{end}
+
+## MBMS11 g1 s0297
+JP: （いじめられていた生徒は{n}{sp}私達に礼を言って去っていった。{n}{sp}私もバツも少しは殴られたが、{n}{sp}ほとんど楽勝だった……）{p}
+EN: (The bullied student thanked us and left. Batsu and I took a few hits, but it was pretty much an easy win......){p}
+
+## MBMS11 g1 s0298
+JP: {v3:0}…、ありがとな。{n}お前がいなかったら、{n}もっとてこずってたぜ…{n}お前……強いな。{p}{end}
+EN: {v3:0}... thanks. Without you, it would've been a lot tougher... You're... strong.{p}{end}
+
+## MBMS11 g1 s0301
+JP: 待って!!{sp}バツ!!{n}ケンカはダメよ!!{p}{end}
+EN: Wait!! Batsu!! No fighting!!{p}{end}
+
+## MBMS11 g1 s0303
+JP: （こっちに気を取られたスキに{n}{sp}バツが一発殴られちゃった!!{n}{sp}もぅ!!{sp}こうなったら仕方ないワ!!）{p}
+EN: (While he was distracted by me, Batsu took a punch!! Geez!! Guess I've got no choice now!!){p}
+
+## MBMS11 g1 s0305
+JP: （いじめられていた生徒は{n}{sp}私達に礼をいって去っていった。{n}{sp}なんとか勝ったものの、{n}{sp}バツも私もかなり苦戦しちゃった……。）{p}
+EN: (The bullied student thanked us and left. We won somehow, but Batsu and I both had a really tough time......){p}
+
+## MBMS11 g1 s0306
+JP: {v3:0}～、{n}おまえが飛び出してこなけりゃ、{n}もっと楽に勝てたのによ～～。{n}勘弁してくれよ～……。{p}
+EN: {v3:0}～, if you hadn't jumped in, I'd have won way easier. Gimme a break～......{p}
+
+## MBMS11 g1 s0309
+JP: （このまっすぐな所が{n}{sp}バツのいいトコロね…。{n}{sp}ちょっと血の気が多すぎる{n}{sp}気もするけど。）{p}
+EN: (That straightforwardness is the good thing about Batsu... Though he might be a little too hot-blooded.){p}
+
+## MBMS11 g1 s0311
+JP: 体育館には…誰もいない……。{n}しかたないわ、戻ってみよう……{n}あ、向こうから恭介がやってきた。{n}もう帰るところなのかな。{p}{end}
+EN: No one's in the gym...... Oh well, I'll head back...... Oh, here comes Kyosuke. Is he heading home already?{p}{end}
+
+## MBMS11 g1 s0313
+JP: 恭介、今から帰り?{n}じゃあね、また明日～。{p}
+EN: Kyosuke, heading home? See you tomorrow, then!{p}
+
+## MBMS11 g1 s0314
+JP: 恭介はちょっと挨拶して{n}そのまま去っていった。{n}さて、私も別の所に行ってみようかな。{p}{end}
+EN: Kyosuke gave a quick hello and went on his way. Well, I'll try somewhere else too.{p}{end}
+
+## MBMS11 g1 s0315
+JP: ちょっと、恭介。{n}今から帰り?{n}一緒に帰らない?{p}{end}
+EN: Hey, Kyosuke. Heading home now? Wanna walk home together?{p}{end}
+
+## MBMS11 g1 s0316
+JP: ああ、{v8:2}か。{n}いいとも、一緒に帰ろう。{p}{end}
+EN: Ah, {v8:2}. Sure, let's walk together.{p}{end}
+
+## MBMS11 g1 s0317
+JP: どう、最近は?{n}風紀委員の仕事、忙しい?{p}{end}
+EN: How's it going lately? Busy with disciplinary committee work?{p}{end}
+
+## MBMS11 g1 s0321
+JP: 校則違反だからね{n}勉強のじゃまになるからね{n}実はたまに読んでるの{p}{end}
+EN: It's against school rules{n}It'd get in the way of studying{n}Actually, I read them sometimes{p}{end}
+
+## MBMS11 g1 s0322
+JP: 校則違反だからネ。{n}そんなことはしてないよ。{p}{end}
+EN: It's against school rules. I don't do that.{p}{end}
+
+## MBMS11 g1 s0326
+JP: そんな調子で、結局1時間くらい{n}校則に関する話を聞かされた……。{n}私は授業中にマンガなんて{n}読んでないのに……。{p}{end}
+EN: And so I ended up hearing about school rules for about an hour...... And I don't even read manga in class......{p}{end}
+
+## MBMS11 g1 s0327
+JP: 勉強のじゃまになるからね。{n}学校に必要ないモノは持ってきてないよ。{p}
+EN: It'd get in the way of studying. I don't bring things I don't need to school.{p}
+
+## MBMS11 g1 s0331
+JP: そんな調子で、結局1時間くらい{n}マンガに関する話を聞かされた……。{n}恭介はホントに情熱をもって{n}風紀委員をやってるのね……。{p}{end}
+EN: And so I ended up hearing about manga for about an hour...... Kyosuke really is passionate about the disciplinary committee......{p}{end}
+
+## MBMS11 g1 s0332
+JP: ふふっ、実は私もたまに読んでるよ。{n}恭介も読む?{n}おもしろいの、持ってるんだ。{p}
+EN: Hehe, actually, I read them sometimes too. Want to read some, Kyosuke? I've got some fun ones.{p}
+
+## MBMS11 g1 s0336
+JP: そんな調子で、結局1時間くらい{n}マンガについて説教された。{n}……確かに、授業中にマンガを読むのは{n}いけないよね……。{p}{end}
+EN: And so I ended up getting lectured about manga for about an hour. ......Well, reading manga in class is kind of bad, I guess......{p}{end}
+
+## MBMS11 g1 s0337
+JP: お、ちょうど保健室から{n}将馬が出てくるところみたい。{n}指に包帯を巻いているわ。{n}ケガでもしたのかナ。{p}{end}
+EN: Oh, Shoma's just coming out of the infirmary. He's got a bandage on his finger. Did he get hurt?{p}{end}
+
+## MBMS11 g1 s0338
+JP: はぁい、将馬。{n}アナタが保健室に来るなんて珍しいわね。{n}ケガでもしたの?{p}{end}
+EN: Hi, Shoma. You, in the infirmary? That's rare. Did you get hurt?{p}{end}
+
+## MBMS11 g1 s0339
+JP: ああ、{v3:3}か。{n}ちょっと突き指しちゃってよ。{n}おかげで今日の練習は中止さ。{p}
+EN: Oh, {v3:3}. I jammed my finger. So no practice for me today.{p}
+
+## MBMS11 g1 s0340
+JP: ところで、帰りに{n}スポーツ用品店に行こうと{n}思ってるんだけど、{n}どうだ?{sp}一緒に行かないか?{p}{end}
+EN: By the way, I'm thinkin' of hittin' the sports shop on the way home. How 'bout it? Wanna come?{p}{end}
+
+## MBMS11 g1 s0342
+JP: 悪いけど、今日はいいわ。{n}ちょっと用事があるの。{n}また今度誘ってよ。{p}{end}
+EN: Sorry, I'll pass today. I've got something to do. Ask me again sometime.{p}{end}
+
+## MBMS11 g1 s0343
+JP: 将馬は帰っていった。{n}さてと、私はこれからどこに行こうかな。{p}{end}
+EN: Shoma went home. Well then, where should I go now?{p}{end}
+
+## MBMS11 g1 s0344
+JP: スポーツ用品店か、いいわね。{n}行きましょ。{p}
+EN: A sports shop? Sounds good. Let's go.{p}
+
+## MBMS11 g1 s0347
+JP: スタンダードに黒でしょ{n}バットと合わせて赤かな{n}ここは一発ピンクね!!{p}
+EN: Black, the standard{n}Red, to match his bat{n}Go bold with pink!!{p}
+
+## MBMS11 g1 s0348
+JP: スタンダードに黒でしょ、やっぱり。{n}野球のユニフォームには{n}黒が一番映えるよね。{p}{end}
+EN: Black's the standard, of course. Black looks best with a baseball uniform.{p}{end}
+
+## MBMS11 g1 s0350
+JP: バットと合わせて赤かな。{n}赤といえば、なにしろ情熱の色だしね。{p}
+EN: Red, to match your bat? After all, red is the color of passion.{p}
+
+## MBMS11 g1 s0352
+JP: ここは一発ピンクね!{n}将馬にはピンクが似合うわよ!!{n}私だったらピンクね!!{p}{end}
+EN: Go bold with pink! Pink suits you, Shoma!! If it were me, I'd go pink!!{p}{end}
+
+## MBMS11 g1 s0361
+JP: おめえ、放課後の誰もいない教室に{n}何しに来たんだ?{n}さては…。{p}
+EN: Hey, what're ya doin' in an empty classroom after school? Don't tell me...{p}
+
+## MBMS11 g1 s0365
+JP: ちょうどよかった。{n}エッジをさがしてたのよ。{p}{end}
+EN: Perfect timing. I was looking for you, Edge.{p}{end}
+
+## MBMS11 g1 s0381
+JP: 正解はなんだったんだろう。{n}気になるわ。{p}{end}
+EN: I wonder what the answer was. It's bugging me.{p}{end}
+
+## MBMS11 g1 s0383
+JP: あっ、アキラだ…。{n}なんか、すごい気を感じるわ…。{p}
+EN: Oh, it's Akira... I'm sensing some incredible ki...{p}
+
+## MBMS11 g1 s0386
+JP: なんか、やばそうだから別の場所へ行こう。{n}どこに行こうかな?{p}{end}
+EN: This seems dangerous, so I'll go somewhere else. Where to?{p}{end}
+
+## MBMS11 g1 s0388
+JP: 実は今、新しい軸移動の型の{n}練習をしているんだ。{n}{v3:10}もやってみないか?{p}{end}
+EN: Actually, I'm practicing a new sidestep form. Want to try it too, {v3:10}?{p}{end}
+
+## MBMS11 g1 s0399
+JP: いいぞ!{n}では、これはどうだ!{p}
+EN: Good! Now how about this!{p}
+
+## MBMS11 g1 s0406
+JP: ダメだ!ダメだ!ダメだ!{n}もっとちゃんと相手の攻撃を見ろ!{n}それでは相手の思うツボだぞ!{p}{end}
+EN: No! No! No! Watch your opponent's attacks properly! Like that, you're playing right into their hands!{p}{end}
+
+## MBMS11 g1 s0409
+JP: {col:3}岩{col:-}{n}「うーん，困ったのう…。」{p}
+EN: {col:3}Gan{col:-}{n}"Hmm, now ain't this a pickle..."{p}
+
+## MBMS11 g1 s0415
+JP: うん分かるわ{n}どうして?{p}{end}
+EN: Yeah, I get it{n}Why's that?{p}{end}
+
+## MBMS11 g1 s0417
+JP: あきれられてしまった。…{n}こっちがあきれたいぐらいなのに…。{p}{end}
+EN: He's fed up with me... When I'm the one who should be fed up...{p}{end}
+
+## MBMS11 g1 s0418
+JP: うん分かるわ。{n}どれから食べるか迷うもんね。{p}{end}
+EN: Yeah, I get it. It's hard to pick which one to eat first.{p}{end}
+
+## MBMS11 g1 s0455
+JP: そ、そんな!{n}私の意見なんかが使われるなんて、{n}大変なことになってしまった…。{p}
+EN: N-no way! They're gonna use my opinion? This is getting way out of hand...{p}
+
+## MBMS11 g1 s0456
+JP: 冬も近いとあって、{n}屋上にはあんまり人が来ないわね。{n}……あ、あそこにいるのは雹だわ。{n}何を見てるのかな?{p}
+EN: With winter near, hardly anyone comes up to the roof. ......Oh, that's Hyo over there. What's he looking at?{p}
+
+## MBMS11 g1 s0458
+JP: なんか真剣に下をみてる…。{n}コワイからそっとしておこう…。{n}……{n}別の場所にいってみようかナ。{p}
+EN: He's staring down really intently... He's scary, so I'll leave him be... ...... Maybe I'll try somewhere else.{p}
+
+## MBMS11 g1 s0459
+JP: すぐ近くまで行ってみたけど、雹は{n}気付いてないみたい。{n}やけに真剣に下をみてるけど……。{n}私も下を見てみようっと。{p}
+EN: I went right up close, but Hyo doesn't seem to notice. He's staring down awfully intently...... I'll take a look too.{p}
+
+## MBMS11 g1 s0460
+JP: （こちら側のフェンスからはグラウンドが{n}{sp}見える……。人はまばらだけど、{n}{sp}クラブ活動や、ひなたぼっこしている{n}{sp}人が見える。）{p}{end}
+EN: (From this side of the fence you can see the field...... There aren't many people, just some doing club activities or sunbathing.){p}{end}
+
+## MBMS11 g1 s0461
+JP: （あそこで本を読んでいるのは響子先生ね。{n}{sp}グラウンドでは、ジョギングしている{n}{sp}夏が見える。{n}{sp}元気に走り回っているのはひなたかな?）{p}{end}
+EN: (The one reading a book over there is Kyoko-sensei. Natsu is jogging on the field. And the one running around like crazy... Hinata?){p}{end}
+
+## MBMS11 g1 s0463
+JP: （雹がやっとこちらに気付いたみたい。{n}{sp}こっちをにらむ眼がちょっと恐い……。{n}{sp}何を見てたか聞いてみようかナ?）{p}{end}
+EN: (Hyo finally noticed me. The glare in his eyes is kinda scary...... Should I ask what he was looking at?){p}{end}
+
+## MBMS11 g1 s0465
+JP: あ、雹。{n}今日は天気がいいね。{n}私、今ここに来たところだけど、何か用?{p}
+EN: Oh, Hyo. Nice weather today, huh? I just got here. Did you need something?{p}
+
+## MBMS11 g1 s0467
+JP: あ…じゃあね…。{n}結局何を見てたのかな…?{p}
+EN: Ah... bye, then... So what was he looking at, anyway...?{p}
+
+## MBMS11 g1 s0468
+JP: 雹、何見てたの?{n}なんか真剣そうだったけど。{p}{end}
+EN: Hyo, what were you looking at? You seemed really focused on it.{p}{end}
+
+## MBMS11 g1 s0470
+JP: （…と、{n}{sp}雹を見た瞬間、{n}{sp}彼の眼が不気味に光った…）{p}{end}
+EN: (...and the instant I looked at Hyo, his eyes glowed eerily...){p}{end}
+
+## MBMS11 g1 s0471
+JP: {v0}……いいか、{n}ここで私に会った事は忘れろ。{n}お前はここで誰にも会っていない。{n}そして何も見てはいない…。{p}
+EN: {v0}...... Listen. Forget you met me here. You met no one here. And you saw nothing...{p}
+
+## MBMS11 g1 s0474
+JP: ……う…ん。{n}なんか、ボーっとしてたみたい……。{n}あれ…誰かと話してたと思ったけど、{n}気のせいかな……?{p}{end}
+EN: ......Uh... huh. I must've spaced out...... Huh... I thought I was talking to someone. Was I imagining it......?{p}{end}
+
+## MBMS11 g1 s0475
+JP: なんか今日はもうくたくた……。{n}保健室に休みにいこうかな。{p}
+EN: I'm totally beat today...... Maybe I'll go rest in the infirmary.{p}
+
+## MBMS11 g1 s0477
+JP: あら、どうしたの?{n}なんか、すごく疲れた～って顔してるわよ。{p}{end}
+EN: Oh my, what's wrong? You look completely worn out.{p}{end}
+
+## MBMS11 g1 s0482
+JP: あ～すっきりした!{n}なんか元気爆発って感じになりました。{n}ありがとうございました。{p}
+EN: Ahh, that feels great! I'm bursting with energy now. Thank you very much.{p}
+
+## MBMS11 g1 s0484
+JP: マッサージに完全燃焼アタックの練習を{n}混ぜるのはやめてほしい気がするけど、{n}本当に元気になるもんね。{n}先生のマッサージは。{p}
+EN: I kinda wish she wouldn't mix Burning Vigor Attack practice into her massages, but they really do perk me up.{p}
+
+## MBMS11 g1 s0488
+JP: やっと見つけました。{n}こんな所にいらっしゃったんですか。{p}{end}
+EN: There you are, finally. So this is where you were.{p}{end}
+
+## MBMS11 g1 s0489
+JP: はいっ、私ですか?{p}
+EN: Yes! Me?{p}
+
+## MBMS11 g1 s0492
+JP: コレは、島津流空手術有段者の証。{n}コレを付けると集中力がまして{n}実力を100%発揮することができると{n}いわれているのです。{p}
+EN: This is proof of rank in Shimazu-style karate. It's said that wearing it sharpens your focus, so you can use 100% of your ability.{p}
+
+## MBMS11 g1 s0493
+JP: 私もつけてみたいんですけど{n}いいですか?{p}{end}
+EN: Can I try wearing it too?{p}{end}
+
+## MBMS11 g1 s0499
+JP: （やっぱり謎の物体ね!{n}{sp}どういう仕組みで{n}{sp}くっついているのだろう??）{p}
+EN: (It really is a mystery object! How does it even stay on??){p}
+
+## MBMS11 g1 s0500
+JP: 生徒が怖がるといけないので{n}秘密にしていたのですが……{n}空手九段というのは本当です。{n}なんなら、少し試してみますか?{p}{end}
+EN: I kept it secret so as not to scare the students...... But yes, I am a 9th-dan. Shall I show you a little?{p}{end}
+
+## MBMS11 g1 s0503
+JP: （はっ…早すぎる。目で追うのがやっとね。{n}{sp}でも、何となく自分のスピードも{n}{sp}速くなったような気がするわ。）{p}{end}
+EN: (Wh-whoa, way too fast. I can barely follow him with my eyes. But somehow I feel like I got faster myself.){p}{end}
+
+## MBMS11 g1 s0505
+JP: なんか、機嫌を悪くさせちゃったみたい。{p}
+EN: Looks like I put him in a bad mood.{p}
+
+## MBMS11 g1 s0510
+JP: あっ…{n}机で気持ちよさそうに居眠りしてるのは…{n}…ボーマンね。{p}
+EN: Oh... That's Boman, dozing happily at his desk...{p}
+
+## MBMS11 g1 s0512
+JP: ホントによく寝てるなぁ。{n}わーっ!{sp}ボーマンよだれが落ちそう!{p}
+EN: He's really out cold. Whoa! Boman's drool is about to drip!{p}
+
+## MBMS11 g1 s0514
+JP: ボーマン!ボーマンってば!{n}よだれが落ちるよ!{p}
+EN: Boman! Hey, Boman! You're gonna drool!{p}
+
+## MBMS11 g1 s0516
+JP: ボーマン居眠りしてたでしょ。{n}よだれが教科書に落ちそうだったよ。{p}{end}
+EN: You were dozing, Boman. Your drool almost hit your textbook.{p}{end}
+
+## MBMS11 g1 s0518
+JP: 苦しい言い訳だなぁ。{n}今よだれ思いっきりふいたじゃない!{p}{end}
+EN: That's a lame excuse. You just totally wiped your drool!{p}{end}
+
+## MBMS11 g1 s0520
+JP: （食べ物の夢を見ていたに{n}{sp}違いないわね…。）{p}
+EN: (He must've been dreaming about food...){p}
+
+## MBMS11 g1 s0523
+JP: しかし体が大きいだけあって{n}よだれの量もハンパじゃないなぁ。{n}こりゃボーマンが起きたら{n}びっくりするだろうな……。{p}
+EN: Guess with a body that big, he drools a ton too. Boman's gonna be shocked when he wakes up......{p}
+
+## MBMS11 g1 s0524
+JP: ねぇねぇ、ティファニー。{n}ちょっとボーマンを見てよ、{n}こんなに居眠りしちゃってさ……。{p}
+EN: Hey, hey, Tiffany. Look at Boman, he's totally out cold......{p}
+
+## MBMS11 g1 s0525
+JP: あちゃー!{sp}ティファニーも寝てるわ……。{n}しかもこっちはもう{n}机が『よだれの海』状態になってるよ。{n}（ダメだこりゃ…。）{p}{end}
+EN: Oh man! Tiffany's asleep too...... And her desk is already a "sea of drool." (This is hopeless...){p}{end}
+
+## MBMS11 g1 s0526
+JP: もう、しかたないなぁ。{n}私のハンカチでふいてあげるか……。{n}（ふきふき…っと。）{p}{end}
+EN: Geez, can't be helped. I'll wipe it with my handkerchief...... (Wipe, wipe...){p}{end}
+
+## MBMS11 g1 s0528
+JP: 急に起きないでよ!{n}びっくりするじゃない!{n}ボーマンが居眠りしてたから{n}よだれをふいてたんじゃないの!{p}
+EN: Don't wake up so suddenly! You scared me! You were dozing, so I was wiping your drool!{p}
+
+## MBMS11 g1 s0532
+JP: ロイがいるぞ!{n}なんか疲れてそうね…。{p}
+EN: There's Roy! He looks kinda tired...{p}
+
+## MBMS11 g1 s0534
+JP: やぁ{v3:6}!{n}今クラブが終わった所なんだよ。{p}
+EN: Hi, {v3:6}! I just finished club.{p}
+
+## MBMS11 g1 s0535
+JP: こんにちは!{sp}ロイ。{p}{end}
+EN: Hi, Roy!{p}{end}
+
+## MBMS11 g1 s0536
+JP: もうすぐ待望の五輪祭だな!{n}君はなにに出るつもりなんだい。{p}
+EN: The Gorin Festival is almost here! What are you going to enter?{p}
+
+## MBMS11 g1 s0542
+JP: ありがとう助かったわ。{p}
+EN: Thanks, that really helps.{p}
+
+## MBMS11 g1 s0546
+JP: 五輪祭も間近だし…みんな練習やってるん{n}だろうな。{n}あっロベルトが何かやってる!{p}{end}
+EN: The Gorin Festival is close... I bet everyone's practicing. Oh, Roberto's doing something!{p}{end}
+
+## MBMS11 g1 s0547
+JP: 近づく{n}他の所へ行く{p}{end}
+EN: Go closer{n}Go somewhere else{p}{end}
+
+## MBMS11 g1 s0548
+JP: よう!{v8:5}。{n}シュート練習の前に{n}ウォーミングアップしてるんだが、{n}{v8:5}も一緒にやるかい?{p}
+EN: Hey, {v8:5}! I'm warming up before shooting practice. Wanna join me, {v8:5}?{p}
+
+## MBMS11 g1 s0549
+JP: よしいっちょやってみようか{n}サッカーは苦手なんでやめとくわ{p}
+EN: Sure, let's give it a shot{n}I'm bad at soccer, I'll pass{p}
+
+## MBMS11 g1 s0574
+JP: これだけうまいのなら{n}五輪祭ではサッカーをやるしかないな!{n}じゃあ、これはお守りがわりだ。{n}ほれっ。{p}{end}
+EN: With skills like that, you've gotta play soccer at the Gorin Festival! Here, take this as a good luck charm. Catch.{p}{end}
+

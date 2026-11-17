@@ -1,0 +1,264 @@
+## MBMS00 g6 s0000
+JP: {col:0}名前{col:-}を記入して下さい{n}{n}{col:0}名字{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}名前{col:-}{p}{end}
+EN: Enter your {col:0}name{col:-}.{n}{n}{col:0}Last                Name{col:-}{p}{end}
+
+## MBMS00 g6 s0001
+JP: {col:0}呼び名{col:-}を記入して下さい{n}{n}{sp}{sp}{sp}{sp}{col:0}呼び名{col:-}{p}{end}
+EN: Enter your {col:0}nickname{col:-}.{n}{n}        {col:0}Nick{col:-}{p}{end}
+
+## MBMS00 g6 s0002
+JP: どの{col:0}高校{col:-}に願書を出しますか?{n}{n}{n}{sp}{sp}太陽学園{n}{n}{sp}{sp}五輪高校{n}{n}{sp}{sp}パシフィックハイスクール{n}{n}{sp}{sp}外道高校{p}
+EN: Which {col:0}school{col:-} will you apply to?{n}{n}{n}    Taiyo High{n}{n}    Gorin High{n}{n}    Pacific High{n}{n}    Gedo High{p}
+
+## MBMS00 g6 s0003
+JP: どの{col:0}高校{col:-}に願書を出しますか?{n}{n}{n}{sp}{sp}太陽学園{n}{n}{sp}{sp}五輪高校{n}{n}{sp}{sp}パシフィックハイスクール{n}{n}{n}外道高校は男子校です{p}{end}
+EN: Which {col:0}school{col:-} will you apply to?{n}{n}{n}    Taiyo High{n}{n}    Gorin High{n}{n}    Pacific High{n}{n}{n}Gedo is boys-only.{p}{end}
+
+## MBMS00 g6 s0004
+JP: {col:0}性別{col:-}を記入して下さい{n}{n}{n}{n}{n}{sp}男{sp}{sp}{sp}{sp}女{p}{end}
+EN: Enter your {col:0}gender{col:-}.{n}{n}{n}{n}{n}  M         F{p}{end}
+
+## MBMS00 g6 s0005
+JP: {col:0}性別{col:-}を記入して下さい{n}{n}{n}{n}{n}{sp}男{n}{n}{n}{n}外道高校は男子校です{p}
+EN: Enter your {col:0}gender{col:-}.{n}{n}{n}{n}{n}  M{n}{n}{n}{n}Gedo is boys-only.{p}
+
+## MBMS00 g6 s0006
+JP: {col:0}プレイヤータイプ{col:-}を選択して下さい{n}{n}{n}{sp}連続攻撃タイプ{sp}{sp}{sp}{sp}一撃必殺タイプ{n}{n}{sp}空中殺法タイプ{sp}{sp}{sp}{sp}肉体防壁タイプ{n}{n}{sp}熱血根性タイプ{p}
+EN: Choose your {col:0}player type{col:-}.{n}{n}{n}  Combo Type          Power Type{n}{n}  Aerial Type         Defense Type{n}{n}  Spirit Type{p}
+
+## MBMS00 g6 s0007
+JP: {col:0}得意・苦手科目{col:-}を記入してください{n}{n}{sp}得意{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}苦手{n}{n}{n}{sp}{sp}英語{sp}{sp}数学{sp}{sp}国語{sp}{sp}理科{n}{n}{n}{sp}{sp}社会{sp}{sp}体育{sp}{sp}音楽{sp}{sp}美術{p}{end}
+EN: Enter your {col:0}best/worst subjects{col:-}.{n}{n}  Best                  Worst{n}{n}{n}    Eng.    Math    Jpn.    Sci.{n}{n}{n}    Soc.    P.E.    Mus.    Art{p}{end}
+
+## MBMS00 g6 s0008
+JP: {col:0}生月日{col:-}を記入して下さい{n}{n}{sp}{sp}{sp}{sp}{sp}{sp}月{sp}{sp}{sp}日{p}{end}
+EN: Enter your {col:0}birthday{col:-}.{n}{n}            /{p}{end}
+
+## MBMS00 g6 s0009
+JP: あいうえお{sp}わ{sp}を{sp}ん{n}かきくけこ{sp}がぎぐげご{n}さしすせそ{sp}ざじずぜぞ{n}たちつてと{sp}だぢづでど{n}なにぬねの{sp}ばびぶべぼ{n}はひふへほ{sp}ぱぴぷぺぽ{n}まみむめも{sp}ぁぃぅぇぉ{n}や{sp}ゆ{sp}よ{sp}ゃ{sp}ゅ{sp}ょ{n}らりるれろ{sp}っ!?～ー{p}
+EN: =
+
+## MBMS00 g6 s0010
+JP: アイウエオ{sp}ワ{sp}ヲ{sp}ン{n}カキクケコ{sp}ガギグゲゴ{n}サシスセソ{sp}ザジズゼゾ{n}タチツテト{sp}ダヂヅデド{n}ナニヌネノ{sp}バビブベボ{n}ハヒフヘホ{sp}パピプペポ{n}マミムメモ{sp}ァィゥェォ{n}ヤ{sp}ユ{sp}ヨ{sp}ャ{sp}ュ{sp}ョ{n}ラリルレロ{sp}ッ{sp}ヴ{sp}ー{p}
+EN: =
+
+## MBMS00 g6 s0011
+JP: 01234{sp}56789{n}ABCDE{sp}FGHIJ{n}KLMNO{sp}PQRST{n}UVWXY{sp}Z{sp}{sp}{sp}{sp}{n}abcde{sp}fghij{n}klmno{sp}pqrst{n}uvwxy{sp}z{sp}{sp}{sp}{sp}{p}
+EN: =
+
+## MBMS00 g6 s0012
+JP: {sp}1{sp}{sp}2{sp}{sp}3{sp}{sp}4{sp}{sp}5{sp}{sp}6{sp}{sp}7{n}{n}{sp}8{sp}{sp}9{sp}10{sp}11{sp}12{sp}13{sp}14{n}{n}15{sp}16{sp}17{sp}18{sp}19{sp}20{sp}21{n}{n}22{sp}23{sp}24{sp}25{sp}26{sp}27{sp}28{n}{n}29{sp}30{sp}31{p}{end}
+EN: =
+
+## MBMS00 g6 s0013
+JP: 1{sp}{sp}2{sp}{sp}3{sp}{sp}4{sp}{sp}5{sp}{sp}6{n}{n}{n}7{sp}{sp}8{sp}{sp}9{sp}10{sp}11{sp}12{p}
+EN: =
+
+## MBMS00 g6 s0014
+JP: {col:0}名{sp}前{n}{n}呼び名{n}{n}高{sp}校{n}{n}性{sp}別{n}{n}生月日{sp}{sp}{sp}{sp}{col:-}月{sp}{sp}日{n}{n}{col:0}得意科目{sp}{sp}{sp}{sp}{sp}苦手科目{n}{n}タイプ{sp}{sp}{sp}{sp}{sp}{sp}{col:-}タイプ{p}{end}
+EN: {col:0}Name{n}{n}Nick{n}{n}School{n}{n}Gender{n}{n}Bday          {col:-}/{n}{n}{col:0}Best              Worst{n}{n}Type{col:-}{p}{end}
+
+## MBMS00 g6 s0015
+JP: 記入項目に誤りはありませんか?{n}{n}{sp}提出OK{sp}{sp}{sp}{sp}書き直し{p}{end}
+EN: Is everything correct?{n}{n}  Submit          Redo{p}{end}
+
+## MBMS00 g6 s0016
+JP: {col:0}顔{col:-}を選択して下さい{n}{n}{n}{n}{n}{n}{n}{n}{n}{n}{n}{n}{n}{n}{n}{col:4}決定{col:-}{p}{end}
+EN: Choose your {col:0}face{col:-}.{n}{n}{n}{n}{n}{n}{n}{n}{n}{n}{n}{n}{n}{n}{n}{col:4}Done{col:-}{p}{end}
+
+## MBMS00 g6 s0017
+JP: 目鼻口{p}
+EN: {t:Eye}{t:Nos}{t:Mth}{p}
+
+## MBMS00 g6 s0018
+JP: ←→{p}{end}
+EN: =
+
+## MBMS00 g6 s0021
+JP: パシフィックハイスクール{p}{end}
+EN: Pacific High{p}{end}
+
+## MBMS00 g6 s0023
+JP: EVO{p}
+EN: =
+
+## MBMS00 g6 s0024
+JP: エボディスク{p}{end}
+EN: Evo Disc{p}{end}
+
+## MBMS00 g6 s0025
+JP: 720327{p}{end}
+EN: =
+
+## MBMS00 g6 s0026
+JP: 山本{p}{end}
+EN: =
+
+## MBMS00 g6 s0027
+JP: 敏行{p}{end}
+EN: =
+
+## MBMS00 g6 s0028
+JP: モツ{p}{end}
+EN: =
+
+## MBMS00 g6 s0029
+JP: 710411{p}{end}
+EN: =
+
+## MBMS00 g6 s0030
+JP: 廣門{p}{end}
+EN: =
+
+## MBMS00 g6 s0031
+JP: 輝明{p}{end}
+EN: =
+
+## MBMS00 g6 s0032
+JP: ピロール{p}{end}
+EN: =
+
+## MBMS00 g6 s0033
+JP: 721027{p}{end}
+EN: =
+
+## MBMS00 g6 s0034
+JP: 廣瀬{p}{end}
+EN: =
+
+## MBMS00 g6 s0035
+JP: 紀生{p}{end}
+EN: =
+
+## MBMS00 g6 s0036
+JP: セーラー{p}{end}
+EN: =
+
+## MBMS00 g6 s0037
+JP: 710604{p}{end}
+EN: =
+
+## MBMS00 g6 s0038
+JP: 香川{p}{end}
+EN: =
+
+## MBMS00 g6 s0039
+JP: 雄一{p}{end}
+EN: =
+
+## MBMS00 g6 s0040
+JP: オカズ{p}
+EN: =
+
+## MBMS00 g6 s0041
+JP: 690721{p}{end}
+EN: =
+
+## MBMS00 g6 s0042
+JP: 福島{p}{end}
+EN: =
+
+## MBMS00 g6 s0043
+JP: 淳史{p}{end}
+EN: =
+
+## MBMS00 g6 s0044
+JP: コブタ{p}
+EN: =
+
+## MBMS00 g6 s0045
+JP: 711228{p}{end}
+EN: =
+
+## MBMS00 g6 s0046
+JP: 染谷{p}{end}
+EN: =
+
+## MBMS00 g6 s0047
+JP: 勝彦{p}{end}
+EN: =
+
+## MBMS00 g6 s0048
+JP: ソメヤン{p}{end}
+EN: =
+
+## MBMS00 g6 s0049
+JP: 720121{p}{end}
+EN: =
+
+## MBMS00 g6 s0050
+JP: 川瀬{p}{end}
+EN: =
+
+## MBMS00 g6 s0051
+JP: 学{p}
+EN: =
+
+## MBMS00 g6 s0052
+JP: チルダ{p}
+EN: =
+
+## MBMS00 g6 s0053
+JP: 700825{p}{end}
+EN: =
+
+## MBMS00 g6 s0054
+JP: 伊津野{p}
+EN: =
+
+## MBMS00 g6 s0055
+JP: 英昭{p}{end}
+EN: =
+
+## MBMS00 g6 s0056
+JP: ヒデ{p}{end}
+EN: =
+
+## MBMS00 g6 s0057
+JP: 730221{p}{end}
+EN: =
+
+## MBMS00 g6 s0058
+JP: 舩本{p}{end}
+EN: =
+
+## MBMS00 g6 s0059
+JP: 裕司{p}{end}
+EN: =
+
+## MBMS00 g6 s0060
+JP: スグル{p}
+EN: =
+
+## MBMS00 g6 s0061
+JP: 731127{p}{end}
+EN: =
+
+## MBMS00 g6 s0062
+JP: 寺田{p}{end}
+EN: =
+
+## MBMS00 g6 s0063
+JP: 隆良{p}{end}
+EN: =
+
+## MBMS00 g6 s0064
+JP: バナーン{p}{end}
+EN: =
+
+## MBMS00 g6 s0065
+JP: 700531{p}{end}
+EN: =
+
+## MBMS00 g6 s0066
+JP: 中江{p}{end}
+EN: =
+
+## MBMS00 g6 s0067
+JP: 竜也{p}{end}
+EN: =
+
+## MBMS00 g6 s0068
+JP: ダイチン{p}{end}
+EN: =
+

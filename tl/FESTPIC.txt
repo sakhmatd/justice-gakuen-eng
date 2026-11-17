@@ -1,0 +1,96 @@
+# Festival minigame pictures (MINITTL1-8 title and rules pages) and the
+# CEFT5 HUD labels. Rects and styles: data/fest_pics.tsv.
+# '|' forces a line break. Without '|' the builder wraps to fit the rect.
+# {icons} marks where the original inline button icons stay (line start).
+# HUD rows with two parts (hud_ato_kyu): left text | right text around the
+# ball-count digit; an empty side is cleared.
+t1_title: Shoma's Home Run Derby
+t1_bubble: Take control of me|and go for a record!
+t2_title: Roberto's PK Shootout
+t2_bubble: Take control of me|and win the shootout!
+t3_title: Roberto's Explosive Shot
+t3_bubble: Take control of me|and go for a record!
+t4_title: Natsu's Service Ace
+t4_bubble: Take control of me|and set a new record!
+t5_title: Shoma's Home Run Derby
+t5_stamp: PRACTICE
+t5_bubble: Good attitude!|Practice hard so|you don't blow it!
+t6_title: Roberto's PK Shootout
+t6_stamp: PRACTICE
+t6_bubble: Good attitude!|Practice hard so|you don't blow it!
+t7_title: Roberto's Explosive Shot
+t7_stamp: PRACTICE
+t7_bubble: Good attitude!|Practice hard so|you don't blow it!
+t8_title: Natsu's Service Ace
+t8_stamp: PRACTICE
+t8_bubble: Good attitude!|Practice hard so|you don't blow it!
+r1_hdr: Home Run Derby: Rules & Controls
+r1_h_rule: Rules
+r1_rule: Take 10 swings. Your score is the total distance of your 5 longest hits. Fouls and misses count as 0 m.
+r1_h_ctrl: Controls
+r1_c1: Use the D-pad to set Shoma's position in the box.
+r1_c2: {icons} Swing the bat.
+r1_k1: Move Shoma
+r1_k2: Swing
+r1_back: Back
+r2a_hdr: PK Shootout: Rules & Controls
+r2a_h_rule: Rules
+r2a_rule: Play a PK shootout as Roberto. Each side takes 5 kicks, and whoever scores more wins.
+r2a_h_ctrl: Kicker Controls
+r2a_c1: Use the D-pad to aim your kick.
+r2a_c2: {icons} Any of these starts Roberto's run-up.
+r2a_c3: Until you kick, use the D-pad to set how much the ball curves.
+r2a_k1: Explosive V Goal|(uses the Guts gauge)
+r2a_k2: Strong Shot
+r2a_k3: Weak Shot
+r2a_k4: Explosive V Goal|(uses the Guts gauge)
+r2a_k5: Aim gauge ON/OFF
+r2a_k6: Change the view.
+r2a_back: Back
+r2b_hdr: PK Shootout: Rules & Controls
+r2b_h_ctrl: Keeper Controls
+r2b_c1: Use the D-pad to move.
+r2b_c2: D-pad + a button makes a save attempt. Each button does a different move.
+r2b_k1: Shining Save (Strong)|(uses the Guts gauge)
+r2b_k2: Strong Save
+r2b_k3: Weak Save
+r2b_k4: Shining Save (Weak)|(uses the Guts gauge)
+r2b_gauge: Aim Gauge
+r2b_gauge_t: Left/right kick angle|Up/down kick angle
+r2b_back: Back
+r3_hdr: Explosive Shot: Rules & Controls
+r3_h_rule: Rules
+r3_rule: Shoot to knock down the score panels in the goal. The total of 6 balls counts. Besides the panel points, hitting a post to knock a panel down earns Frame points, and curving the ball into a panel earns Art points.
+r3_h_ctrl: Controls
+r3_c1: Use the D-pad to aim your shot.
+r3_c2: {icons} Either one starts Roberto's run-up.
+r3_c3: Until you shoot, use the D-pad to set how much the ball curves.
+r3_k1: Strong Shot
+r3_k2: Weak Shot
+r3_k3: Change the view.
+r3_back: Back
+r4_hdr: Service Ace: Rules & Controls
+r4_h_rule: Rules
+r4_rule: Serve at the face characters and catch them in the blast to score. The total of 8 serves counts.
+r4_h_ctrl: Controls
+r4_c1: Use Left/Right on the D-pad to aim the serve.
+r4_c2: {icons} Press to set the power.
+r4_c3: How long you hold the button sets the serve angle.
+r4_c4: Release the button to serve.
+r4_power: Power Gauge
+r4_power_t: Sets the serve power.
+r4_angle: Angle Gauge
+r4_angle_t: Sets the serve's up/down angle.
+r4_back: Back
+# CEFT5 HUD (16 px sprites; short labels fit in place, see pics_notes.txt)
+hud_konjo: Guts
+hud_ato_kyu: Balls|
+hud_genzai: Now
+hud_saiko: Best
+hud_ten: pt
+hud_geijutsu: Art
+hud_frame: Frame
+# end-of-round box (CEFT5 656,168; question, then the two choices)
+hud_again: Play again?
+hud_yes: Yes
+hud_no: No

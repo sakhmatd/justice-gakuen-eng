@@ -1,0 +1,4856 @@
+## MBMS08 g0 s0000
+JP: うーーーん。{n}電車に揺られて、3時間…。{n}やっとついたな…。{p}{end}
+EN: Mmmm. Three hours rattling along on the train... Finally made it...{p}{end}
+
+## MBMS08 g0 s0001
+JP: 空は青いし、空気もキレイ!{n}ホテルも、なかなかいい感じ。{n}さぁて、のんびり羽根をのばすぞぉ!{p}{end}
+EN: Blue skies, clean air! The hotel looks pretty nice too. Alright, time to kick back and relax!{p}{end}
+
+## MBMS08 g0 s0002
+JP: コラァッ!お前たちっ!{n}すぐに、遠泳を始めるぞぉ!{n}荷物を置いたら、ビーチに集合だぁっ!{p}{end}
+EN: Hey! You lot! We start the long-distance swim right now! Drop your bags and assemble on the beach!{p}{end}
+
+## MBMS08 g0 s0003
+JP: うげげっっ…{n}そうだ、午前中は遠泳するんだっけ…。{n}（でも、何でもう水着になってるんだ?）{p}
+EN: Ugh... Right, we've got the distance swim this morning... (But why is he already in his swimsuit?){p}
+
+## MBMS08 g0 s0004
+JP: ハァハァ…{n}さ、さすがに、沖の島まで泳いで{n}往復するってのは、キツかったなぁ。{p}
+EN: Huff, huff... S-swimming all the way to that island and back was brutal.{p}
+
+## MBMS08 g0 s0005
+JP: これが楽しみで、隼人先生は{n}あんなにハリキってたのか…。{n}……なっ、納得。{p}
+EN: So this is what Hayato-sensei was so fired up about... ......M-makes sense.{p}
+
+## MBMS08 g0 s0006
+JP: でも、確か午後からは{n}自由行動だったな。{n}俺は、誰と遊ぼうかなぁ…。{p}{end}
+EN: But I think we've got free time this afternoon. Who should I hang out with...{p}{end}
+
+## MBMS08 g0 s0007
+JP: あっ、いたいたぁー、{v7:1}!{n}バツが大っきいスイカを{n}見つけてきたんだ。{n}スイカ割りしようよ!{p}{end}
+EN: Oh, there you are, {v7:1}! Batsu found a huge watermelon. Let's play watermelon splitting!{p}{end}
+
+## MBMS08 g0 s0008
+JP: （はうッ!{n}{sp}適度に鍛えられた、無駄のない肉体!{n}{sp}じ、実に高校生らしい…。{n}{sp}これぞ、健康美!）{p}
+EN: (Whoa! A toned body without an ounce of waste! S-so wholesome and high-school... The very picture of healthy beauty!){p}
+
+## MBMS08 g0 s0009
+JP: ダメダメッ!!{n}{v7:4}は、{n}アタシとビーチバレーするのよね?{n}ねっ、そうよねっ?{p}
+EN: No way!! {v7:4} is playing beach volleyball with me, right? Right?{p}
+
+## MBMS08 g0 s0010
+JP: （ごふッ!{n}{sp}モデルなみの長身とプロポーション!{n}{sp}ま、まさに、全国レベル!）{p}
+EN: (Oof! Model-level height and proportions! Th-that's national-class for sure!){p}
+
+## MBMS08 g0 s0011
+JP: ノンノン!{sp}そうは問屋が{n}オロシガネ!{n}{v3:7}は、ミーと一緒に{n}ビーチで肌をマルヤキするんですネ!{p}{end}
+EN: Non non! Don't count your chickens before they catch! {v3:7} is gonna roast on the beach with me, nice and crispy!{p}{end}
+
+## MBMS08 g0 s0012
+JP: （ぐはッ!{n}{sp}舶来品だけが持つ、このボリューム感…。{n}{sp}アメリカの大地よ、ありがとう!）{p}{end}
+EN: (Gah! The volume only imported goods can offer... Thank you, great land of America!){p}{end}
+
+## MBMS08 g0 s0013
+JP: （なんか、すごくモテてるみたいだ…{n}{sp}うーん、どうしよう?）{p}{end}
+EN: (Looks like I'm really popular all of a sudden... Hmm, what should I do?){p}{end}
+
+## MBMS08 g0 s0014
+JP: ひなたたちと遊ぶ{n}夏たちと遊ぶ{n}ティファニーたちと遊ぶ{n}へとへとで動けないよぉ～{p}{end}
+EN: Play with Hinata's group{n}Play with Natsu's group{n}Play with Tiffany's group{n}Too pooped to move...{p}{end}
+
+## MBMS08 g0 s0015
+JP: やったねっ!{n}じゃあ、行こ行こっ!{p}
+EN: Yay! Okay, let's go, let's go!{p}
+
+## MBMS08 g0 s0016
+JP: そうこなくっちゃ!{n}向こうで、将馬たちが待ってるわ。{n}行きましょ!{p}
+EN: That's what I like to hear! Shoma and the others are waiting over there. Let's go!{p}
+
+## MBMS08 g0 s0017
+JP: やっぱり、{v3:7}は話せるね!{n}ミーが、ニコンだだけのことはあるよ!{n}さ、ロイたちが待ってるから{n}レッツゴーね!{p}{end}
+EN: I knew it, {v3:7}, you get it! I saw potato in you for a reason! Come on, Roy and the others are waiting. Let's go!{p}{end}
+
+## MBMS08 g0 s0018
+JP: （それをいうなら、{n}{sp}『見込んだ』なのでは…。）{p}{end}
+EN: (I think she means "potential"...){p}{end}
+
+## MBMS08 g0 s0019
+JP: もう、だらしないなぁ。{n}じゃあ、ホテルに帰ったら遊ぼうよ。{n}じゃあね!{p}
+EN: Geez, you're such a wimp. Okay, let's play once we're back at the hotel. See ya!{p}
+
+## MBMS08 g0 s0020
+JP: せっかく誘ってくれたのに、{n}ちょっと、もったいなかったかな…。{p}
+EN: They went to the trouble of inviting me... Maybe I blew a good chance.{p}
+
+## MBMS08 g0 s0021
+JP: さてと…、{n}どこか別の場所で、ゆっくり休もう。{p}
+EN: Well then... I'll go rest somewhere else for a while.{p}
+
+## MBMS08 g0 s0022
+JP: 広場で休む{n}ホテルで休む{p}{end}
+EN: Rest at the plaza{n}Rest at the hotel{p}{end}
+
+## MBMS08 g0 s0023
+JP: じゃあ、広場まで行って休もう。{p}
+EN: Okay, I'll head to the plaza and rest.{p}
+
+## MBMS08 g0 s0024
+JP: じゃあ、ホテルに戻って休もう。{p}
+EN: Okay, I'll go back to the hotel and rest.{p}
+
+## MBMS08 g0 s0025
+JP: くっそぉっっ!!{n}外れちまったぜっ!{n}恭介っ!{sp}てめぇ、{n}だましやがったな!{p}{end}
+EN: Dammit!! I missed! Kyosuke! You tricked me!{p}{end}
+
+## MBMS08 g0 s0026
+JP: 僕はちゃんと教えてやったのに、{n}バツが勝手に、空振りしただけだ。{p}{end}
+EN: I told you the right way. You just swung at thin air on your own.{p}{end}
+
+## MBMS08 g0 s0027
+JP: くすくす…{n}じゃあ、次は{v7:1}ね!{n}用意はいい?{sp}目隠しするよ。{p}
+EN: Hee hee... Okay, {v7:1}, you're next! Ready? I'm putting the blindfold on.{p}
+
+## MBMS08 g0 s0028
+JP: （グルグル回されて、{n}{sp}もうどっちにスイカがあるか、{n}{sp}わからなくなってしまった…）{p}{end}
+EN: (They spun me around and around, and now I have no idea where the watermelon is...){p}{end}
+
+## MBMS08 g0 s0029
+JP: そうそう!{n}そのまま、真っ直ぐだよ!{p}{end}
+EN: That's it! Keep going straight!{p}{end}
+
+## MBMS08 g0 s0030
+JP: （これは、ひなたの声だな。{n}{sp}そうか、このまま真っ直ぐだな）{p}{end}
+EN: (That's Hinata's voice. Okay, straight ahead.){p}{end}
+
+## MBMS08 g0 s0031
+JP: {v3:0}!{n}もっと右だ、右ッ!{p}
+EN: {v3:0}! More to the right! Right!{p}
+
+## MBMS08 g0 s0032
+JP: （これはバツの声だな。{n}{sp}もっと、右か…）{p}
+EN: (That's Batsu's voice. More to the right...){p}
+
+## MBMS08 g0 s0033
+JP: 違う!{sp}左だ!{n}僕を信じろ!{p}{end}
+EN: No! Left! Trust me!{p}{end}
+
+## MBMS08 g0 s0034
+JP: （これは恭介の声だな。{n}{sp}左にいくのか…）{p}
+EN: (That's Kyosuke's voice. Go left...?){p}
+
+## MBMS08 g0 s0035
+JP: （{face:8}・・・・・・・・・・{face:255}。）{p}
+EN: ({face:8}..........{face:255}){p}
+
+## MBMS08 g0 s0036
+JP: （おいおい、ちょっと待て。{n}{sp}みんな、言ってることが{n}{sp}バラバラだぞ…。{n}{sp}誰の言葉を信じればいいんだ!?）{p}{end}
+EN: (Hey, hold on a sec. They're all saying different things... Who am I supposed to trust!?){p}{end}
+
+## MBMS08 g0 s0037
+JP: ひなたの声を信じる{n}バツの声を信じる{n}恭介の声を信じる{p}
+EN: Trust Hinata's voice{n}Trust Batsu's voice{n}Trust Kyosuke's voice{p}
+
+## MBMS08 g0 s0038
+JP: よし!{n}ひなたを信じて、真っ直ぐだ!{n}それっ!!{p}{end}
+EN: Okay! I'll trust Hinata and go straight! Hyah!!{p}{end}
+
+## MBMS08 g0 s0039
+JP: 当たったぁ!!{sp}やったねっ!{n}ほらね、私のいったとおりでしょ!{p}
+EN: You hit it!! Yay! See, it's just like I said!{p}
+
+## MBMS08 g0 s0040
+JP: あんな、ウソつき君たちは{n}放っておいて、向こうで{n}二人だけでスイカ食べよ!{n}さっ、行こ行こっ!{p}
+EN: Let's leave those liars alone and eat the watermelon over there, just the two of us! C'mon, let's go!{p}
+
+## MBMS08 g0 s0041
+JP: 甘くて、おいしーい!{n}やっぱり、夏は海とスイカだよね。{p}
+EN: So sweet and yummy! Summer just means the beach and watermelon, right?{p}
+
+## MBMS08 g0 s0042
+JP: そうだ!{n}夕食の後に、{col:3}本館2F{col:-}においでよ。{p}
+EN: Oh, I know! Come to {col:3}Main Bldg. 2F{col:-} after dinner.{p}
+
+## MBMS08 g0 s0043
+JP: 夜もみんなで、一緒に遊ぼうよ!{p}
+EN: Let's all hang out together tonight too!{p}
+
+## MBMS08 g0 s0044
+JP: （ひなたたちは、夜も集まるのか…。{n}{sp}部屋は、{col:3}本館2F{col:-}だな。{n}{sp}よし、覚えておこう!）{p}
+EN: (So Hinata's group is getting together tonight too... The room's on {col:3}Main Bldg. 2F{col:-}. Okay, I'll remember that!){p}
+
+## MBMS08 g0 s0045
+JP: あ、あのさ…、夕食の後、{n}ちょっとだけ{n}付き合ってくれないかな…。{p}
+EN: Um, hey... After dinner, could you spend a little time with me...?{p}
+
+## MBMS08 g0 s0046
+JP: わ、私、ホテルの前で待ってるから、{n}必ず来てね。{n}………約束だよ{col:5}♥{col:-}{p}
+EN: I-I'll wait in front of the hotel, so be sure to come. ......It's a promise{col:5}♥{col:-}{p}
+
+## MBMS08 g0 s0047
+JP: （夕食の後って…、{n}{sp}もうすっかり暗くなってるぞ。）{p}{end}
+EN: (After dinner... It'll be totally dark by then.){p}{end}
+
+## MBMS08 g0 s0048
+JP: （そんな時間に会おうってことは…、{n}{sp}もしかして、{n}{sp}なにか、スゴイことが{n}{sp}起こるのでは!?）{p}{end}
+EN: (If she wants to meet at that hour... could something amazing be about to happen!?){p}{end}
+
+## MBMS08 g0 s0049
+JP: よし!{n}バツを信じて、右だ!{n}おりゃぁぁっ!!{p}
+EN: Okay! I'll trust Batsu and go right! Hiyaaah!!{p}
+
+## MBMS08 g0 s0050
+JP: おっしゃあっ!{n}ドンピシャで、スイカに当たったぜ!{n}ほらな、オレの言ったとおりだろ!{p}{end}
+EN: Yeah!! Smack on the watermelon! See, just like I said!{p}{end}
+
+## MBMS08 g0 s0051
+JP: まったく、あいつら、ひでぇよなぁ!{n}あんなウソつき野郎たちは{n}放っといて、向こうで、二人だけで{n}スイカ食っちまおうぜ!{p}
+EN: Man, those guys are the worst! Forget those lying jerks. Let's go over there and scarf down the watermelon, just us two!{p}
+
+## MBMS08 g0 s0052
+JP: やっぱ、スイカってうまいよな!{n}ガキのころは、夏っていやぁ、{n}これが楽しみだったんだよなぁ。{p}{end}
+EN: Watermelon's the best! When I was a kid, this was what summer was all about.{p}{end}
+
+## MBMS08 g0 s0053
+JP: なぁ!{n}晩メシの後に、{col:3}本館2F{col:-}に来いよ!{n}あいつらも来るっていってたしよ。{p}
+EN: Hey! Come to {col:3}Main Bldg. 2F{col:-} after dinner! The others said they're coming too.{p}
+
+## MBMS08 g0 s0054
+JP: せっかく、合宿に来たんだ、{n}楽しまなくっちゃな!{p}{end}
+EN: We came all the way out to camp. Gotta have some fun!{p}{end}
+
+## MBMS08 g0 s0055
+JP: （そうだな、せっかく来たんだし。{n}{sp}部屋は、{col:3}本館2F{col:-}だな。{n}{sp}よし!{sp}思い切り遊ぶぞ!）{p}{end}
+EN: (Yeah, we did come all this way. The room's on {col:3}Main Bldg. 2F{col:-}. Alright! I'm gonna play my heart out!){p}{end}
+
+## MBMS08 g0 s0056
+JP: なぁ!{n}夕食の後、ちょっと付き合えよ!{p}
+EN: Hey! Hang out with me after dinner!{p}
+
+## MBMS08 g0 s0057
+JP: 夜、二人でホテルを抜け出そうぜ!{n}オレ、ホテルの前で待ってるからよ、{n}出てこいよ!{p}
+EN: Let's sneak out of the hotel tonight, just us two! I'll be waiting out front, so come on out!{p}
+
+## MBMS08 g0 s0058
+JP: （ほんとに、バツは、{n}{sp}じっとしてられない性格だなぁ…。）{p}
+EN: (Batsu really can't sit still, can he...){p}
+
+## MBMS08 g0 s0059
+JP: （よし!{n}{sp}夜もまた、思いっきり遊ぶぞ!）{p}
+EN: (Alright! I'm gonna play my heart out tonight too!){p}
+
+## MBMS08 g0 s0060
+JP: よし!{n}恭介を信じて、左だ!{n}とうっ!!{p}{end}
+EN: Okay! I'll trust Kyosuke and go left! Hah!!{p}{end}
+
+## MBMS08 g0 s0061
+JP: ほら、僕のいったとおりだろ?{n}見事に命中だ。{p}{end}
+EN: See? Just like I told you. A perfect hit.{p}{end}
+
+## MBMS08 g0 s0062
+JP: あんな、友達甲斐のないやつらは{n}放っておいて、僕らは向こうで食べよう。{n}さあ、行こう!{p}
+EN: Let's leave those lousy friends behind and go eat over there. Come on!{p}
+
+## MBMS08 g0 s0063
+JP: スイカなんて久しぶりだな…。{n}子供の頃は、兄さんとよく食べてたけど、{n}一人暮らしだと、なかなかね……。{p}
+EN: It's been a while since I've had watermelon... I used to eat it with my brother as a kid, but living alone, I never get around to it...{p}
+
+## MBMS08 g0 s0064
+JP: そうだ、{n}夕食の後に、{col:3}本館2F{col:-}に来ないか?{p}
+EN: Oh, right. Why don't you come to {col:3}Main Bldg. 2F{col:-} after dinner?{p}
+
+## MBMS08 g0 s0065
+JP: たぶんまた、バツたちも{n}来るだろうから、{n}退屈はしないと思うけどな。{p}{end}
+EN: Batsu and the others will probably show up again, so I doubt you'll be bored.{p}{end}
+
+## MBMS08 g0 s0066
+JP: （夜もまた、恭介たちと遊ぶのもいいな。{n}{sp}部屋は、{col:3}本館2F{col:-}だな。{n}{sp}よし、覚えておこう!）{p}
+EN: (Hanging out with Kyosuke and the others tonight sounds good. The room's on {col:3}Main Bldg. 2F{col:-}. Okay, I'll remember that!){p}
+
+## MBMS08 g0 s0067
+JP: そうだ、夕食の後、{n}ちょっと付き合ってくれないか?{p}
+EN: Oh, right. Could you spare me a little time after dinner?{p}
+
+## MBMS08 g0 s0068
+JP: ホテルの前で待ち合わせしよう。{n}自由時間なんだし、別にかまわないだろ?{p}
+EN: Let's meet in front of the hotel. It's free time anyway, so that should be fine, right?{p}
+
+## MBMS08 g0 s0069
+JP: （そういえば、{n}{sp}夕食の後って、自由時間だったな。）{p}{end}
+EN: (Come to think of it, after dinner is free time.){p}{end}
+
+## MBMS08 g0 s0070
+JP: （よし!{n}{sp}夜もまた、恭介と一緒に遊ぼう!）{p}{end}
+EN: (Alright! I'll hang out with Kyosuke again tonight!){p}{end}
+
+## MBMS08 g0 s0071
+JP: なんで、オイラの苦手な{n}バレーボールなんかするんだよっ!{n}野球やろうぜ、野球っ!{p}{end}
+EN: Why are we playing volleyball? I stink at it! Let's play baseball, baseball!{p}{end}
+
+## MBMS08 g0 s0072
+JP: しかたがないだろ。{n}たったこれだけの広さでは、{n}野球もサッカーもできないよ。{p}{end}
+EN: Can't be helped. There's not enough room here for baseball or soccer.{p}{end}
+
+## MBMS08 g0 s0073
+JP: ほら、文句いってないで、{n}ジャンケンで2人1組に{n}チーム分けするわよ。{p}
+EN: Come on, quit complaining. We'll split into teams of two with rock-paper-scissors.{p}
+
+## MBMS08 g0 s0074
+JP: （よぅし!{sp}俺は絶対………）{p}{end}
+EN: (Alright! I'm definitely gonna......){p}{end}
+
+## MBMS08 g0 s0075
+JP: 夏とペアを組むぞ!{n}将馬とペアを組むぞ!{n}ロベルトとペアを組むぞ!{p}
+EN: Pair up with Natsu!{n}Pair up with Shoma!{n}Pair up with Roberto!{p}
+
+## MBMS08 g0 s0076
+JP: グッ、パーでホイ!!{p}{end}
+EN: Rock or paper, shoot!!{p}{end}
+
+## MBMS08 g0 s0077
+JP: じゃあアタシは、{n}{v7:4}とペアね!{p}{end}
+EN: Okay, I'm paired with {v7:4}!{p}{end}
+
+## MBMS08 g0 s0078
+JP: それじゃあ、はじめるわよ!{n}そぉーれっ!!{p}
+EN: Alright, let's get started! Heeere goes!!{p}
+
+## MBMS08 g0 s0079
+JP: （さ、さすが五輪高校だ!{n}{sp}なんか、すごいレベルの試合だぞ!{n}{sp}も…燃えてきたぜっ!!）{p}{end}
+EN: (Th-that's Gorin High for you! This match is on a whole other level! I-I'm getting fired up!!){p}{end}
+
+## MBMS08 g0 s0080
+JP: キメるよ!!{p}{end}
+EN: Let's finish it!!{p}{end}
+
+## MBMS08 g0 s0081
+JP: おうっ!!{p}
+EN: Yeah!!{p}
+
+## MBMS08 g0 s0082
+JP: Wスカイアターーーック!!{p}
+EN: Final Spiiike!!{p}
+
+## MBMS08 g0 s0083
+JP: ドガッ!!!!!{p}{end}
+EN: WHAM!!!!!{p}{end}
+
+## MBMS08 g0 s0084
+JP: {face:8}・・・・・・・・・・{face:255}勝ったな。{p}
+EN: {face:8}..........{face:255}We won.{p}
+
+## MBMS08 g0 s0085
+JP: アタシにバレーで挑むなんて、{n}10年早かったわね。{p}
+EN: Challenging me at volleyball? You're ten years too early.{p}
+
+## MBMS08 g0 s0086
+JP: さぁ、そこの負け犬さんたちに、{n}かき氷でもご馳走して{n}もらいましょうか!{p}{end}
+EN: Now then, let's have the losers over there treat us to shaved ice!{p}{end}
+
+## MBMS08 g0 s0087
+JP: く、くっそぉ～～～～っ!!{p}
+EN: D-dammit~~~!!{p}
+
+## MBMS08 g0 s0088
+JP: アハハハッ。{n}そうだ!{sp}{v7:4}!{n}夕食の後、{col:3}本館3F{col:-}に遊びに来なよ!{p}
+EN: Ahaha. Oh, I know! {v7:4}! Come hang out at {col:3}Main Bldg. 3F{col:-} after dinner!{p}
+
+## MBMS08 g0 s0089
+JP: 将馬たちも来るからさ、{n}夜も一緒に遊ぼうよ!{p}{end}
+EN: Shoma and the guys are coming too, so let's hang out tonight too!{p}{end}
+
+## MBMS08 g0 s0090
+JP: （夏たちは、夜も集まるのか…。{n}{sp}部屋は、{col:3}本館3F{col:-}だな。{n}{sp}よし、覚えておこう!）{p}
+EN: (So Natsu's group is getting together tonight too... The room's on {col:3}Main Bldg. 3F{col:-}. Okay, I'll remember that!){p}
+
+## MBMS08 g0 s0091
+JP: アハハハッ。{n}……そ、そうだ。{v7:4}…。{n}あ、あのさ…、夕食の後、{n}ちょっと付き合ってくれないかな…。{p}{end}
+EN: Ahaha. ...Oh, r-right. {v7:4}... Um, hey... After dinner, could you spend a little time with me...?{p}{end}
+
+## MBMS08 g0 s0092
+JP: ア、アタシ、ホテルの前で待ってるから、{n}必ず来てね。{n}………だ、だめかな?{p}
+EN: I-I'll be waiting in front of the hotel, so be sure to come. ......I-is that okay?{p}
+
+## MBMS08 g0 s0094
+JP: （そんな時間に会おうってことは…、{n}{sp}もしかして、{n}{sp}なにか、スゴイことが起こるのでは!?）{p}{end}
+EN: (If she wants to meet at that hour... could something amazing be about to happen!?){p}{end}
+
+## MBMS08 g0 s0095
+JP: よし!{sp}オイラは、{n}{v3:3}とペアだな!{p}{end}
+EN: Alright! I'm with {v3:3}!{p}{end}
+
+## MBMS08 g0 s0096
+JP: こうなりゃ、目にもの見せてやるぜ!{n}いくぞ、そぉーりゃっ!!{p}{end}
+EN: Time to show 'em what we've got! Here goes, hyaaah!!{p}{end}
+
+## MBMS08 g0 s0098
+JP: おらぁっ、いくぜぇっ!!{p}{end}
+EN: Take this, here it comes!!{p}{end}
+
+## MBMS08 g0 s0100
+JP: ダブルホームラン打法!!{p}{end}
+EN: Grand Slam!!{p}{end}
+
+## MBMS08 g0 s0103
+JP: {v3:3}、バレーうまいんだな!{n}驚いちまったぜ!{n}まあ、オイラも結構、{n}イイ感じだったよな!{p}{end}
+EN: {v3:3}, you're good at volleyball! Ya surprised me! Course, I was lookin' pretty good too, huh!{p}{end}
+
+## MBMS08 g0 s0104
+JP: 夏よぉ、お前のバレーの腕って、{n}あんまし、大したことないんだなぁー。{p}{end}
+EN: Hey Natsu, turns out your volleyball skills ain't all that, huh?{p}{end}
+
+## MBMS08 g0 s0105
+JP: なんですってぇっ!!{n}アンタは全然、{n}活躍してなかったじゃないのよぉっ!!{p}
+EN: Excuse me!? You didn't do a single useful thing out there!!{p}
+
+## MBMS08 g0 s0106
+JP: アハハッ、負け惜しみいってらぁ!{n}そうだ、{v3:3}!{n}晩メシの後、{col:3}本館3F{col:-}に遊びに来いよ!{p}
+EN: Ahaha, sore loser! Oh, hey, {v3:3}! Come hang out at {col:3}Main Bldg. 3F{col:-} after dinner!{p}
+
+## MBMS08 g0 s0107
+JP: 夜もまた、オイラたちと遊ぼうぜ!{p}{end}
+EN: Let's hang out again tonight!{p}{end}
+
+## MBMS08 g0 s0108
+JP: （将馬たちは、夜も集まるのか…。{n}{sp}部屋は、{col:3}本館3F{col:-}だな。{n}{sp}よし、覚えておこう!）{p}{end}
+EN: (So Shoma's group is getting together tonight too... The room's on {col:3}Main Bldg. 3F{col:-}. Okay, I'll remember that!){p}{end}
+
+## MBMS08 g0 s0109
+JP: アハハッ、負け惜しみいってらぁ!{n}なあっ!{sp}{v3:3}!{n}夕食の後、ちょっと付き合えよっ!{p}{end}
+EN: Ahaha, sore loser! Hey! {v3:3}! Hang out with me after dinner!{p}{end}
+
+## MBMS08 g0 s0110
+JP: ホテルの前で待ってるからよ、{n}ゼッタイ来いよなっ!!{p}{end}
+EN: I'll be waitin' in front of the hotel, so ya better come!!{p}{end}
+
+## MBMS08 g0 s0112
+JP: （よし!{n}{sp}夜もまた、将馬と一緒に遊ぼう!）{p}{end}
+EN: (Alright! I'll hang out with Shoma again tonight!){p}{end}
+
+## MBMS08 g0 s0113
+JP: じゃ、俺は{n}{v3:5}とペアだな!{p}{end}
+EN: Then I'm paired with {v3:5}!{p}{end}
+
+## MBMS08 g0 s0114
+JP: ハリキっていこうぜ!{n}それっ!!{p}{end}
+EN: Let's give it our all! Here we go!!{p}{end}
+
+## MBMS08 g0 s0116
+JP: センタリング!!{p}{end}
+EN: Centering!!{p}{end}
+
+## MBMS08 g0 s0118
+JP: トラップWシュート!!{p}
+EN: Double Shot!!{p}
+
+## MBMS08 g0 s0121
+JP: ナイスプレイ!{sp}{v3:5}!{n}実にいい試合だったよ!{p}
+EN: Nice play, {v3:5}! That was a really good match!{p}
+
+## MBMS08 g0 s0122
+JP: む、無念だわ………。{n}この馬鹿がパートナーでなければ、{n}勝てたのに………。{p}
+EN: S-so frustrating... If this idiot hadn't been my partner, we would've won...{p}
+
+## MBMS08 g0 s0123
+JP: だれが、馬鹿だとお!?{p}
+EN: Who're you callin' an idiot!?{p}
+
+## MBMS08 g0 s0124
+JP: オイオイ、またケンカかよ……。{n}そうだ、{v3:5}!{n}夕食の後、{col:3}本館3F{col:-}に遊びに来ないか!{p}{end}
+EN: Hey now, fighting again... Oh, right, {v3:5}! Wanna come hang out at {col:3}Main Bldg. 3F{col:-} after dinner?{p}{end}
+
+## MBMS08 g0 s0125
+JP: 夜もまた、俺たちと楽しもうぜ!{p}
+EN: Let's have fun together tonight too!{p}
+
+## MBMS08 g0 s0126
+JP: （ロベルトたちは、夜も集まるのか…。{n}{sp}部屋は、{col:3}本館3F{col:-}だな。{n}{sp}よし、覚えておこう!）{p}{end}
+EN: (So Roberto's group is getting together tonight too... The room's on {col:3}Main Bldg. 3F{col:-}. Okay, I'll remember that!){p}{end}
+
+## MBMS08 g0 s0127
+JP: オイオイ、またケンカかよ……。{n}そうだ、{v3:5}!{n}夕食の後、ちょっと付き合ってくれないか?{p}{end}
+EN: Hey now, fighting again... Oh, right, {v3:5}! Could you spare me some time after dinner?{p}{end}
+
+## MBMS08 g0 s0128
+JP: ホテルの前で待ち合わせよう。{n}いいだろ?{p}{end}
+EN: Let's meet in front of the hotel. Sound good?{p}{end}
+
+## MBMS08 g0 s0130
+JP: （よし!{n}{sp}夜もまた、ロベルトと一緒に遊ぼう!）{p}{end}
+EN: (Alright! I'll hang out with Roberto again tonight!){p}{end}
+
+## MBMS08 g0 s0131
+JP: この辺りが良さそうだな。{n}日本にも、こんなビーチが{n}あったとはね。{p}
+EN: This spot looks good. Who knew Japan had a beach like this?{p}
+
+## MBMS08 g0 s0132
+JP: 神に、この太陽の恵みを{n}感謝しなければ。{p}{end}
+EN: We must thank the Lord for this blessed sunshine.{p}{end}
+
+## MBMS08 g0 s0133
+JP: ネエネエ!{n}ミーが、オイル用意しておいたよ。{n}これを塗っておけば、お肌イタまないネ!{n}ペアで塗りっこしようよ!{p}
+EN: Hey, hey! I brought some oil. Put this on and your skin won't get hurt! Let's pair up and oil each other!{p}
+
+## MBMS08 g0 s0134
+JP: （オ、オイルをペアで塗りっこ!!{n}{sp}俺なら絶対……）{p}{end}
+EN: (R-rubbing oil on each other in pairs!! I'd definitely......){p}{end}
+
+## MBMS08 g0 s0135
+JP: ティファニーに塗ってあげたい!{n}ロイに塗ってあげたい!{n}ボーマンに塗ってあげたい!{p}
+EN: I want to oil up Tiffany!{n}I want to oil up Roy!{n}I want to oil up Boman!{p}
+
+## MBMS08 g0 s0136
+JP: じゃあ、ミーは、{n}{v3:7}とペアね!{p}{end}
+EN: Okay, I'm pairing with {v3:7}!{p}{end}
+
+## MBMS08 g0 s0137
+JP: あっちで、二人で塗りっこしましょう!{n}オッケー?{p}{end}
+EN: Let's go over there and oil each other up, just us two! Okay?{p}{end}
+
+## MBMS08 g0 s0138
+JP: オッ、オッケーッ!!{p}{end}
+EN: O-okaaay!!{p}{end}
+
+## MBMS08 g0 s0139
+JP: まずは、ミーが塗ってもらう側ネ!{n}レディーファーストなのデース。{n}ウフフッ。{p}{end}
+EN: First, you put it on me! Ladies first. Hee hee.{p}{end}
+
+## MBMS08 g0 s0140
+JP: （「ウフフッ」っていわれても…………。{n}{sp}ティファニーは寝そべっちゃったけど{n}{sp}いったい、どんな感じで{n}{sp}塗ったらいいんだ?）{p}
+EN: (Even if she goes "Hee hee" at me... Tiffany's lying down now, but how exactly am I supposed to rub it on?){p}
+
+## MBMS08 g0 s0141
+JP: とりあえず、ソフトにやってみよう{n}やっぱり、しっかり塗らないと!{p}{end}
+EN: Go soft, to be safe{n}Gotta rub it in properly!{p}{end}
+
+## MBMS08 g0 s0142
+JP: （と、とりあえず、{n}{sp}無難にソフトにやってみるか…。{n}{sp}こ、こんな感じかな?）{p}
+EN: (F-for now, I'll play it safe and go soft... L-like this?){p}
+
+## MBMS08 g0 s0143
+JP: （サワサワ……）{p}{end}
+EN: (Rub rub...){p}{end}
+
+## MBMS08 g0 s0144
+JP: くぷっ………。{p}
+EN: Pff......{p}
+
+## MBMS08 g0 s0145
+JP: （サワサワサワサワ……）{p}{end}
+EN: (Rub rub rub rub...){p}{end}
+
+## MBMS08 g0 s0146
+JP: くぷぷぷぷぷっ………。{p}
+EN: Pfffffft......{p}
+
+## MBMS08 g0 s0147
+JP: （サワサワサワサワサワサワ……）{p}{end}
+EN: (Rub rub rub rub rub rub...){p}{end}
+
+## MBMS08 g0 s0148
+JP: キャッハハハハハハハハハハーーーーーッ!{p}{end}
+EN: Kyahahahahahahahahaaa!{p}{end}
+
+## MBMS08 g0 s0149
+JP: こ、降参ッ!{sp}降参ネ!{n}くすぐったくて、吹き出しちゃったよ。{n}そんなに、手加減しなくても、オッケーネ!{p}
+EN: I-I give up! I give up! It tickled so much I burst out laughing. You don't have to go so easy, okay!{p}
+
+## MBMS08 g0 s0150
+JP: （そ、そうだったのか……。）{p}{end}
+EN: (S-so that's how it was...){p}{end}
+
+## MBMS08 g0 s0151
+JP: （や、やっぱり、{n}{sp}しっかり塗っておかないと!{n}{sp}そう、お肌に悪いし!{n}{sp}こ、こんな感じかな?）{p}{end}
+EN: (I-I've gotta rub it in properly! Yeah, it's bad for her skin otherwise! L-like this?){p}{end}
+
+## MBMS08 g0 s0152
+JP: （ペタペタ……）{p}{end}
+EN: (Slather slather...){p}{end}
+
+## MBMS08 g0 s0153
+JP: あんっ………{p}{end}
+EN: Ahn......{p}{end}
+
+## MBMS08 g0 s0154
+JP: （ペタペタペタペタ……）{p}{end}
+EN: (Slather slather slather slather...){p}{end}
+
+## MBMS08 g0 s0155
+JP: いゃあん………{p}
+EN: Mmmn......{p}
+
+## MBMS08 g0 s0156
+JP: （ペタペタペタペタペタペタ……）{p}{end}
+EN: (Slather slather slather slather slather slather...){p}{end}
+
+## MBMS08 g0 s0157
+JP: ふあぁぁ～～～～～～っ!{n}………!?{p}{end}
+EN: Haaaah~~~! ......!?{p}{end}
+
+## MBMS08 g0 s0158
+JP: ソーリー、ごめんネ!{n}あんまり気持ちよかったんで、{n}眠っちゃったよ!{p}{end}
+EN: Sorry, sorry! It felt so good I fell asleep!{p}{end}
+
+## MBMS08 g0 s0159
+JP: （な、なーんだ…、{n}{sp}寝てたのか…………。）{p}{end}
+EN: (Wh-what... She was just sleeping......){p}{end}
+
+## MBMS08 g0 s0160
+JP: そうだ!{sp}{v3:7}!{n}夕食の後、{n}{col:3}別館{col:-}に遊びに来てくださぁーい!{p}{end}
+EN: Oh yeah! {v3:7}! After dinner, please come hang out at the {col:3}Annex{col:-}!{p}{end}
+
+## MBMS08 g0 s0161
+JP: 夜もミーたちと一緒に、楽しもうよ!{p}
+EN: Let's have fun together tonight too!{p}
+
+## MBMS08 g0 s0162
+JP: （ティファニーたちは、夜も集まるのか…。{n}{sp}部屋は、{col:3}別館{col:-}だな。{n}{sp}よし、覚えておこう!）{p}{end}
+EN: (So Tiffany's group is getting together tonight too... The room's in the {col:3}Annex{col:-}. Okay, I'll remember that!){p}{end}
+
+## MBMS08 g0 s0163
+JP: ……あ、あのネ、{v3:7}…。{n}ディナーの後、{n}デートしてくれますか……?{p}{end}
+EN: ...Um, {v3:7}... After dinner, will you go on a date with me...?{p}{end}
+
+## MBMS08 g0 s0164
+JP: ミーは、ホテルの前で待ってます。{n}日本の男の子、{n}女の子から誘われるの、キライですか?{p}
+EN: I'll be waiting in front of the hotel. Do Japanese boys hate being asked out by girls?{p}
+
+## MBMS08 g0 s0165
+JP: （ゴホゴホッ!!{n}{sp}デッ、デート!!{n}{sp}さ、さすがに、ストレートにくるなぁ…）{p}
+EN: (Cough cough!! A d-date!! Sh-she sure is direct...){p}
+
+## MBMS08 g0 s0167
+JP: じゃあ、ボクは、{n}{v3:6}とペアを組むことにするよ。{p}{end}
+EN: Then I'll pair up with {v3:6}.{p}{end}
+
+## MBMS08 g0 s0168
+JP: さあ!{n}あっちで塗ろうぜ!{p}
+EN: Come on! Let's go do it over there!{p}
+
+## MBMS08 g0 s0169
+JP: オッケーッ!!{p}
+EN: Okaaay!!{p}
+
+## MBMS08 g0 s0170
+JP: まずは、ボクから塗ってもらおうかな?{n}じゃあ、頼むよ。{p}
+EN: How about you start with me? Go ahead.{p}
+
+## MBMS08 g0 s0171
+JP: （そ、そういえば、{n}{sp}どんな感じで、塗ったらいいんだろう…）{p}{end}
+EN: (N-now that I think about it, how am I supposed to rub this on...){p}{end}
+
+## MBMS08 g0 s0173
+JP: （とりあえず、{n}{sp}無難にソフトにやってみるか…。{n}{sp}こんな感じかな?）{p}
+EN: (For now, I'll play it safe and go soft... Like this?){p}
+
+## MBMS08 g0 s0175
+JP: ククッ………。{p}
+EN: Heh......{p}
+
+## MBMS08 g0 s0177
+JP: ククククククッ………。{p}
+EN: Hehehehehehe......{p}
+
+## MBMS08 g0 s0179
+JP: アハハハハハハハハハハーーーーーッ!{p}{end}
+EN: Ahahahahahahahahahaaa!{p}{end}
+
+## MBMS08 g0 s0180
+JP: オイオイ!{sp}{v3:6}!{n}もっとしっかり塗ってくれないと、{n}くすぐったくて、仕方がないぜ!{p}{end}
+EN: Hey, hey! {v3:6}! Rub it in properly, or it tickles like crazy!{p}{end}
+
+## MBMS08 g0 s0182
+JP: （やっぱり、しっかり塗っておかないと、{n}{sp}肌にも悪いしな!{n}{sp}こんな感じかな?）{p}{end}
+EN: (I'd better rub it in properly, or it's bad for his skin! Like this?){p}{end}
+
+## MBMS08 g0 s0184
+JP: んっ………{p}
+EN: Mm......{p}
+
+## MBMS08 g0 s0186
+JP: はぁっ………{p}{end}
+EN: Haah......{p}{end}
+
+## MBMS08 g0 s0188
+JP: はあぁぁ～～～～～～っ!{n}………!?{p}{end}
+EN: Haaaah~~~! ......!?{p}{end}
+
+## MBMS08 g0 s0189
+JP: いやぁ、すまない!{n}あんまり気持ちよかったんで、{n}眠っちまったぜ!{p}
+EN: Oh, sorry! It felt so good I dozed off!{p}
+
+## MBMS08 g0 s0190
+JP: （な、なぁーんだ…、{n}{sp}寝てたのか…………。）{p}
+EN: (Wh-what... He was just sleeping......){p}
+
+## MBMS08 g0 s0191
+JP: そうだ!{sp}{v3:6}!{n}夕食の後、{n}{col:3}別館{col:-}に遊びに来いよ!{p}
+EN: Oh yeah! {v3:6}! Come hang out at the {col:3}Annex{col:-} after dinner!{p}
+
+## MBMS08 g0 s0192
+JP: 夜もボクたちと一緒に、楽しもうぜ!{p}
+EN: Let's have fun together tonight too!{p}
+
+## MBMS08 g0 s0193
+JP: （ロイたちは、夜も集まるのか…。{n}{sp}部屋は、{col:3}別館{col:-}だな。{n}{sp}よし、覚えておこう!）{p}{end}
+EN: (So Roy's group is getting together tonight too... The room's in the {col:3}Annex{col:-}. Okay, I'll remember that!){p}{end}
+
+## MBMS08 g0 s0194
+JP: そうだ、{v3:6}!{n}夕食の後、{n}ちょっと付き合わないか?{p}{end}
+EN: Oh yeah, {v3:6}! Wanna hang out after dinner?{p}{end}
+
+## MBMS08 g0 s0195
+JP: じゃあ、ホテルの前で、待ち合わせだ。{n}問題ないだろ?{p}{end}
+EN: Then let's meet in front of the hotel. No problem, right?{p}{end}
+
+## MBMS08 g0 s0197
+JP: （よし!{n}{sp}夜もまた、ロイと一緒に遊ぼう!）{p}{end}
+EN: (Alright! I'll hang out with Roy again tonight!){p}{end}
+
+## MBMS08 g0 s0198
+JP: では、私は、{v5:8}と{n}ペアを組むことにしよう。{p}{end}
+EN: Then I shall pair up with {v5:8}.{p}{end}
+
+## MBMS08 g0 s0199
+JP: さあ!{n}あっちで塗りましょう!{p}
+EN: Now! Let us apply it over there!{p}
+
+## MBMS08 g0 s0201
+JP: まずは、私から塗ってもらいましょうか。{n}では、頼みます。{p}{end}
+EN: Allow me to go first. Please, go ahead.{p}{end}
+
+## MBMS08 g0 s0211
+JP: いや、失礼!{n}くすぐったくて、笑ってしまいました。{n}そんなに手加減しなくても、大丈夫ですよ。{p}{end}
+EN: Pardon me! It tickled, and I laughed. There's no need to hold back so much.{p}{end}
+
+## MBMS08 g0 s0215
+JP: ウーン………{p}{end}
+EN: Mmm......{p}{end}
+
+## MBMS08 g0 s0217
+JP: ハァッ………{p}{end}
+EN: Haah......{p}{end}
+
+## MBMS08 g0 s0219
+JP: フアァァ～～～～～～ッ!{n}………!?{p}{end}
+EN: Fuaaah~~~! ......!?{p}{end}
+
+## MBMS08 g0 s0220
+JP: これは、失礼!{n}あまりに気持ちよかったもので、{n}つい眠ってしまいました…。{p}
+EN: My apologies! It felt so pleasant that I dozed off...{p}
+
+## MBMS08 g0 s0222
+JP: そうだ!{sp}{v5:8}。{n}夕食の後、{n}{col:3}別館{col:-}に遊びに来ませんか?{p}
+EN: Oh, yes, {v5:8}. Would you like to visit the {col:3}Annex{col:-} after dinner?{p}
+
+## MBMS08 g0 s0223
+JP: 夜も私たちと一緒に、楽しみましょう!{p}{end}
+EN: Let us enjoy the evening together as well!{p}{end}
+
+## MBMS08 g0 s0224
+JP: （ボーマンたちは、夜も集まるのか…。{n}{sp}部屋は、{col:3}別館{col:-}だな。{n}{sp}よし、覚えておこう!）{p}{end}
+EN: (So Boman's group is getting together tonight too... The room's in the {col:3}Annex{col:-}. Okay, I'll remember that!){p}{end}
+
+## MBMS08 g0 s0225
+JP: そうだ、{v5:8}。{n}夕食の後、{n}ちょっと、付き合ってもらえませんか?{p}{end}
+EN: Oh, yes, {v5:8}. Might you spare me some time after dinner?{p}{end}
+
+## MBMS08 g0 s0226
+JP: ホテルの前で、待ち合わせしましょう。{n}それで、よろしいですか?{p}
+EN: Let us meet in front of the hotel. Would that be all right?{p}
+
+## MBMS08 g0 s0228
+JP: （よし!{n}{sp}夜もまた、ボーマンと一緒に遊ぼう!）{p}{end}
+EN: (Alright! I'll hang out with Boman again tonight!){p}{end}
+
+## MBMS08 g0 s0229
+JP: さすがに、{n}ちょっと離れたこの広場には、{n}人も少ないな。{p}{end}
+EN: This plaza's a bit out of the way, so there aren't many people around.{p}{end}
+
+## MBMS08 g0 s0230
+JP: おっ!?{n}あそこにいるのは、響子先生だぞ!{n}行ってみよう!{p}
+EN: Oh!? That's Kyoko-sensei over there! Let's go see!{p}
+
+## MBMS08 g0 s0231
+JP: あら!?{sp}{v0}{col:0}クン{col:-}。{n}どうしたの、ひとり?{p}{end}
+EN: Oh!? {v0}{col:0}-kun{col:-}. What's up, all by yourself?{p}{end}
+
+## MBMS08 g0 s0232
+JP: ええ。{n}遠泳で疲れちゃったんで、{n}休みに来たんですよ。{p}
+EN: Yeah. The long swim wore me out, so I came here to rest.{p}
+
+## MBMS08 g0 s0233
+JP: ふふふっ、{n}しょうがない子ね。{p}
+EN: Hee hee, you're hopeless.{p}
+
+## MBMS08 g0 s0234
+JP: ねぇ、{v0}{col:0}クン{col:-}。{n}私の水着…、どうかしら……?{p}{end}
+EN: Say, {v0}{col:0}-kun{col:-}. My swimsuit... what do you think...?{p}{end}
+
+## MBMS08 g0 s0235
+JP: （い、いきなり、{n}{sp}どうかしらっていわれても……。{n}{sp}な、なんて答えればいいんだ!?）{p}
+EN: (Wh-what do I think? Out of nowhere? Wh-what am I supposed to say!?){p}
+
+## MBMS08 g0 s0236
+JP: カ、カワイイと思うよ{n}に、似合ってると思うよ{p}{end}
+EN: I-I think it's cute{n}I-I think it suits you{p}{end}
+
+## MBMS08 g0 s0237
+JP: そ、そりゃぁ……、{n}カ、カワイイと思うよ……。{p}
+EN: W-well... I-I think it's cute...{p}
+
+## MBMS08 g0 s0238
+JP: うふふっ、ありがとう!{n}でも、先生に向かって、{n}カワイイはないでしょ?{p}
+EN: Hee hee, thank you! But you shouldn't call your teacher cute, should you?{p}
+
+## MBMS08 g0 s0239
+JP: ちょん{col:5}♥{col:-}{p}{end}
+EN: Boop{col:5}♥{col:-}{p}{end}
+
+## MBMS08 g0 s0240
+JP: （き、響子先生に、おデコを{n}{sp}「ちょん{col:5}♥{col:-}」ってさわられちゃった…）{p}
+EN: (K-Kyoko-sensei just went "boop{col:5}♥{col:-}" on my forehead...){p}
+
+## MBMS08 g0 s0241
+JP: そ、そりゃぁ……、{n}に、似合ってると思うよ{p}
+EN: W-well... I-I think it really suits you.{p}
+
+## MBMS08 g0 s0242
+JP: どんなふうに?{p}
+EN: How so?{p}
+
+## MBMS08 g0 s0243
+JP: うーんと…、{n}海によく映える水着だし……{p}{end}
+EN: Umm... It's a swimsuit that looks great against the ocean...{p}{end}
+
+## MBMS08 g0 s0244
+JP: 他には?{p}{end}
+EN: What else?{p}{end}
+
+## MBMS08 g0 s0245
+JP: そ、そうだな……、えーと……。{n}とっても、大たんでセクシーだし、{n}目のやり場に困るっていうか……。{n}じゃ、じゃなくてっ!{sp}そのぉ……{p}{end}
+EN: L-let's see... umm... It's really bold and sexy, and I don't know where to look... I-I mean, no! Uh...{p}{end}
+
+## MBMS08 g0 s0246
+JP: うふふっ、ごめん、ごめん!{p}
+EN: Hee hee, sorry, sorry!{p}
+
+## MBMS08 g0 s0247
+JP: ちょっと、{n}イジワルしたくなっただけなのよ。{n}ほんと、ごめんなさいね!{p}
+EN: I just felt like teasing you a little. I'm really sorry!{p}
+
+## MBMS08 g0 s0248
+JP: （も、もてあそばれてしまった……。{n}{sp}でも、今、俺しあわせ……）{p}{end}
+EN: (I got toyed with... But right now, I'm a happy man...){p}{end}
+
+## MBMS08 g0 s0249
+JP: そうだ!{sp}{v0}{col:0}クン{col:-}!{n}夕食の後、{n}{col:3}本館4F{col:-}に遊びにいらっしゃいよ!{p}{end}
+EN: Oh, I know! {v0}{col:0}-kun{col:-}! Come visit {col:3}Main Bldg. 4F{col:-} after dinner!{p}{end}
+
+## MBMS08 g0 s0250
+JP: 生徒が訪ねてきてくれると、{n}先生って、うれしいものなのよ。{p}
+EN: Teachers love it when their students come to visit, you know.{p}
+
+## MBMS08 g0 s0251
+JP: （先生たちのところに行くのもいいな…。{n}{sp}部屋は、{col:3}本館4F{col:-}だな。{n}{sp}よし、覚えておこう!）{p}
+EN: (Visiting the teachers might be fun... The room's on {col:3}Main Bldg. 4F{col:-}. Okay, I'll remember that!){p}
+
+## MBMS08 g0 s0252
+JP: ……ね、ねぇ、{v0}{col:0}クン{col:-}…。{n}夕食の後、{n}先生に、ちょっと時間くれないかな…。{p}
+EN: ...S-say, {v0}{col:0}-kun{col:-}... After dinner, could you give me a little of your time...?{p}
+
+## MBMS08 g0 s0253
+JP: 来て欲しいの。ホテルの前で待ってるから…{n}それとも…、{n}年上の女なんか、興味ないかしら…?{p}
+EN: I want you to come. I'll be waiting in front of the hotel... Or... are you not interested in older women...?{p}
+
+## MBMS08 g0 s0254
+JP: （ナ、ナント!!{n}{sp}それは、二人っきりで{n}{sp}会おうってことか!?）{p}
+EN: (Wh-whoa!! Does that mean she wants to meet alone!?){p}
+
+## MBMS08 g0 s0256
+JP: ビーチからホテルまでが近くて、{n}助かったな…。{p}
+EN: Lucky the hotel's so close to the beach...{p}
+
+## MBMS08 g0 s0257
+JP: おっ、英雄先生がいるぞ!{n}何してるんだろう?{p}{end}
+EN: Oh, there's Hideo-sensei! What's he doing?{p}{end}
+
+## MBMS08 g0 s0258
+JP: 英雄先生に声をかける{n}見つからないように通り過ぎる{p}
+EN: Talk to Hideo-sensei{n}Sneak past unseen{p}
+
+## MBMS08 g0 s0259
+JP: よし!{n}ちょっと声をかけてみよう!{p}
+EN: Okay! I'll go say hi!{p}
+
+## MBMS08 g0 s0260
+JP: 英雄先生!{n}こんなところで、何してるんですか?{p}
+EN: Hideo-sensei! What are you doing here?{p}
+
+## MBMS08 g0 s0261
+JP: いやぁ、{v0}{col:0}君{col:-}。{n}特に、何をしているわけでも{n}ないんだがね…。{p}{end}
+EN: Ah, {v0}{col:0}-kun{col:-}. I'm not really doing anything in particular...{p}{end}
+
+## MBMS08 g0 s0262
+JP: そういえば、{n}どうして、先生は{n}水着じゃないんですか?{p}
+EN: Come to think of it, why aren't you in a swimsuit, Sensei?{p}
+
+## MBMS08 g0 s0263
+JP: あっ、い、いいやぁ……、{n}それはだね……。{p}
+EN: Ah, w-well... You see...{p}
+
+## MBMS08 g0 s0264
+JP: もしかして、泳げないんじゃあ…{n}そうか、監複係なんですよね{p}
+EN: Maybe you can't swim...{n}Oh right, you're on lookout duty{p}
+
+## MBMS08 g0 s0265
+JP: もしかして……、{n}英雄先生は泳げないんじゃあ……?{p}
+EN: Don't tell me... You can't swim, Hideo-sensei...?{p}
+
+## MBMS08 g0 s0266
+JP: じ、実は……、{n}そうなんだよ…。{p}{end}
+EN: Th-the truth is... That's right...{p}{end}
+
+## MBMS08 g0 s0267
+JP: いやぁ、しかし、{n}この歳になって泳げないというのも{n}恥ずかしいじゃないか……。{p}
+EN: But you see, it's embarrassing not to know how to swim at my age...{p}
+
+## MBMS08 g0 s0268
+JP: み、みんなには、内緒だぞ!{p}
+EN: D-don't tell the others!{p}
+
+## MBMS08 g0 s0269
+JP: （ククククク……、{n}{sp}先生でも、やっぱり苦手なことって、{n}{sp}あるんだなぁ。）{p}{end}
+EN: (Heh heh heh... So even teachers have things they're bad at.){p}{end}
+
+## MBMS08 g0 s0270
+JP: あ、そうか、{n}先生は、辺りを見回る監複係だから、{n}別に、水着でなくてもいいんですよね。{p}
+EN: Oh, I get it. You're on lookout duty, patrolling the area, so you don't need a swimsuit.{p}
+
+## MBMS08 g0 s0271
+JP: そ、そうなんだよ。{n}別に、泳げないからという{n}わけではないんだぞ!{n}………ハ、ハハハハッ!{p}
+EN: Y-yes, exactly. It's not that I can't swim or anything! ......Ha, hahahaha!{p}
+
+## MBMS08 g0 s0272
+JP: （………………?）{p}
+EN: (.........?){p}
+
+## MBMS08 g0 s0273
+JP: そうだ、{v0}{col:0}君{col:-}!{n}夕食の後、{n}{col:3}本館4F{col:-}に遊びに来ないかね?{p}{end}
+EN: Ah, {v0}{col:0}-kun{col:-}! Why not come visit {col:3}Main Bldg. 4F{col:-} after dinner?{p}{end}
+
+## MBMS08 g0 s0274
+JP: 生徒が訪ねてきてくれると、{n}教師というのは、うれしいものだぞ!{p}
+EN: A teacher is always happy when his students come to visit!{p}
+
+## MBMS08 g0 s0276
+JP: そうだ、{v0}{col:0}君{col:-}。{n}夕食の後、{n}先生に、付き合わないか?{p}{end}
+EN: Ah, {v0}{col:0}-kun{col:-}. Would you keep me company after dinner?{p}{end}
+
+## MBMS08 g0 s0277
+JP: こういう機会に語り合うというのも、{n}いいものだぞ!{n}じゃあ、ホテルの前で先生と待ち合わせだ!{p}{end}
+EN: A heart-to-heart is nice at times like these! We'll meet in front of the hotel!{p}{end}
+
+## MBMS08 g0 s0278
+JP: （こんな時でもないと、{n}{sp}先生と語り合うことってないよな…）{p}{end}
+EN: (It's not often I get to have a real talk with a teacher...){p}{end}
+
+## MBMS08 g0 s0279
+JP: （よし!{n}{sp}夜は、英雄先生に付き合おう!）{p}
+EN: (Alright! I'll keep Hideo-sensei company tonight!){p}
+
+## MBMS08 g0 s0280
+JP: 休んでると、怒られるかもしれない…。{n}ここはひとつ、{n}見つからないように、通り過ぎよう…。{p}
+EN: I might get chewed out for slacking... Best to slip by without being seen...{p}
+
+## MBMS08 g0 s0281
+JP: オイッ!{sp}{v3:16}!{n}お前、こんなところで{n}何してるんだ?{p}
+EN: Hey! {v3:16}! What're you doing here?{p}
+
+## MBMS08 g0 s0282
+JP: （ヤ、ヤバイッ!!{n}{sp}隼人先生に見つかっちゃったぞ!!）{p}{end}
+EN: (Uh-oh!! Hayato-sensei spotted me!!){p}{end}
+
+## MBMS08 g0 s0283
+JP: （な、なんて答えよう……）{p}
+EN: (Wh-what do I say......){p}
+
+## MBMS08 g0 s0284
+JP: 海岸を走りにいくところなんです!{n}また、遠泳にいくところなんです!{p}
+EN: I'm going for a run on the beach!{n}I'm going for another long swim!{p}
+
+## MBMS08 g0 s0285
+JP: こ、これから、{n}海岸を走りにいくところなんです!{p}{end}
+EN: I-I'm just heading out for a run on the beach!{p}{end}
+
+## MBMS08 g0 s0286
+JP: そうだ、その意気だぜ、{v3:16}!{n}男はいつでも、{n}自分に厳しくなくちゃならねぇ!{p}{end}
+EN: That's the spirit, {v3:16}! A man's gotta be tough on himself, always!{p}{end}
+
+## MBMS08 g0 s0287
+JP: わかった…{n}俺も付き合うぜ…。{p}
+EN: Alright... I'll join you...{p}
+
+## MBMS08 g0 s0288
+JP: （トホホ…、{n}{sp}ほんとに、走らされそうだぞ……）{p}{end}
+EN: (Ugh... He's really gonna make me run......){p}{end}
+
+## MBMS08 g0 s0289
+JP: こ、これからまた、{n}もっと沖の島まで、{n}遠泳にいくところなんです!{p}
+EN: I-I'm heading out for another long swim, to an even farther island!{p}
+
+## MBMS08 g0 s0290
+JP: な、なんて熱い奴なんだお前は……{n}わかった、何もいうな…、{n}海がお前を呼んでるんだろう?{p}{end}
+EN: Wh-what a fiery guy you are... Alright, say no more... The sea is calling you, isn't it?{p}{end}
+
+## MBMS08 g0 s0291
+JP: 俺も…、{n}付き合うぜ…。{p}{end}
+EN: I'll... join you...{p}{end}
+
+## MBMS08 g0 s0292
+JP: （そ、そんなぁ…、{n}{sp}付いてこなくていいよぉ……）{p}
+EN: (N-no way... You don't have to come along......){p}
+
+## MBMS08 g0 s0293
+JP: そうだ、{v3:16}!{n}夕食の後、{n}{col:3}本館4F{col:-}に遊びに来い!{p}
+EN: Oh yeah, {v3:16}! Come visit {col:3}Main Bldg. 4F{col:-} after dinner!{p}
+
+## MBMS08 g0 s0294
+JP: 生徒が訪ねてきてくれると、{n}教師というのは、うれしいものなんだぜ!{p}
+EN: A teacher's always happy when his students come to visit!{p}
+
+## MBMS08 g0 s0295
+JP: （先生たちのところか…。{n}{sp}部屋は、{col:3}本館4F{col:-}だな。{n}{sp}一応、覚えておこう…。）{p}
+EN: (The teachers' room, huh... It's on {col:3}Main Bldg. 4F{col:-}. Guess I'll remember it...){p}
+
+## MBMS08 g0 s0296
+JP: そうだ、{v3:16}!{n}夕食の後、俺に付き合え!{p}{end}
+EN: Oh yeah, {v3:16}! Hang out with me after dinner!{p}{end}
+
+## MBMS08 g0 s0297
+JP: 話してやるぜ…、{n}海でしか話してやれないことを…。{n}俺は、ホテルの前で、{n}お前が来るのを待ってるぜ!{p}{end}
+EN: I'll tell you... things I can only tell you by the sea... I'll be waiting in front of the hotel for you!{p}{end}
+
+## MBMS08 g0 s0298
+JP: （海でしか話せないことって、{n}{sp}なんなんだぁ???）{p}{end}
+EN: (Things he can only tell me by the sea? What the heck???){p}{end}
+
+## MBMS08 g0 s0299
+JP: （仕方ない、{n}{sp}夜は、隼人先生に付き合おう…。）{p}{end}
+EN: (Can't be helped. I'll keep Hayato-sensei company tonight...){p}{end}
+
+## MBMS08 g0 s0300
+JP: そして、夕食後・・・{p}{end}
+EN: And so, after dinner...{p}{end}
+
+## MBMS08 g0 s0301
+JP: うーーん。{n}な、なんか緊張しちゃって、{n}なにを食べたんだか、わかんなかったな…。{p}{end}
+EN: Phew. I was so nervous I couldn't even tell what I was eating...{p}{end}
+
+## MBMS08 g0 s0302
+JP: さて、ひなたが待ってる{n}ホテルの前まで行ってみよう!{p}{end}
+EN: Now, let's head out front of the hotel, where Hinata's waiting!{p}{end}
+
+## MBMS08 g0 s0303
+JP: おっ、いたいた。{n}ひなた!{sp}こ、こんばんは。{p}{end}
+EN: Oh, there she is. Hinata! G-good evening.{p}{end}
+
+## MBMS08 g0 s0304
+JP: あっ、{v7:1}!{n}こ、こんばんは…。{n}ほんとに、来てくれたんだ…。{p}
+EN: Oh, {v7:1}! G-good evening... You really came...{p}
+
+## MBMS08 g0 s0305
+JP: もちろん!{n}じゃあ、浜辺を散歩でもしよっか?{p}{end}
+EN: Of course! So, wanna take a walk on the beach?{p}{end}
+
+## MBMS08 g0 s0306
+JP: ………う、うん!{p}{end}
+EN: ......O-okay!{p}{end}
+
+## MBMS08 g0 s0307
+JP: ……実はね、私、{n}夜の浜辺を、こうして歩けたらなって、{n}期待してたんだ。{p}{end}
+EN: ...Actually, I was hoping I'd get to walk on the beach at night like this.{p}{end}
+
+## MBMS08 g0 s0308
+JP: だから今、{n}ちょっと、しあわせな気分……。{p}
+EN: So right now, I'm feeling kinda happy...{p}
+
+## MBMS08 g0 s0309
+JP: （そ、そうか……）{p}
+EN: (I-I see...){p}
+
+## MBMS08 g0 s0310
+JP: 俺なんかが一緒でも?{n}そうだ、いいものがあるんだ{p}{end}
+EN: Even with a guy like me?{n}Hey, I've got something nice{p}{end}
+
+## MBMS08 g0 s0311
+JP: それって、俺なんかが一緒でも?{p}
+EN: Even with a guy like me?{p}
+
+## MBMS08 g0 s0312
+JP: だから…、{n}「こうして歩けたらな」って、{n}言ったじゃない……。{p}
+EN: That's what I meant... when I said I hoped to walk like this...{p}
+
+## MBMS08 g0 s0313
+JP: （そ、それは、{n}{sp}俺と一緒に歩きたかったってことか!?）{p}{end}
+EN: (D-does that mean she wanted to walk with me!?){p}{end}
+
+## MBMS08 g0 s0314
+JP: うふふ…{n}ぼぉーっとしてないで、もう少し歩こ…。{p}{end}
+EN: Hee hee... Don't just space out. Let's walk a little more...{p}{end}
+
+## MBMS08 g0 s0315
+JP: そうだ、いいものがあるんだ。{n}ちょっと待って…。{n}はいっ!{p}
+EN: Oh, I've got something nice. Hang on... Here!{p}
+
+## MBMS08 g0 s0316
+JP: 線香花火!{n}どうしたの、これ?{p}
+EN: Sparklers! Where'd you get these?{p}
+
+## MBMS08 g0 s0317
+JP: さっき、みやげものコーナーで買ったんだ。{n}少ししかないけど、やってみようよ。{p}{end}
+EN: I bought them at the souvenir shop earlier. There aren't many, but let's light them.{p}{end}
+
+## MBMS08 g0 s0318
+JP: チリチリチリチリ………{p}
+EN: Crackle crackle crackle......{p}
+
+## MBMS08 g0 s0319
+JP: キレイだね………。{p}
+EN: So pretty......{p}
+
+## MBMS08 g0 s0320
+JP: うん。{p}
+EN: Yeah.{p}
+
+## MBMS08 g0 s0321
+JP: ねぇ…、{v7:1}………。{p}{end}
+EN: Hey... {v7:1}......{p}{end}
+
+## MBMS08 g0 s0322
+JP: ん?{p}{end}
+EN: Hm?{p}{end}
+
+## MBMS08 g0 s0323
+JP: ………ありがとう。{p}
+EN: ......Thank you.{p}
+
+## MBMS08 g0 s0324
+JP: ……うん!{p}
+EN: ...Sure!{p}
+
+## MBMS08 g0 s0325
+JP: ………こうして、{n}ちょっとしおらしい、ひなたとのデートで、{n}臨海合宿の夜は過ぎていった。{p}{end}
+EN: ......And so the night of the seaside camp passed on a date with an unusually sweet and shy Hinata.{p}{end}
+
+## MBMS08 g0 s0326
+JP: 翌日の朝・・・{p}
+EN: The next morning...{p}
+
+## MBMS08 g0 s0327
+JP: う～ん………。{n}なんだか、ずっとドキドキしてて、{n}よく眠れなかったな…。{p}{end}
+EN: Mmm...... My heart was pounding all night. I barely slept...{p}{end}
+
+## MBMS08 g0 s0328
+JP: でも、昨日は楽しかったし、{n}こんな合宿なら、また来てもいいな。{n}さあ、帰ろう!{p}
+EN: But yesterday was fun. I wouldn't mind another camp like this. Okay, time to head home!{p}
+
+## MBMS08 g0 s0330
+JP: うーーん。満腹、満腹…。{n}高校の合宿ともなると、{n}食事もそれなりに豪華だったなぁ。{p}
+EN: Phew. So full... A high school camp sure has fancy food.{p}
+
+## MBMS08 g0 s0331
+JP: さて、バツが待ってる{n}ホテルの前まで行ってみよう!{p}
+EN: Now, let's head out front of the hotel, where Batsu's waiting!{p}
+
+## MBMS08 g0 s0332
+JP: あっ、いたいた。{n}バツ!{sp}来たぞっ!{p}{end}
+EN: Oh, there he is. Batsu! I'm here!{p}{end}
+
+## MBMS08 g0 s0333
+JP: おせーぞ!{sp}{v3:0}!{n}さあ、行こうぜ!{p}{end}
+EN: You're late, {v3:0}! C'mon, let's go!{p}{end}
+
+## MBMS08 g0 s0334
+JP: やっぱ、夜の海ってのは、落ち着くなぁ。{n}学生にも『ゆとり』ってものが{n}必要だよなぁ…。な、{v3:0}?{p}{end}
+EN: The sea at night sure is relaxing. Even students need some breathing room, y'know? Right, {v3:0}?{p}{end}
+
+## MBMS08 g0 s0335
+JP: 「ニャーーーン」{p}{end}
+EN: "Meeeooow"{p}{end}
+
+## MBMS08 g0 s0336
+JP: な、なんだ!?{p}
+EN: Wh-what the!?{p}
+
+## MBMS08 g0 s0337
+JP: ノラ猫だよ。{n}結構、人なつっこいなぁ。{n}お腹が減ってるのかな?{p}
+EN: It's a stray cat. Pretty friendly, huh. Maybe it's hungry?{p}
+
+## MBMS08 g0 s0338
+JP: お菓子をあげてみる{n}何も持ってないよ…{p}
+EN: Give it a snack{n}I don't have anything...{p}
+
+## MBMS08 g0 s0339
+JP: ちょっと待ってな…。{n}こんなの食べるかな?{p}
+EN: Hold on... Will it eat this?{p}
+
+## MBMS08 g0 s0340
+JP: {col:3}猫{col:-}{n}「ハグハグハグ………」{p}
+EN: {col:3}Cat{col:-}{n}"Nom nom nom......"{p}
+
+## MBMS08 g0 s0341
+JP: 食べてる食べてる。{p}
+EN: Look, it's eating it.{p}
+
+## MBMS08 g0 s0342
+JP: なんだ、そりゃ。{p}{end}
+EN: What's that?{p}{end}
+
+## MBMS08 g0 s0343
+JP: 行きの電車で、ひなたにもらった{n}お菓子の残りだよ。{p}
+EN: Leftover snacks Hinata gave me on the train here.{p}
+
+## MBMS08 g0 s0344
+JP: オレにもくれよ。{p}{end}
+EN: Gimme some too.{p}{end}
+
+## MBMS08 g0 s0345
+JP: {col:3}猫{col:-}{n}「シャアーーーーーーーッ!」{p}{end}
+EN: {col:3}Cat{col:-}{n}"Hissssssss!"{p}{end}
+
+## MBMS08 g0 s0346
+JP: おわっ!{p}{end}
+EN: Whoa!{p}{end}
+
+## MBMS08 g0 s0347
+JP: バツに、お菓子を盗られると{n}思ったんじゃない?{p}
+EN: Guess it thought you'd steal its snack?{p}
+
+## MBMS08 g0 s0348
+JP: だ、誰がお前の食いかけなんか、{n}盗るかよ!!{p}{end}
+EN: Wh-who'd steal your half-eaten junk!!{p}{end}
+
+## MBMS08 g0 s0349
+JP: アハハハ………。{p}{end}
+EN: Ahahaha......{p}{end}
+
+## MBMS08 g0 s0350
+JP: でも、{n}今は何も持ってないよ…。{p}{end}
+EN: But I don't have anything on me right now...{p}{end}
+
+## MBMS08 g0 s0351
+JP: オレが持ってるぜ…、{n}ホラよ!{p}
+EN: I've got somethin'... Here!{p}
+
+## MBMS08 g0 s0353
+JP: どうしたんだ、それ?{p}{end}
+EN: Where'd you get that?{p}{end}
+
+## MBMS08 g0 s0354
+JP: さ、さっき、{n}食事の片付けを手伝ってやったら、{n}調理場の女の人がくれたんだよ!{p}
+EN: Wh-when I helped clean up after dinner, the lady in the kitchen gave it to me!{p}
+
+## MBMS08 g0 s0355
+JP: へぇ～、意外とバツって、{n}年上の女の人に、人気あるんだ!{p}{end}
+EN: Huh, who knew older women liked you, Batsu!{p}{end}
+
+## MBMS08 g0 s0356
+JP: う、うるせぇよ!{p}{end}
+EN: Sh-shut up!{p}{end}
+
+## MBMS08 g0 s0358
+JP: ………こうして、{n}バツと猫にエサをやって、{n}臨海合宿の夜は過ぎていった。{p}{end}
+EN: ......And so the night of the seaside camp passed as Batsu and I fed the cat.{p}{end}
+
+## MBMS08 g0 s0360
+JP: う～ん………。{n}ね、寝不足で頭がフラフラする…。{p}{end}
+EN: Mmm...... Lack of sleep's got my head spinning...{p}{end}
+
+## MBMS08 g0 s0364
+JP: さて、恭介が待ってる{n}ホテルの前まで行ってみよう!{p}
+EN: Now, let's head out front of the hotel, where Kyosuke's waiting!{p}
+
+## MBMS08 g0 s0365
+JP: あっ、いたいた。{n}恭介!{sp}来たぞっ!{p}{end}
+EN: Oh, there he is. Kyosuke! I'm here!{p}{end}
+
+## MBMS08 g0 s0366
+JP: やあ、{v5:2}!{n}少し表を歩かないか?{p}
+EN: Hey, {v5:2}! Want to take a little walk outside?{p}
+
+## MBMS08 g0 s0367
+JP: いいのか?{sp}表なんか出て。{p}
+EN: Is that okay? Going outside, I mean.{p}
+
+## MBMS08 g0 s0368
+JP: 僕が風紀委員なんだから、{n}僕がいいっていえば、いいのさ。{n}さぁ、行こう!{p}{end}
+EN: I'm on the disciplinary committee, so if I say it's fine, it's fine. Come on, let's go!{p}{end}
+
+## MBMS08 g0 s0369
+JP: なぁ、恭介、{n}昼間、一人暮らししてるって{n}言ってたけど、どうしてなんだ?{p}{end}
+EN: Hey, Kyosuke, earlier today you said you live alone. How come?{p}{end}
+
+## MBMS08 g0 s0370
+JP: まぁ、いろいろあってね…。{p}
+EN: Well, a lot of things happened...{p}
+
+## MBMS08 g0 s0371
+JP: いろいろって?{p}
+EN: Like what?{p}
+
+## MBMS08 g0 s0372
+JP: だから、いろいろさ…。{n}そうだ、今度僕の家に、遊びに来ないか?{n}僕一人だけだから、いつでもいいぜ。{p}
+EN: Like I said, a lot of things... Hey, why don't you come over to my place sometime? It's just me, so anytime's fine.{p}
+
+## MBMS08 g0 s0373
+JP: （よぅし!{n}{sp}それじゃあ……）{p}
+EN: (Alright! In that case......){p}
+
+## MBMS08 g0 s0374
+JP: 飯作りにいってやるよ{n}掃除しにいってやるよ{p}
+EN: I'll come cook for you{n}I'll come clean for you{p}
+
+## MBMS08 g0 s0375
+JP: じゃあ、{n}飯を作りにいってやるよ。{p}
+EN: Then I'll come over and cook for you.{p}
+
+## MBMS08 g0 s0376
+JP: オイオイ、{v5:2}、{n}そんなことできるのか?{p}{end}
+EN: Whoa, {v5:2}, can you actually do that?{p}{end}
+
+## MBMS08 g0 s0377
+JP: も、もちろん…。{n}チャ、チャーハンなら…。{p}
+EN: O-of course... F-fried rice, anyway...{p}
+
+## MBMS08 g0 s0378
+JP: アハハ…、{n}なるほど、それなら納得だ。{n}アハハハハハハ……。{p}{end}
+EN: Ahaha... I see, that makes sense. Ahahahahaha......{p}{end}
+
+## MBMS08 g0 s0379
+JP: ちぇーっ、{n}そんなに笑うなよなぁ…。{p}{end}
+EN: Aw, c'mon, don't laugh that hard...{p}{end}
+
+## MBMS08 g0 s0380
+JP: ごめん、ごめん…。{n}ククククッ……。{p}{end}
+EN: Sorry, sorry... Heh heh heh......{p}{end}
+
+## MBMS08 g0 s0381
+JP: コラァーーッ!{n}恭介っ、笑い過ぎだっ!!{p}{end}
+EN: Hey!! Kyosuke, you're laughing way too much!!{p}{end}
+
+## MBMS08 g0 s0382
+JP: じゃあ、{n}掃除しにいってやるよ。{p}{end}
+EN: Then I'll come over and clean for you.{p}{end}
+
+## MBMS08 g0 s0383
+JP: オイオイ、失礼だな。{n}あいにく、僕はキレイ好きなんでね、{n}掃除してもらうようなところはないよ。{p}
+EN: Hey now, that's rude. As it happens, I'm a neat freak. There's nothing that needs cleaning.{p}
+
+## MBMS08 g0 s0384
+JP: そりゃそうだな、{n}何せ、美化委員だもんな。{p}
+EN: Makes sense. You're on the cleanup committee, after all.{p}
+
+## MBMS08 g0 s0385
+JP: ちがう!{n}風紀委員だ!{p}
+EN: Wrong! Disciplinary committee!{p}
+
+## MBMS08 g0 s0386
+JP: あれ、そうだっけ?{p}
+EN: Huh, was it?{p}
+
+## MBMS08 g0 s0387
+JP: まったく……。{n}アハハハ………。{p}{end}
+EN: Honestly...... Ahahaha......{p}{end}
+
+## MBMS08 g0 s0388
+JP: ………こうして、{n}恭介と話をして、{n}臨海合宿の夜は過ぎていった。{p}{end}
+EN: ......And so the night of the seaside camp passed as Kyosuke and I talked.{p}{end}
+
+## MBMS08 g0 s0393
+JP: うーーん。{n}な、なんか緊張しちゃって、{n}なにを食べたんだか、わからなかったな…。{p}{end}
+EN: Phew. I was so nervous I couldn't even tell what I was eating...{p}{end}
+
+## MBMS08 g0 s0394
+JP: さて、夏が待ってる{n}ホテルの前まで行ってみよう!{p}{end}
+EN: Now, let's head out front of the hotel, where Natsu's waiting!{p}{end}
+
+## MBMS08 g0 s0395
+JP: おっ、いたいた。{n}夏!{sp}こ、こんばんは。{p}{end}
+EN: Oh, there she is. Natsu! G-good evening.{p}{end}
+
+## MBMS08 g0 s0396
+JP: あっ、{v7:4}!{n}こ、こんばんは……。{n}ち、ちょっと、その辺を散歩しない?{p}
+EN: Oh, {v7:4}! G-good evening...... W-wanna take a walk around here?{p}
+
+## MBMS08 g0 s0397
+JP: （いつもの夏と、零囲気が違って、{n}{sp}ちょっとドキドキするなぁ……。）{p}{end}
+EN: (Natsu's vibe is different from usual... It's making my heart race a little......){p}{end}
+
+## MBMS08 g0 s0398
+JP: ……ね、ねぇ、{n}ちょっと聞いてもいいかな…?{p}{end}
+EN: ...H-hey, can I ask you something...?{p}{end}
+
+## MBMS08 g0 s0399
+JP: なに?{p}
+EN: What?{p}
+
+## MBMS08 g0 s0400
+JP: ……やっぱり、男の子って、{n}自分より背の高い女の子は、イヤなのかな?{p}{end}
+EN: ...Do guys really not like girls who are taller than them?{p}{end}
+
+## MBMS08 g0 s0401
+JP: （そ、そうだな……）{p}{end}
+EN: (Y-yeah, let's see...){p}{end}
+
+## MBMS08 g0 s0402
+JP: 夏だったらいいよ…{n}そういう人もいるかな…{p}
+EN: If it's you, Natsu, I don't mind...{n}Some guys might feel that way...{p}
+
+## MBMS08 g0 s0403
+JP: 他の女の子だったら、わからないけど、{n}俺は夏だったらいいよ…。{p}
+EN: I can't speak for other girls, but if it's you, Natsu, I don't mind...{p}
+
+## MBMS08 g0 s0405
+JP: だって…、{n}夏って、笑うとすごくカワイイだろ。{n}俺、そういう女の子、好きだけどな…。{p}{end}
+EN: I mean... you're really cute when you smile, Natsu. I like girls like that...{p}{end}
+
+## MBMS08 g0 s0406
+JP: 夏?{n}聞いてる?{p}{end}
+EN: Natsu? You listening?{p}{end}
+
+## MBMS08 g0 s0407
+JP: ぷしゅ～～～～～～～っ!{p}{end}
+EN: Fssshhhhhh...!{p}{end}
+
+## MBMS08 g0 s0408
+JP: ねぇ、夏ってば!{p}{end}
+EN: Hey, Natsu!{p}{end}
+
+## MBMS08 g0 s0409
+JP: あっ、えーと…。{n}う、うん…。{n}き、聞いてるよ…。{p}
+EN: Oh, um... Y-yeah... I-I'm listening...{p}
+
+## MBMS08 g0 s0410
+JP: （ぷぷっ…、自分から聞いてきたくせに…。{n}{sp}顔が真っ赤だぞ。{n}{sp}こういうところが、カワイイんだよな…）{p}
+EN: (Pfft... She's the one who asked, and now her face is beet red. That's what makes her so cute...){p}
+
+## MBMS08 g0 s0411
+JP: うーん。{n}やっぱり、{n}そういう人もいるかな…。{p}
+EN: Hmm. I guess some guys might feel that way...{p}
+
+## MBMS08 g0 s0412
+JP: ええ～っ!!{p}{end}
+EN: Whaaat!?{p}{end}
+
+## MBMS08 g0 s0413
+JP: でも、{n}気持ちの部分が、一番大事だよな。{n}俺は、そうだけどな…。{p}{end}
+EN: But what really matters is how you feel. That's how it is for me, anyway...{p}{end}
+
+## MBMS08 g0 s0414
+JP: そ、そうなんだ!{p}{end}
+EN: O-oh, I see!{p}{end}
+
+## MBMS08 g0 s0415
+JP: じゃあ、アタシにもチャンスはあるんだ…{p}
+EN: Then maybe I've got a chance too...{p}
+
+## MBMS08 g0 s0416
+JP: 何かいった?{p}{end}
+EN: Did you say something?{p}{end}
+
+## MBMS08 g0 s0417
+JP: ううん、なんでもない……。{n}なんでもないよ……。{p}{end}
+EN: No, nothing... It's nothing...{p}{end}
+
+## MBMS08 g0 s0418
+JP: （な、なんか、{n}{sp}しあわせな空気が、ただよってるぞ…）{p}
+EN: (Wow, there's a really happy vibe in the air...){p}
+
+## MBMS08 g0 s0419
+JP: ………こうして、{n}いつもと違う、夏とのデートで、{n}臨海合宿の夜は過ぎていった。{p}
+EN: ...And so the night at the seaside camp went by, on a date with a Natsu I'd never seen before.{p}
+
+## MBMS08 g0 s0425
+JP: さて、将馬が待ってる{n}ホテルの前まで行ってみよう!{p}
+EN: Okay, let's head out front of the hotel, where Shoma's waiting!{p}
+
+## MBMS08 g0 s0426
+JP: あっ、いたいた。{n}将馬!{sp}来たぞっ!{p}{end}
+EN: Oh, there he is. Shoma! I'm here!{p}{end}
+
+## MBMS08 g0 s0427
+JP: よう!{sp}{v3:3}!{n}じゃあ、浜辺に行こうぜ!{p}{end}
+EN: Hey! {v3:3}! Let's hit the beach!{p}{end}
+
+## MBMS08 g0 s0428
+JP: （あれ?{sp}なんでバット持ってるんだ?）{p}
+EN: (Huh? Why's he got a bat?){p}
+
+## MBMS08 g0 s0429
+JP: ブンッ!{sp}ブンッ!………{p}{end}
+EN: Whoosh! Whoosh!...{p}{end}
+
+## MBMS08 g0 s0430
+JP: （将馬のやつ、{n}{sp}夜に素振りの練習してたんだ……。）{p}{end}
+EN: (So Shoma's been practicing his swing at night...){p}{end}
+
+## MBMS08 g0 s0431
+JP: 悪いなぁ、{n}練習に付き合わせちまって…。{p}{end}
+EN: Sorry for draggin' ya into my practice...{p}{end}
+
+## MBMS08 g0 s0432
+JP: やっぱり、{n}オイラもレギュラーになりたいしな!{p}
+EN: I mean, I wanna make the starting lineup too!{p}
+
+## MBMS08 g0 s0433
+JP: そのためには、とりあえず練習だと思って、{n}1000本素振りを、毎晩やってる。{p}{end}
+EN: So I figured practice comes first, and I do 1,000 swings every night.{p}{end}
+
+## MBMS08 g0 s0434
+JP: 万年補欠のくせに、未練たらしくて、{n}オイラって、カッコ悪いよな?{p}{end}
+EN: I'm a career benchwarmer who still can't let it go. Pretty lame, huh?{p}{end}
+
+## MBMS08 g0 s0435
+JP: 努力するのは、カッコ悪くないさ{n}そんなことないよ{p}{end}
+EN: Hard work isn't lame{n}No, it's not lame{p}{end}
+
+## MBMS08 g0 s0436
+JP: なにかに向かって、努力するのって、{n}カッコ悪くなんかないさ。{p}{end}
+EN: Working hard toward something isn't lame at all.{p}{end}
+
+## MBMS08 g0 s0437
+JP: そんなに打ち込めるものがあって、{n}うらやましいよ。{p}
+EN: I'm jealous you've got something you can pour yourself into like that.{p}
+
+## MBMS08 g0 s0438
+JP: へへ……、{n}そ、そうかな…。{n}サンキューな!{p}{end}
+EN: Heh heh... Y-ya think? Thanks!{p}{end}
+
+## MBMS08 g0 s0439
+JP: じゃあ、もうひと頑張りするかな!{p}{end}
+EN: Okay, guess I'll keep at it a while longer!{p}{end}
+
+## MBMS08 g0 s0442
+JP: 『天才は99%の努力と、{n}1%の才能によって生まれる』{n}っていうだろ?{p}
+EN: You know the saying, "Genius is 99% effort and 1% talent," right?{p}
+
+## MBMS08 g0 s0443
+JP: きっと、レギュラーにだってなれるさ!{p}{end}
+EN: I bet you'll make the lineup someday!{p}{end}
+
+## MBMS08 g0 s0444
+JP: そ、そうだな…。{n}よぉし!{sp}なんだかやる気が出てきたぜ!{p}{end}
+EN: Y-yeah... Alright! Now I'm all fired up!{p}{end}
+
+## MBMS08 g0 s0445
+JP: 残り500、気合い入れていくぜっ!{p}
+EN: 500 to go, let's do this!{p}
+
+## MBMS08 g0 s0447
+JP: ………こうして、{n}素振りをする将馬を眺めて、{n}臨海合宿の夜は過ぎていった。{p}
+EN: ...And so the night at the seaside camp went by, watching Shoma practice his swing.{p}
+
+## MBMS08 g0 s0453
+JP: さて、ロベルトが待ってる{n}ホテルの前まで行ってみよう!{p}
+EN: Okay, let's head out front of the hotel, where Roberto's waiting!{p}
+
+## MBMS08 g0 s0454
+JP: あっ、いたいた。{n}ロベルト!{sp}来たぞっ!{p}{end}
+EN: Oh, there he is. Roberto! I'm here!{p}{end}
+
+## MBMS08 g0 s0455
+JP: やあ!{sp}{v3:5}!{n}ビーチでも散歩しようぜ。{n}さあ、行こう!{p}{end}
+EN: Hey! {v3:5}! Let's take a walk on the beach. Come on!{p}{end}
+
+## MBMS08 g0 s0456
+JP: なぁ、ロベルト、{n}どうして、サッカーをはじめたんだ?{p}{end}
+EN: Hey, Roberto, how'd you get into soccer?{p}{end}
+
+## MBMS08 g0 s0457
+JP: 俺は、小さい頃、ブラジルに住んでたんだ。{n}向こうでは、子供がサッカーをするのは、{n}ごく当たり前だったからね。{p}{end}
+EN: I lived in Brazil when I was little. Over there, every kid plays soccer. It's just normal.{p}{end}
+
+## MBMS08 g0 s0458
+JP: でも、いまでも本格的に{n}サッカーを続けているのは…{p}
+EN: But the reason I still play seriously now is...{p}
+
+## MBMS08 g0 s0459
+JP: （やっぱり……）{p}{end}
+EN: (I bet it's...){p}{end}
+
+## MBMS08 g0 s0460
+JP: 夢のため?{n}お金のため?{p}{end}
+EN: For your dream?{n}For the money?{p}{end}
+
+## MBMS08 g0 s0461
+JP: やっぱり……、{n}夢のためとか?{p}
+EN: I bet... it's for your dream?{p}
+
+## MBMS08 g0 s0462
+JP: 夢か…。{p}{end}
+EN: A dream, huh...{p}{end}
+
+## MBMS08 g0 s0463
+JP: プロのサッカー選手になってプレイする、{n}それは、確かに俺の夢だな。{p}
+EN: Going pro and playing soccer for a living... Sure, that's my dream.{p}
+
+## MBMS08 g0 s0464
+JP: でも、俺にはサッカーしかできないから、{n}サッカーをやってる。{p}{end}
+EN: But really, I play soccer because soccer's all I can do.{p}{end}
+
+## MBMS08 g0 s0465
+JP: そういうところもあるかな…。{p}{end}
+EN: I guess that's part of it...{p}{end}
+
+## MBMS08 g0 s0466
+JP: サッカーしかできないからか…。{n}カッコイイなぁ!{p}{end}
+EN: Because soccer's all you can do... That's so cool!{p}{end}
+
+## MBMS08 g0 s0467
+JP: そ、そうかな…。{n}アハハハハ……。{p}
+EN: Y-you think? Ahahaha...{p}
+
+## MBMS08 g0 s0468
+JP: やっぱり……、{n}お金のためとか?{p}{end}
+EN: I bet... it's for the money?{p}{end}
+
+## MBMS08 g0 s0469
+JP: そうだな…、{n}否定はできないな…。{p}
+EN: Well... I can't deny that...{p}
+
+## MBMS08 g0 s0470
+JP: 両親や弟たちに、{n}少しでも、いい暮らしを{n}させてやりたいからね。{p}{end}
+EN: I want to give my parents and little brothers a better life, even just a little.{p}{end}
+
+## MBMS08 g0 s0471
+JP: そのためにも、{n}早くプロのサッカー選手にならないとな。{p}
+EN: That's why I've gotta go pro soon.{p}
+
+## MBMS08 g0 s0472
+JP: 偉いんだな、ロベルト……。{p}
+EN: That's really admirable, Roberto...{p}
+
+## MBMS08 g0 s0473
+JP: そ、そうかな…。{p}{end}
+EN: Y-you think?{p}{end}
+
+## MBMS08 g0 s0474
+JP: うん、{n}応援してるよ!{p}
+EN: Yeah, I'm rooting for you!{p}
+
+## MBMS08 g0 s0475
+JP: ………こうして、{n}ロベルトと語り合って、{n}臨海合宿の夜は過ぎていった。{p}
+EN: ...And so the night at the seaside camp went by, talking with Roberto.{p}
+
+## MBMS08 g0 s0481
+JP: さて、ティファニーが待ってる{n}ホテルの前まで行ってみよう!{p}
+EN: Okay, let's head out front of the hotel, where Tiffany's waiting!{p}
+
+## MBMS08 g0 s0482
+JP: おっ、いたいた。{n}ティファニー!{sp}こんばんは。{p}
+EN: Oh, there she is. Tiffany! Good evening.{p}
+
+## MBMS08 g0 s0483
+JP: あっ、{v3:7}!{n}こんばんはネ!{p}{end}
+EN: Oh, {v3:7}! Good evening!{p}{end}
+
+## MBMS08 g0 s0484
+JP: さあ、いきましょう!{p}{end}
+EN: Come on, let's go!{p}{end}
+
+## MBMS08 g0 s0485
+JP: ………う、うん!{n}（い、いきなり腕組みとは…、{n}{sp}こ、心の準備が……）{p}
+EN: ...O-okay! (Arm in arm right off the bat...? I-I'm not ready for this...){p}
+
+## MBMS08 g0 s0486
+JP: なぁ、ティファニー……。{p}{end}
+EN: Hey, Tiffany...{p}{end}
+
+## MBMS08 g0 s0487
+JP: ハイ?{p}
+EN: Yes?{p}
+
+## MBMS08 g0 s0488
+JP: 日本はどう?{n}楽しいかい?{p}
+EN: How do you like Japan? Having fun?{p}
+
+## MBMS08 g0 s0489
+JP: ハイ、毎日が楽しいし、{n}みんな、親切にしてくれます。{p}{end}
+EN: Yes, every day is fun, and everyone is very kind to me.{p}{end}
+
+## MBMS08 g0 s0490
+JP: けど………。{p}{end}
+EN: But...{p}{end}
+
+## MBMS08 g0 s0491
+JP: けど…、なに?{p}
+EN: But... what?{p}
+
+## MBMS08 g0 s0492
+JP: さみしいと思うとき、あります…。{n}パパとママに、{n}会いたいと思うことあります…。{p}{end}
+EN: Sometimes I feel lonely... Sometimes I want to see my mom and dad...{p}{end}
+
+## MBMS08 g0 s0493
+JP: （そ、そうだよなぁ……{n}{sp}ティファニーも女の子だもんなぁ…。{n}{sp}よし!）{p}{end}
+EN: (Y-yeah, that makes sense... Tiffany's a girl too, after all... Alright!){p}{end}
+
+## MBMS08 g0 s0494
+JP: 頭をなでる{n}そっと抱き寄せる{p}{end}
+EN: Pat her head{n}Gently hold her close{p}{end}
+
+## MBMS08 g0 s0495
+JP: なでなで…{p}
+EN: *pat pat*...{p}
+
+## MBMS08 g0 s0496
+JP: ………、{v3:7}?{p}
+EN: ......{v3:7}?{p}
+
+## MBMS08 g0 s0497
+JP: さみしいと思うことって、{n}ムダなことじゃないよ。{p}{end}
+EN: Feeling lonely isn't a waste, you know.{p}{end}
+
+## MBMS08 g0 s0498
+JP: さみしい気持ちの分だけ、{n}人は、やさしくできるんだから…。{p}
+EN: The lonelier you've been, the kinder you can be to people...{p}
+
+## MBMS08 g0 s0499
+JP: {v3:7}も、{n}さみしいこと、たくさんありましたか?{p}
+EN: {v3:7}, were you lonely a lot too?{p}
+
+## MBMS08 g0 s0500
+JP: どうして?{p}
+EN: Why do you ask?{p}
+
+## MBMS08 g0 s0501
+JP: だって、{n}今、とってもやさしいから…。{p}
+EN: Because... you are so kind right now...{p}
+
+## MBMS08 g0 s0502
+JP: そ、そうかな……。{p}
+EN: D-do you think so...{p}
+
+## MBMS08 g0 s0503
+JP: !?、{v3:7}…?{p}
+EN: !? {v3:7}...?{p}
+
+## MBMS08 g0 s0504
+JP: いいから、じっとしてて…。{p}
+EN: Just stay still...{p}
+
+## MBMS08 g0 s0505
+JP: こうしてると、{n}さみしいのって、{n}どっかいっちゃうだろ…。{p}
+EN: When we're like this, the loneliness kinda goes away, right...?{p}
+
+## MBMS08 g0 s0506
+JP: ハイ………。{p}{end}
+EN: Yes...{p}{end}
+
+## MBMS08 g0 s0507
+JP: ねぇ…、{v3:7}………。{p}{end}
+EN: Hey... {v3:7}......{p}{end}
+
+## MBMS08 g0 s0509
+JP: {v3:7}がさみしいときは、{n}今度は、私がこうしてあげます…。{p}{end}
+EN: When you are lonely, {v3:7}, then I will do this for you...{p}{end}
+
+## MBMS08 g0 s0510
+JP: ……うん。{n}ありがとう……。{p}{end}
+EN: ...Yeah. Thanks...{p}{end}
+
+## MBMS08 g0 s0511
+JP: ………こうして、{n}ティファニーとのデートで、{n}臨海合宿の夜は過ぎていった。{p}
+EN: ...And so the night at the seaside camp went by, on a date with Tiffany.{p}
+
+## MBMS08 g0 s0517
+JP: さて、ロイが待ってる{n}ホテルの前まで行ってみよう!{p}
+EN: Okay, let's head out front of the hotel, where Roy's waiting!{p}
+
+## MBMS08 g0 s0518
+JP: あっ、いたいた。{n}ロイ!{sp}来たぞっ!{p}{end}
+EN: Oh, there he is. Roy! I'm here!{p}{end}
+
+## MBMS08 g0 s0519
+JP: よぉっ!{sp}{v3:6}!{n}さあ、表を散歩でもしようぜ!{p}
+EN: Hey! {v3:6}! Let's go take a walk outside!{p}
+
+## MBMS08 g0 s0520
+JP: 夜の海は、気持ちがいいなぁ。{n}明日帰るなんて、もったいないよ…。{p}{end}
+EN: The ocean at night feels great. Kind of a shame we're going home tomorrow...{p}{end}
+
+## MBMS08 g0 s0521
+JP: 確かに、日本の夏は{n}ジメジメしていて好きじゃないが、{n}今夜は最高に気分がイイよ。{p}{end}
+EN: Sure, I'm no fan of Japan's muggy summers, but tonight I feel fantastic.{p}{end}
+
+## MBMS08 g0 s0522
+JP: なぁ、{v3:6}?{p}{end}
+EN: Hey, {v3:6}?{p}{end}
+
+## MBMS08 g0 s0524
+JP: {v3:6}は、{n}好きなヤツがいるのか?{p}{end}
+EN: {v3:6}, is there someone you like?{p}{end}
+
+## MBMS08 g0 s0525
+JP: （そ、それは…）{p}{end}
+EN: (W-well, that's...){p}{end}
+
+## MBMS08 g0 s0526
+JP: い、いるよ…{n}い、いないよ…{p}{end}
+EN: Y-yeah, there is...{n}N-no, there isn't...{p}{end}
+
+## MBMS08 g0 s0527
+JP: そ、そりゃあ…、{n}い、いるよ……。{p}
+EN: W-well... y-yeah, there is...{p}
+
+## MBMS08 g0 s0528
+JP: ボクが知ってる子か?{n}なぁ、教えろよ!{p}
+EN: Is it someone I know? Come on, tell me!{p}
+
+## MBMS08 g0 s0529
+JP: だって…、{n}それは、やっぱり……。{p}
+EN: I mean... that's, y'know...{p}
+
+## MBMS08 g0 s0530
+JP: ハハハ……、{n}まぁ、いいさ。{p}{end}
+EN: Haha... Well, fine.{p}{end}
+
+## MBMS08 g0 s0531
+JP: でも、モタモタしてると{n}取り残されちまうぜ!{p}{end}
+EN: But if you drag your feet, you'll get left behind!{p}{end}
+
+## MBMS08 g0 s0532
+JP: お互い頑張ろう!{p}{end}
+EN: Let's both do our best!{p}{end}
+
+## MBMS08 g0 s0533
+JP: （そ、そうだな、{n}{sp}俺も頑張らないと……。）{p}{end}
+EN: (Y-yeah, I'd better do my best too...){p}{end}
+
+## MBMS08 g0 s0534
+JP: そ、そんなの…、{n}い、いないよ……。{p}{end}
+EN: N-no way... Th-there's nobody...{p}{end}
+
+## MBMS08 g0 s0535
+JP: じゃあ、ボクのことも嫌いなのか?{p}{end}
+EN: So you don't like me either?{p}{end}
+
+## MBMS08 g0 s0536
+JP: へぇ?{p}
+EN: Huh?{p}
+
+## MBMS08 g0 s0537
+JP: アハハハ……!!{n}ジョークだよ、ジョーク。{p}
+EN: Ahahaha...!! Just kidding, just kidding.{p}
+
+## MBMS08 g0 s0538
+JP: からかって、悪かったな。{n}ククク……。{p}
+EN: Sorry for teasing you. Heh heh heh...{p}
+
+## MBMS08 g0 s0539
+JP: （な、なんで…、{n}{sp}俺がドキドキしなきゃならないんだ…）{p}{end}
+EN: (W-why is MY heart pounding...?){p}{end}
+
+## MBMS08 g0 s0540
+JP: ………こうして、{n}ロイと語り合って、{n}臨海合宿の夜は過ぎていった。{p}
+EN: ...And so the night at the seaside camp went by, talking with Roy.{p}
+
+## MBMS08 g0 s0546
+JP: さて、ボーマンが待ってる{n}ホテルの前まで行ってみよう!{p}
+EN: Okay, let's head out front of the hotel, where Boman's waiting!{p}
+
+## MBMS08 g0 s0547
+JP: あっ、いたいた。{n}ボーマン!{sp}来たぞっ!{p}{end}
+EN: Oh, there he is. Boman! I'm here!{p}{end}
+
+## MBMS08 g0 s0548
+JP: やあ、{v5:8}!{n}さあ、辺りを散歩でもしましょう!{p}
+EN: Hello, {v5:8}! Shall we take a walk around?{p}
+
+## MBMS08 g0 s0549
+JP: 夜の海は、落ち着きますね。{n}神が与えてくださる{n}この安らぎに感謝せねば……。{p}{end}
+EN: The sea at night is so calming. I must give thanks for this peace that God grants us...{p}{end}
+
+## MBMS08 g0 s0550
+JP: なぁ、ボーマン?{p}{end}
+EN: Hey, Boman?{p}{end}
+
+## MBMS08 g0 s0551
+JP: なんですか?{p}{end}
+EN: Yes, what is it?{p}{end}
+
+## MBMS08 g0 s0552
+JP: （ボーマンって…）{p}
+EN: (Boman...){p}
+
+## MBMS08 g0 s0553
+JP: アメリカでは、どういう生活をしてたの?{n}神様って、本当にいると思ってる?{p}{end}
+EN: What was your life like in America?{n}Do you really think God exists?{p}{end}
+
+## MBMS08 g0 s0554
+JP: ボーマンって、{n}アメリカでは、どういう生活をしてたんだ?{p}{end}
+EN: Boman, what was your life like back in America?{p}{end}
+
+## MBMS08 g0 s0555
+JP: そうですねぇ…、{n}毎日、規則正しい生活を心がけ、{n}日曜日には、ミサに行く…{p}
+EN: Let me see... I tried to keep an orderly life every day, and on Sundays I went to Mass...{p}
+
+## MBMS08 g0 s0556
+JP: 特に、今と変わっていませんよ。{p}
+EN: Not much different from now, really.{p}
+
+## MBMS08 g0 s0557
+JP: そっかぁ……。{p}
+EN: I see...{p}
+
+## MBMS08 g0 s0558
+JP: 日本に来て、変わったことといえば、{n}{v5:8}という、すばらしい人に{n}出会ったということでしょうか?{p}
+EN: If anything changed when I came to Japan, it is that I met a wonderful person named {v5:8}.{p}
+
+## MBMS08 g0 s0559
+JP: す、すばらしい?{p}{end}
+EN: W-wonderful?{p}{end}
+
+## MBMS08 g0 s0560
+JP: ええ!{n}{v5:8}のような人がいるなら、{n}日本も悪くない国だと思います。{p}
+EN: Yes! If there are people like you, {v5:8}, then Japan is not a bad country at all.{p}
+
+## MBMS08 g0 s0561
+JP: （な、なんか、{n}{sp}すごくほめられてるぞ……）{p}{end}
+EN: (Wow, he's really laying on the praise...){p}{end}
+
+## MBMS08 g0 s0562
+JP: ボーマンは、{n}神様って、本当にいると思ってる?{p}
+EN: Boman, do you really think God exists?{p}
+
+## MBMS08 g0 s0563
+JP: もちろんですよ、{v5:8}。{p}
+EN: Of course, {v5:8}.{p}
+
+## MBMS08 g0 s0564
+JP: でも、見たことないだろ。{p}{end}
+EN: But you've never seen Him, right?{p}{end}
+
+## MBMS08 g0 s0565
+JP: ハハハ……、{n}確かに、私も見たことはありません。{p}{end}
+EN: Haha... True, I have never seen Him either.{p}{end}
+
+## MBMS08 g0 s0566
+JP: しかし、{n}人々が神に感謝する心を持てば、{n}もっと、心豊かな暮らしができる。{n}そう、信じています。{p}{end}
+EN: But if people have hearts that are thankful to God, they can live richer lives. That is what I believe.{p}{end}
+
+## MBMS08 g0 s0567
+JP: う～ん、{n}難しくて、よくわからないけど、{n}そうかもしれないね…。{p}{end}
+EN: Hmm, that's a little deep for me, but maybe you're right...{p}{end}
+
+## MBMS08 g0 s0568
+JP: ………こうして、{n}ボーマンと語り合って、{n}臨海合宿の夜は過ぎていった。{p}
+EN: ...And so the night at the seaside camp went by, talking with Boman.{p}
+
+## MBMS08 g0 s0574
+JP: さて、響子先生が待ってる{n}ホテルの前まで行ってみよう!{p}
+EN: Okay, let's head out front of the hotel, where Kyoko-sensei's waiting!{p}
+
+## MBMS08 g0 s0575
+JP: あれ?{n}響子先生は、先に待ってるっていったのに…{n}いないぞ?{p}{end}
+EN: Huh? Kyoko-sensei said she'd be there first... But she's not here?{p}{end}
+
+## MBMS08 g0 s0576
+JP: {v0}{col:0}クン{col:-}!{sp}おまたせぇ～っ!{n}ヒック……。{n}さあ、あっち行こ、あっち!!{p}
+EN: {v0}{col:0}-kun{col:-}! Sorry I'm laaate~! *hic*... Come on, over there, over there!!{p}
+
+## MBMS08 g0 s0577
+JP: （よ、酔ってる……。）{p}
+EN: (Sh-she's drunk...){p}
+
+## MBMS08 g0 s0578
+JP: 夜の海ってぇ～、気持ちいいわねぇー!{p}{end}
+EN: The sea at niiight feels sooo nice~!{p}{end}
+
+## MBMS08 g0 s0579
+JP: あーもう、{n}からまないで、{n}しっかりしてくださいよ…。{p}
+EN: Ugh, stop hanging all over me and pull yourself together...{p}
+
+## MBMS08 g0 s0580
+JP: なによぉ～、{n}先生が生徒に、からんじゃダメっていう{n}法律でもあるのぉ～?{p}{end}
+EN: Whaaat~? Is there some law that says a teacher can't hang all over her student~?{p}{end}
+
+## MBMS08 g0 s0581
+JP: （そ、それは……）{p}
+EN: (W-well...){p}
+
+## MBMS08 g0 s0582
+JP: ないんじゃないの{n}あ、あるかも…{p}{end}
+EN: I don't think so{n}M-maybe there is...{p}{end}
+
+## MBMS08 g0 s0583
+JP: そ、それは……、{n}やっぱり、ないんじゃないのかな…。{p}{end}
+EN: W-well... I guess there isn't, no...{p}{end}
+
+## MBMS08 g0 s0584
+JP: そうよねぇ、そんなのないわよねぇ～。{n}じゃあじゃあ、ひざまくらしてぇ～!{p}{end}
+EN: Riiight, there's no such law~. So, so, let me use your lap as a pillow~!{p}{end}
+
+## MBMS08 g0 s0585
+JP: はいはい……。{n}（ドキドキドキ……）{p}{end}
+EN: Okay, okay... (Ba-dump ba-dump...){p}{end}
+
+## MBMS08 g0 s0586
+JP: んふふっ、{n}{v0}{col:0}クン{col:-}のひざまくら、{n}気持ちいい～{col:5}♥{col:-}{p}{end}
+EN: Mmhehe, {v0}{col:0}-kun{col:-}'s lap is so comfy~{col:5}♥{col:-}{p}{end}
+
+## MBMS08 g0 s0587
+JP: やれやれ……。{n}（でも、今、俺しあわせ……）{p}{end}
+EN: Good grief... (But right now, I'm a happy guy...){p}{end}
+
+## MBMS08 g0 s0588
+JP: そ、それは……、{n}あ、あるかもしれないよ…。{p}{end}
+EN: W-well... Th-there might be...{p}{end}
+
+## MBMS08 g0 s0589
+JP: え～っ!{sp}ヒック!!{n}そんなのあるわけないでしょ～!{n}えいっ{col:5}♥{col:-}{p}
+EN: Whaaat~!? *hic!!* No way there's a law like that~! Hyah{col:5}♥{col:-}{p}
+
+## MBMS08 g0 s0590
+JP: おわっ!!{p}
+EN: Whoa!!{p}
+
+## MBMS08 g0 s0591
+JP: バッシャアアアーン!{p}{end}
+EN: SPLAAASH!{p}{end}
+
+## MBMS08 g0 s0592
+JP: （ひ、ひどい、{n}{sp}海に突き飛ばされた……）{p}
+EN: (Th-that's cruel... She shoved me into the sea...){p}
+
+## MBMS08 g0 s0593
+JP: あははははぁーーーっ!!{n}おっこちた、おっこちたぁ～っ!{p}{end}
+EN: Ahahahaaa!! You fell in, you fell in~!{p}{end}
+
+## MBMS08 g0 s0594
+JP: {face:8}・・・・・・・・・・。{face:255}{n}（アンタが突き飛ばしたんだろ……）{p}
+EN: {face:8}..........{face:255} (You're the one who pushed me...){p}
+
+## MBMS08 g0 s0595
+JP: ………こうして、{n}酔っ払った響子先生とのデートで、{n}臨海合宿の夜は過ぎていった。{p}{end}
+EN: ...And so the night at the seaside camp went by, on a date with a drunk Kyoko-sensei.{p}{end}
+
+## MBMS08 g0 s0601
+JP: さて、英雄先生が待ってる、{n}ホテルの前まで行ってみよう!{p}{end}
+EN: Okay, let's head out front of the hotel, where Hideo-sensei's waiting!{p}{end}
+
+## MBMS08 g0 s0602
+JP: あっ、いたいた。{n}英雄先生!{sp}来ました!{p}{end}
+EN: Oh, there he is. Hideo-sensei! I'm here!{p}{end}
+
+## MBMS08 g0 s0603
+JP: やあ、{v0}{col:0}君{col:-}!{n}じゃあ、表を散歩でもするか!{p}
+EN: Ah, {v0}{col:0}-kun{col:-}! Shall we take a walk outside?{p}
+
+## MBMS08 g0 s0604
+JP: 自然に囲まれた環境とは、いいものだね。{n}こうした良い環境で、君たちに、{n}学校生活を送らせてあげたいものだよ。{p}{end}
+EN: Being surrounded by nature is a fine thing. I wish I could give you all a school life in surroundings like these.{p}{end}
+
+## MBMS08 g0 s0605
+JP: ねぇ、英雄先生…?{p}
+EN: Um, Hideo-sensei...?{p}
+
+## MBMS08 g0 s0606
+JP: 何かね?{p}{end}
+EN: What is it?{p}{end}
+
+## MBMS08 g0 s0607
+JP: （英雄先生は……）{p}
+EN: (Hideo-sensei...){p}
+
+## MBMS08 g0 s0608
+JP: どうして、先生になったんですか?{n}どうして、結婚しないんですか?{p}{end}
+EN: Why did you become a teacher?{n}Why haven't you gotten married?{p}{end}
+
+## MBMS08 g0 s0609
+JP: 英雄先生は、{n}どうして、先生になったんですか?{p}
+EN: Hideo-sensei, why did you become a teacher?{p}
+
+## MBMS08 g0 s0610
+JP: そうだなぁ……{p}
+EN: Let me see...{p}
+
+## MBMS08 g0 s0611
+JP: これまで、私が受けてきた、{n}学問や豊かな暮らしを君たちに伝えて、{n}世の中に、恩返しがしたかったんだよ。{p}
+EN: I wanted to pass on to you the learning and the good life I was given, and repay the world for it.{p}
+
+## MBMS08 g0 s0612
+JP: しかし、大事なのは…{p}{end}
+EN: But what matters is...{p}{end}
+
+## MBMS08 g0 s0613
+JP: 知識を君たちが、{n}自分の人生にどう活かすかということで、{n}それは、教科書では教えられない…。{p}{end}
+EN: how you put that knowledge to use in your own lives. No textbook can teach that...{p}{end}
+
+## MBMS08 g0 s0614
+JP: それを教えてあげられるのは、{n}教科書ではなく、教師だけだからね。{p}{end}
+EN: Only a teacher can teach you that, not a textbook.{p}{end}
+
+## MBMS08 g0 s0615
+JP: だから、教師という職業を選んだんだよ。{p}
+EN: That's why I chose to become a teacher.{p}
+
+## MBMS08 g0 s0616
+JP: そうかぁ…。{n}ちょっと……、{n}英雄先生、見直しちゃいました。{p}{end}
+EN: I see... I have to say, Hideo-sensei, I kind of respect you more now.{p}{end}
+
+## MBMS08 g0 s0617
+JP: そうか?{n}アハハハハハ……。{p}{end}
+EN: Oh? Ahahahaha...{p}{end}
+
+## MBMS08 g0 s0618
+JP: 英雄先生は、{n}どうして、結婚しないんですか?{p}{end}
+EN: Hideo-sensei, why haven't you gotten married?{p}{end}
+
+## MBMS08 g0 s0619
+JP: ハハハハ……、{n}これは、手厳しいな…。{p}
+EN: Hahaha... You don't pull your punches...{p}
+
+## MBMS08 g0 s0620
+JP: 私は、どうも、{n}そういうことは興手でね…。{p}
+EN: I'm afraid I'm hopeless at that sort of thing...{p}
+
+## MBMS08 g0 s0621
+JP: だから、この歳になっても、{n}嫁さんももらえんのだよ。{p}{end}
+EN: That's why I still haven't found a wife at my age.{p}{end}
+
+## MBMS08 g0 s0622
+JP: フフフ……。{n}英雄先生、{n}結構、イイ線いってると思うけどな…。{p}
+EN: Heh heh... I think you're a pretty good catch, Hideo-sensei...{p}
+
+## MBMS08 g0 s0623
+JP: そ、そうか?{n}イイ線いってるか?{p}{end}
+EN: R-really? A good catch, you say?{p}{end}
+
+## MBMS08 g0 s0624
+JP: うん!{p}
+EN: Yeah!{p}
+
+## MBMS08 g0 s0625
+JP: ………こうして、{n}英雄先生と語り合って、{n}臨海合宿の夜は過ぎていった。{p}
+EN: ...And so the night at the seaside camp went by, talking with Hideo-sensei.{p}
+
+## MBMS08 g0 s0631
+JP: さて、隼人先生が待ってる{n}ホテルの前まで行ってみよう!{p}
+EN: Okay, let's head out front of the hotel, where Hayato-sensei's waiting!{p}
+
+## MBMS08 g0 s0632
+JP: あ、いたいた。{n}隼人先生、来ましたけど…。{p}
+EN: Oh, there he is. Hayato-sensei, I'm here...{p}
+
+## MBMS08 g0 s0633
+JP: フッ、来たか、{v3:16}。{n}必ず来るって、信じてたぜ…。{n}さあ、俺について来な…。{p}{end}
+EN: Heh, so you came, {v3:16}. I knew you'd show... Now, follow me...{p}{end}
+
+## MBMS08 g0 s0634
+JP: （完全に自分の世界に、{n}{sp}入っちゃってるぞ…。{n}{sp}長くなりそうだなぁ……。）{p}{end}
+EN: (He's totally lost in his own world... This could take a while...){p}{end}
+
+## MBMS08 g0 s0635
+JP: {v3:16}、海は好きか?{p}
+EN: {v3:16}, do you like the sea?{p}
+
+## MBMS08 g0 s0636
+JP: ええ、まぁ…。{n}（な、なんなんだ、突然…）{p}
+EN: Uh, sure... (Wh-what's this all of a sudden...?){p}
+
+## MBMS08 g0 s0637
+JP: じゃあ、若さってなんだと思う?{p}
+EN: Then what do you think youth is?{p}
+
+## MBMS08 g0 s0638
+JP: （そ、そうだなぁ…）{p}{end}
+EN: (Uh, let's see...){p}{end}
+
+## MBMS08 g0 s0639
+JP: わからんか?{n}じゃあ、お前の心に聞いてみろ!{p}{end}
+EN: Don't know? Then ask your heart!{p}{end}
+
+## MBMS08 g0 s0640
+JP: こういうときは、{n}自分の魂が求めるままに、{n}行動してみるんだ!{p}
+EN: At a time like this, you do whatever your soul demands!{p}
+
+## MBMS08 g0 s0641
+JP: （いったい、どうすりゃいいんだ…）{p}
+EN: (What am I supposed to do...?){p}
+
+## MBMS08 g0 s0642
+JP: 叫んでみる{n}走り出してみる{p}
+EN: Shout{n}Start running{p}
+
+## MBMS08 g0 s0643
+JP: （もう、やけくそだ!{n}{sp}思い切り叫んでやるっ!!）{p}
+EN: (Whatever, here goes nothing! I'll shout my lungs out!!){p}
+
+## MBMS08 g0 s0644
+JP: 青春のバカやろぉーーーーっ!{p}{end}
+EN: Youth, you big idioooooot!{p}{end}
+
+## MBMS08 g0 s0645
+JP: 響いたぜ…、{n}お前の叫びが…。{n}この俺のハート、つまり心にな…。{p}{end}
+EN: It echoed... your cry... Right here in my heart. My heart, that is...{p}{end}
+
+## MBMS08 g0 s0646
+JP: さあ!{sp}もっと叫べ!!{n}お前の若さを、もっとぶつけるんだ!{n}あの夕日に向かって!!{p}
+EN: Come on! Shout more!! Hurl your youth at it! At that setting sun!!{p}
+
+## MBMS08 g0 s0647
+JP: （ゆ、夕日なんて、どこにあるんだ?{n}{sp}えーい、もう一度だ!）{p}{end}
+EN: (S-setting sun? Where? Ugh, fine, one more time!){p}{end}
+
+## MBMS08 g0 s0649
+JP: そうだっ!{n}何度も何度も、ぶつけてみろっ!!{p}{end}
+EN: That's it! Hurl it again and again!!{p}{end}
+
+## MBMS08 g0 s0650
+JP: （もう、やけくそだ!{n}{sp}思い切り走ってやるっ!!）{p}
+EN: (Whatever, here goes nothing! I'll run as hard as I can!!){p}
+
+## MBMS08 g0 s0651
+JP: だあぁぁぁぁーーーーーっ!!{p}{end}
+EN: Daaaaaahhhh!!{p}{end}
+
+## MBMS08 g0 s0652
+JP: そうか、わかった…。{n}ほとばしる汗、{n}それがお前の若さなんだな…。{p}
+EN: I see, I get it... Sweat pouring off you... That's your youth, isn't it...{p}
+
+## MBMS08 g0 s0653
+JP: よぉし、{n}倒れるまで、走り続けよう!{p}{end}
+EN: Alright, let's keep running till we drop!{p}{end}
+
+## MBMS08 g0 s0654
+JP: （と、とんでもないことに、{n}{sp}なってしまったぞ～～!!）{p}{end}
+EN: (Wh-what have I gotten myself into~~!!){p}{end}
+
+## MBMS08 g0 s0655
+JP: ………こうして、{n}隼人先生と青春の1ページを刻み、{n}臨海合宿の夜は過ぎていった。{p}{end}
+EN: ...And so the night at the seaside camp went by, as I wrote a page of youth with Hayato-sensei.{p}{end}
+
+## MBMS08 g0 s0657
+JP: うーん………。{n}なんか、のどがガラガラだぞ…。{p}
+EN: Ugh... My throat's all hoarse...{p}
+
+## MBMS08 g0 s0658
+JP: う～ん………。{n}ぜ、全身筋肉痛だぞ…。{p}
+EN: Ugh... I'm sore all over...{p}
+
+## MBMS08 g0 s0662
+JP: さて、これから消灯までは、自由時間だ。{n}どこに遊びに行こうかな?{p}{end}
+EN: Now it's free time until lights-out. Where should I go hang out?{p}{end}
+
+## MBMS08 g0 s0663
+JP: 本館2F{n}本館3F{n}本館4F{n}別館{p}
+EN: Main Bldg. 2F{n}Main Bldg. 3F{n}Main Bldg. 4F{n}Annex{p}
+
+## MBMS08 g0 s0664
+JP: よし、{col:3}本館2F{col:-}に行ってみよう!{p}
+EN: Okay, let's check out {col:3}Main Bldg. 2F{col:-}!{p}
+
+## MBMS08 g0 s0665
+JP: よし、{col:3}本館3F{col:-}に行ってみよう!{p}
+EN: Okay, let's check out {col:3}Main Bldg. 3F{col:-}!{p}
+
+## MBMS08 g0 s0666
+JP: よし、{col:3}本館4F{col:-}に行ってみよう!{p}
+EN: Okay, let's check out {col:3}Main Bldg. 4F{col:-}!{p}
+
+## MBMS08 g0 s0667
+JP: よし、{col:3}別館{col:-}に行ってみよう!{p}
+EN: Okay, let's check out the {col:3}Annex{col:-}!{p}
+
+## MBMS08 g0 s0668
+JP: あれっ?{n}部屋の中が、真っ暗だぞ!?{n}誰もいないのか?{p}
+EN: Huh? The room's pitch black!? Nobody here?{p}
+
+## MBMS08 g0 s0669
+JP: バフッ!{p}{end}
+EN: FWUMP!{p}{end}
+
+## MBMS08 g0 s0670
+JP: いってぇーーっ!{n}なんだ!?{sp}何が飛んできた?{n}………まくら?{p}
+EN: Owww! What!? What hit me? ......A pillow?{p}
+
+## MBMS08 g0 s0671
+JP: 来たね!{sp}{v7:1}!{n}ここは、血で血を洗う、{n}無差別式・闇のまくら投げ部屋だよ!{p}{end}
+EN: You came, {v7:1}! This is the no-holds-barred, bloodbath Pillow Fight Room of Darkness!{p}{end}
+
+## MBMS08 g0 s0672
+JP: 覚悟して、かかってきなよ!{p}
+EN: Get ready and come at me!{p}
+
+## MBMS08 g0 s0673
+JP: （よぉし!{n}{sp}声のした方向を集中攻撃だ!!{n}{sp}それっ!!）{p}
+EN: (Alright! I'll focus fire where the voice came from!! Take that!!){p}
+
+## MBMS08 g0 s0674
+JP: ボフッ!バフッ!バフッ!ボフッ!………{p}
+EN: Fwump! Whump! Whump! Fwump!......{p}
+
+## MBMS08 g0 s0675
+JP: ハァ、ハァ……、{n}一時休戦…。{n}ちょっと休もう。{p}{end}
+EN: Huff, huff... Time out... Let's take a break.{p}{end}
+
+## MBMS08 g0 s0676
+JP: ん!?{n}ひなた、どうかしたのか?{p}{end}
+EN: Hm!? Hinata, what's wrong?{p}{end}
+
+## MBMS08 g0 s0677
+JP: うぅ～～～っ。{n}みんな、ヒドイよっ!{n}私ばっかり狙ってぇ～。{p}{end}
+EN: Uuuuu... You guys are so mean! You all just went after me~.{p}{end}
+
+## MBMS08 g0 s0678
+JP: うっうっ………。{p}{end}
+EN: *sob sob*......{p}{end}
+
+## MBMS08 g0 s0679
+JP: （……………………。{n}{sp}ヤ、ヤバイ!!{n}{sp}泣かしちゃったぞ!）{p}
+EN: (.......... Uh-oh!! I made her cry!){p}
+
+## MBMS08 g0 s0680
+JP: なっ、泣くなよ、ひなた!{n}オレたちが悪かったよ。{n}あ、謝るからさっ!{sp}なぁ?{p}{end}
+EN: D-don't cry, Hinata! We're sorry, okay? W-we'll apologize! Right?{p}{end}
+
+## MBMS08 g0 s0681
+JP: スキありっ!!!{p}{end}
+EN: Gotcha!!!{p}{end}
+
+## MBMS08 g0 s0682
+JP: バフッ!!{n}バフッ!!{n}バフッ!!{p}
+EN: Whump!!{n}Whump!!{n}Whump!!{p}
+
+## MBMS08 g0 s0683
+JP: おごっ!!{n}（が、顔面にヒットしたぞ……）{p}
+EN: Oof!! (Right in the face...){p}
+
+## MBMS08 g0 s0684
+JP: やーい!{n}ひっかかった!{sp}ひっかかったぁ!!{p}{end}
+EN: Nyah nyah! You fell for it! You fell for it!!{p}{end}
+
+## MBMS08 g0 s0685
+JP: こんくらいで、泣くわけないじゃん!{n}あっかんベェー!{p}{end}
+EN: Like I'd cry over something like that! Bleeeh!{p}{end}
+
+## MBMS08 g0 s0686
+JP: コラァッ!{sp}ひなたぁっ!{n}だましやがったなぁっ!!{n}これでも、食らいやがれぇっ!!{p}
+EN: Hey! Hinataaa! You tricked us!! Eat this!!{p}
+
+## MBMS08 g0 s0687
+JP: アハハハッ!{n}そんなの、当たんないよー。{n}もっかい、あっかんベェー!{p}{end}
+EN: Ahahaha! Can't hit me with that! Bleeeh, again!{p}{end}
+
+## MBMS08 g0 s0688
+JP: ………こうして、{n}果てしない、まくら投げバトルロイヤルで、{n}臨海合宿の夜は過ぎていった。{p}{end}
+EN: ...And so the night at the seaside camp went by, in an endless pillow-fight battle royale.{p}{end}
+
+## MBMS08 g0 s0692
+JP: ……だ、だから!{n}女相手に、本気が出せるかよ!{p}
+EN: ...L-like I said! I can't go all out against a girl!{p}
+
+## MBMS08 g0 s0693
+JP: 負け惜しみいっちゃってさ。{n}本気でやってくれて、{n}アタシは全然構わないわよ!{p}{end}
+EN: Sore loser. Go all out, I don't mind one bit!{p}{end}
+
+## MBMS08 g0 s0694
+JP: （えらく騒がしいな…、{n}{sp}何をして遊んでるんだ?）{p}
+EN: (It's pretty noisy in here... What are they playing?){p}
+
+## MBMS08 g0 s0695
+JP: やあ、{v3:5}!{n}よく来たな。{p}
+EN: Hey, {v3:5}! Glad you came.{p}
+
+## MBMS08 g0 s0696
+JP: あ、{v7:4}!{n}ねぇ、アタシと腕相撲してみない?{p}{end}
+EN: Oh, {v7:4}! Hey, wanna arm wrestle me?{p}{end}
+
+## MBMS08 g0 s0697
+JP: ふふふっ、{n}この2人は、さっき倒しちゃったんだ。{p}{end}
+EN: Heh heh, I already beat these two.{p}{end}
+
+## MBMS08 g0 s0698
+JP: そいつは、すごいな。{n}じゃあ、挑戦してみようかな。{p}
+EN: Wow, that's impressive. Guess I'll give it a shot.{p}
+
+## MBMS08 g0 s0699
+JP: さあ、手を出して!{p}
+EN: Okay, give me your hand!{p}
+
+## MBMS08 g0 s0700
+JP: （おぉっ!!{n}{sp}や、やわらかい手だな……）{p}
+EN: (Whoa!! H-her hand is so soft...){p}
+
+## MBMS08 g0 s0701
+JP: レディ…、ゴー!{p}{end}
+EN: Ready... go!{p}{end}
+
+## MBMS08 g0 s0702
+JP: （しまった!{n}{sp}動揺してる間に……!）{p}
+EN: (Crap! While I was flustered...!){p}
+
+## MBMS08 g0 s0703
+JP: えいっ!!{p}
+EN: Hyah!!{p}
+
+## MBMS08 g0 s0704
+JP: グキッ!!{p}
+EN: CRACK!!{p}
+
+## MBMS08 g0 s0705
+JP: やったぁ!{n}また、勝っちゃったよ!!{n}みんな男のくせに、だらしないわね!{p}{end}
+EN: Yay! I won again!! You're all pathetic, and you call yourselves guys!{p}{end}
+
+## MBMS08 g0 s0706
+JP: （な、なるほど、{n}{sp}将馬とロベルトが負けたわけが{n}{sp}分かったぞ……）{p}{end}
+EN: (S-so that's how Shoma and Roberto lost...){p}{end}
+
+## MBMS08 g0 s0707
+JP: {v3:3}!{sp}お前!{n}そ、その腕っ!!{p}{end}
+EN: {v3:3}! Y-your... your arm!!{p}{end}
+
+## MBMS08 g0 s0708
+JP: え、何?{n}……………ん!?{p}
+EN: Huh, what? ......Hm!?{p}
+
+## MBMS08 g0 s0709
+JP: ぷらんぷらんぷらん…………{p}
+EN: *dangle dangle dangle*......{p}
+
+## MBMS08 g0 s0710
+JP: おわっ!!{n}肘から先が、あさっての方向に{n}向いてるぞ!{p}
+EN: Whoa!! Everything past the elbow is pointing the wrong way!{p}
+
+## MBMS08 g0 s0711
+JP: {v7:4}!!{n}だっ、大丈夫!?{p}
+EN: {v7:4}!! A-are you okay!?{p}
+
+## MBMS08 g0 s0712
+JP: おかげさまで、{n}わりと、結構イタイ………。{p}
+EN: Thanks for asking. It actually kinda hurts. A lot......{p}
+
+## MBMS08 g0 s0713
+JP: これは、いけない!{n}すぐ、響子先生に診せるんだ!{n}さあ、行こう!{p}{end}
+EN: This is bad! We have to get Kyoko-sensei to look at it, right now! Come on!{p}{end}
+
+## MBMS08 g0 s0714
+JP: 骨折してなくて、よかった。{n}一時は、どうなるかと思ったよ。{p}
+EN: Good thing it wasn't broken. For a moment I didn't know what would happen.{p}
+
+## MBMS08 g0 s0715
+JP: ああ。{n}脱きゅうで済んで{n}ホント良かったぜ。{p}{end}
+EN: Yeah. Glad it was just a dislocation, man.{p}{end}
+
+## MBMS08 g0 s0716
+JP: ごめんなさい!{sp}{v7:4}!{n}アタシ、アタシ………。{p}
+EN: I'm so sorry, {v7:4}! I, I......{p}
+
+## MBMS08 g0 s0717
+JP: 気にしなくてもいいよ。{n}特に、大したことないみたいだし。{p}{end}
+EN: Don't worry about it. It doesn't seem like a big deal.{p}{end}
+
+## MBMS08 g0 s0718
+JP: お姫様にやられてるようじゃ、{n}騎士はつとまらないよな。{n}また、鍛え直してくるよ。{p}{end}
+EN: If a princess can take me down, I'm not much of a knight, huh? I'll go train some more.{p}{end}
+
+## MBMS08 g0 s0719
+JP: も、もう、バカ……。{p}{end}
+EN: Y-you dummy......{p}{end}
+
+## MBMS08 g0 s0720
+JP: ………こうして、{n}ハプニング付きの腕相撲で、{n}臨海合宿の夜は過ぎていった。{p}
+EN: ...And so the night at the seaside camp went by, with an arm-wrestling match and a little mishap.{p}
+
+## MBMS08 g0 s0722
+JP: う～ん………。{n}まさか、腕相撲で脱きゅうするとは…。{p}{end}
+EN: Ugh...... Who knew I'd dislocate my arm arm wrestling...{p}{end}
+
+## MBMS08 g0 s0724
+JP: おじゃましまーす。{n}こんばんはー。{n}先生、遊びに来ましたー。{p}{end}
+EN: Pardon the intrusion~. Good evening~. Sensei, I came to hang out~.{p}{end}
+
+## MBMS08 g0 s0725
+JP: い、いかん!{n}ここから早く逃げなさい!{n}はやくーーーーっ!!{sp}（ガクッ……）{p}{end}
+EN: N-no! Get out of here, quickly! Huuurryyyy!! (thud......){p}{end}
+
+## MBMS08 g0 s0726
+JP: ごおわぁぁぁぁーーっ!!{p}{end}
+EN: GWAAAAAHHH!!{p}{end}
+
+## MBMS08 g0 s0727
+JP: ひ、悲鳴……!?{n}な、なにが起こっているんだ?{p}
+EN: A-a scream...!? Wh-what's going on?{p}
+
+## MBMS08 g0 s0728
+JP: 隼人先生～、ほら、遠慮なさらずに～。{n}リラックスしてくださいね～。{n}ヒック…。{p}
+EN: Hayato-sensei~, come on, don't be shy~. Just relax~. *hic*...{p}
+
+## MBMS08 g0 s0729
+JP: せ、先生!{sp}き、響子先生!{n}お、お気を確かに!!{p}{end}
+EN: S-sensei! K-Kyoko-sensei! G-get a grip on yourself!!{p}{end}
+
+## MBMS08 g0 s0730
+JP: うぉっっ!!{p}{end}
+EN: Gwagh!!{p}{end}
+
+## MBMS08 g0 s0731
+JP: バキバキバキバキーーーーーーッ!!!{p}{end}
+EN: CRACK CRACK CRACK CRAAACK!!!{p}{end}
+
+## MBMS08 g0 s0732
+JP: ごおわぁぁぁぁーーっ!!{sp}（ガクッ……）{p}{end}
+EN: GWAAAAAHHH!! (thud......){p}{end}
+
+## MBMS08 g0 s0733
+JP: あら!?{sp}{v0}{col:0}クン{col:-}!{n}あなたも診てあげるわ。{n}こっちにいらっしゃい～{col:5}♥{col:-}{p}{end}
+EN: Oh my!? {v0}{col:0}-kun{col:-}! I'll give you a checkup too. Come over here~{col:5}♥{col:-}{p}{end}
+
+## MBMS08 g0 s0734
+JP: （き、響子先生……、よ、酔ってる……）{p}
+EN: (K-Kyoko-sensei... is d-drunk......){p}
+
+## MBMS08 g0 s0735
+JP: さぁ、はやくなさい!{sp}（ガシッ!）{p}
+EN: Come on, hurry up! (Grab!){p}
+
+## MBMS08 g0 s0737
+JP: 今日は、疲れたでしょ……。{n}すぐ、楽にしてあげますからねぇ～!{n}ヒック…。{p}
+EN: You must be tired today...... I'll make you feel all better in no time~! *hic*...{p}
+
+## MBMS08 g0 s0738
+JP: 響子先生!{sp}よ、よしてください!{n}人の情けがあるのならっ!{p}
+EN: Kyoko-sensei! P-please stop! Have some mercy!{p}
+
+## MBMS08 g0 s0739
+JP: うふふっ、問答無用!{p}{end}
+EN: Ufufu, no arguments!{p}{end}
+
+## MBMS08 g0 s0743
+JP: ………こうして、{n}酔っ払った響子先生の、愛のマッサージで、{n}臨海合宿の夜は過ぎていった。{p}{end}
+EN: ...And so the night at the seaside camp went by, with drunk Kyoko-sensei's loving massage.{p}{end}
+
+## MBMS08 g0 s0745
+JP: う～ん………。{n}か、体のあちこちが、ミシミシいってる…。{p}{end}
+EN: Ugh...... My whole body is creaking...{p}{end}
+
+## MBMS08 g0 s0747
+JP: よぉ!{sp}{v3:6}!{n}よく来たな!{p}{end}
+EN: Hey! {v3:6}! Glad you came!{p}{end}
+
+## MBMS08 g0 s0748
+JP: これで、全員そろったネ。{n}さあ、はじめようよ!{p}
+EN: Now everyone is here. Let's start!{p}
+
+## MBMS08 g0 s0749
+JP: 何して遊ぶんだ?{p}{end}
+EN: What are we playing?{p}{end}
+
+## MBMS08 g0 s0750
+JP: となりの人からカードを1枚取って、{n}同じ数字のカードがあれば、{n}一緒に捨てる…{p}
+EN: You take one card from the person next to you, and if you have a card with the same number, you discard them together...{p}
+
+## MBMS08 g0 s0751
+JP: これを繰り返して、{n}最後にジョーカーを持ってる人が{n}負けという、簡単なカードゲームですよ。{p}
+EN: You repeat this, and whoever has the Joker at the end loses. It is a simple card game.{p}
+
+## MBMS08 g0 s0752
+JP: う～ん、確か日本では、{n}ババヌリっていいます!{p}
+EN: Umm, I think in Japan it is called "Baba-nuri"!{p}
+
+## MBMS08 g0 s0753
+JP: …それを言うなら、ババ抜きだ。{p}
+EN: ...You mean "Baba-nuki."{p}
+
+## MBMS08 g0 s0754
+JP: なんだ、{n}ババ抜きか、それならわかるよ。{n}じゃあ、はじめようぜ!{p}{end}
+EN: Oh, Old Maid. I know that one. Let's start!{p}{end}
+
+## MBMS08 g0 s0755
+JP: ロイ!{sp}ボーマン!{n}ヘルプミーです!{p}{end}
+EN: Roy! Boman! Help me, please!{p}{end}
+
+## MBMS08 g0 s0756
+JP: 神は、勝負には厳しいのです。{p}{end}
+EN: God is strict when it comes to competition.{p}{end}
+
+## MBMS08 g0 s0757
+JP: …だそうだ。{n}ボクたちは、もう上がったんだから、{n}一人で頑張ってみるんだな。{p}{end}
+EN: ...So he says. We're already out, so you'll have to manage on your own.{p}{end}
+
+## MBMS08 g0 s0758
+JP: うぅ～っ……。{n}じゃあ、{v3:7}!{n}最後の2枚、どっちを引きますか?{p}{end}
+EN: Uuuu...... Then, {v3:7}! Last two cards. Which one will you take?{p}{end}
+
+## MBMS08 g0 s0759
+JP: （う～ん、{n}{sp}右か、それとも左か…）{p}{end}
+EN: (Hmm, right or left...){p}{end}
+
+## MBMS08 g0 s0760
+JP: よし!{sp}右だっ!!{p}
+EN: Okay! Right!!{p}
+
+## MBMS08 g0 s0761
+JP: あっ、UFO!{p}
+EN: Oh, a UFO!{p}
+
+## MBMS08 g0 s0762
+JP: ええっ!!{p}
+EN: Whoa!!{p}
+
+## MBMS08 g0 s0763
+JP: （……って、あぶないあぶない。{n}{sp}右にいって、引っかけにくるということは{n}{sp}………、左だっ!）{p}
+EN: (...Whoa, close one. If she's trying to trick me when I go right, then......it's left!){p}
+
+## MBMS08 g0 s0764
+JP: ピラリ…{p}{end}
+EN: *flip*...{p}{end}
+
+## MBMS08 g0 s0765
+JP: あ、あれ?{n}ジョ、ジョーカー!?{p}{end}
+EN: Wh-what? Th-the Joker!?{p}{end}
+
+## MBMS08 g0 s0766
+JP: じゃあ、ミーはこっちを取って……。{n}やったぁーー!{n}ミーの勝ちデース!!{p}{end}
+EN: Then I take this one...... Yaaay! I win!!{p}{end}
+
+## MBMS08 g0 s0767
+JP: 相手の恵の恵をかく!{n}これぞ、大和魂ネ!{n}ミーは日本にきて、勉強しました!{p}
+EN: A double bluff! That is the Japanese spirit! I learned it here in Japan!{p}
+
+## MBMS08 g0 s0768
+JP: （そ、それは、違うと思うぞ……）{p}{end}
+EN: (I-I don't think that's what it means......){p}{end}
+
+## MBMS08 g0 s0769
+JP: ………こうして、{n}恵の恵をかくトランプ大会で、{n}臨海合宿の夜は過ぎていった。{p}{end}
+EN: ...And so the night at the seaside camp went by, in a double-bluffing card tournament.{p}{end}
+
+## MBMS08 g0 s0773
+JP: 夏休みということで、グラウンドでは{n}クラブ活動がそこここで行われている。{n}お、あそこでランニングしているのは……{n}夏だな。{p}
+EN: It's summer break, so clubs are practicing all over the field. Oh, the one running over there is...... Natsu.{p}
+
+## MBMS08 g0 s0774
+JP: 声をかける{n}立ち去る{p}{end}
+EN: Call out to her{n}Leave{p}{end}
+
+## MBMS08 g0 s0775
+JP: じゃましちゃ悪いか。{n}別のトコロにいってみよう…。{p}
+EN: Better not bother her. Let's try somewhere else...{p}
+
+## MBMS08 g0 s0776
+JP: おーい、夏～!!{n}何やってるんだ?{p}
+EN: Heeey, Natsu~!! What're you up to?{p}
+
+## MBMS08 g0 s0777
+JP: あ、{v7:4}。{n}今日はクラブも休みだから、ちょっと{n}トレーニングをね。{n}アンタもトレーニングに来たの?{p}
+EN: Oh, {v7:4}. Club's off today, so I'm doing a little training. You here to train too?{p}
+
+## MBMS08 g0 s0778
+JP: トレーニングをする{n}見守ってあげる{p}
+EN: Train with her{n}Watch her train{p}
+
+## MBMS08 g0 s0779
+JP: 俺も、ちょっと身体動かそうと思ってね。{n}一緒にトレーニングしようか?{p}{end}
+EN: I figured I'd get some exercise too. Want to train together?{p}{end}
+
+## MBMS08 g0 s0780
+JP: うん!{n}アタシはとりあえずもう少し走るけど、{n}いいかな?{n}そのあと基礎トレーニングして……{p}
+EN: Sure! I'm gonna run a bit more first, okay? Then some basic training......{p}
+
+## MBMS08 g0 s0782
+JP: ふぅ疲れたぁ!{n}やっぱり身体動かすと気持ちいいね!!{p}{end}
+EN: Phew, I'm beat! Working out really feels great!!{p}{end}
+
+## MBMS08 g0 s0783
+JP: 夏は特にカラダを動かしたあとが清々しい{n}よな～。{p}{end}
+EN: Summer's the best time to work up a sweat, huh~.{p}{end}
+
+## MBMS08 g0 s0784
+JP: そうね、アタシ夏が大好きなんだ。{n}名前のせいもあるけどネ{n}夏になると、うれしくって{n}身体を動かしたくなるんだ!{p}
+EN: Yeah, I love summer. Partly because of my name! When summer comes, I get so happy I just wanna move!{p}
+
+## MBMS08 g0 s0785
+JP: 今日は練習につきあってくれてアリガト!{n}一人でちょっと淋しかったから、{n}助かったよ。{n}またつきあってくれるかな。{p}{end}
+EN: Thanks for practicing with me today! I was kinda lonely on my own, so it really helped. Will you join me again sometime?{p}{end}
+
+## MBMS08 g0 s0786
+JP: ああ、もちろん!{p}{end}
+EN: Yeah, of course!{p}{end}
+
+## MBMS08 g0 s0787
+JP: 今日はちょっとカラダの調子が悪いんだ。{n}トレーニングはちょっと、つきあえないな。{n}そのかわりここで見ててあげるよ。{p}
+EN: I'm not feeling too great today, so I can't really train with you. But I'll watch you from here instead.{p}
+
+## MBMS08 g0 s0788
+JP: ふ～ん、そうなんだ。{n}じゃ、しかたないね。{n}けっこう時間かかるけど、いい?{p}
+EN: Hmm, I see. Well, can't be helped. It'll take a while, though. Is that okay?{p}
+
+## MBMS08 g0 s0791
+JP: はい、タオル。{n}それにしても夏、すごい練習量だな。{p}
+EN: Here, a towel. Man, Natsu, you sure train hard.{p}
+
+## MBMS08 g0 s0792
+JP: 夏だからね。{n}アタシ夏は大好きなんだ。{n}名前のせいもあるけどネ、夏になると{n}うれしくって身体を動かしたくなるんだ!{p}
+EN: It's summer, after all. I love summer. Partly because of my name, but when summer comes I get so happy I just wanna move!{p}
+
+## MBMS08 g0 s0793
+JP: ところで、夏。練習見てて思ったんだけど、{n}もう少し腕の振りとか、大きくした方が{n}いいんじゃないかな。あと、さっきの{n}筋トレだけどちょっとフォームが…。{p}
+EN: By the way, Natsu, I think you should swing your arms a little wider. And in your strength training earlier, your form was a bit...{p}
+
+## MBMS08 g0 s0794
+JP: へぇ……。{v7:4}って、{n}そういうトコロとかわかるんだぁ。{n}見直しちゃったな。{p}
+EN: Huh...... {v7:4}, you can tell stuff like that? I'm impressed.{p}
+
+## MBMS08 g0 s0795
+JP: ああ、ちょっとはね。{n}自分でもトレーニングとかしてるから。{n}バレーの専門的なことはわかんないけど、{n}筋トレとかならある程度は。{p}
+EN: Yeah, a little. I train on my own too. I don't know volleyball stuff, but I know a fair bit about strength training.{p}
+
+## MBMS08 g0 s0796
+JP: ふ～ん…。{n}アリガトね、{v7:4}。{n}また練習見てくれるかな?{p}{end}
+EN: Hmm...... Thanks, {v7:4}. Will you watch me practice again?{p}{end}
+
+## MBMS08 g0 s0797
+JP: ああ、もちろん!!{p}
+EN: Yeah, of course!!{p}
+
+## MBMS08 g0 s0798
+JP: 屋上に上ってみると、ひなたが一人で{n}空を眺めているのが見えた。{n}考え事でもしているのか?{n}じゃまするのも悪いけど…。{p}{end}
+EN: When I went up to the roof, I saw Hinata gazing at the sky alone. Is she lost in thought? I'd hate to bother her, but...{p}{end}
+
+## MBMS08 g0 s0800
+JP: う～ん、じゃまするのも悪いし、{n}そっとしておこう。{n}別の場所にいってみるか。{p}{end}
+EN: Hmm, I'd hate to bother her. I'll leave her be and try somewhere else.{p}{end}
+
+## MBMS08 g0 s0801
+JP: よぉ、ひなた!{n}何やってるんだ?{p}{end}
+EN: Hey, Hinata! What're you up to?{p}{end}
+
+## MBMS08 g0 s0802
+JP: あ、{v7:1}。{n}おはよー。{n}学校来てたんだぁ。{p}
+EN: Oh, {v7:1}. Mornin'. You came to school?{p}
+
+## MBMS08 g0 s0803
+JP: おはよーじゃないって。{n}こんなトコで何してんの?{n}まだ夏休みなのに。{p}{end}
+EN: Don't "mornin'" me. What are you doing here? It's still summer break.{p}{end}
+
+## MBMS08 g0 s0804
+JP: 夏休みの屋上でボーッっとするの{n}好きなんだぁ、私。{n}ここはちょうど日陰になってるし、{n}今日は特に風が気持ちいいよ。{p}
+EN: I like spacing out on the roof during summer break. It's nice and shady here, and the breeze feels really good today.{p}
+
+## MBMS08 g0 s0805
+JP: さっきまでトレーニングしてたんだけど、{n}疲れたから休んでたんだ。{p}{end}
+EN: I was training until a bit ago, but I got tired, so I'm taking a break.{p}{end}
+
+## MBMS08 g0 s0806
+JP: ・・・・・・・・{p}{end}
+EN: ........{p}{end}
+
+## MBMS08 g0 s0807
+JP: なぁ、ひなた。{p}
+EN: Hey, Hinata.{p}
+
+## MBMS08 g0 s0809
+JP: 好きな人、いるの?{n}なんで格闘やってるの?{p}
+EN: Is there someone you like?{n}Why do you do martial arts?{p}
+
+## MBMS08 g0 s0810
+JP: ひなたってさ、好きな人いるの?{p}
+EN: Hinata, is there someone you like?{p}
+
+## MBMS08 g0 s0811
+JP: え……{n}なに?{sp}急に……。{n}そんなこといわれても……。{p}
+EN: Huh...... What? All of a sudden...... Asking me that......{p}
+
+## MBMS08 g0 s0812
+JP: い、いや、なんとなくね。{n}好きな人いるのかな～、と思ってさ。{p}{end}
+EN: N-no reason. Just wondered if you liked anyone.{p}{end}
+
+## MBMS08 g0 s0813
+JP: ………………………{n}…いないワケじゃないけど……{n}教えてあげない!!{n}{v7:1}は?{sp}いるの?{p}{end}
+EN: .............. It's not like there's nobody...... But I'm not telling!! What about you, {v7:1}? Is there someone?{p}{end}
+
+## MBMS08 g0 s0814
+JP: え?{sp}俺?{n}いや俺は……いないワケじゃないけど。{n}まだまだ教えられないな!{p}
+EN: Huh? Me? Well...... it's not like there's nobody. But I can't tell you yet!{p}
+
+## MBMS08 g0 s0815
+JP: ふ～ん…{n}ケチ{col:5}♥{col:-}{p}{end}
+EN: Hmph...... Stingy{col:5}♥{col:-}{p}{end}
+
+## MBMS08 g0 s0816
+JP: （{face:8}・・・・・・・・・・{face:255}{n}{sp}そんなたあいもないことを話している{n}{sp}ウチに雲行きがあやしくなってきた…）{p}{end}
+EN: ({face:8}..........{face:255} As we chatted about nothing much, the sky started to cloud over...){p}{end}
+
+## MBMS08 g0 s0817
+JP: ひなたってさ、なんで格闘なんてしてるの?{p}{end}
+EN: Hinata, why do you do martial arts, anyway?{p}{end}
+
+## MBMS08 g0 s0818
+JP: え……?{n}う～ん、なんでだろ?{n}……私ね、カラダ動かすのは昔から{n}好きだったの。{p}{end}
+EN: Huh......? Hmm, why do I? ......I've always liked moving my body.{p}{end}
+
+## MBMS08 g0 s0819
+JP: でも、ちゃんと道場とかに通うほど{n}じゃなくて……。{n}たまたま通信教育で格闘技始めたら{n}楽しくて……。{p}{end}
+EN: But not enough to go to a real dojo or anything...... I just happened to start martial arts by correspondence course, and it was fun......{p}{end}
+
+## MBMS08 g0 s0820
+JP: 友達の中には、格闘技を通して、目標の{n}人に会いたい、って子もいるけどね……。{n}結局カラダを動かすのが好きなだけ{n}なのかな。{p}
+EN: Some of my friends fight because they want to meet someone they look up to...... But maybe I just like moving around.{p}
+
+## MBMS08 g0 s0821
+JP: ね、ついでに、一手相手してくれない{n}今回の通信教育のテキストに書いてあった{n}技なんだけど、イマイチ{n}つかめなくてさ!{p}{end}
+EN: Hey, while we're at it, wanna spar with me? There's a move in my latest correspondence course text I just can't get the hang of!{p}{end}
+
+## MBMS08 g0 s0822
+JP: （{face:8}・・・・・・・・・・{face:255}{n}{sp}格闘の相手をしているウチに、{n}{sp}いつの間にか、雲行きが{n}{sp}あやしくなってきた。）{p}
+EN: ({face:8}..........{face:255} While we were sparring, before I knew it, the sky had started looking ominous.){p}
+
+## MBMS08 g0 s0823
+JP: 夕立でも来そうだね。{n}そろそろ帰ろっか{col:5}♥{col:-}{p}{end}
+EN: Looks like an evening shower's coming. Let's head home{col:5}♥{col:-}{p}{end}
+
+## MBMS08 g0 s0824
+JP: {col:3}謎の声{col:-}{n}「足りねえ!足りねえ!」{p}{end}
+EN: {col:3}Mysterious Voice{col:-}{n}"Not enough! Not enough!"{p}{end}
+
+## MBMS08 g0 s0825
+JP: なんだ!?{p}
+EN: Wh-what!?{p}
+
+## MBMS08 g0 s0826
+JP: {col:3}謎の声{col:-}{n}「足りねえ!足りねえ!足りねえ!」{p}
+EN: {col:3}Mysterious Voice{col:-}{n}"Not enough! Not enough! Not enough!"{p}
+
+## MBMS08 g0 s0827
+JP: なんだ!なんだ!?{p}
+EN: What!? What's going on!?{p}
+
+## MBMS08 g0 s0828
+JP: 声のする方に行ってみよう{n}何か危なそうだからやめとこう{p}
+EN: Go toward the voice{n}Sounds dangerous, skip it{p}
+
+## MBMS08 g0 s0829
+JP: 何か危なそうだからやめとこう。{n}どこに行こうかな?{p}
+EN: Sounds kinda dangerous, so I'll skip it. Where should I go?{p}
+
+## MBMS08 g0 s0830
+JP: よし!{n}声のする方に行ってみよう!{p}
+EN: All right! Let's go check out that voice!{p}
+
+## MBMS08 g0 s0831
+JP: こんなに熱い夏の良い天気に{n}この学校にゃあどこもかしこも{n}足りねえ足りねえ色気が足りねえ!{p}
+EN: A hot, gorgeous summer day like this, and this whole school's lacking! Lacking! It's lacking sex appeal!{p}
+
+## MBMS08 g0 s0832
+JP: こうなったら海にでも行くしかねえな。{n}おい{v3:16}!{n}お前も海に行くか?あっ?{p}
+EN: Guess there's nothing for it but to hit the beach. Hey, {v3:16}! You coming to the beach too? Huh?{p}
+
+## MBMS08 g0 s0833
+JP: 行きます!{n}ちょっと今日は…{p}{end}
+EN: I'm in!{n}Not today...{p}{end}
+
+## MBMS08 g0 s0834
+JP: ちょっ、ちょっと今日は…{p}{end}
+EN: N-not today...{p}{end}
+
+## MBMS08 g0 s0835
+JP: 青春と今年の夏は{n}待っちゃあくれねえんだぜ!{n}ま、俺は一人でも行くけどな!{n}じゃあな!{p}
+EN: Youth and this summer won't wait for ya! Well, I'm goin' even if it's just me! See ya!{p}
+
+## MBMS08 g0 s0836
+JP: あっ、隼人先生!{n}あーあ、行っちゃった…。{n}行けばよかったかなあ。{p}
+EN: Ah, Hayato-sensei! Aw, he's gone... Maybe I should've gone.{p}
+
+## MBMS08 g0 s0837
+JP: 行きます!{p}
+EN: I'm in!{p}
+
+## MBMS08 g0 s0838
+JP: なかなかわかってるじゃねえか!{n}そうと決まりゃあ海へ出発だ!{p}{end}
+EN: Now you're gettin' it! Then it's settled, we're off to the beach!{p}{end}
+
+## MBMS08 g0 s0839
+JP: うひゃあ!すっげー人!{p}
+EN: Whoa! Look at all these people!{p}
+
+## MBMS08 g0 s0840
+JP: よーし!{sp}やっと着いたぜ!{n}{v3:16}!{n}あの島まで泳いで競争だ!{p}{end}
+EN: All right! We finally made it! {v3:16}! Race ya to that island!{p}{end}
+
+## MBMS08 g0 s0841
+JP: ちょちょっと待って!{n}先生の言っていた色気の方は?{n}あーあ、もうあんなに泳いでる…。{n}もう!{sp}こうなったら本当に泳いでやる!{p}{end}
+EN: W-wait a sec! What about the sex appeal you were talking about? Aw, he's already way out there... Geez! Fine, I'll swim for real!{p}{end}
+
+## MBMS08 g0 s0842
+JP: どうだ!{sp}熱いからこそ汗をかく!{n}これが気持ちいいんだ!{n}分かったか!{sp}分かったらそれでいい!{n}じゃあな!{p}
+EN: How 'bout that! It's 'cause it's hot that you sweat! And that feels great! Got it? If ya got it, that's all I need! See ya!{p}
+
+## MBMS08 g0 s0843
+JP: た、楽しかったけど{n}つ、つかれた～。{p}{end}
+EN: Th-that was fun, but I'm w-wiped out...{p}{end}
+
+## MBMS08 g0 s0844
+JP: ここの保健室に来ると{n}いつも良い香りがするなあ。{p}{end}
+EN: The infirmary here always smells so nice.{p}{end}
+
+## MBMS08 g0 s0846
+JP: あっ!{n}響子先生!{p}
+EN: Oh! Kyoko-sensei!{p}
+
+## MBMS08 g0 s0847
+JP: 熱でもあるの?{n}気分が悪いのなら{n}少しベッドにでも寝てなさい。{p}
+EN: Do you have a fever? If you're not feeling well, lie down on the bed for a bit.{p}
+
+## MBMS08 g0 s0848
+JP: （うわっ、どうしよう?）{p}{end}
+EN: (Whoa, what do I do?){p}{end}
+
+## MBMS08 g0 s0849
+JP: ベッドに寝る{n}気まずいから別の場所へ行く{p}{end}
+EN: Lie down on the bed{n}Too awkward, go somewhere else{p}{end}
+
+## MBMS08 g0 s0850
+JP: い、いえ、大丈夫です。{n}ちょっと間違って入っただけなんで。{n}失礼します。{p}{end}
+EN: N-no, I'm fine. I just came in by mistake. Excuse me.{p}{end}
+
+## MBMS08 g0 s0851
+JP: ふう、なんか妖しい零囲気だったなあ{n}さてと、どこに行こうかな?{p}
+EN: Phew, it felt kinda seductive in there... Now, where should I go?{p}
+
+## MBMS08 g0 s0852
+JP: じゃあちょっと寝させてもらいます。{p}
+EN: Then I'll lie down for a bit.{p}
+
+## MBMS08 g0 s0853
+JP: 念の為、お熱も計っておきましょう。{p}
+EN: Just in case, let's take your temperature too.{p}
+
+## MBMS08 g0 s0854
+JP: は、はい{n}（まずいなあ…。）{p}{end}
+EN: Y-yes. (This is bad...){p}{end}
+
+## MBMS08 g0 s0855
+JP: 響子君はいるかね?{p}
+EN: Is Kyoko-kun here?{p}
+
+## MBMS08 g0 s0856
+JP: 学園長。{n}どうなされたんですか?{p}{end}
+EN: Principal. What brings you here?{p}{end}
+
+## MBMS08 g0 s0857
+JP: （げっ!学園長。）{p}
+EN: (Yikes! The principal.){p}
+
+## MBMS08 g0 s0858
+JP: ちょっと体の調子が悪くてな。{n}熱もあるようなんじゃ。{n}ちょっと横にならせてくれんか。{p}{end}
+EN: I'm feeling a bit under the weather. I seem to have a fever, too. Might I lie down for a while?{p}{end}
+
+## MBMS08 g0 s0859
+JP: あっ、{n}今はちょっと{v0}{col:0}クン{col:-}が{n}寝ていますので…。{p}{end}
+EN: Ah, {v0}{col:0}-kun{col:-} is sleeping there right now, so...{p}{end}
+
+## MBMS08 g0 s0860
+JP: まさか仮病ではあるまいな?{p}
+EN: Surely you're not faking it?{p}
+
+## MBMS08 g0 s0861
+JP: （げっ!どうしよう?）{p}
+EN: (Yikes! What do I do?){p}
+
+## MBMS08 g0 s0862
+JP: 本当に気分が悪いんです{n}ごめんなさい，仮病です{p}
+EN: I really do feel sick{n}Sorry, I'm faking it{p}
+
+## MBMS08 g0 s0863
+JP: …そうか。{p}
+EN: ...I see.{p}
+
+## MBMS08 g0 s0864
+JP: 生徒を疑うとは学長として失格だな{n}疑って悪かったな。{p}{end}
+EN: Doubting a student... I'm unfit to be principal. Forgive me for suspecting you.{p}{end}
+
+## MBMS08 g0 s0865
+JP: いえ、学長も体調が悪いのに{n}すみません。{p}{end}
+EN: No, I'm sorry. You're not feeling well either, Principal.{p}{end}
+
+## MBMS08 g0 s0866
+JP: これで元気でも出すんじゃ。{n}早く直すようにな。{p}
+EN: Take this and perk yourself up. Get well soon.{p}
+
+## MBMS08 g0 s0867
+JP: {col:0}『忌野流漢方薬』{col:-}を手に入れた!{p}
+EN: Got {col:0}"Imawano-Style Herbal Medicine"{col:-}!{p}
+
+## MBMS08 g0 s0868
+JP: ありがとうございます。{n}（…ちょっと罪悪感。）{p}
+EN: Thank you very much. (...I feel a little guilty.){p}
+
+## MBMS08 g0 s0869
+JP: なんじゃと!{p}{end}
+EN: What did you say!{p}{end}
+
+## MBMS08 g0 s0870
+JP: …でもこんな美人の保健の先生だと{n}仮病も使いたくなるわな。{p}
+EN: ...Still, with a nurse this beautiful, I suppose anyone would want to play sick.{p}
+
+## MBMS08 g0 s0871
+JP: 健全な精神は健全な肉体をつくる{n}正直でいいぞ、若人よ。{n}ではな。{p}{end}
+EN: A sound mind makes a sound body. Your honesty is commendable, young man. Farewell.{p}{end}
+
+## MBMS08 g0 s0872
+JP: ありがとうございます。{n}正直に言ってよかった。{p}
+EN: Thank you. I'm glad I told the truth.{p}
+
+## MBMS08 g0 s0873
+JP: 屋上は夏の風が吹いてて{n}気持ちいいなあ。{p}{end}
+EN: The summer breeze up on the roof feels great.{p}{end}
+
+## MBMS08 g0 s0874
+JP: おっ、女の子がいるぞ。{n}でも、あんな子この学校にいたかなあ?{p}{end}
+EN: Oh, there's a girl here. But was there a girl like that at this school?{p}{end}
+
+## MBMS08 g0 s0875
+JP: あれっ、いなくなったぞ?{p}{end}
+EN: Huh, she's gone?{p}{end}
+
+## MBMS08 g0 s0876
+JP: 女の子を探す{n}別の場所に移動{p}{end}
+EN: Look for the girl{n}Go somewhere else{p}{end}
+
+## MBMS08 g0 s0877
+JP: まっ、いいや。{n}どこに行こうかな?{p}
+EN: Eh, whatever. Where should I go?{p}
+
+## MBMS08 g0 s0878
+JP: どこにいっちゃったんだろう?{p}{end}
+EN: Where'd she go?{p}{end}
+
+## MBMS08 g0 s0879
+JP: 何か用か?{p}
+EN: You want something?{p}
+
+## MBMS08 g0 s0880
+JP: わっ!アキラじゃないか!{n}びっくりした!{p}{end}
+EN: Whoa! Akira! You scared me!{p}{end}
+
+## MBMS08 g0 s0881
+JP: 用があるなら早く言え!{p}
+EN: If you want something, spit it out!{p}
+
+## MBMS08 g0 s0882
+JP: あ、あの～。{p}{end}
+EN: Uh, umm...{p}{end}
+
+## MBMS08 g0 s0883
+JP: 今日は暑いね…{n}さっきあそこにいた女の子知らないかな?{p}
+EN: Sure is hot today...{n}Seen the girl who was just there?{p}
+
+## MBMS08 g0 s0884
+JP: しかし、今日はほんと暑いね～。{p}
+EN: Man, it's really hot today.{p}
+
+## MBMS08 g0 s0885
+JP: …そうだな。{p}{end}
+EN: ...Yeah.{p}{end}
+
+## MBMS08 g0 s0886
+JP: アキラは{n}いつもヘルメットかぶってるけど{n}暑くないの?{p}
+EN: Akira, you always wear that helmet. Isn't it hot?{p}
+
+## MBMS08 g0 s0887
+JP: 余計なお世話だ!{p}{end}
+EN: Mind your own business!{p}{end}
+
+## MBMS08 g0 s0888
+JP: 怒らせてしまった…。{p}{end}
+EN: I made him mad...{p}{end}
+
+## MBMS08 g0 s0889
+JP: 今度会ったらあやまろう…。{p}
+EN: I'll apologize next time I see him...{p}
+
+## MBMS08 g0 s0890
+JP: さっきあそこにいた女の子知らない?{p}
+EN: Do you know the girl who was over there a minute ago?{p}
+
+## MBMS08 g0 s0891
+JP: 知らんな…。{p}{end}
+EN: Don't know her...{p}{end}
+
+## MBMS08 g0 s0892
+JP: ところでアキラは{n}いつもヘルメット{n}かぶってるけど暑くないの?{p}
+EN: By the way, Akira, you always wear that helmet. Isn't it hot?{p}
+
+## MBMS08 g0 s0895
+JP: あの女の子は{n}一体だれだったんだろう…。{p}{end}
+EN: Who was that girl, anyway...{p}{end}
+
+## MBMS08 g0 s0896
+JP: あっ、醍醐先輩!{p}{end}
+EN: Oh, Daigo-senpai!{p}{end}
+
+## MBMS08 g0 s0897
+JP: おう!{v5:17}か…。{p}{end}
+EN: Hey! {v5:17}...{p}{end}
+
+## MBMS08 g0 s0898
+JP: いいところで会ったぜ、{n}お前にひとつ聞きたい事があるんだ。{n}答えてくれるか?{p}{end}
+EN: Good timing. There's something I wanna ask you. Will you answer me?{p}{end}
+
+## MBMS08 g0 s0899
+JP: いいですよ{n}他に用事が…{p}{end}
+EN: Sure{n}I've got other plans...{p}{end}
+
+## MBMS08 g0 s0900
+JP: すいません、他に用事があるんです。{n}また今度に…{p}{end}
+EN: Sorry, I've got something else to do. Maybe next time...{p}{end}
+
+## MBMS08 g0 s0901
+JP: うまくごまかせたかな。{n}そうは言ったもののどこに行こうかな?{p}{end}
+EN: Think I got out of that okay? Though now that I said it, where should I go?{p}{end}
+
+## MBMS08 g0 s0902
+JP: いいですよ。何でしょうか?{p}
+EN: Sure. What is it?{p}
+
+## MBMS08 g0 s0903
+JP: …『男』というものについてだ。{p}
+EN: ...It's about what it means to be a "man."{p}
+
+## MBMS08 g0 s0904
+JP: 『男』?{p}{end}
+EN: A "man"?{p}{end}
+
+## MBMS08 g0 s0905
+JP: …そうだ、『男』とはなんぞや{n}といつも考えて悩んでいるのだ。{n}…答えてくれるな?{p}{end}
+EN: ...That's right. I'm always wondering, "What is a man?" ...You'll answer me, won't you?{p}{end}
+
+## MBMS08 g0 s0907
+JP: …そうか。{n}では答えてくれ。{n}{v5:17}よ、男とはなんぞや?{p}
+EN: ...Good. Then answer me. {v5:17}, what is a man?{p}
+
+## MBMS08 g0 s0908
+JP: それは『愛』です!{n}それは『正義』だ!{n}それは『仁義』なんだ!{p}
+EN: It's "love"!{n}It's "justice"!{n}It's "honor"!{p}
+
+## MBMS08 g0 s0909
+JP: …そうか、『愛』か。{n}それも『男』として大事かもな…。{p}
+EN: ...I see, "love." That may matter for a man too...{p}
+
+## MBMS08 g0 s0910
+JP: …そうか、『正義』か。{n}お前も男として正義を貫けよ…。{p}
+EN: ...I see, "justice." Then stick to justice as a man...{p}
+
+## MBMS08 g0 s0911
+JP: …そうか、『仁義』か。{n}お前も男なら{n}仁義の道を外すような事はするな…。{p}{end}
+EN: ...I see, "honor." If you're a man, never stray from the path of honor...{p}{end}
+
+## MBMS08 g0 s0912
+JP: ふっ…{n}…ありがとよ。{n}いい勉強になったぜ。{p}{end}
+EN: Heh... Thanks. That was a good lesson.{p}{end}
+
+## MBMS08 g0 s0913
+JP: お、俺も良い勉強になりました。{n}それにしても{n}醍醐先輩はいつみてもカッコ良いなあ。{p}
+EN: I-I learned a lot too. Man, Daigo-senpai's cool every time I see him.{p}
+
+## MBMS08 g0 s0914
+JP: チアリーディング部が練習をやってるぞ!{n}けっこう本格的だな…。{p}
+EN: The cheerleading squad's practicing! They're pretty serious about it...{p}
+
+## MBMS08 g0 s0915
+JP: ティファニーが来たぞ!{p}
+EN: Here comes Tiffany!{p}
+
+## MBMS08 g0 s0917
+JP: やぁティファニー。{p}
+EN: Hey, Tiffany.{p}
+
+## MBMS08 g0 s0918
+JP: 暑いのに大変だねぇ{n}何の練習やってんの{n}冷たいジュースでも差し入れするか{n}しばらく見とれている{p}
+EN: Must be tough in this heat{n}What are you practicing?{n}Bring her a cold juice{n}Just watch for a while{p}
+
+## MBMS08 g0 s0919
+JP: 夏休みは運動部の試合多いからタイヘンね。{n}{v3:7}も何か応援して欲しいか?{p}
+EN: Summer vacation has lots of sports club games, so it's busy. {v3:7}, do you want some cheering too?{p}
+
+## MBMS08 g0 s0920
+JP: {v3:7}ファイト!{n}ガンバレ{v3:7}{n}ワァーオ!!{p}
+EN: Fight, {v3:7}! Go, {v3:7}! Woohoo!!{p}
+
+## MBMS08 g0 s0921
+JP: 何か元気出たぞ!{n}ありがとう、ティファニー!{p}{end}
+EN: That really pumped me up! Thanks, Tiffany!{p}{end}
+
+## MBMS08 g0 s0922
+JP: 明日は相撲部の大会だから{n}最後のあわせをやってるね。{p}{end}
+EN: The sumo club has a tournament tomorrow, so this is our last run-through.{p}{end}
+
+## MBMS08 g0 s0923
+JP: （相撲部にもチアリーダーの応援が{n}{sp}つくのか??{n}{sp}何か異様な風景になりそうだ…。）{p}{end}
+EN: (The sumo club gets cheerleaders too?? That's gonna be a weird sight...){p}{end}
+
+## MBMS08 g0 s0924
+JP: がんばってねティファニー!{p}
+EN: Good luck, Tiffany!{p}
+
+## MBMS08 g0 s0925
+JP: アリガトね!{n}バイバーイ!{p}
+EN: Thank you! Bye-bye!{p}
+
+## MBMS08 g0 s0926
+JP: {v3:7}アリガト!ミーは元気出たよ!{n}サンキュ!{n}「チュッ{col:5}♥{col:-}」{p}
+EN: {v3:7}, thank you! I feel great now! Thanks! "Mwah{col:5}♥{col:-}"{p}
+
+## MBMS08 g0 s0927
+JP: （キスされた!!!!{sp}ラッキー!）{n}わっ他のチアリーディング部のメンバーも{n}来たぞ…。{p}
+EN: (She kissed me!!!! Lucky!) Whoa, the other cheerleaders are coming too...{p}
+
+## MBMS08 g0 s0928
+JP: 結局全員にジュースをおごらされた…。{p}{end}
+EN: In the end I had to buy juice for all of them...{p}{end}
+
+## MBMS08 g0 s0929
+JP: いまミーのことエッチな目で見て{n}なかったか?{p}{end}
+EN: Were you just looking at me with naughty eyes?{p}{end}
+
+## MBMS08 g0 s0930
+JP: （ドキッ!）{n}ま、まぁすこし…。{p}{end}
+EN: (Gulp!) W-well, a little...{p}{end}
+
+## MBMS08 g0 s0931
+JP: まぁ、いいね。{n}ミーのナイスボディーを{n}タンノウするね!{p}{end}
+EN: Well, that's okay. Enjoy my nice body!{p}{end}
+
+## MBMS08 g0 s0932
+JP: さすがアメリカン!{sp}太っ腹!{p}{end}
+EN: That's an American for you! So generous!{p}{end}
+
+## MBMS08 g0 s0933
+JP: ハイッ300万円ネッ!{p}
+EN: Okay, that'll be 3 million yen!{p}
+
+## MBMS08 g0 s0934
+JP: （…どこで覚えたんだ、そんなギャグ…。）{p}{end}
+EN: (...Where'd she learn a gag like that...){p}{end}
+
+## MBMS08 g0 s0936
+JP: 保健室にきてみたが、響子先生はいない{n}みたいだ。{n}あれ?{n}興のベッドで、誰か休んでいるみたいだ。{p}{end}
+EN: I came to the infirmary, but Kyoko-sensei doesn't seem to be here. Huh? Someone's resting in the bed at the back.{p}{end}
+
+## MBMS08 g0 s0937
+JP: あ、生徒会長の雹さんだ。{n}ベッドで休んでいるようだが…{n}なにか考え事をしているようにも見える。{n}声をかけてみようか……?{p}{end}
+EN: Oh, it's Hyo-san, the student council president. He's resting in bed... but he also looks lost in thought. Should I say something...?{p}{end}
+
+## MBMS08 g0 s0938
+JP: 声をかけてみる{n}そのまま保健室をでる{p}{end}
+EN: Talk to him{n}Leave the infirmary{p}{end}
+
+## MBMS08 g0 s0939
+JP: うかつに声をかけると、殺されそうだ。{n}気づかれないように、そっと保健室を{n}出よう。{n}さてと、どこに行こうかな?{p}
+EN: If I talk to him carelessly, he might kill me. I'll quietly slip out before he notices. Now, where should I go?{p}
+
+## MBMS08 g0 s0940
+JP: あ、雹さん。保健室にくるなんて{n}珍しいですね?{n}どこか体調でも悪いんですか?{p}{end}
+EN: Oh, Hyo-san. It's rare to see you in the infirmary. Are you feeling unwell?{p}{end}
+
+## MBMS08 g0 s0941
+JP: 君は…、{v0}か。{n}いやちょっと頭痛がしたのでな。{n}頭痛はおさまったが、静かだったので{n}ちょっと考え事をな。{p}{end}
+EN: You are... {v0}. No, I merely had a headache. It has passed, but it was quiet here, so I stayed to think.{p}{end}
+
+## MBMS08 g0 s0942
+JP: 考え事ですか?{n}頭痛によくなさそうですけど……。{p}{end}
+EN: Thinking? That doesn't sound good for a headache...{p}{end}
+
+## MBMS08 g0 s0943
+JP: うむ…。{n}……{n}ところで君には、兄弟はいるかね?{p}{end}
+EN: Hm... ...... By the way, do you have any siblings?{p}{end}
+
+## MBMS08 g0 s0944
+JP: ええ、いますよ{n}いや、いません{p}
+EN: Yeah, I do{n}No, I don't{p}
+
+## MBMS08 g0 s0945
+JP: ええ、いますよ。{n}仲はそんなによくないですけど。{n}どうしたんですか?{p}{end}
+EN: Yeah, I do. We don't get along that well, though. Why?{p}{end}
+
+## MBMS08 g0 s0946
+JP: いや、いません。{n}俺、一人っ子なんです。{n}それがどうしたんですか?{p}
+EN: No, I don't. I'm an only child. Why do you ask?{p}
+
+## MBMS08 g0 s0947
+JP: いや、兄弟とはどういうものか{n}知りたかっただけだ。{n}私はあまりにも兄弟というものを{n}知らなすぎるのでね…。{p}
+EN: No, I simply wished to know what siblings are like. I know far too little about such things...{p}
+
+## MBMS08 g0 s0948
+JP: 君は、兄弟というのは、{n}真に理解し合えるものだと思うかね?{p}
+EN: Do you believe siblings can truly understand each other?{p}
+
+## MBMS08 g0 s0949
+JP: もちろんですよ{n}他の人よりは理解できるのでは?{n}絶対ムリでしょう{p}{end}
+EN: Of course!{n}Better than others, maybe?{n}No way, never{p}{end}
+
+## MBMS08 g0 s0950
+JP: もちろんですよ。{n}なんだかんだいっても兄弟ですからね。{n}やっぱり無意識に解りあってる部分って{n}ありますよ。{p}
+EN: Of course. Whatever happens, you're still siblings. There's always some part where you understand each other without thinking.{p}
+
+## MBMS08 g0 s0951
+JP: 確かなことは分かりませんけど{n}でも、それが兄弟っていうものじゃ{n}ないんでしょうか?{p}
+EN: I can't say for sure, but... isn't that what being siblings is all about?{p}
+
+## MBMS08 g0 s0952
+JP: ……そうか。{n}私もそう思っていたのだが…{n}難しいものだな…。{p}{end}
+EN: ......I see. I had thought so as well... It is difficult...{p}{end}
+
+## MBMS08 g0 s0953
+JP: 他の人よりは理解できるのでは?{n}何となくなら、俺も理解してると{n}思ってますけどね。{p}
+EN: Better than other people, maybe? I think I sort of understand mine, anyway.{p}
+
+## MBMS08 g0 s0954
+JP: やっぱり育った環境が同じだから、{n}同じ考え方になるんじゃないでしょうか{p}
+EN: You grow up in the same environment, so you end up thinking the same way, don't you?{p}
+
+## MBMS08 g0 s0955
+JP: ……ふむ。{n}そんなものか…。{n}やはり私は間違っていたのだろうか…?{p}
+EN: ......Hm. Is that so... Was I wrong after all...?{p}
+
+## MBMS08 g0 s0956
+JP: 絶対ムリですよ。{n}だって俺自身が兄弟のこと{n}理解できてないですから。{n}やっぱり他人って事じゃないですか?{p}{end}
+EN: No way, never. I can't even understand my own siblings. They're other people in the end, aren't they?{p}{end}
+
+## MBMS08 g0 s0957
+JP: いくら兄弟でも、理解しあうなんて事、{n}誰にも無理だと思います。{p}
+EN: Even siblings... I don't think anyone can truly understand each other.{p}
+
+## MBMS08 g0 s0958
+JP: そうか…。{n}理解しあえると思っていた私が{n}間違っていたというのだな…。{n}よくわかった…。{p}{end}
+EN: I see... So I was wrong to believe we could understand each other... I understand now...{p}{end}
+
+## MBMS08 g0 s0959
+JP: 行ってしまった…。{n}結局考え事ってなんだったのだろう?{n}兄弟ゲンカでもしたのかな?{p}
+EN: He left... What was he thinking about, anyway? Did he have a fight with his brother or something?{p}
+
+## MBMS08 g1 s0000
+JP: うーーーん。{n}電車に揺られて、3時間…。{n}やっとついたよ…。{p}{end}
+EN: Mmmm. Three hours rattling on a train... I'm finally here...{p}{end}
+
+## MBMS08 g1 s0001
+JP: 空は青いし、空気もキレイ!{n}ホテルも、なかなかいい感じ。{n}さぁて、のんびり羽根をのばそぉっと!{p}
+EN: Blue sky, clean air! And the hotel's pretty nice. Okay, time to kick back and relax!{p}
+
+## MBMS08 g1 s0003
+JP: うげげっっ…{n}そうだ、午前中は遠泳するんだっけ…。{n}（でも、何でもう水着になってるのかな?）{p}{end}
+EN: Ugh... Right, we have a long swim this morning... (But why am I already in a swimsuit?){p}{end}
+
+## MBMS08 g1 s0004
+JP: ハァハァ…{n}さ、さすがに、沖の島まで泳いで{n}往復するってのは、しんどいよぉ～。{p}
+EN: *pant pant*... S-swimming out to that island and back is seriously rough...{p}
+
+## MBMS08 g1 s0005
+JP: これが楽しみで、隼人先生は{n}あんなにハリキってたのかぁ…。{n}……なっ、納得。{p}{end}
+EN: So this is why Hayato-sensei was so fired up... ......G-got it.{p}{end}
+
+## MBMS08 g1 s0006
+JP: でも、確か午後からは{n}自由行動のはず…。{n}私は、誰と遊ぼうかなぁ…。{p}{end}
+EN: But I think the afternoon is free time... Who should I hang out with...?{p}{end}
+
+## MBMS08 g1 s0007
+JP: あっ、いたいた、{v8:2}!{n}バツが、大きなスイカを{n}見つけてきたんだ。{n}一緒に、スイカ割りしないか?{p}{end}
+EN: Oh, there you are, {v8:2}! Batsu found a huge watermelon. Want to do a watermelon split with us?{p}{end}
+
+## MBMS08 g1 s0008
+JP: （あら…{col:5}♥{col:-}{n}{sp}鍛えられた肉体に、白い肌。{n}{sp}そして、美しい顔。耽美だわ……）{p}{end}
+EN: (Oh my{col:5}♥{col:-} A toned body, fair skin. And a beautiful face. How dreamy...){p}{end}
+
+## MBMS08 g1 s0009
+JP: ダメダメ!!{n}{v8:5}は、{n}俺とビーチバレーをするんだぜ!{n}な、そうだろ?{p}
+EN: No way!! {v8:5}'s playing beach volleyball with me! Right?{p}
+
+## MBMS08 g1 s0010
+JP: （まあ…{col:5}♥{col:-}{n}{sp}太陽に輝く素肌…。光る汗…。{n}{sp}やっぱり、夏はラテン系よっ!）{p}{end}
+EN: (Oh my{col:5}♥{col:-} Skin shining in the sun... Glistening sweat... Summer's all about Latin guys!){p}{end}
+
+## MBMS08 g1 s0011
+JP: オイオイ!{sp}外野は{n}引っ込んでてくれよ!{n}{v3:6}は、ボクと一緒に{n}ビーチで肌を焼くんだからな!{p}{end}
+EN: Hey, hey! Bystanders, butt out! {v3:6} is tanning on the beach with me!{p}{end}
+
+## MBMS08 g1 s0012
+JP: （まいっちゃうなぁ…{col:5}♥{col:-}{n}{sp}さ、さすが、フットボールの花形選手…。{n}{sp}スケールが違うわ!{sp}スケールが!）{p}
+EN: (This is too much{col:5}♥{col:-} Th-that's the football star for you... He's on a whole other scale! A whole other scale!){p}
+
+## MBMS08 g1 s0013
+JP: （なんか、すごくモテてるみたい…{n}{sp}うーん、どうしよう?）{p}
+EN: (Looks like I'm super popular... Hmm, what should I do?){p}
+
+## MBMS08 g1 s0014
+JP: 恭介たちと遊ぶ{n}ロベルトたちと遊ぶ{n}ロイたちと遊ぶ{n}へとへとで動けないよぉ～{p}{end}
+EN: Play with Kyosuke's group{n}Play with Roberto's group{n}Play with Roy's group{n}I'm too worn out to move...{p}{end}
+
+## MBMS08 g1 s0015
+JP: 決まりだな!{n}じゃあ、行こう!{p}
+EN: It's settled, then! Let's go!{p}
+
+## MBMS08 g1 s0016
+JP: そうこなくちゃ!{n}向こうで、将馬たちが待ってる。{n}行こうぜ!{p}{end}
+EN: That's what I like to hear! Shoma and the others are waiting over there. Let's go!{p}{end}
+
+## MBMS08 g1 s0017
+JP: 当然の選択だな!{n}ボーマンたちが向こうで待ってる、{n}さあ、行こう!{p}
+EN: The obvious choice! Boman and the others are waiting over there. Come on, let's go!{p}
+
+## MBMS08 g1 s0018
+JP: （さ、さすがエスコート付きだわ…）{p}
+EN: (Wow, an escort and everything...){p}
+
+## MBMS08 g1 s0019
+JP: ハハハ…、しょうがないなぁ。{n}じゃあ、ホテルに帰ったら、{n}部屋を訪ねておいで。{n}バイ!{p}
+EN: Hahaha... Oh well. Then come visit my room once we're back at the hotel. Bye!{p}
+
+## MBMS08 g1 s0023
+JP: じゃあ、広場まで行って休もっと。{p}{end}
+EN: Then I'll go rest at the plaza.{p}{end}
+
+## MBMS08 g1 s0024
+JP: じゃあ、ホテルに戻って休もっと。{p}{end}
+EN: Then I'll go back to the hotel and rest.{p}{end}
+
+## MBMS08 g1 s0026
+JP: 僕はちゃんと教えてやったのに、{n}バツが勝手に空振りしただけだ。{p}
+EN: I told him exactly where it was. Batsu just swung and missed on his own.{p}
+
+## MBMS08 g1 s0027
+JP: くすくす…{n}じゃあ、次は{v9:1}ね!{n}用意はいい?{sp}目隠しするよ。{p}
+EN: Hee hee... Okay, {v9:1}'s turn next! Ready? Blindfold going on.{p}
+
+## MBMS08 g1 s0028
+JP: （グルグル回されて、{n}{sp}もうどっちにスイカがあるか、{n}{sp}わからなくなっちゃったよ…）{p}{end}
+EN: (After all that spinning, I have no idea where the watermelon is anymore...){p}{end}
+
+## MBMS08 g1 s0030
+JP: （これは、ひなたの声ね。{n}{sp}そうか、このまま真っ直ぐかぁ）{p}
+EN: (That's Hinata's voice. So, straight ahead, huh.){p}
+
+## MBMS08 g1 s0032
+JP: （これはバツ君の声ね。{n}{sp}もっと、右ねぇ…）{p}{end}
+EN: (That's Batsu-kun's voice. More to the right...){p}{end}
+
+## MBMS08 g1 s0033
+JP: 違う!{sp}左だ!{n}僕を信じて!{p}{end}
+EN: No! Left! Trust me!{p}{end}
+
+## MBMS08 g1 s0034
+JP: （これは恭介君の声ね。{n}{sp}左にいくの?…）{p}
+EN: (That's Kyosuke-kun's voice. Left?...){p}
+
+## MBMS08 g1 s0036
+JP: （み、みんな、言ってることが{n}{sp}てんでバラバラ…。{n}{sp}いったい、誰の言葉を{n}{sp}信じればいいのよ……）{p}{end}
+EN: (Th-they're all saying totally different things... Who am I supposed to believe......){p}{end}
+
+## MBMS08 g1 s0038
+JP: よーし!{n}ひなたを信じて、真っ直ぐいくわ!{n}えいっ!!{p}
+EN: All right! I'll trust Hinata and go straight! Hyah!!{p}
+
+## MBMS08 g1 s0039
+JP: 当たった!!{sp}やったあ!{n}ほーらね。私のいったとおりでしょ!{p}{end}
+EN: You got it!! Yay! See? Just like I said!{p}{end}
+
+## MBMS08 g1 s0044
+JP: （ひなたたちは、夜も集まるのかぁ…。{n}{sp}部屋は、{col:3}本館2F{col:-}だね。{n}{sp}よし、覚えとこっと!）{p}{end}
+EN: (Hinata's group is getting together tonight too... Their room's on {col:3}Main Bldg. 2F{col:-}. Okay, I'll remember that!){p}{end}
+
+## MBMS08 g1 s0045
+JP: あのさ、夕食の後、{n}ちょっと付き合ってくれないかなぁ?{p}
+EN: Hey, after dinner, could you come with me for a bit?{p}
+
+## MBMS08 g1 s0046
+JP: 私、ホテルの前で待ってるから、{n}必ず来てね。{n}約束だよ!{p}{end}
+EN: I'll be waiting in front of the hotel, so make sure you come. Promise!{p}{end}
+
+## MBMS08 g1 s0047
+JP: （そういえば、{n}{sp}夕食の後って、自由時間だったっけ。）{p}
+EN: (Come to think of it, we have free time after dinner.){p}
+
+## MBMS08 g1 s0048
+JP: （よし!{n}{sp}夜もまた、ひなたと一緒に遊ぼ!）{p}{end}
+EN: (Okay! I'll hang out with Hinata again tonight!){p}{end}
+
+## MBMS08 g1 s0049
+JP: よし!{n}バツ君を信じて、右だ!{n}おりゃぁぁっ!!{p}{end}
+EN: All right! I'll trust Batsu-kun and go right! Hyaaah!!{p}{end}
+
+## MBMS08 g1 s0055
+JP: （そうだなぁ、せっかく来たんだし。{n}{sp}部屋は、{col:3}本館2F{col:-}だね。{n}{sp}よし!{sp}思い切り遊ぶぞぉ!）{p}{end}
+EN: (Yeah, I came all this way, after all. Their room's on {col:3}Main Bldg. 2F{col:-}. All right! Time to have a blast!){p}{end}
+
+## MBMS08 g1 s0058
+JP: （ほんとに、バツ君は、{n}{sp}じっとしてられない性格だなぁ…。）{p}{end}
+EN: (Batsu-kun really can't sit still, can he...){p}{end}
+
+## MBMS08 g1 s0059
+JP: （でも、そんな時間に会おうなんて…{n}{sp}もしかして、{n}{sp}何か、特別なことが起こるのかな!?）{p}
+EN: (But meeting at a time like that... Could something special be going on!?){p}
+
+## MBMS08 g1 s0060
+JP: よし!{n}恭介君を信じて……左!!{n}えいっ!!{p}{end}
+EN: All right! I'll trust Kyosuke-kun and go... left!! Hyah!!{p}{end}
+
+## MBMS08 g1 s0062
+JP: さあ、あんな友達甲斐のないやつらは{n}放っておいて、僕らは向こうで食べよう。{n}さあ、行こう!{p}
+EN: Come on, let's leave those lousy friends and eat over there. Let's go!{p}
+
+## MBMS08 g1 s0065
+JP: どうせまた、バツたちも{n}来るだろうから、{n}退屈はしないと思うけどな。{p}{end}
+EN: Batsu and the others will probably show up anyway, so I doubt you'll be bored.{p}{end}
+
+## MBMS08 g1 s0066
+JP: （夜もまた、恭介君たちと遊ぶのもいいな。{n}{sp}部屋は、{col:3}本館2F{col:-}ね。{n}{sp}よし、覚えとこっと!）{p}
+EN: (Hanging out with Kyosuke-kun's group tonight could be nice too. Their room's on {col:3}Main Bldg. 2F{col:-}. Okay, I'll remember that!){p}
+
+## MBMS08 g1 s0070
+JP: （でも、そんな時間に会おうなんて…{n}{sp}もしかして、{n}{sp}何か、特別なことが起こるのかも!?）{p}
+EN: (But meeting at a time like that... Could something special happen!?){p}
+
+## MBMS08 g1 s0074
+JP: （よーし!{sp}私は絶対………）{p}{end}
+EN: (All right! I'm definitely gonna.........){p}{end}
+
+## MBMS08 g1 s0077
+JP: じゃあアタシは、{n}{v8:4}とペアね!{p}{end}
+EN: Then I'll pair up with {v8:4}!{p}{end}
+
+## MBMS08 g1 s0079
+JP: （さ、さすが五輪高校!{n}{sp}なんか、すごいレベルの試合だわ!{n}{sp}よーし…燃えてきたぞぉ!!）{p}
+EN: (Th-that's Gorin High for you! This match is on a whole other level! All right... I'm getting fired up!!){p}
+
+## MBMS08 g1 s0081
+JP: まかせてっ!!{p}
+EN: Leave it to me!!{p}
+
+## MBMS08 g1 s0084
+JP: {face:8}・・・・・・・・・・{face:255}勝ったわ。{p}
+EN: {face:8}..........{face:255}We won.{p}
+
+## MBMS08 g1 s0088
+JP: アハハハッ。{n}そうだ!{sp}{v8:4}!{n}夕食の後、{col:3}本館3F{col:-}に遊びに来なよ!{p}
+EN: Ahahaha. Oh yeah! {v8:4}! Come hang out on {col:3}Main Bldg. 3F{col:-} after dinner!{p}
+
+## MBMS08 g1 s0090
+JP: （夏たちは、夜も集まるのかぁ…。{n}{sp}部屋は、{col:3}本館3F{col:-}だね。{n}{sp}よし、覚えとこっと!）{p}{end}
+EN: (Natsu's group is getting together tonight too... Their room's on {col:3}Main Bldg. 3F{col:-}. Okay, I'll remember that!){p}{end}
+
+## MBMS08 g1 s0091
+JP: アハハハッ。{n}そうだ。{v8:4}!{n}あのさ、夕食の後、{n}ちょっと付き合ってくれないかなぁ?{p}{end}
+EN: Ahahaha. Oh yeah, {v8:4}! Hey, after dinner, could you come with me for a bit?{p}{end}
+
+## MBMS08 g1 s0092
+JP: アタシ、ホテルの前で待ってるから、{n}必ず来てね。{p}{end}
+EN: I'll be waiting in front of the hotel, so make sure you come.{p}{end}
+
+## MBMS08 g1 s0094
+JP: （よし!{n}{sp}夜もまた、夏と一緒に遊ぼ!）{p}{end}
+EN: (Okay! I'll hang out with Natsu again tonight!){p}{end}
+
+## MBMS08 g1 s0108
+JP: （将馬たちは、夜も集まるのかぁ…。{n}{sp}部屋は、{col:3}本館3F{col:-}だね。{n}{sp}よし、覚えとこっと!）{p}
+EN: (Shoma's group is getting together tonight too... Their room's on {col:3}Main Bldg. 3F{col:-}. Okay, I'll remember that!){p}
+
+## MBMS08 g1 s0113
+JP: じゃ、俺は{n}{v8:5}とペアだな!{p}{end}
+EN: Then I'm pairing up with {v8:5}!{p}{end}
+
+## MBMS08 g1 s0121
+JP: ナイスプレイ!{sp}{v8:5}!{n}実にいい試合だったよ!{p}
+EN: Nice play, {v8:5}! That was a great match!{p}
+
+## MBMS08 g1 s0124
+JP: オイオイ、またケンカかよ……。{n}そうだ、{v8:5}!{n}夕食の後、{col:3}本館3F{col:-}に遊びに来ないか!{p}{end}
+EN: Hey, hey, fighting again?... Oh yeah, {v8:5}! Wanna come hang out on {col:3}Main Bldg. 3F{col:-} after dinner?{p}{end}
+
+## MBMS08 g1 s0126
+JP: （ロベルト君たちは、夜も集まるのかぁ…。{n}{sp}部屋は、{col:3}本館3F{col:-}だね。{n}{sp}よし、覚えとこっと!）{p}{end}
+EN: (Roberto-kun's group is getting together tonight too... Their room's on {col:3}Main Bldg. 3F{col:-}. Okay, I'll remember that!){p}{end}
+
+## MBMS08 g1 s0127
+JP: オイオイ、またケンカかよ……。{n}そうだ、{v8:5}!{n}夕食の後、ちょっと付き合ってくれないか?{p}{end}
+EN: Hey, hey, fighting again?... Oh yeah, {v8:5}! After dinner, could you come with me for a bit?{p}{end}
+
+## MBMS08 g1 s0134
+JP: （オ、オイルをペアで塗りっこ!!{n}{sp}私なら絶対……）{p}{end}
+EN: (R-rubbing oil on each other in pairs!! If it were me, I'd definitely......){p}{end}
+
+## MBMS08 g1 s0139
+JP: まずは、ミーが塗ってもらう側ネ!{n}ヨロメクおねがいしまーす。{p}{end}
+EN: First, I'm the one getting the oil! Make me swoon, please!{p}{end}
+
+## MBMS08 g1 s0140
+JP: （「ヨロメク」っていわれても…………。{n}{sp}ティファニーは寝そべっちゃったけど{n}{sp}いったい、どんな感じで{n}{sp}塗ったらいいんだろう…）{p}
+EN: ("Make her swoon"...? Tiffany's lying down already, but how exactly am I supposed to put this on...){p}
+
+## MBMS08 g1 s0150
+JP: （そ、そうだったのかぁ……。）{p}
+EN: (S-so that's how it was......){p}
+
+## MBMS08 g1 s0151
+JP: （やっぱり、しっかり塗っておかないと、{n}{sp}肌にも悪いしね!{n}{sp}こんな感じかな?）{p}{end}
+EN: (I really should put it on properly, or it's bad for her skin! Like this?){p}{end}
+
+## MBMS08 g1 s0159
+JP: （な、なぁーんだ…、{n}{sp}寝てたのかぁ…………。）{p}{end}
+EN: (Wh-what, she was asleep?............){p}{end}
+
+## MBMS08 g1 s0162
+JP: （ティファニーたちは、夜も集まるのかぁ…{n}{sp}部屋は、{col:3}別館{col:-}だね。{n}{sp}よし、覚えとこっと!）{p}{end}
+EN: (Tiffany's group is getting together tonight too... Their room's in the {col:3}Annex{col:-}. Okay, I'll remember that!){p}{end}
+
+## MBMS08 g1 s0163
+JP: ネェ、{v3:7}。{n}ディナーの後、{n}デートしましょう!{p}{end}
+EN: Hey, {v3:7}. After dinner, let's go on a date!{p}{end}
+
+## MBMS08 g1 s0164
+JP: ミーが、ホテルの前で待ってます。{n}女の子同士、ノープロブレムネ!{p}{end}
+EN: I'll wait in front of the hotel. Two girls together, no problem!{p}{end}
+
+## MBMS08 g1 s0165
+JP: （う～ん。{n}{sp}女の子同士で、{n}{sp}『デート』は問題あるような……。）{p}
+EN: (Hmm. Two girls going on a "date" seems like a bit of a problem......){p}
+
+## MBMS08 g1 s0166
+JP: （まぁ、いっかぁ!{n}{sp}夜もまた、ティファニーと一緒に遊ぼ!）{p}{end}
+EN: (Oh well! I'll hang out with Tiffany again tonight!){p}{end}
+
+## MBMS08 g1 s0169
+JP: オ、オッケーッ!!{p}
+EN: O-okay!!{p}
+
+## MBMS08 g1 s0173
+JP: （と、とりあえず、{n}{sp}無難にソフトにやってみよう…。{n}{sp}こ、こんな感じかな?）{p}
+EN: (F-for now, I'll play it safe and go gentle... L-like this?){p}
+
+## MBMS08 g1 s0182
+JP: （しっかり塗っておかないと!{n}{sp}そう、お肌に悪いし!{n}{sp}こ、こんな感じかな?）{p}
+EN: (Gotta put it on properly! Yeah, or it's bad for his skin! L-like this?){p}
+
+## MBMS08 g1 s0190
+JP: （な、なぁーんだ、寝てたのか……。{n}{sp}ちょっと、ドキドキしちゃった……。）{p}
+EN: (Wh-what, he was asleep...... That got my heart racing a little......){p}
+
+## MBMS08 g1 s0193
+JP: （ロイたちは、夜も集まるのかぁ…。{n}{sp}部屋は、{col:3}別館{col:-}だね。{n}{sp}よし、覚えとこっと!）{p}
+EN: (Roy's group is getting together tonight too... Their room's in the {col:3}Annex{col:-}. Okay, I'll remember that!){p}
+
+## MBMS08 g1 s0198
+JP: では、私は、{v5:8}と{n}ペアを組むことにしましょう。{p}{end}
+EN: Then I shall pair up with {v5:8}.{p}{end}
+
+## MBMS08 g1 s0224
+JP: （ボーマンたちは、夜も集まるのかぁ…。{n}{sp}部屋は、{col:3}別館{col:-}だね。{n}{sp}よし、覚えとこっと!）{p}
+EN: (Boman's group is getting together tonight too... Their room's in the {col:3}Annex{col:-}. Okay, I'll remember that!){p}
+
+## MBMS08 g1 s0229
+JP: さすがに、{n}ちょっと離れたこの広場には、{n}人も少ないね。{p}{end}
+EN: This plaza's a bit far off, so there aren't many people here.{p}{end}
+
+## MBMS08 g1 s0230
+JP: あっ!?{n}あそこにいるのは、響子先生かな?{n}行ってみよう!{p}
+EN: Oh!? Is that Kyoko-sensei over there? Let's go see!{p}
+
+## MBMS08 g1 s0231
+JP: あら!?{sp}{v0}{col:0}さん{col:-}。{n}どうしたの、ひとり?{p}{end}
+EN: Oh!? {v0}{col:0}-san{col:-}. What's up, all by yourself?{p}{end}
+
+## MBMS08 g1 s0232
+JP: ええ。{n}遠泳で疲れちゃったんで、{n}休みに来たんです。{p}{end}
+EN: Yeah. I got tired from the long swim, so I came here to rest.{p}{end}
+
+## MBMS08 g1 s0234
+JP: ねぇ、{v0}{col:0}さん{col:-}。{n}私の水着、どうかしら?{p}
+EN: Say, {v0}{col:0}-san{col:-}. What do you think of my swimsuit?{p}
+
+## MBMS08 g1 s0235
+JP: （うーん、そうだなぁ……）{p}
+EN: (Hmm, let's see......){p}
+
+## MBMS08 g1 s0236
+JP: カワイイと思いますよ{n}似合ってると思いますよ{p}{end}
+EN: I think it's cute{n}I think it suits you{p}{end}
+
+## MBMS08 g1 s0237
+JP: カワイイと思いますよ!{n}とっても!{p}
+EN: I think it's cute! Really cute!{p}
+
+## MBMS08 g1 s0238
+JP: うふふっ、ありがとう!{p}
+EN: Ufufu, thank you!{p}
+
+## MBMS08 g1 s0239
+JP: ちょっと、{n}若い子向きかなぁって、心配だったのよ。{p}
+EN: I was a little worried it was meant for younger girls.{p}
+
+## MBMS08 g1 s0240
+JP: （ふふふ…{n}{sp}響子先生もカワイイとこあるんだ）{p}
+EN: (Hee hee... Kyoko-sensei has a cute side too.){p}
+
+## MBMS08 g1 s0241
+JP: すっごく、{n}似合ってると思います!{p}
+EN: I think it really suits you!{p}
+
+## MBMS08 g1 s0242
+JP: そう?{p}
+EN: Really?{p}
+
+## MBMS08 g1 s0243
+JP: うーん。{n}海によく映える水着だし!{p}
+EN: Mm-hm. It really stands out against the sea!{p}
+
+## MBMS08 g1 s0245
+JP: まあ、{n}男の子はイチコロって感じかな!{p}
+EN: I bet the boys fall for you on the spot!{p}
+
+## MBMS08 g1 s0246
+JP: アハハッ!{n}{v0}{col:0}さん{col:-}、言うわねえ。{p}{end}
+EN: Ahaha! You've got quite a mouth on you, {v0}{col:0}-san{col:-}.{p}{end}
+
+## MBMS08 g1 s0247
+JP: よかった、{n}気合い入れてきた甲斐があったわ。{p}{end}
+EN: Good, it was worth all the effort I put in.{p}{end}
+
+## MBMS08 g1 s0248
+JP: （いいなぁ…、{n}{sp}スタイルのいい人は人生前向きで…）{p}{end}
+EN: (Must be nice... People with great figures are so upbeat about life...){p}{end}
+
+## MBMS08 g1 s0249
+JP: そうだ!{sp}{v0}{col:0}さん{col:-}!{n}夕食の後、{n}{col:3}本館4F{col:-}に遊びにいらっしゃいよ!{p}{end}
+EN: Oh, I know! {v0}{col:0}-san{col:-}! After dinner, come visit us on {col:3}Main Bldg. 4F{col:-}!{p}{end}
+
+## MBMS08 g1 s0251
+JP: （先生たちのところに行くのもいいな…。{n}{sp}部屋は、{col:3}本館4F{col:-}だね。{n}{sp}よし、覚えとこっと!）{p}
+EN: (Visiting the teachers might be nice too... Their room's on {col:3}Main Bldg. 4F{col:-}. Okay, I'll remember that!){p}
+
+## MBMS08 g1 s0252
+JP: ねぇ、{v0}{col:0}さん{col:-}。{n}夕食の後、{n}先生に、ちょっと時間くれないかな?{p}
+EN: Say, {v0}{col:0}-san{col:-}. After dinner, could you spare me a little time?{p}
+
+## MBMS08 g1 s0253
+JP: お話しましょうよ。{n}私、ホテルの前で待ってるから。{p}
+EN: Let's have a chat. I'll be waiting in front of the hotel.{p}
+
+## MBMS08 g1 s0255
+JP: （よし!{n}{sp}夜は、響子先生に付き合おう!）{p}
+EN: (Okay! Tonight I'll keep Kyoko-sensei company!){p}
+
+## MBMS08 g1 s0256
+JP: ビーチからホテルまでが近くて、{n}助かったよ…。{p}
+EN: Good thing the hotel's so close to the beach...{p}
+
+## MBMS08 g1 s0257
+JP: あっ、英雄先生がいる!{n}何してるのかなぁ?{p}
+EN: Oh, it's Hideo-sensei! What's he doing?{p}
+
+## MBMS08 g1 s0278
+JP: （こんな時でもないと、{n}{sp}先生と語り合うことってないよね…）{p}{end}
+EN: (Except at times like this, you never get to have a real talk with a teacher...){p}{end}
+
+## MBMS08 g1 s0280
+JP: 休んでると、怒られるかもしんない…。{n}ここはひとつ、{n}見つからないように、通り過ぎよっと…。{p}{end}
+EN: If I rest, I might get yelled at... I'll just slip past before anyone spots me...{p}{end}
+
+## MBMS08 g1 s0282
+JP: （ヤ、ヤバイッ!!{n}{sp}隼人先生に見つかっちゃったよ!!）{p}{end}
+EN: (Uh-oh!! Hayato-sensei spotted me!!){p}{end}
+
+## MBMS08 g1 s0286
+JP: そうだ、その意気だぜ、{v3:16}!{n}若者はいつでも、{n}自分に厳しくなくちゃならねぇ!{p}
+EN: That's the spirit, {v3:16}! Young folks gotta be tough on themselves, always!{p}
+
+## MBMS08 g1 s0288
+JP: （トホホ…、{n}{sp}ほんとに、走らされそうだよぉ……）{p}
+EN: (Ugh... He's really gonna make me run......){p}
+
+## MBMS08 g1 s0295
+JP: （先生たちのところかぁ…。{n}{sp}部屋は、{col:3}本館4F{col:-}だね。{n}{sp}一応、覚えとこう…。）{p}
+EN: (The teachers' place, huh... Their room's on {col:3}Main Bldg. 4F{col:-}. I'll remember it, just in case...){p}
+
+## MBMS08 g1 s0298
+JP: （海でしか話せないことって、{n}{sp}なんなのよぉ???）{p}{end}
+EN: (What can you only talk about at the sea, anyway???){p}{end}
+
+## MBMS08 g1 s0301
+JP: うーーん。満腹、満腹…。{n}今日は、いっぱい運動したから、{n}ご飯がおいしかったよ…。{p}
+EN: Mmmm. So full... I got so much exercise today that dinner tasted great...{p}
+
+## MBMS08 g1 s0302
+JP: さて、ひなたが待ってる{n}ホテルの前まで行ってみよっ!{p}{end}
+EN: Now, let's head out front of the hotel, where Hinata's waiting!{p}{end}
+
+## MBMS08 g1 s0303
+JP: あっ、いたいた。{n}ひなた!{sp}こんばんは。{p}{end}
+EN: Oh, there she is. Hinata! Evening!{p}{end}
+
+## MBMS08 g1 s0304
+JP: あっ、{v9:1}!{n}もう、遅いよぉ!{p}
+EN: Oh, {v9:1}! Geez, you're late!{p}
+
+## MBMS08 g1 s0305
+JP: えへへ、ゴメンゴメン!{n}じゃあ、浜辺を散歩でもしよっか?{p}{end}
+EN: Hehe, sorry, sorry! So, wanna take a walk on the beach?{p}{end}
+
+## MBMS08 g1 s0307
+JP: ……実はね、私、{n}夜の浜辺をこうして歩くのって、{n}ちょっと、あこがれてたんだ。{p}
+EN: ......Actually, I've always kind of dreamed of walking on the beach at night like this.{p}
+
+## MBMS08 g1 s0308
+JP: だから今、{n}なんだか、しあわせな気分……。{p}
+EN: So right now, I feel kind of happy......{p}
+
+## MBMS08 g1 s0309
+JP: （そっかぁ……）{p}{end}
+EN: (I see......){p}{end}
+
+## MBMS08 g1 s0310
+JP: それって、私が一緒だから?{n}そうだ、いいものがあるんだ{p}
+EN: Because I'm with you?{n}Oh, I've got something good{p}
+
+## MBMS08 g1 s0311
+JP: えへへ…、{n}それって、私が一緒だから?{p}
+EN: Hehe... Is that because I'm with you?{p}
+
+## MBMS08 g1 s0312
+JP: {face:8}・・・・・・・・・・。{face:255}{n}カッコイイ男の子と一緒なら、{n}もっとよかったのになぁー。{p}{end}
+EN: {face:8}...........{face:255} It would've been even better with a cute guy.{p}{end}
+
+## MBMS08 g1 s0313
+JP: ちぇーーっ。{p}{end}
+EN: Hmph!{p}{end}
+
+## MBMS08 g1 s0314
+JP: うふふ…、冗談よ、冗談。{n}さあ、もう少し歩こうよ!{p}
+EN: Hee hee... Kidding, just kidding. Come on, let's walk some more!{p}
+
+## MBMS08 g1 s0315
+JP: そうだ、いいものがあるの。{n}ちょっと待っててよ…。{n}はいっ!{p}{end}
+EN: Oh, I've got something good. Wait a sec... Here!{p}{end}
+
+## MBMS08 g1 s0321
+JP: ねぇ、{v9:1}……。{p}{end}
+EN: Hey, {v9:1}......{p}{end}
+
+## MBMS08 g1 s0323
+JP: さっき、遅刻してきたこと、{n}許してあげる……。{p}
+EN: I'll forgive you for being late earlier......{p}
+
+## MBMS08 g1 s0324
+JP: ……えへへ、やった!{p}{end}
+EN: ......Hehe, yay!{p}{end}
+
+## MBMS08 g1 s0325
+JP: ………こうして、{n}ひなたと夜の浜辺を散歩して、{n}臨海合宿の夜は過ぎていった。{p}{end}
+EN: .........And so, after a walk on the night beach with Hinata, the night of the seaside camp passed.{p}{end}
+
+## MBMS08 g1 s0327
+JP: う～ん………。{n}ね、寝不足で頭がフラフラするぅ…。{p}
+EN: Ugh......... I-I got so little sleep my head's spinning...{p}
+
+## MBMS08 g1 s0330
+JP: うーーん。{n}な、なんか緊張しちゃって、{n}なにを食べたんだか、わかんなかったよ…。{p}{end}
+EN: Mmmm. I-I was so nervous I couldn't even tell what I was eating...{p}{end}
+
+## MBMS08 g1 s0331
+JP: さて、バツ君が待ってる{n}ホテルの前まで行ってみよっ!{p}{end}
+EN: Now, let's head out front of the hotel, where Batsu-kun's waiting!{p}{end}
+
+## MBMS08 g1 s0332
+JP: あっ、いたいた。{n}バツ君!{sp}来たよっ!{p}
+EN: Oh, there he is. Batsu-kun! I'm here!{p}
+
+## MBMS08 g1 s0339
+JP: ちょっと待ってね…。{n}こんなの食べるかな?{p}
+EN: Wait a sec... Would it eat something like this?{p}
+
+## MBMS08 g1 s0341
+JP: ふふふ…、食べてる食べてる。{p}{end}
+EN: Hee hee... It's eating, it's eating.{p}{end}
+
+## MBMS08 g1 s0347
+JP: バツ君に、お菓子を盗られると{n}思ったんじゃない?{p}{end}
+EN: Maybe it thought Batsu-kun was gonna steal its snack?{p}{end}
+
+## MBMS08 g1 s0353
+JP: どうしたの、それ?{p}
+EN: Where'd you get that?{p}
+
+## MBMS08 g1 s0355
+JP: へぇ～、意外とバツ君って、{n}年上の女の人に、人気あるんだぁ!{p}{end}
+EN: Wow, Batsu-kun's surprisingly popular with older women!{p}{end}
+
+## MBMS08 g1 s0358
+JP: ………こうして、{n}バツ君と猫にエサをやって、{n}臨海合宿の夜は過ぎていった。{p}
+EN: .........And so, after feeding a cat with Batsu-kun, the night of the seaside camp passed.{p}
+
+## MBMS08 g1 s0364
+JP: さて、恭介君が待ってる{n}ホテルの前まで行ってみよっ!{p}{end}
+EN: Now, let's head out front of the hotel, where Kyosuke-kun's waiting!{p}{end}
+
+## MBMS08 g1 s0365
+JP: あっ、いたいた。{n}恭介君!{sp}来たよっ!{p}
+EN: Oh, there he is. Kyosuke-kun! I'm here!{p}
+
+## MBMS08 g1 s0366
+JP: やあ、{v8:2}!{n}少し表を歩かないか?{p}
+EN: Hey, {v8:2}! Want to take a little walk outside?{p}
+
+## MBMS08 g1 s0367
+JP: いいの?{sp}表なんか出ちゃって…。{p}{end}
+EN: Is that okay? Going outside like this...{p}{end}
+
+## MBMS08 g1 s0369
+JP: ねぇ、恭介君、{n}昼間、一人暮らししてるって{n}いってたけど、どうして?{p}{end}
+EN: Hey, Kyosuke-kun, earlier you said you live alone. How come?{p}{end}
+
+## MBMS08 g1 s0373
+JP: （さ、誘われちゃった!{n}{sp}しかも、一人暮らしのお家に…。{n}{sp}よぅし!{sp}それじゃあ……）{p}
+EN: (H-he invited me! And to the place where he lives alone... All right! In that case......){p}
+
+## MBMS08 g1 s0374
+JP: ご飯を作りにいってあげるよ{n}お掃除しにいってあげるよ{p}{end}
+EN: I'll come cook for you{n}I'll come clean for you{p}{end}
+
+## MBMS08 g1 s0375
+JP: じ、じゃあ、{n}私、ご飯を作りにいってあげるよ!{n}ビーフストロガノフとかさぁ!{p}{end}
+EN: Th-then I'll come cook dinner for you! Like beef stroganoff or something!{p}{end}
+
+## MBMS08 g1 s0376
+JP: {v8:2}、{n}へえ、料理得意だったんだ。{n}期待してしまうな。{p}
+EN: {v8:2}, huh, so you're good at cooking. I'm looking forward to it.{p}
+
+## MBMS08 g1 s0377
+JP: や、やっぱり…。{n}カ、カレーにしよっかな…。{p}{end}
+EN: O-on second thought... M-maybe I'll make curry...{p}{end}
+
+## MBMS08 g1 s0379
+JP: も、もうっ、{n}そんなに笑わないでよ…。{p}
+EN: G-geez, don't laugh so much...{p}
+
+## MBMS08 g1 s0381
+JP: コラァーーッ!{n}恭介君、笑い過ぎだよぉ!!{p}
+EN: Heeey! Kyosuke-kun, you're laughing way too hard!!{p}
+
+## MBMS08 g1 s0382
+JP: じゃあ、{n}お掃除しにいってあげるよ。{p}{end}
+EN: Then I'll come clean for you.{p}{end}
+
+## MBMS08 g1 s0383
+JP: あいにく、僕はキレイ好きなんでね。{n}お客さんに、{n}掃除してもらうようなところはないよ。{p}
+EN: Sorry, but I happen to be a neat freak. There's nothing a guest would need to clean.{p}
+
+## MBMS08 g1 s0384
+JP: うーん。{n}じゃあ、お洗タクは?{n}毎日かえるものねぇ、下着とか…。{p}{end}
+EN: Hmm. Then how about laundry? You change things every day, like underwear...{p}{end}
+
+## MBMS08 g1 s0385
+JP: えっ!?{n}いいよ、そんな……{p}{end}
+EN: Huh!? N-no, that's fine......{p}{end}
+
+## MBMS08 g1 s0386
+JP: うふふ…{n}ウソウソ。ゴメンゴメン!{n}ビックリしたぁ?{p}{end}
+EN: Hee hee... Kidding, kidding. Sorry, sorry! Did I surprise you?{p}{end}
+
+## MBMS08 g1 s0388
+JP: ………こうして、{n}恭介君と夜のビーチでお話をして、{n}臨海合宿の夜は過ぎていった。{p}{end}
+EN: .........And so, after talking with Kyosuke-kun on the night beach, the night of the seaside camp passed.{p}{end}
+
+## MBMS08 g1 s0394
+JP: さて、夏が待ってる{n}ホテルの前まで行ってみよっ!{p}{end}
+EN: Now, let's head out front of the hotel, where Natsu's waiting!{p}{end}
+
+## MBMS08 g1 s0395
+JP: あっ、いたいた。{n}夏!{sp}来たよっ!{p}
+EN: Oh, there she is. Natsu! I'm here!{p}
+
+## MBMS08 g1 s0396
+JP: 遅いよ、{v8:4}!{n}じゃあさ、{n}その辺をちょっと散歩しようよ。{p}
+EN: You're late, {v8:4}! So, let's take a little walk around here.{p}
+
+## MBMS08 g1 s0397
+JP: うん、{n}行こう行こう!{p}
+EN: Sure, let's go, let's go!{p}
+
+## MBMS08 g1 s0401
+JP: （そうだなぁ……）{p}
+EN: (Let's see......){p}
+
+## MBMS08 g1 s0402
+JP: 夏だったら大丈夫!{n}そういう人もいるかも…{p}
+EN: You'll be fine, Natsu!{n}Some people might be like that...{p}
+
+## MBMS08 g1 s0403
+JP: 他の女の子だったら、わからないけど、{n}夏だったら大丈夫!{p}{end}
+EN: I don't know about other girls, but you'll be fine, Natsu!{p}{end}
+
+## MBMS08 g1 s0404
+JP: ど、どうして?{p}
+EN: Wh-why?{p}
+
+## MBMS08 g1 s0405
+JP: だって、夏って、{n}お料理とかお裁縫とかも上手だし、{n}そういう家庭的な女の子って、{n}好かれるもん!{p}{end}
+EN: Because you're good at cooking and sewing, Natsu, and guys love homey girls like that!{p}{end}
+
+## MBMS08 g1 s0410
+JP: （ぷぷっ…、自分から聞いてきたくせに…。{n}{sp}顔が真っ赤だよ。{n}{sp}こういうところが、カワイイんだよね…）{p}
+EN: (Pfft... She's the one who asked... Her face is bright red. That's what's so cute about her...){p}
+
+## MBMS08 g1 s0411
+JP: うーん。{n}やっぱり、{n}そういう人もいるかもね…。{p}{end}
+EN: Hmm. I guess some people might be like that...{p}{end}
+
+## MBMS08 g1 s0413
+JP: でも、{n}気持ちの部分が、一番大事だよ。{n}私は、そう思うけどな…。{p}{end}
+EN: But how you feel is what matters most. That's what I think, anyway...{p}{end}
+
+## MBMS08 g1 s0414
+JP: そ、そうよね!{p}
+EN: R-right!{p}
+
+## MBMS08 g1 s0415
+JP: チャンスはあるよね…、{n}うん!{p}
+EN: I've still got a chance... Yeah!{p}
+
+## MBMS08 g1 s0417
+JP: ううん、なんでもない。{n}なんでもないよ。{p}{end}
+EN: Nah, it's nothing. Nothing at all.{p}{end}
+
+## MBMS08 g1 s0418
+JP: （な、なんか、{n}{sp}夏の周りに、闘志のオーラが{n}{sp}見えるような気が…）{p}{end}
+EN: (I-I feel like I can see an aura of fighting spirit around Natsu...){p}{end}
+
+## MBMS08 g1 s0419
+JP: ………こうして、{n}夏と夜のビーチでお話をして、{n}臨海合宿の夜は過ぎていった。{p}{end}
+EN: .........And so, after talking with Natsu on the night beach, the night of the seaside camp passed.{p}{end}
+
+## MBMS08 g1 s0425
+JP: さて、将馬君が待ってる{n}ホテルの前まで行ってみよっ!{p}{end}
+EN: Now, let's head out front of the hotel, where Shoma-kun's waiting!{p}{end}
+
+## MBMS08 g1 s0426
+JP: あっ、いたいた。{n}将馬君!{sp}来たよっ!{p}
+EN: Oh, there he is. Shoma-kun! I'm here!{p}
+
+## MBMS08 g1 s0428
+JP: （あれ?{sp}なんでバット持ってるんだろ?）{p}{end}
+EN: (Huh? Why's he holding a bat?){p}{end}
+
+## MBMS08 g1 s0430
+JP: （将馬君、{n}{sp}夜に素振りの練習してたんだ……。）{p}{end}
+EN: (Shoma-kun was practicing his swing at night......){p}{end}
+
+## MBMS08 g1 s0435
+JP: 努力するのは、カッコ悪くないよ{n}そんなことないよ{p}{end}
+EN: Working hard isn't uncool{n}That's not true{p}{end}
+
+## MBMS08 g1 s0436
+JP: なにかに向かって、努力するのって、{n}カッコ悪くなんかないよ。{p}{end}
+EN: Working hard toward something isn't uncool at all.{p}{end}
+
+## MBMS08 g1 s0437
+JP: そんなに打ち込めるものがあって、{n}うらやましいな。{p}
+EN: I'm jealous you have something you can throw yourself into like that.{p}
+
+## MBMS08 g1 s0442
+JP: 『天才は99%の努力と、{n}1%の才能によって生まれる』{n}っていうでしょ?{p}{end}
+EN: They say "Genius is 99% effort and 1% talent," right?{p}{end}
+
+## MBMS08 g1 s0443
+JP: きっと、レギュラーにだってなれるよ!{n}私、信じてるもの……。{p}{end}
+EN: I'm sure you'll make the starting lineup! I believe in you......{p}{end}
+
+## MBMS08 g1 s0447
+JP: ………こうして、{n}素振りをする将馬君を眺めて、{n}臨海合宿の夜は過ぎていった。{p}{end}
+EN: .........And so, after watching Shoma-kun practice his swing, the night of the seaside camp passed.{p}{end}
+
+## MBMS08 g1 s0453
+JP: さて、ロベルト君が待ってる{n}ホテルの前まで行ってみよっ!{p}{end}
+EN: Now, let's head out front of the hotel, where Roberto-kun's waiting!{p}{end}
+
+## MBMS08 g1 s0454
+JP: あっ、いたいた。{n}ロベルト君!{sp}来たよっ!{p}
+EN: Oh, there he is. Roberto-kun! I'm here!{p}
+
+## MBMS08 g1 s0455
+JP: やあ!{sp}{v8:5}!{n}ビーチでも散歩しようぜ。{n}さあ、行こう!{p}{end}
+EN: Hey! {v8:5}! Let's take a walk on the beach. Come on!{p}{end}
+
+## MBMS08 g1 s0456
+JP: ねぇ、ロベルト君、{n}どうして、サッカーをはじめたの?{p}{end}
+EN: Hey, Roberto-kun, why did you start playing soccer?{p}{end}
+
+## MBMS08 g1 s0466
+JP: サッカーしかできないからか…。{n}………カッコイイな!{p}{end}
+EN: Because soccer's all you can do, huh... .........That's so cool!{p}{end}
+
+## MBMS08 g1 s0472
+JP: 偉いんだね、ロベルト君……。{p}{end}
+EN: You're really something, Roberto-kun......{p}{end}
+
+## MBMS08 g1 s0474
+JP: うん、{n}私、応援してるからね!{p}
+EN: Yeah, I'm rooting for you!{p}
+
+## MBMS08 g1 s0475
+JP: ………こうして、{n}ロベルト君と夜のビーチでお話して、{n}臨海合宿の夜は過ぎていった。{p}
+EN: .........And so, after talking with Roberto-kun on the night beach, the night of the seaside camp passed.{p}
+
+## MBMS08 g1 s0481
+JP: さて、ティファニーが待ってる、{n}ホテルの前まで行ってみよっ!{p}{end}
+EN: Now, let's head out front of the hotel, where Tiffany's waiting!{p}{end}
+
+## MBMS08 g1 s0482
+JP: あっ、いたいた。{n}ティファニー!{sp}こんばんは。{p}
+EN: Oh, there she is. Tiffany! Evening!{p}
+
+## MBMS08 g1 s0485
+JP: ………う、うん{n}（お、女の子に腕組みされるのは…、{n}{sp}ど、どうなのかなぁ……）{p}
+EN: .........S-sure. (B-being arm in arm with a girl... I-is that okay......){p}
+
+## MBMS08 g1 s0486
+JP: ねぇ、ティファニー……。{p}{end}
+EN: Hey, Tiffany......{p}{end}
+
+## MBMS08 g1 s0488
+JP: 日本はどう?{n}楽しい?{p}
+EN: How do you like Japan? Having fun?{p}
+
+## MBMS08 g1 s0493
+JP: （そうだよねぇ……、よし!）{p}{end}
+EN: (That makes sense...... All right!){p}{end}
+
+## MBMS08 g1 s0502
+JP: えへへ…、{n}そ、そうかな……。{p}
+EN: Hehe... Y-you think so......{p}
+
+## MBMS08 g1 s0505
+JP: こうしてると、{n}さみしいのって、{n}どっかいっちゃうでしょ…。{p}{end}
+EN: Doing this makes the loneliness go away, right......{p}{end}
+
+## MBMS08 g1 s0509
+JP: {v3:7}って、{n}頼りがいがあって、男の子みたい…。{p}
+EN: {v3:7}, you're so dependable, just like a boy...{p}
+
+## MBMS08 g1 s0510
+JP: う、うん。{n}ありがとう……。{n}（フ、フクザツな気分だなぁ……）{p}
+EN: Y-yeah. Thanks...... (Wh-what a complicated feeling......){p}
+
+## MBMS08 g1 s0517
+JP: さて、ロイが待ってる、{n}ホテルの前まで行ってみよっ!{p}{end}
+EN: Now, let's head out front of the hotel, where Roy's waiting!{p}{end}
+
+## MBMS08 g1 s0518
+JP: あっ、いたいた。{n}ロイ!{sp}来たよっ!{p}{end}
+EN: Oh, there he is. Roy! I'm here!{p}{end}
+
+## MBMS08 g1 s0520
+JP: 夜の海は、気持ちがいいなぁ。{n}明日、帰るなんて、もったいないね…。{p}
+EN: The night sea feels so nice. It's a shame we're going home tomorrow...{p}
+
+## MBMS08 g1 s0521
+JP: 確かに、日本の夏は、{n}ジメジメしていて好きじゃないが、{n}今夜は最高に気分がイイよ。{p}
+EN: Sure, I don't like Japanese summers, they're too muggy. But tonight I feel great.{p}
+
+## MBMS08 g1 s0528
+JP: ボクが知ってるヤツか?{n}なぁ、教えろよ!{p}{end}
+EN: Is it someone I know? Come on, tell me!{p}{end}
+
+## MBMS08 g1 s0531
+JP: でも、ボクは一度決めたら、{n}絶対にあきらめない主義なんでね。{p}{end}
+EN: But once I decide on something, I never give up.{p}{end}
+
+## MBMS08 g1 s0532
+JP: 必ず、手に入れてみせるよ…。{p}{end}
+EN: I'll make it mine, no matter what...{p}{end}
+
+## MBMS08 g1 s0533
+JP: （そ、それって、{n}{sp}どういう意味なのかなぁ……。）{p}
+EN: (Wh-what's that supposed to mean......){p}
+
+## MBMS08 g1 s0535
+JP: じゃあ、ボクのことも嫌いなのかい?{p}
+EN: Then do you hate me too?{p}
+
+## MBMS08 g1 s0536
+JP: えっ!?{p}{end}
+EN: Huh!?{p}{end}
+
+## MBMS08 g1 s0539
+JP: （も、もう…{n}{sp}顔が真っ赤になっちゃったよ…）{p}
+EN: (G-geez... Now my face is bright red...){p}
+
+## MBMS08 g1 s0540
+JP: ………こうして、{n}ロイと夜のビーチでお話をして、{n}臨海合宿の夜は過ぎていった。{p}
+EN: .........And so, after talking with Roy on the night beach, the night of the seaside camp passed.{p}
+
+## MBMS08 g1 s0546
+JP: さて、ボーマンが待ってる、{n}ホテルの前まで行ってみよっ!{p}{end}
+EN: Now, let's head out front of the hotel, where Boman's waiting!{p}{end}
+
+## MBMS08 g1 s0547
+JP: あっ、いたいた。{n}ボーマン!{sp}来たよっ!{p}{end}
+EN: Oh, there he is. Boman! I'm here!{p}{end}
+
+## MBMS08 g1 s0550
+JP: ねぇ、ボーマン?{p}{end}
+EN: Hey, Boman?{p}{end}
+
+## MBMS08 g1 s0554
+JP: ボーマンって、{n}アメリカでは、どういう生活をしてたの?{p}
+EN: Boman, what was your life like back in America?{p}
+
+## MBMS08 g1 s0561
+JP: （それって、{n}{sp}どういう意味なのかなぁ……）{p}{end}
+EN: (What's that supposed to mean......){p}{end}
+
+## MBMS08 g1 s0562
+JP: ボーマンは、{n}神様って、本当にいると思ってるの?{p}{end}
+EN: Boman, do you really think God exists?{p}{end}
+
+## MBMS08 g1 s0564
+JP: でも、見たことないでしょ?{p}
+EN: But you've never seen Him, right?{p}
+
+## MBMS08 g1 s0568
+JP: ………こうして、{n}ボーマンと夜のビーチでお話をして、{n}臨海合宿の夜は過ぎていった。{p}
+EN: ...And so the camp night passed, talking with Boman on the beach.{p}
+
+## MBMS08 g1 s0574
+JP: さて、響子先生が待ってる、{n}ホテルの前まで行ってみよっ!{p}{end}
+EN: Now, let's head out front of the hotel, where Kyoko-sensei's waiting!{p}{end}
+
+## MBMS08 g1 s0575
+JP: あれ?{n}響子先生は、先に待ってるっていったのに…{n}いないよ?{p}{end}
+EN: Huh? Kyoko-sensei said she'd be there first... But she's not here?{p}{end}
+
+## MBMS08 g1 s0576
+JP: {v0}{col:0}さん{col:-}!{sp}おまたせぇ～っ!{n}ヒック……。{n}さあ、あっち行こ、あっち!!{p}
+EN: {v0}{col:0}-san{col:-}! Sorry I'm laaate~! *hic*... Come on, over there, over there!!{p}
+
+## MBMS08 g1 s0579
+JP: あーもう、{n}からまないで、{n}しっかりしてくださいよぉ…。{p}{end}
+EN: Ugh, stop hanging all over me and pull yourself together...{p}{end}
+
+## MBMS08 g1 s0582
+JP: ないと思うけど…{n}あ、あるかも…{p}{end}
+EN: I don't think so...{n}M-maybe there is...{p}{end}
+
+## MBMS08 g1 s0583
+JP: そ、それは……、{n}やっぱり、ないと思うけど…。{p}
+EN: W-well... I guess there isn't, no...{p}
+
+## MBMS08 g1 s0585
+JP: はいはい……。{p}
+EN: Okay, okay......{p}
+
+## MBMS08 g1 s0586
+JP: んふふっ、{n}{v0}{col:0}さん{col:-}のひざまくら、{n}気持ちいい～{col:5}♥{col:-}{p}{end}
+EN: Mmhehe, {v0}{col:0}-san{col:-}'s lap is so comfy~{col:5}♥{col:-}{p}{end}
+
+## MBMS08 g1 s0587
+JP: やれやれ……。{p}
+EN: Good grief......{p}
+
+## MBMS08 g1 s0588
+JP: そ、それは……、{n}あ、あるかもしれないなぁ…。{p}
+EN: W-well... Th-there might be...{p}
+
+## MBMS08 g1 s0589
+JP: え～っ!{sp}ヒック!!{n}そんなのあるわけないでしょ～!{n}…………………………ムニャムニャ。{p}{end}
+EN: Whaaat~!? *hic!!* No way there's a law like that~! ...Mmnya.{p}{end}
+
+## MBMS08 g1 s0590
+JP: 響子先生!?{p}{end}
+EN: Kyoko-sensei!?{p}{end}
+
+## MBMS08 g1 s0591
+JP: …………………グゥ～{p}{end}
+EN: ......Zzz~{p}{end}
+
+## MBMS08 g1 s0592
+JP: （も、もしかして…、寝ちゃった?）{p}
+EN: (D-did she... fall asleep?){p}
+
+## MBMS08 g1 s0593
+JP: グゥ………グゥ……………{p}{end}
+EN: Zzz......Zzz.........{p}{end}
+
+## MBMS08 g1 s0594
+JP: （仕方がない…、おんぶして帰ろ。{n}{sp}うんしょっと…。{n}{sp}日頃から鍛えてあって、よかったよ{n}{sp}ホント…。）{p}{end}
+EN: (Oh well... I'll piggyback her home. Hup... Good thing I keep in shape...){p}{end}
+
+## MBMS08 g1 s0595
+JP: ………こうして、{n}酔っ払った響子先生を介抱して、{n}臨海合宿の夜は過ぎていった。{p}
+EN: ...And so the camp night passed, looking after a drunk Kyoko-sensei.{p}
+
+## MBMS08 g1 s0601
+JP: さて、英雄先生が待ってる、{n}ホテルの前まで行ってみよっ!{p}{end}
+EN: Now, let's head out front of the hotel, where Hideo-sensei's waiting!{p}{end}
+
+## MBMS08 g1 s0602
+JP: あっ、いたいた。{n}英雄先生!{sp}来ましたぁ!{p}
+EN: Oh, there he is. Hideo-sensei! I'm here!{p}
+
+## MBMS08 g1 s0616
+JP: そうかぁ…。{n}いま話してた時の英雄先生、{n}ちょっと、カッコよかった…。{p}
+EN: I see... Hideo-sensei, the way you talked just now was kinda cool...{p}
+
+## MBMS08 g1 s0624
+JP: うん!{sp}かなりね!{n}アハハ…。{p}
+EN: Yeah! A really good one! Ahaha...{p}
+
+## MBMS08 g1 s0631
+JP: さて、隼人先生が待ってる、{n}ホテルの前まで行ってみよっ!{p}{end}
+EN: Now, let's head out front of the hotel, where Hayato-sensei's waiting!{p}{end}
+
+## MBMS08 g1 s0634
+JP: （完全に自分の世界に、{n}{sp}入っちゃってるよぉ…。{n}{sp}長くなりそうだなぁ……。）{p}
+EN: (He's totally lost in his own world... This could take a while...){p}
+
+## MBMS08 g1 s0636
+JP: ええ、まぁ…。{n}（な、なによ、突然…）{p}
+EN: Uh, sure... (Wh-what's with him all of a sudden...?){p}
+
+## MBMS08 g1 s0641
+JP: （いったい、どうすればいいのよ…）{p}
+EN: (What am I supposed to do...?){p}
+
+## MBMS08 g1 s0647
+JP: （ゆ、夕日なんて、どこにあるの?{n}{sp}えーい、もう一度!）{p}{end}
+EN: (S-setting sun? Where? Ugh, fine, one more time!){p}{end}
+
+## MBMS08 g1 s0654
+JP: （と、とんでもないことに、{n}{sp}なってしまったよぉ～～!!）{p}
+EN: (Wh-what have I gotten myself into~~!!){p}
+
+## MBMS08 g1 s0657
+JP: うーん………。{n}なんか、のどがガラガラだよぉ…。{p}{end}
+EN: Ugh... My throat's all hoarse...{p}{end}
+
+## MBMS08 g1 s0658
+JP: う～ん………。{n}ぜ、全身筋肉痛だよぉ…。{p}{end}
+EN: Ugh... I'm sore all over...{p}{end}
+
+## MBMS08 g1 s0662
+JP: さて、これから消灯までは、自由時間!{n}どこに遊びに行こうかなぁ?{p}{end}
+EN: Now it's free time until lights-out! Where should I go hang out?{p}{end}
+
+## MBMS08 g1 s0664
+JP: よし、{col:3}本館2F{col:-}に行ってみよっ!{p}
+EN: Okay, let's check out {col:3}Main Bldg. 2F{col:-}!{p}
+
+## MBMS08 g1 s0665
+JP: よし、{col:3}本館3F{col:-}に行ってみよっ!{p}
+EN: Okay, let's check out {col:3}Main Bldg. 3F{col:-}!{p}
+
+## MBMS08 g1 s0666
+JP: よし、{col:3}本館4F{col:-}に行ってみよっ!{p}
+EN: Okay, let's check out {col:3}Main Bldg. 4F{col:-}!{p}
+
+## MBMS08 g1 s0667
+JP: よし、{col:3}別館{col:-}に行ってみよっ!{p}
+EN: Okay, let's check out the {col:3}Annex{col:-}!{p}
+
+## MBMS08 g1 s0668
+JP: あれっ?{n}部屋の中が、真っ暗だよ!?{n}誰もいないのかな?{p}{end}
+EN: Huh? The room's pitch black!? Is nobody here?{p}{end}
+
+## MBMS08 g1 s0670
+JP: いったぁーーっ!{n}なに!?{sp}何が飛んできたの?{n}………まくら?{p}
+EN: Owww! What!? What hit me? ......A pillow?{p}
+
+## MBMS08 g1 s0671
+JP: 来たね!{sp}{v9:1}!{n}ここは、血で血を洗う、{n}無差別式・闇のまくら投げ部屋だよ!{p}{end}
+EN: You came, {v9:1}! This is the no-holds-barred, bloodbath Pillow Fight Room of Darkness!{p}{end}
+
+## MBMS08 g1 s0679
+JP: （……………………。{n}{sp}ヤ、ヤバイ!!{n}{sp}泣かしちゃったよ!）{p}
+EN: (.......... Uh-oh!! I made her cry!){p}
+
+## MBMS08 g1 s0683
+JP: はうっ!!{n}（うぅ……、{n}{sp}顔面にヒットしたよぉ……）{p}
+EN: Ow!! (Ugh...... Right in the face......){p}
+
+## MBMS08 g1 s0685
+JP: このくらいで、泣くわけないじゃん!{n}あっかんベェー!{p}{end}
+EN: Like I'd cry over something like that! Bleeeh!{p}{end}
+
+## MBMS08 g1 s0694
+JP: （騒がしいなぁ…、{n}{sp}何をして遊んでるんだろ?）{p}{end}
+EN: (It's so noisy... What are they playing?){p}{end}
+
+## MBMS08 g1 s0695
+JP: やあ、{v8:5}!{n}よく来たな。{p}
+EN: Hey, {v8:5}! Glad you came.{p}
+
+## MBMS08 g1 s0696
+JP: あ、{v8:4}!{n}ねぇ、アタシと腕相撲してみない?{p}{end}
+EN: Oh, {v8:4}! Hey, wanna arm wrestle me?{p}{end}
+
+## MBMS08 g1 s0698
+JP: それは、すごいね。{n}じゃあ、挑戦してみようかな。{p}{end}
+EN: Wow, that's impressive. Guess I'll give it a shot.{p}{end}
+
+## MBMS08 g1 s0700
+JP: 本気でいくよぉっ!!{p}{end}
+EN: Here I come, for real!!{p}{end}
+
+## MBMS08 g1 s0702
+JP: くぅっっっっ!!{p}{end}
+EN: Nnnngh!!{p}{end}
+
+## MBMS08 g1 s0703
+JP: ふぅっっっっ!!{p}{end}
+EN: Hnnngh!!{p}{end}
+
+## MBMS08 g1 s0704
+JP: ぷぷぷ…、{n}アハハハハハハーーーーーッ!!{p}
+EN: Pfft... AHAHAHAHA!!{p}
+
+## MBMS08 g1 s0705
+JP: お前ら、なんて顔してんだよっ!{n}真っ赤な顔して、本気でやってやんの!{n}アハハハハッ!{p}{end}
+EN: Look at your faces! All red, going at it for real! Ahahahaha!{p}{end}
+
+## MBMS08 g1 s0706
+JP: 将馬、笑うなよ…。{n}彼女たちに悪いだろ…。{n}ククククッ………。{p}
+EN: Shoma, don't laugh... That's rude to them... Heh heh heh......{p}
+
+## MBMS08 g1 s0707
+JP: アハハハハハハーーーーーーーッ!!{n}…って、ん!?{p}
+EN: Ahahahahaha!! ...Huh!?{p}
+
+## MBMS08 g1 s0708
+JP: {face:8}アンタたちっ!!{face:255}{n}よくも、女の子に恥かかせてくれたわね!!{p}
+EN: {face:8}You two!!{face:255} How dare you embarrass a couple of girls!!{p}
+
+## MBMS08 g1 s0709
+JP: {v8:4}!{n}やっちゃうよっ!!{p}
+EN: {v8:4}! Let's get 'em!!{p}
+
+## MBMS08 g1 s0710
+JP: まかしといて!!{p}{end}
+EN: Leave it to me!!{p}{end}
+
+## MBMS08 g1 s0711
+JP: ギャアァァァーーーーーーーーーッ!!{p}{end}
+EN: GYAAAAHHH!!{p}{end}
+
+## MBMS08 g1 s0712
+JP: ドン、ドンッ!!{p}{end}
+EN: *Bang, bang!!*{p}{end}
+
+## MBMS08 g1 s0713
+JP: オーイ!{n}夏ぅ～、{v3:3}～、{n}中に入れてくれよぉ～～。{p}{end}
+EN: Heeey! Natsuuu~, {v3:3}~, let us back in~~.{p}{end}
+
+## MBMS08 g1 s0714
+JP: オイラたちが悪かったよぉ～。{p}{end}
+EN: We're sorry, okaaay~.{p}{end}
+
+## MBMS08 g1 s0716
+JP: まさか、このまま一晩、{n}ベランダに{n}放っておく気じゃないだろうなぁ～。{p}
+EN: You're not gonna leave us out on the balcony all night, are ya~?{p}
+
+## MBMS08 g1 s0717
+JP: ねぇ、夏、{n}そろそろ入れてあげたら?{p}{end}
+EN: Hey, Natsu, maybe let them back in now?{p}{end}
+
+## MBMS08 g1 s0718
+JP: いーの、いーの、気にしなくて!{n}カヨワイ女の子に、失礼したんだから…。{n}さあ、ロビーでお茶でも飲もう!{p}
+EN: Nah, don't worry about it! They were rude to us delicate girls... Come on, let's go have tea in the lobby!{p}
+
+## MBMS08 g1 s0719
+JP: それも、そうだね。{n}行こ行こっ!{p}{end}
+EN: Good point. Let's go, let's go!{p}{end}
+
+## MBMS08 g1 s0720
+JP: お～～い、誰かぁ～。{n}この蚊をなんとかしてくれぇ～～。{p}
+EN: Heeey, somebody~. Do something about these mosquitoes~~.{p}
+
+## MBMS08 g1 s0721
+JP: ………こうして、{n}夏と楽しくお茶して、{n}臨海合宿の夜は過ぎていった。{p}{end}
+EN: ...And so the camp night passed, over a fun cup of tea with Natsu.{p}{end}
+
+## MBMS08 g1 s0723
+JP: そういえば、あの2人って、{n}後で、誰かが中に入れてあげたのかなぁ…。{n}う～ん………。私はやってないよ……。{p}
+EN: Come to think of it, did anyone let those two back in later...? Hmm... Well, I didn't...{p}
+
+## MBMS08 g1 s0725
+JP: おじゃましまーす。{n}先生、遊びに来ましたぁー。{p}
+EN: Pardon the intrusion~. Sensei, I came to hang out~.{p}
+
+## MBMS08 g1 s0728
+JP: ひ、悲鳴……!?{n}な、なにが起こっているの?{p}{end}
+EN: A-a scream...!? Wh-what's going on?{p}{end}
+
+## MBMS08 g1 s0734
+JP: あら!?{sp}{v0}{col:0}さん{col:-}!{n}あなたも診てあげるわ。{n}こっちにいらっしゃい～{col:5}♥{col:-}{p}{end}
+EN: Oh my!? {v0}{col:0}-san{col:-}! I'll give you a checkup too. Come over here~{col:5}♥{col:-}{p}{end}
+
+## MBMS08 g1 s0737
+JP: わぁっ!!{p}
+EN: Waah!!{p}
+
+## MBMS08 g1 s0739
+JP: 響子先生!{sp}よ、よしてください!{n}女の子は、腰が大事なんですから……。{p}
+EN: Kyoko-sensei! P-please stop! A girl's lower back is precious......{p}
+
+## MBMS08 g1 s0741
+JP: はぅっっ!!{p}{end}
+EN: Hyaah!!{p}{end}
+
+## MBMS08 g1 s0743
+JP: ふあぁぁぁぁーーっ!!{sp}（ガクッ……）{p}
+EN: Fwaaaaahhh!! (thud......){p}
+
+## MBMS08 g1 s0746
+JP: う～ん………。{n}腰が、腰がぁ………。{p}{end}
+EN: Ugh...... My back, my baaack......{p}{end}
+
+## MBMS08 g1 s0750
+JP: 何して遊ぶの?{p}
+EN: What are we playing?{p}
+
+## MBMS08 g1 s0755
+JP: なんだ、{n}ババ抜きか、それならわかるよ。{n}じゃあ、はじめようよ!{p}{end}
+EN: Oh, Old Maid. I know that one. Let's start!{p}{end}
+
+## MBMS08 g1 s0764
+JP: （……って、あぶないあぶない。{n}{sp}右にいって、引っかけにくるということは{n}{sp}………、左ねっ!）{p}
+EN: (...Whoa, close one. If she's trying to trick me when I go right, then......it's left!){p}
+
+## MBMS08 g1 s0769
+JP: （そ、それは、違うと思うけど……）{p}
+EN: (I-I don't think that's what it means......){p}
+
+## MBMS08 g1 s0774
+JP: 夏休みということで、グラウンドでは{n}クラブ活動があちこちで行われてる。{n}あ、あそこでランニングしているのは……{n}夏だワ。{p}{end}
+EN: It's summer break, so clubs are practicing all over the field. Oh, the one running over there is...... Natsu.{p}{end}
+
+## MBMS08 g1 s0776
+JP: じゃましちゃ悪いわネ。{n}別のトコロにいってみようかな…。{p}{end}
+EN: Better not bother her. Maybe I'll try somewhere else...{p}{end}
+
+## MBMS08 g1 s0777
+JP: は～い、夏～!!{n}何やってるの?{p}{end}
+EN: Hiii, Natsu~!! What're you up to?{p}{end}
+
+## MBMS08 g1 s0778
+JP: あ、{v8:4}。{n}今日はクラブも休みだから、ちょっと{n}トレーニングをね。{n}アナタもトレーニングに来たの?{p}
+EN: Oh, {v8:4}. Club's off today, so I'm doing a little training. You here to train too?{p}
+
+## MBMS08 g1 s0780
+JP: 私も、ちょっと身体動かそうと思ってネ。{n}一緒にトレーニングしようかナ?{p}
+EN: I figured I'd get some exercise too. Wanna train together?{p}
+
+## MBMS08 g1 s0784
+JP: 夏は特にカラダを動かしたあとが清々しい{n}よネ～。{p}{end}
+EN: Working out in summer feels extra refreshing, huh~.{p}{end}
+
+## MBMS08 g1 s0787
+JP: うん、もちろん!{p}{end}
+EN: Yeah, of course!{p}{end}
+
+## MBMS08 g1 s0788
+JP: 今日はちょっとカラダの調子が悪いの。{n}トレーニングはちょっと、つきあえないワ。{n}そのかわりここで見ててあげるヨ。{p}{end}
+EN: I'm not feeling too great today, so I can't really train with you. But I'll watch you from here instead.{p}{end}
+
+## MBMS08 g1 s0792
+JP: はい、タオル。{n}それにしても夏、すごい練習量だネ。{p}
+EN: Here, a towel. Wow, Natsu, you sure train hard.{p}
+
+## MBMS08 g1 s0794
+JP: ところで、夏。練習見てて思ったんだけど、{n}もう少し腕の振りとか、大きくした方が{n}いいんじゃない?{sp}あと、さっきの{n}筋トレね、ちょっとフォームが…。{p}
+EN: By the way, Natsu, I think you should swing your arms wider. And your form in that strength training earlier was a bit...{p}
+
+## MBMS08 g1 s0795
+JP: へぇ……。{v8:4}って、{n}そういうトコロとかわかるんだぁ。{n}見直しちゃったな。{p}
+EN: Huh...... {v8:4}, you can tell stuff like that? I'm impressed.{p}
+
+## MBMS08 g1 s0796
+JP: うん、ちょっとね。{n}自分でもトレーニングとかしてるから。{n}バレーの専門的なことはわかんないけど、{n}筋トレとかならある程度は。{p}{end}
+EN: Yeah, a little. I train too. I don't know volleyball, but I know some strength training.{p}{end}
+
+## MBMS08 g1 s0797
+JP: ふ～ん…。{n}アリガトね、{v8:4}。{n}また練習見てくれるかな?{p}{end}
+EN: Hmm...... Thanks, {v8:4}. Will you watch me practice again sometime?{p}{end}
+
+## MBMS08 g1 s0798
+JP: うん、もちろん!!{p}
+EN: Yeah, of course!!{p}
+
+## MBMS08 g1 s0799
+JP: 屋上に上ってみると、ひなたが一人で{n}空を眺めているのが見えた。{n}考え事でもしているのかナ?{n}じゃまするのも悪いけど…。{p}
+EN: Up on the roof, I saw Hinata gazing at the sky alone. Is she thinking about something? I'd hate to bother her, but...{p}
+
+## MBMS08 g1 s0801
+JP: う～ん、じゃまするのも悪いし、{n}そっとしておこうかな。{n}別の場所にいってみよう。{p}{end}
+EN: Hmm, I'd hate to bother her. I'll leave her be and try somewhere else.{p}{end}
+
+## MBMS08 g1 s0802
+JP: ねぇ、ひなた!{n}何やってるの?{p}
+EN: Hey, Hinata! What're you up to?{p}
+
+## MBMS08 g1 s0803
+JP: あ、{v9:1}。{n}おはよー。{n}学校来てたんだぁ。{p}
+EN: Oh, {v9:1}. Mornin'. You came to school?{p}
+
+## MBMS08 g1 s0804
+JP: おはよーじゃないよぉ。{n}こんなトコで何してるの?{n}まだ夏休みなのに。{p}{end}
+EN: Don't "mornin'" me. What are you doing here? It's still summer break.{p}{end}
+
+## MBMS08 g1 s0808
+JP: ねぇ、ひなた。{p}
+EN: Hey, Hinata.{p}
+
+## MBMS08 g1 s0812
+JP: え……{n}なになに?{n}どうしたの急にそんなこと聞いて……?{p}{end}
+EN: Huh...... What, what? Why are you asking that all of a sudden......?{p}{end}
+
+## MBMS08 g1 s0813
+JP: う、うん、なんとなくね。{n}好きな人いるのかな～、と思って。{p}
+EN: Y-yeah, no real reason. Just wondered if you liked anyone.{p}
+
+## MBMS08 g1 s0814
+JP: ………………………{n}…いないワケじゃないけど……{n}教えられないなぁ。{n}{v9:1}は?{sp}いるの?{p}{end}
+EN: ...... It's not like there's nobody... But I can't tell you. What about you, {v9:1}? Is there someone?{p}{end}
+
+## MBMS08 g1 s0815
+JP: え?{sp}私?{n}いや私は……いないワケじゃないけど。{n}私も、まだまだ教えられないわ!{p}{end}
+EN: Huh? Me? Well...... it's not like there's nobody. But I can't tell you yet either!{p}{end}
+
+## MBMS08 g1 s0817
+JP: （{face:8}・・・・・・・・・・{face:255}{n}{sp}というようなことを話しているウチに{n}{sp}だんだん雲行きがあやしくなってきた…）{p}
+EN: ({face:8}..........{face:255} As we chatted about stuff like that, the sky started to cloud over...){p}
+
+## MBMS08 g1 s0818
+JP: ひなたって、なんで格闘してるの?{p}{end}
+EN: Hinata, why do you do martial arts, anyway?{p}{end}
+
+## MBMS08 g1 s0822
+JP: ね、ついでに、一手相手してくれない。{n}今回の通信教育のテキストに書いてあった{n}技なんだけど、イマイチ{n}つかめなくてさ!{p}
+EN: Hey, while we're at it, wanna spar? There's a move in my latest correspondence course I just can't get!{p}
+
+## MBMS08 g1 s0834
+JP: 行きます!{n}ちょっと今日は・・・{p}{end}
+EN: I'm in!{n}Not today...{p}{end}
+
+## MBMS08 g1 s0835
+JP: ちょっ、ちょっと今日は・・・{p}{end}
+EN: N-not today...{p}{end}
+
+## MBMS08 g1 s0837
+JP: あっ，隼人先生!{n}あーあ、行っちゃった・・・。{n}行けばよかったかなあ。{p}
+EN: Ah, Hayato-sensei! Aw, he's gone... Maybe I should've gone.{p}
+
+## MBMS08 g1 s0838
+JP: いっ、行きます!{p}{end}
+EN: I-I'm in!{p}{end}
+
+## MBMS08 g1 s0840
+JP: うわあ!すっごい人!{p}{end}
+EN: Whoa! Look at all these people!{p}{end}
+
+## MBMS08 g1 s0842
+JP: ちょ、ちょっと待って!{n}先生の言っていた色気の方は?{n}あーあ、もうあんなに泳いでる…。{n}もう!{sp}こうなったら本当に泳いでやる!{p}
+EN: W-wait a sec! What about the sex appeal you were talking about? Aw, he's already way out there... Geez! Fine, I'll swim for real!{p}
+
+## MBMS08 g1 s0849
+JP: （うわっ，どうしよう?）{p}{end}
+EN: (Whoa, what do I do?){p}{end}
+
+## MBMS08 g1 s0854
+JP: 念のため、お熱も計っておきましょう。{p}{end}
+EN: Just in case, let's take your temperature too.{p}{end}
+
+## MBMS08 g1 s0860
+JP: あっ、{n}今はちょっと{v0}{col:0}さん{col:-}が{n}寝ていますので…。{p}{end}
+EN: Ah, {v0}{col:0}-san{col:-} is sleeping there right now, so...{p}{end}
+
+## MBMS08 g1 s0871
+JP: ・・・でもこんな美人の保健の先生だと{n}女性といえども仮病も使いたくなるわな。{p}{end}
+EN: ...Still, with a nurse this beautiful, I suppose even a young lady would want to play sick.{p}{end}
+
+## MBMS08 g1 s0875
+JP: あっ、女の子がいるわ。{n}でも、あんな子この学校にいたかなあ?{p}{end}
+EN: Oh, there's a girl here. But was there a girl like that at this school?{p}{end}
+
+## MBMS08 g1 s0876
+JP: あれっ、いなくなった。{p}
+EN: Huh, she's gone.{p}
+
+## MBMS08 g1 s0878
+JP: まっ、いいわ。{n}どこに行こうかな?{p}
+EN: Oh well. Where should I go?{p}
+
+## MBMS08 g1 s0881
+JP: わっ!アキラじゃない!{n}びっくりした!{p}
+EN: Whoa! It's Akira! You scared me!{p}
+
+## MBMS08 g1 s0884
+JP: 今日は暑いね…{n}さっき、あそこにいた女の子知らないかな?{p}{end}
+EN: Sure is hot today...{n}Seen the girl who was just there?{p}{end}
+
+## MBMS08 g1 s0893
+JP: ところでアキラ君は{n}いつもヘルメット{n}かぶってるけど暑くないの?{p}{end}
+EN: By the way, Akira-kun, you always wear that helmet. Isn't it hot?{p}{end}
+
+## MBMS08 g1 s0897
+JP: あっ醍醐先輩!{p}
+EN: Oh, Daigo-senpai!{p}
+
+## MBMS08 g1 s0900
+JP: いいですけど…{n}他に用事が…{p}{end}
+EN: Sure...{n}I've got other plans...{p}{end}
+
+## MBMS08 g1 s0901
+JP: すいません、他に用事があるんです。{n}また今度にしてください。{p}{end}
+EN: Sorry, I've got something else to do. Maybe some other time.{p}{end}
+
+## MBMS08 g1 s0903
+JP: え、いいですけど…何を聞くの?{p}
+EN: Uh, sure... What do you want to ask?{p}
+
+## MBMS08 g1 s0906
+JP: …そうだ、『男』とはなんぞや{n}と、いつも考えて悩んでいるのだ。{n}…答えてくれるな?{p}
+EN: ...That's right. I'm always wondering, "What is a man?" ...You'll answer me, won't you?{p}
+
+## MBMS08 g1 s0908
+JP: …そうか。{n}では答えてくれ。{n}{v5:17}よ、男とはなんぞや。{p}
+EN: ...Good. Then answer me. {v5:17}, what is a man?{p}
+
+## MBMS08 g1 s0909
+JP: それは『愛』です!{n}それは『正義』よ!{n}それは『仁義』ね!{p}
+EN: It's "love"!{n}It's "justice"!{n}It's "honor"!{p}
+
+## MBMS08 g1 s0911
+JP: …そうか、『正義』か。{n}女とは言えど、お前も正義を貫けよ…。{p}{end}
+EN: ...I see, "justice." You may be a girl, but stick to justice...{p}{end}
+
+## MBMS08 g1 s0912
+JP: …そうか、『仁義』か。{n}お前も女といえども{n}仁義の道を外すような事はするな…。{p}
+EN: ...I see, "honor." Girl or not, never stray from the path of honor...{p}
+
+## MBMS08 g1 s0914
+JP: ワ、ワタシも良い勉強になりました。{n}それにしても{n}醍醐先輩はいつみてもカッコ良いなあ。{p}
+EN: I-I learned a lot too. Daigo-senpai sure looks cool every time I see him.{p}
+
+## MBMS08 g1 s0915
+JP: 保健室にきてみたが、響子先生はいない{n}みたいネ。{n}あ、誰か興のベッドで休んでいるみたい。{p}{end}
+EN: I came to the infirmary, but Kyoko-sensei's not here. Oh, someone's resting in the back bed.{p}{end}
+
+## MBMS08 g1 s0916
+JP: あ、生徒会長の雹クンだわ。{n}ベッドで休んでいるようだけど…{n}なにか考え事をしているようにも見える。{n}声をかけてみようかな……?{p}
+EN: Oh, it's Hyo-kun, the council president. He's resting in bed... but he looks lost in thought. Should I say something...?{p}
+
+## MBMS08 g1 s0918
+JP: う～んへんに声をかけると、殺されるかも。{n}気づかれないウチに、そっと保健室を{n}出よう……。{n}さてと、どこに行こうかな?{p}
+EN: Hmm, if I say the wrong thing, he might kill me. I'll slip out before he notices... Now, where should I go?{p}
+
+## MBMS08 g1 s0919
+JP: あ、雹クン。保健室にくるなんて{n}珍しいね?{n}どこか体調でも悪いの?{p}
+EN: Oh, Hyo-kun. It's rare to see you in the infirmary. Are you feeling sick?{p}
+
+## MBMS08 g1 s0921
+JP: 考え事?{n}頭痛によくなさそうだけど……。{p}{end}
+EN: Thinking? That doesn't sound good for a headache...{p}{end}
+
+## MBMS08 g1 s0923
+JP: うん、いるよ{n}いや、いないよ{p}{end}
+EN: Yeah, I do{n}No, I don't{p}{end}
+
+## MBMS08 g1 s0924
+JP: うん、いるよ。{n}仲はそんなによくないけど。{n}でも、どうかしたの?{p}{end}
+EN: Yeah, I do. We don't get along that well, though. But why?{p}{end}
+
+## MBMS08 g1 s0925
+JP: いや、いない。{n}私、一人っ子なの。{n}それがどうかしたの?{p}{end}
+EN: No, I don't. I'm an only child. Why do you ask?{p}{end}
+
+## MBMS08 g1 s0927
+JP: 君は、兄弟というものは、{n}真に理解し合えるものだと思うかね?{p}{end}
+EN: Do you believe siblings can truly understand each other?{p}{end}
+
+## MBMS08 g1 s0928
+JP: もちろんよ{n}他の人よりは理解できるかな?{n}絶対ムリよ{p}{end}
+EN: Of course!{n}Better than others, maybe?{n}No way, never{p}{end}
+
+## MBMS08 g1 s0929
+JP: もちろんよ。{n}なんだかんだいっても兄弟だもん。{n}やっぱり無意識に解りあってる部分って{n}あるとおもうけど。{p}{end}
+EN: Of course. They're family, after all. I think part of you understands each other without trying.{p}{end}
+
+## MBMS08 g1 s0930
+JP: 私にはわからないけど、それが{n}兄弟っていうものじゃない?{p}{end}
+EN: I can't say for sure, but isn't that what being siblings is all about?{p}{end}
+
+## MBMS08 g1 s0932
+JP: 他の人よりは理解できるかな?{n}何となくなら、私も理解してると{n}思ってるけどね。{p}
+EN: Better than other people, maybe? I think I sort of understand mine, anyway.{p}
+
+## MBMS08 g1 s0933
+JP: やっぱり育った環境が同じだし、{n}同じ考え方になるんじゃないかな?{p}{end}
+EN: You grow up in the same environment, so you end up thinking alike, right?{p}{end}
+
+## MBMS08 g1 s0935
+JP: 絶対ムリよ。{n}だって私自身が兄弟のこと{n}理解できてないもの。{n}やっぱり他人って事じゃない?{p}
+EN: No way, never. I can't even understand my own siblings. They're other people in the end, right?{p}
+
+## MBMS08 g1 s0936
+JP: いくら兄弟でも、理解しあうなんて事は{n}無理だと思う。{p}{end}
+EN: Even siblings can't really understand each other, I think.{p}{end}
+
+## MBMS08 g1 s0938
+JP: 行っちゃった…。{n}結局考え事ってなんだったのかな?{n}兄弟ゲンカでもしたのかな……。{p}
+EN: He left... So what was he thinking about? Did he have a fight with his brother or something......{p}
+
+## MBMS08 g1 s0939
+JP: チアリーディング部が練習をやってるわ!{n}けっこう本格的ね…。{p}{end}
+EN: The cheerleading squad's practicing! They're pretty serious about it...{p}{end}
+
+## MBMS08 g1 s0940
+JP: ティファニーが来た!{p}{end}
+EN: Here comes Tiffany!{p}{end}
+
+## MBMS08 g1 s0942
+JP: はぁーいティファニー。{p}
+EN: Hiii, Tiffany.{p}
+
+## MBMS08 g1 s0943
+JP: 暑いのに大変ねぇ{n}何の練習やってんの{n}冷たいジュースでも差し入れしようか{n}しばらく見とれている{p}
+EN: Must be tough in this heat{n}What are you practicing?{n}Bring her a cold juice{n}Just watch for a while{p}
+
+## MBMS08 g1 s0946
+JP: 何か元気出たよ!{n}ありがとうティファニー!{p}
+EN: That really perked me up! Thanks, Tiffany!{p}
+
+## MBMS08 g1 s0947
+JP: 明日は相撲部の大会だから最後のあわせを{n}やってるね。{p}{end}
+EN: The sumo club has a tournament tomorrow, so this is our last run-through.{p}{end}
+
+## MBMS08 g1 s0948
+JP: （相撲部にもチアリーダーの応援が{n}{sp}つくの??{n}{sp}何か異様な風景になりそう…。）{p}{end}
+EN: (The sumo club gets cheerleaders too?? That's gonna be a weird sight...){p}{end}
+
+## MBMS08 g1 s0952
+JP: （キスされちゃった!?）{n}わっ、他のチアリーディング部のメンバーも{n}来たよ…。{p}
+EN: (D-did she just kiss me!?) Whoa, the other cheerleaders are coming too...{p}
+
+## MBMS08 g1 s0955
+JP: ………ちょっと…ね。{p}{end}
+EN: ......Just a little... yeah.{p}{end}
+
+## MBMS08 g1 s0956
+JP: まぁいいね。ミーのナイスボディーを{n}タンノウするね!{p}{end}
+EN: Well, that's okay. Enjoy my nice body!{p}{end}
+
+## MBMS08 g1 s0957
+JP: さすがはアメリカン!{sp}太っ腹ね!{p}{end}
+EN: That's an American for you! So generous!{p}{end}
+
+## MBMS08 g1 s0959
+JP: （どこで覚えたのよ、そんなギャグ…。）{p}
+EN: (Where'd she even learn a gag like that...){p}
+

@@ -1,0 +1,88 @@
+# EDIT Register screens (DAT1/KANRI.BIN, DAT2/EDITMOJI.TIZ), built by
+# tools/build_kanri.py. "ID: EN", the JP as a comment above each line.
+# Glyph strings use the MOJI2 Latin glyphs at a fixed pitch. Cell limits
+# (letters and spaces): buttons s0-s5 6, status labels s19-s25 8, others
+# 16 (s8 12). "=" keeps the original string.
+# -- buttons (118 px)
+# ロード
+s0: Load
+# 登録
+s1: Add
+# 登録やめる
+s2: Remove
+# ステータス
+s3: Status
+# コマンド
+s4: Moves
+# 終了
+s5: Exit
+# NO DATA
+s6: =
+# -- green panel messages
+# ロードされてません
+s7: Nothing loaded
+# コマンドリスト (command-list screen header)
+s8: Move List
+# ボタンを押せば終了します。 (not seen in play)
+s9: Press to exit.
+# ロード中、、、
+s10: Loading...
+# ロードできませんでした (not seen in play)
+s11: Load failed.
+# メモリーカードが (line 1 of s13-s15)
+s12: Memory Card
+# 差さっていません
+s13: not inserted
+# 初期化されていません
+s14: not formatted
+# 壊れています
+s15: is damaged
+# 何かボタンを押してください
+s16: Press any button
+# ロードしますか？
+s17: Load data?
+# はい  いいえ (one string; each word centred in its cursor box)
+s18.yes: Yes
+s18.no: No
+# -- status screen labels
+# 体力ゲージ
+s19: Stamina
+# 根性ゲージ (the value "N本" becomes just the number)
+s20: Vigor
+# 攻撃力
+s21: Attack
+# 防御力
+s22: Defense
+# 根性
+s23: Guts
+# なかよしキャラ
+s24: Friend
+# 苦手キャラ
+s25: Rival
+# CLEAR
+s26: =
+# DATA ERROR
+s27: =
+# データがありません (the card has no diary save)
+s28: No diary save
+# (サム)チェックエラー
+s29: Checksum error
+# -- status values
+# すごく低い
+v0: Very Low
+# 低い
+v1: Low
+# ふつう
+v2: Average
+# 高い
+v3: High
+# すごく高い
+v4: Very High
+# -- EDITMOJI graphics
+# EDITキャラクター登録 (header on every register screen)
+hdr: EDIT Character Register
+# 太陽学園 / 五輪高校 / パシフィックHS / 外道高校 (save list, max 88 px)
+sch0: Taiyo High
+sch1: Gorin High
+sch2: Pacific High
+sch3: Gedo High

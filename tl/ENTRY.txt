@@ -1,0 +1,15 @@
+# Character-creation graphics in DAT2/MA_ENT.BIZ, built by tools/build_entry.py.
+# Labels are 48x24, the header 136x24, school strips 32 px wide (vertical).
+tab_hira: Hira
+tab_kata: Kata
+tab_abc: ABC
+tab_other: Other
+btn_del: Delete
+btn_next: Next
+btn_back: Back
+btn_ok: OK
+header: APPLICATION
+sch_taiyo: TAIYO HIGH
+sch_gorin: GORIN HIGH
+sch_pacific: PACIFIC HIGH
+sch_gedo: GEDO HIGH

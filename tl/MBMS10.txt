@@ -1,0 +1,1212 @@
+## MBMS10 g0 s0000
+JP: お、隼人先生がやってきた……。{n}今度はいい点とるぞ!{p}{end}
+EN: Oh, here comes Hayato-sensei... I'm gonna get a good score this time!{p}{end}
+
+## MBMS10 g0 s0001
+JP: これから中間試験を開始する。{n}ちゃんと勉強してきてるだろうな!{n}{v3:16}、結果を楽しみにしてるぜ!{p}
+EN: Alright, the midterm exam starts now. You'd better have studied! {v3:16}, I'm looking forward to your results!{p}
+
+## MBMS10 g0 s0002
+JP: やるじゃねえか!{n}日頃の予習の成果が出たようだな!{n}この調子で頑張んな!{n}じゃあな!{p}{end}
+EN: Not bad at all! Looks like your daily prep paid off! Keep it up! See ya!{p}{end}
+
+## MBMS10 g0 s0003
+JP: うん、{n}やっぱり合格すると気持ち良いなあ。{p}
+EN: Yeah, passing really feels great.{p}
+
+## MBMS10 g0 s0004
+JP: ダメだダメだ!{n}まだまだなっちゃあいねえなあ。{n}もう一年も真ん中過ぎてるんだぜ!{n}予習をもっとやりな!じゃあな!{p}{end}
+EN: No good, no good! You're nowhere near there yet. The year's already half over! Do more prep work! See ya!{p}{end}
+
+## MBMS10 g0 s0005
+JP: 予習かあ…。{n}マジにやらないと進級できないかも。{p}{end}
+EN: Prep work, huh... If I don't get serious, I might not move up a year.{p}{end}
+
+## MBMS10 g0 s0006
+JP: 誰もいないのか…。{p}
+EN: Nobody's here...{p}
+
+## MBMS10 g0 s0007
+JP: ん!誰か走って来たぞ?{p}
+EN: Huh! Is someone running over here?{p}
+
+## MBMS10 g0 s0008
+JP: どうも足りねえ、足りねえ、{n}どうもソフトボールの部員が{n}足りねえと思ったら、{n}こんなとこにいやがったか!{p}{end}
+EN: Short, short, we're short! I kept thinking the softball team was short a player, and here you are hiding!{p}{end}
+
+## MBMS10 g0 s0009
+JP: い、いや、あの俺は…。{p}
+EN: W-wait, um, I'm...{p}
+
+## MBMS10 g0 s0010
+JP: なんだ?{n}言いたいことがあるなら{n}言ってみろ!{p}
+EN: What? If you've got something to say, spit it out!{p}
+
+## MBMS10 g0 s0011
+JP: すぐに着替えます{n}ソフトボールの部員じゃない{p}{end}
+EN: I'll get changed right away{n}I'm not on the softball team{p}{end}
+
+## MBMS10 g0 s0012
+JP: 先生!{n}俺はソフトボールの部員じゃないですよ。{p}
+EN: Sensei! I'm not on the softball team.{p}
+
+## MBMS10 g0 s0013
+JP: そうか!間違って悪かったな!{n}じゃあな!{p}{end}
+EN: Is that so! Sorry for the mix-up! See ya!{p}{end}
+
+## MBMS10 g0 s0014
+JP: ふう、{n}もうちょっとで{n}部員にされる所だった。{n}さて、どこに行こうかな。{p}{end}
+EN: Phew, I almost got drafted onto the team. Now, where should I go?{p}{end}
+
+## MBMS10 g0 s0015
+JP: は、はい!{n}すぐに着替えます!{p}
+EN: Y-yes, sir! I'll get changed right away!{p}
+
+## MBMS10 g0 s0016
+JP: つい勢いで返事してしまったけど{n}大丈夫かなあ…。{p}{end}
+EN: I said yes on reflex, but is this gonna be okay...?{p}{end}
+
+## MBMS10 g0 s0017
+JP: よーし、今日は試合形式でいくぞ!{n}みんなでポジションを決めてくれ!{p}
+EN: Alright, today we're playing a real game! Decide your positions amongst yourselves!{p}
+
+## MBMS10 g0 s0018
+JP: 俺はどのポジションにつこうかなあ?{p}
+EN: What position should I take?{p}
+
+## MBMS10 g0 s0019
+JP: ピッチャー{n}キャッチャー{n}代打{p}
+EN: Pitcher{n}Catcher{n}Pinch hitter{p}
+
+## MBMS10 g0 s0020
+JP: 負けてしまった…。{p}
+EN: We lost...{p}
+
+## MBMS10 g0 s0021
+JP: やっぱり俺のノミの心臓じゃ{n}ピッチャーは無理だった…。{n}次は勝てるように練習しとこう。{p}
+EN: I'm too much of a chicken to pitch after all... I'll practice so we win next time.{p}
+
+## MBMS10 g0 s0022
+JP: やった、勝ったー!{p}
+EN: Yes, we won!{p}
+
+## MBMS10 g0 s0023
+JP: 俺のたくみな配球術で{n}0点に抑えることができた!{p}{end}
+EN: My clever pitch calling held them to zero runs!{p}{end}
+
+## MBMS10 g0 s0024
+JP: やるじゃねえか{v3:16}!{n}活躍したごほうびだ!{n}とっときな!{p}{end}
+EN: Nice work, {v3:16}! Here's a reward for playing great! Take it!{p}{end}
+
+## MBMS10 g0 s0025
+JP: {col:0}『熱血ハチマキ』{col:-}を手に入れた!{p}
+EN: Got the {col:0}"Hot-Blooded Headband"{col:-}!{p}
+
+## MBMS10 g0 s0026
+JP: ありがとうございます!{n}俺って野球のセンスあるかも…。{p}
+EN: Thank you, sir! Maybe I've got a knack for baseball...{p}
+
+## MBMS10 g0 s0027
+JP: ま、負けた…。{n}やっぱりここ一番に弱いなあ…。{p}
+EN: W-we lost... I always choke when it counts...{p}
+
+## MBMS10 g0 s0028
+JP: もっと練習しよう…。{p}{end}
+EN: I need more practice...{p}{end}
+
+## MBMS10 g0 s0029
+JP: あっ、ロベルトだ。{n}……何やってるんだろう。{p}{end}
+EN: Oh, it's Roberto. ...What's he up to?{p}{end}
+
+## MBMS10 g0 s0031
+JP: 「よっよっよっと!」{n}よう!{v3:5}。{n}君もリフティングやってみないかい?{p}
+EN: "Hup, hup, hup!" Hey! {v3:5}. Wanna try juggling too?{p}
+
+## MBMS10 g0 s0032
+JP: よし!{sp}いっちょ、やってみるか{n}サッカーは苦手なんでやめとくよ{p}
+EN: Alright! Let's give it a shot{n}I'm bad at soccer, so I'll pass{p}
+
+## MBMS10 g0 s0034
+JP: ボールが前にいったらヒザで{n}ボールが上にいったらアタマで{n}ボールが後ろにいったらカカトで{n}蹴るとうまくいく。{p}{end}
+EN: If the ball goes forward, use your knee. If it goes up, use your head. If it goes behind you, use your heel. Kick it like that and it works.{p}{end}
+
+## MBMS10 g0 s0038
+JP: 前にいったぞ!{p}
+EN: It went forward!{p}
+
+## MBMS10 g0 s0039
+JP: ヒザ{n}アタマ{n}カカト{p}{end}
+EN: Knee{n}Head{n}Heel{p}{end}
+
+## MBMS10 g0 s0042
+JP: あーあ、失敗だ!{n}もっと落ち着いてやらないとダメだな…。{n}今度はもっとがんばれよ。{p}
+EN: Aw, you blew it! You need to calm down... Try harder next time.{p}
+
+## MBMS10 g0 s0049
+JP: アタマ{n}ヒザ{n}カカト{p}{end}
+EN: Head{n}Knee{n}Heel{p}{end}
+
+## MBMS10 g0 s0054
+JP: ヒジ{n}ヒザ{n}カカト{p}
+EN: Elbow{n}Knee{n}Heel{p}
+
+## MBMS10 g0 s0058
+JP: それじゃあハンドだ!反則だよ!{n}もっと落ち着いてやらないとダメだな…。{n}今度はもっとがんばれよ。{p}{end}
+EN: That's a handball! It's a foul! You need to calm down... Try harder next time.{p}{end}
+
+## MBMS10 g0 s0060
+JP: じゃあまたな!{p}
+EN: See ya!{p}
+
+## MBMS10 g0 s0063
+JP: 体育館に向かうと男子生徒が何人か、{n}女子生徒を取り囲んでいるのが見える!!{n}これは……、イジメか?{p}
+EN: On my way to the gym, I see some guys surrounding a girl!! Is this... bullying?{p}
+
+## MBMS10 g0 s0064
+JP: イジメを止める{n}関わらない{p}
+EN: Stop the bullying{n}Stay out of it{p}
+
+## MBMS10 g0 s0065
+JP: ここは関わらない方がいいか…。{n}そうそうに立ち去ろう。{n}……{n}どこへ行こうか?{p}
+EN: Better not get involved... I'll get out of here. ...... Where should I go?{p}
+
+## MBMS10 g0 s0066
+JP: これはなんとしても止めなければ!!{n}……あれ!?{sp}俺が止めに行く前に{n}誰かが止めに入った!?{p}{end}
+EN: I've gotta stop this no matter what!! ...Huh!? Someone stepped in before I could!?{p}{end}
+
+## MBMS10 g0 s0067
+JP: 「ちょっとアンタ達!!{n}{sp}何やってんのよ!!」{p}
+EN: "Hey, you guys!! What do you think you're doing!!"{p}
+
+## MBMS10 g0 s0068
+JP: （この声は……夏だ。）{p}
+EN: (That voice... it's Natsu.){p}
+
+## MBMS10 g0 s0069
+JP: アンタ達!{n}弱いものイジメなんかして楽しい!?{n}さっさとその手を放しなさい!!{p}
+EN: You guys! Is picking on the weak fun for you!? Let go of her right now!!{p}
+
+## MBMS10 g0 s0070
+JP: {col:3}男子生徒{col:-}{n}「なんだぁテメェは?{n}{sp}オレ達ゃこのガキに挨拶の仕方{n}{sp}教えてるだけだよ!」{p}
+EN: {col:3}Male Student{col:-}{n}"Who the hell are you? We're just teachin' this brat some manners!"{p}
+
+## MBMS10 g0 s0071
+JP: {col:3}男子生徒{col:-}{n}「てめえからぶつかっといて、{n}{sp}挨拶もせずに行こうとしやがるからよ!」{p}{end}
+EN: {col:3}Male Student{col:-}{n}"She bumped into us and tried to walk off without even sayin' sorry!"{p}{end}
+
+## MBMS10 g0 s0072
+JP: （う…なんか出ていくタイミングを{n}{sp}失っちゃったが…{n}{sp}ひっこむわけにはいかんな。）{p}{end}
+EN: (Ugh... I kinda missed my chance to step in... but I can't back down now.){p}{end}
+
+## MBMS10 g0 s0073
+JP: そういうのを、イジメっていうんだろ。{n}いいからその女の子の手、放してやれよ。{p}{end}
+EN: That's what you call bullying. Just let go of the girl's arm.{p}{end}
+
+## MBMS10 g0 s0074
+JP: {col:3}男子生徒{col:-}{n}「なんだ今度はこっちか?{n}{sp}てめえらにゃ、関係ねぇだろ!!{n}{sp}まとめてイワすゾ、オラァッ!?」{p}{end}
+EN: {col:3}Male Student{col:-}{n}"What, you too? This ain't none of your business!! I'll take you all on, punk!?"{p}{end}
+
+## MBMS10 g0 s0075
+JP: （う、いきなり殴りかかって来た!!{n}{sp}ここは……）{p}
+EN: (Whoa, he's swinging at me!! Okay...){p}
+
+## MBMS10 g0 s0076
+JP: 殴られる前に殴る!{n}とにかくかわす{p}
+EN: Hit him before he hits me!{n}Just dodge{p}
+
+## MBMS10 g0 s0077
+JP: （殴られる前に……殴る!!{n}{sp}ガスッ!!{n}{sp}よし、クリーンヒット!!）{p}
+EN: (Hit him before he hits me...!! WHAM!! Alright, clean hit!!){p}
+
+## MBMS10 g0 s0078
+JP: あ、{v7:4}!{n}手を出しちゃダメよ!!{p}
+EN: Ah, {v7:4}! Don't fight back!!{p}
+
+## MBMS10 g0 s0079
+JP: （そういわれても…{n}{sp}勢いで2・3発カマすと男子生徒は{n}{sp}バタバタと逃げていった……）{p}
+EN: (Easy for her to say... I got in two or three more hits, and the guys scrambled off...){p}
+
+## MBMS10 g0 s0080
+JP: {v7:4}……。{n}いくら相手が悪いといっても、{n}暴力を振るうのは感心しないわ。{p}{end}
+EN: {v7:4}... Even if they started it, I don't like seeing you resort to violence.{p}{end}
+
+## MBMS10 g0 s0081
+JP: じゃぁ夏は、{n}素直に殴られろっていうのか?{n}ヤツらの方が先に殴りかかってきたんだぞ?{p}{end}
+EN: So, Natsu, you're saying I should've just let them hit me? They swung at me first, y'know?{p}{end}
+
+## MBMS10 g0 s0082
+JP: それはそうだけど……{n}すぐ暴力をふるうのは感心しないわ。{n}他にもいくらでも解決法はあるでしょ?{p}
+EN: Well, yeah, but... jumping straight to violence isn't cool. There are plenty of other ways to handle it, right?{p}
+
+## MBMS10 g0 s0083
+JP: （そこまでいうと、{n}{sp}夏はイジメられていた女の子の所へいき、{n}{sp}二言三言声をかけ…）{p}{end}
+EN: (With that, Natsu went over to the bullied girl and said a few words to her...){p}{end}
+
+## MBMS10 g0 s0084
+JP: アタシはこの子を送っていくわ。{n}さっきの連中がいるとマズイから。{n}じゃあね!{p}{end}
+EN: I'm gonna walk her home. Those guys might still be around. See ya!{p}{end}
+
+## MBMS10 g0 s0085
+JP: 行ってしまった…。{n}怒らせてしまったけど、{n}しかたないよな…。{p}
+EN: She left... I made her mad, but what else could I do...{p}
+
+## MBMS10 g0 s0086
+JP: （とにかく…かわす!!{n}{sp}チッ!{sp}ちょっとかすったが、{n}{sp}よけた拍子に2、3歩よろめき{n}{sp}いいカンジで間合いがとれた…!）{p}
+EN: (Just... dodge!! Tch! It grazed me, but I stumbled back a few steps and got some nice distance...!){p}
+
+## MBMS10 g0 s0087
+JP: いい加減にしなさい!!{n}人を呼ぶわよ!!{p}{end}
+EN: That's enough!! I'll call for help!!{p}{end}
+
+## MBMS10 g0 s0088
+JP: （でかい声だ…!{n}{sp}と、男子生徒達はその声で{n}{sp}我にかえったのか、{n}{sp}バタバタと逃げ出した。）{p}
+EN: (What a loud voice...! That seemed to snap the guys out of it, and they scrambled away.){p}
+
+## MBMS10 g0 s0089
+JP: ふぅ…行ったわね。{n}アタシ、ああいうイジメするような{n}連中を見ると腹立つのよ!!{n}つい本気で怒っちゃった…。{p}{end}
+EN: Phew... they're gone. Bullies like that just make me so mad!! I really lost my temper there...{p}{end}
+
+## MBMS10 g0 s0090
+JP: {v7:4}……アリガトね。{n}アンタがいなかったら{n}アタシが殴られるトコロだったわ。{n}あ!……血…。{p}{end}
+EN: {v7:4}... thanks. If you hadn't been here, I'd have been the one getting hit. Oh!... Blood...{p}{end}
+
+## MBMS10 g0 s0091
+JP: （血?{n}{sp}さっきのちょっとかすったヤツか?{n}{sp}切れてるとは思わなかった…）{p}
+EN: (Blood? From that graze earlier? I didn't think it cut me...){p}
+
+## MBMS10 g0 s0092
+JP: はい、コレ。{n}たいした傷じゃないけど、{n}消毒しといた方がいいかもね。{p}{end}
+EN: Here, take this. It's not a bad cut, but you might wanna disinfect it.{p}{end}
+
+## MBMS10 g0 s0093
+JP: （と、夏は俺にハンカチを手渡した。{n}{sp}そして、イジメられていた{n}{sp}女の子の所へ行き、二言三言声をかけ…）{p}{end}
+EN: (Natsu handed me her handkerchief. Then she went over to the bullied girl and said a few words to her...){p}{end}
+
+## MBMS10 g0 s0094
+JP: アタシはこの子を送っていくわ。{n}さっきの連中がいるとマズイから。{n}じゃあね、{v7:4}。{n}さっきはアリガト!!{p}{end}
+EN: I'm gonna walk her home. Those guys might still be around. See ya, {v7:4}. And thanks for earlier!!{p}{end}
+
+## MBMS10 g0 s0095
+JP: （行ってしまった…。{n}{sp}夏って…いい子だな……。）{n}{col:0}『夏のハンカチ』{col:-}を手に入れた!!{p}{end}
+EN: (She's gone... Natsu's a really nice girl...){n}Got {col:0}"Natsu's Handkerchief"{col:-}!!{p}{end}
+
+## MBMS10 g0 s0096
+JP: 保健室の前までいくと、ちょうど職員室から{n}荷物をかかえたひなたが出てきた。{n}女の子が一人で持つには{n}かなり多い量だな。{p}
+EN: When I got to the infirmary, Hinata came out of the staff room carrying a big load. That's way too much for one girl to carry.{p}
+
+## MBMS10 g0 s0097
+JP: あ、{v7:1}。{n}ヤッホー{col:5}♥{col:-}{p}
+EN: Oh, {v7:1}. Yoo-hoo{col:5}♥{col:-}{p}
+
+## MBMS10 g0 s0098
+JP: ヤッホーじゃないって。{n}すごい荷物だな。どうしたの?{p}{end}
+EN: Don't "yoo-hoo" me. That's a huge load. What's going on?{p}{end}
+
+## MBMS10 g0 s0099
+JP: ちょっと英雄先生に頼まれて…。{n}明日の授業で使うんだって。{n}たまたま教室に私しかいなくてさぁ。{p}
+EN: Hideo-sensei asked me to... It's for tomorrow's class. I just happened to be the only one in the classroom.{p}
+
+## MBMS10 g0 s0100
+JP: 手伝ってやろうか?{n}じゃ、がんばれよ!{p}
+EN: Want a hand?{n}Well, good luck!{p}
+
+## MBMS10 g0 s0101
+JP: じゃ、がんばれよ!{n}俺は用事があるからよ。{n}じゃあな!{p}
+EN: Well, good luck! I've got stuff to do. See ya!{p}
+
+## MBMS10 g0 s0102
+JP: ……{n}さてと、どこに行こうかな。{p}{end}
+EN: ...... Now, where should I go?{p}{end}
+
+## MBMS10 g0 s0103
+JP: 手伝ってやろうか?{n}荷物重そうだな。{n}女の子一人で運べる量じゃないだろ?{p}{end}
+EN: Want a hand? That looks heavy. It's way too much for one girl, right?{p}{end}
+
+## MBMS10 g0 s0104
+JP: え、いーよいーよ。{n}これくらい持てるよー。{n}大丈夫だって。{p}
+EN: Huh? Nah, it's fine, it's fine. I can carry this much. I'm okay!{p}
+
+## MBMS10 g0 s0105
+JP: （そんな風には見えないけど…）{p}
+EN: (Doesn't look that way to me...){p}
+
+## MBMS10 g0 s0106
+JP: ムリヤリ荷物を奪う{n}半分だけでも手伝う{n}見守ってやる{p}{end}
+EN: Take the load by force{n}Help with at least half{n}Just watch over her{p}{end}
+
+## MBMS10 g0 s0107
+JP: そんなわけないだろ。{n}貸せよ!{p}
+EN: No way you're okay. Gimme that!{p}
+
+## MBMS10 g0 s0108
+JP: あ、いいって…あ!{p}
+EN: Ah, it's fine... ah!{p}
+
+## MBMS10 g0 s0109
+JP: ドサドサッ!!{p}
+EN: THUD THUD!!{p}
+
+## MBMS10 g0 s0110
+JP: あ…{p}{end}
+EN: Ah...{p}{end}
+
+## MBMS10 g0 s0111
+JP: あ……、ゴメン、ひなた!{n}俺がひろうよ!{p}{end}
+EN: Ah... sorry, Hinata! I'll pick it up!{p}{end}
+
+## MBMS10 g0 s0112
+JP: もー大丈夫だっていったのに～。{n}私ってそんなにひ弱にみえるかなー?{p}
+EN: Geez, I told you I was fine~. Do I really look that weak?{p}
+
+## MBMS10 g0 s0113
+JP: 女の子だからさ{n}ひなただからさ{p}
+EN: Because you're a girl{n}Because you're Hinata{p}
+
+## MBMS10 g0 s0114
+JP: 女の子だからさ。{n}助けてあげなくちゃね。{p}{end}
+EN: Because you're a girl. I've gotta help you out.{p}{end}
+
+## MBMS10 g0 s0115
+JP: ふ～ん、{v7:1}って{n}優しいんだ…。{n}でも悪いけど、私はそんなに弱くないよ!{n}ほら!{sp}荷物貸して!{p}
+EN: Hmm~, so {v7:1}'s the gentle type... But sorry, I'm not that weak! Here! Hand those over!{p}
+
+## MBMS10 g0 s0116
+JP: （う……、行っちゃった…。{n}{sp}なんか気にさわること、{n}{sp}言っちゃったかな…）{p}{end}
+EN: (Ugh... she's gone... Did I say something that bugged her...){p}{end}
+
+## MBMS10 g0 s0117
+JP: ひなただからさ…。{n}困ってるの、見過ごせなくて…。{p}
+EN: Because you're Hinata... I can't just ignore you when you're in trouble...{p}
+
+## MBMS10 g0 s0118
+JP: え………や、やだなぁ。{n}そんな……照れちゃうよ…。{n}じゃ、じゃあ半分だけ持ってもらおうかな!{n}これだけ!{sp}お願いね!{p}{end}
+EN: Huh......? C-come on. You're... you're making me blush... Th-then I guess you can carry half! Just these! Thanks!{p}{end}
+
+## MBMS10 g0 s0119
+JP: そうか?{n}でも重そうだぞ。{n}半分だけ持ってやるよ。{p}
+EN: You sure? It looks heavy, though. I'll carry half.{p}
+
+## MBMS10 g0 s0120
+JP: う～ん…。{n}じゃ、半分だけ!{n}お願いね{col:5}♥{col:-}{p}{end}
+EN: Hmm~... Okay, just half! Thanks{col:5}♥{col:-}{p}{end}
+
+## MBMS10 g0 s0121
+JP: ふぅ、ついたぁ。{n}アリガトね。{v7:1}。{n}助かったよ。{n}実はけっこう重くて困ってたんだ!{p}{end}
+EN: Phew, made it. Thanks, {v7:1}. You really helped. Truth is, it was pretty heavy and I was struggling!{p}{end}
+
+## MBMS10 g0 s0122
+JP: （そういう事なら素直にいえばいいのに…{n}{sp}そういうトコロがいかにも{n}{sp}ひなたらしいな……）{p}
+EN: (If that's the case, she should've just said so... That's so very Hinata...){p}
+
+## MBMS10 g0 s0123
+JP: {v7:1}……{n}アリガト…ね。{p}{end}
+EN: {v7:1}... thanks...{p}{end}
+
+## MBMS10 g0 s0124
+JP: そうか…{n}じゃ、教室まで一緒にいこう。{n}重くなったらいつでも言えよ。{p}{end}
+EN: Okay... Then I'll walk with you to the classroom. Tell me whenever it gets too heavy.{p}{end}
+
+## MBMS10 g0 s0125
+JP: うん!!{p}{end}
+EN: Okay!!{p}{end}
+
+## MBMS10 g0 s0126
+JP: ふぅ、ついたぁ。{n}アリガトね。{v7:1}。{n}もういいよ。{n}ついてきてくれてサンキュ!{p}
+EN: Phew, made it. Thanks, {v7:1}. You can go now. Thanks for coming with me!{p}
+
+## MBMS10 g0 s0127
+JP: （結局一人で運んだけど、{n}{sp}重かったんじゃないのか?{n}{sp}ひなたって、そういうところ素直じゃ{n}{sp}ないからなぁ…）{p}
+EN: (She carried it all herself in the end, but wasn't it heavy? Hinata can be so stubborn about stuff like that...){p}
+
+## MBMS10 g0 s0128
+JP: 放課後なのに教室に誰かいるぞ。{p}
+EN: Someone's in the classroom even though school's out.{p}
+
+## MBMS10 g0 s0129
+JP: {col:3}謎の声{col:-}{n}「ま、まごブンのからがいかくめいは～。」{p}{end}
+EN: {col:3}Mysterious Voice{col:-}{n}"S-Sun Yacht-sen's Shiny-Hat Revolution was..."{p}{end}
+
+## MBMS10 g0 s0130
+JP: な、なんかお経みたいな声が聞こえるぞ。{p}
+EN: Wh-what's that? Sounds like someone chanting a sutra.{p}
+
+## MBMS10 g0 s0131
+JP: ちょっとのぞいてみようかな{n}なにか怪しそうだからやめとこう{p}
+EN: Maybe I'll take a peek{n}Looks fishy, I'll pass{p}
+
+## MBMS10 g0 s0132
+JP: さわらぬ神になんとかっていうし、{n}別のとこに行こう。{n}どこに行こうかな?{p}{end}
+EN: Let sleeping dogs lie, as they say. I'll go somewhere else. Where should I go?{p}{end}
+
+## MBMS10 g0 s0133
+JP: なんだか気になるし、{n}ちょっとのぞいてみよう。{p}
+EN: I'm kinda curious. I'll take a little peek.{p}
+
+## MBMS10 g0 s0134
+JP: ま、まごブンのからがいかくめいは～。{p}{end}
+EN: S-Sun Yacht-sen's Shiny-Hat Revolution was...{p}{end}
+
+## MBMS10 g0 s0135
+JP: それは、{n}『そんぶんのしんがいかくめい』だろ!{n}何度言ったら分かるんだ!{p}{end}
+EN: It's Sun Yat-sen's Xinhai Revolution! How many times do I have to tell you!{p}{end}
+
+## MBMS10 g0 s0136
+JP: 『れきし』ちゅうのは{n}むずかしいもんじゃのう。{n}む、なんじゃおぬし?{p}{end}
+EN: This "history" stuff sure is hard. Hm, what're you doin' here?{p}{end}
+
+## MBMS10 g0 s0137
+JP: お前も期末試験の勉強をしに来たのか?{p}{end}
+EN: You here to study for finals too?{p}{end}
+
+## MBMS10 g0 s0138
+JP: ちがうよ{n}そうだよ{p}
+EN: Nope{n}Yeah{p}
+
+## MBMS10 g0 s0139
+JP: ち、ちがうよ。{n}ちょっと通りがかっただけだから。{p}{end}
+EN: N-no. I was just passing by.{p}{end}
+
+## MBMS10 g0 s0140
+JP: そうか、試験勉強しなくても{n}できるぞってことか。{n}余裕だな。{n}岩も少しは見習うんだな。{p}
+EN: I see, so you can manage without studying. Pretty confident. Gan, you could learn a thing or two.{p}
+
+## MBMS10 g0 s0141
+JP: さすがじゃのう。{n}勉強のコツを{n}今度教えて欲しいもんじゃのう。{p}
+EN: Ain't that somethin'. Ya oughta teach me your study tricks sometime.{p}
+
+## MBMS10 g0 s0142
+JP: こ、今度ね。{p}{end}
+EN: S-sometime, sure.{p}{end}
+
+## MBMS10 g0 s0143
+JP: つい、勢いで言っちゃったけど{n}結果見て怒られないように{n}少しは勉強しとかないとダメだな。{p}{end}
+EN: I blurted that out without thinking, but I'd better study a bit so I don't get chewed out over my results.{p}{end}
+
+## MBMS10 g0 s0144
+JP: そうだよ。{n}みんなと一緒に{n}試験勉強をしようと思って来たんだ。{p}
+EN: Yeah. I came to study for the exam with everyone.{p}
+
+## MBMS10 g0 s0145
+JP: そうか、{n}じゃあオレが問題を出すから答えてくれ。{n}いくぞ!{p}
+EN: I see. Then I'll ask the questions, and you answer. Here goes!{p}
+
+## MBMS10 g0 s0147
+JP: 関ヶ原の合戦が起こったのはいつ?{p}{end}
+EN: When was the Battle of Sekigahara?{p}{end}
+
+## MBMS10 g0 s0148
+JP: 1600年{n}1603年{n}1605年{p}
+EN: 1600{n}1603{n}1605{p}
+
+## MBMS10 g0 s0149
+JP: やるな!{n}では次の問題いくぞ!{p}
+EN: Not bad! Next question!{p}
+
+## MBMS10 g0 s0150
+JP: 江戸幕府の初代将軍といえば?{p}{end}
+EN: Who was the first Edo shogun?{p}{end}
+
+## MBMS10 g0 s0151
+JP: 織田信長{n}豊臣秀吉{n}徳川家康{p}{end}
+EN: Oda Nobunaga{n}Toyotomi Hideyoshi{n}Tokugawa Ieyasu{p}{end}
+
+## MBMS10 g0 s0152
+JP: むう、やるな!{n}さすがは{v3:10}。{n}岩も少しは見習え。{p}
+EN: Hm, not bad! That's {v3:10} for you. Gan, learn from this.{p}
+
+## MBMS10 g0 s0153
+JP: やるもんじゃのう、{n}ちいと{v3:11}の事を見直したぞい!{p}
+EN: Ain't you somethin'. Gotta say, I think a little better of ya now, {v3:11}!{p}
+
+## MBMS10 g0 s0154
+JP: さあ、岩はもう少し特訓だ!{n}{v3:10}!また今度な!{p}
+EN: Now, more drills for you, Gan! {v3:10}! See you later!{p}
+
+## MBMS10 g0 s0155
+JP: じゃあ!{p}{end}
+EN: See ya!{p}{end}
+
+## MBMS10 g0 s0156
+JP: あんまり勉強してないんだけどなあ…。{n}分かる所で良かった。{p}
+EN: I barely studied... Glad they asked stuff I knew.{p}
+
+## MBMS10 g0 s0157
+JP: 違うな。{n}もう少しできると思ったが残念だな…{n}もっと勉強しておくんだな。{p}{end}
+EN: Wrong. I thought you'd do better than that... You'd better study more.{p}{end}
+
+## MBMS10 g0 s0158
+JP: いいとこ見せようと思ったのに…。{n}試験までにはもっと勉強しとこうっと。{p}
+EN: I wanted to show off a little... I'll study more before the exam.{p}
+
+## MBMS10 g0 s0159
+JP: 響子先生いるかなあ…{n}でも、やけに静かだぞ。{p}{end}
+EN: Wonder if Kyoko-sensei's around... It's awfully quiet, though.{p}{end}
+
+## MBMS10 g0 s0162
+JP: おめえ、何しに来たんだ?{n}さては…。{p}{end}
+EN: What're you doin' here? Don't tell me...{p}{end}
+
+## MBMS10 g0 s0163
+JP: エッジをさがしてたんだよ{n}何でもないよ（逃げる）{p}{end}
+EN: I was looking for you, Edge{n}Nothing! (Run away){p}{end}
+
+## MBMS10 g0 s0164
+JP: な、何でもないよ。{n}あっもう帰んなきゃ。{n}じゃ、またね!{p}{end}
+EN: N-nothing. Oh, I gotta get going. See ya!{p}{end}
+
+## MBMS10 g0 s0165
+JP: ふう、なんか怪しまれちゃったかな。{n}さて、どこに行こうかな?{p}{end}
+EN: Phew, I think he got suspicious. Now, where should I go?{p}{end}
+
+## MBMS10 g0 s0166
+JP: ちょうどよかった，{n}エッジをさがしてたんだよ。{p}
+EN: Perfect timing, I was looking for you, Edge.{p}
+
+## MBMS10 g0 s0167
+JP: なんだ、そうかよ。{n}で、何の用だよ?{p}{end}
+EN: Oh, that it? So whaddya want?{p}{end}
+
+## MBMS10 g0 s0168
+JP: エッジのクイズに挑戦したかったんだ。{n}（口からでまかせ言っちゃった。）{p}
+EN: I wanted to take on one of your quizzes. (I just made that up on the spot.){p}
+
+## MBMS10 g0 s0169
+JP: そうか!{n}オレ様がクイズ得意だって{n}よく知ってるじゃねえか。{p}{end}
+EN: Heh! So ya know I'm a whiz at quizzes!{p}{end}
+
+## MBMS10 g0 s0170
+JP: ま、まあね。{n}（本当だったんだ）{p}{end}
+EN: W-well, sure. (So it's actually true...){p}{end}
+
+## MBMS10 g0 s0171
+JP: しゃあねえなあ、{n}じゃあ、とっておきのクイズでも{n}出してやるか!{p}{end}
+EN: Guess I got no choice. I'll hit ya with my best quiz!{p}{end}
+
+## MBMS10 g0 s0172
+JP: 全部正解できたらいいもんやるよ!{n}じゃあいくぜ!{p}{end}
+EN: Get 'em all right and I'll give ya somethin' good! Here we go!{p}{end}
+
+## MBMS10 g0 s0173
+JP: 私立ジャスティス学園で{n}熱いコンボといえば?{p}{end}
+EN: In Rival Schools, what's the hot-blooded combo called?{p}{end}
+
+## MBMS10 g0 s0174
+JP: チェーンコンボ{n}熱血コンボ{n}ゼロコンボ{p}
+EN: Chain Combo{n}Burning Combo{n}Zero Combo{p}
+
+## MBMS10 g0 s0175
+JP: なかなか通じゃねえか!{n}それじゃあ次の問題はどうだ!{p}{end}
+EN: You know your stuff! Then how 'bout this one!{p}{end}
+
+## MBMS10 g0 s0176
+JP: じゃあゲージを一本消費して{n}大ダメージを与える攻撃といえば、{n}○○アタック?{p}{end}
+EN: Next, an attack that uses one gauge bar for big damage is the ○○ Attack?{p}{end}
+
+## MBMS10 g0 s0177
+JP: ファイヤー{n}スーパーコンボ{n}完全燃焼{p}{end}
+EN: Fire{n}Super Combo{n}Burning Vigor{p}{end}
+
+## MBMS10 g0 s0178
+JP: いいねえ、いいねえ。{n}じゃあ最後の問題だ!{p}
+EN: Nice, nice. Now for the last question!{p}
+
+## MBMS10 g0 s0179
+JP: ゲージを2本消費して{n}二人で攻撃するものといったら、{n}○○と○○のツープラトン?{p}{end}
+EN: A two-person attack that uses two gauge bars is the Team Up of ○○ and ○○?{p}{end}
+
+## MBMS10 g0 s0180
+JP: 愛と友情{n}愛と誠{n}平和と友情{p}{end}
+EN: Love and Friendship{n}Love and Sincerity{n}Peace and Friendship{p}{end}
+
+## MBMS10 g0 s0181
+JP: へへっ、正解だ!{n}やるじゃねえか!{n}ほれ、これやるぜ!{p}
+EN: Heh heh, correct! Not bad! Here, take this!{p}
+
+## MBMS10 g0 s0182
+JP: {col:0}『バリバリヘアスプレー』{col:-}を手に入れた!{p}
+EN: Got the {col:0}"Super-Hold Hairspray"{col:-}!{p}
+
+## MBMS10 g0 s0183
+JP: ありがとう!{n}ジャス学の事勉強しといてよかった。{p}{end}
+EN: Thanks! Glad I studied up on Rival Schools.{p}{end}
+
+## MBMS10 g0 s0184
+JP: ちっ、その程度かよ!{n}ちょっとがっかりだぜ!{n}もっと勉強しな!{n}あばよ!{p}{end}
+EN: Tch, that's all ya got? What a letdown! Go study more! Later!{p}{end}
+
+## MBMS10 g0 s0185
+JP: 何か分からないけどもらい損ねたな。{n}もっとジャス学の事勉強しておこう。{p}
+EN: Not sure what it was, but I missed out. I'd better study up on Rival Schools.{p}
+
+## MBMS10 g0 s0186
+JP: あっ、響子先生だ!{p}
+EN: Oh, it's Kyoko-sensei!{p}
+
+## MBMS10 g0 s0187
+JP: 声をかける{n}やめとこう{p}
+EN: Call out to her{n}Never mind{p}
+
+## MBMS10 g0 s0188
+JP: 響子せんせーっ。{p}{end}
+EN: Kyoko-senseeei!{p}{end}
+
+## MBMS10 g0 s0189
+JP: 先生がグラウンドにいるのって{n}めずらしいですね。{p}{end}
+EN: It's rare to see you on the field, sensei.{p}{end}
+
+## MBMS10 g0 s0190
+JP: そういえば、そうかもしれないわね。{p}
+EN: Now that you mention it, maybe it is.{p}
+
+## MBMS10 g0 s0191
+JP: 今日はどうしたんですか?{p}{end}
+EN: What's the occasion today?{p}{end}
+
+## MBMS10 g0 s0192
+JP: クラブしてるみんなのようすを見てるのよ。{n}成長期の筋肉や骨に過剰な負荷がかかると{n}正常な発達ができないから{n}気をつけないとね。{p}
+EN: I'm checking on everyone in the clubs. Too much strain on growing muscles and bones can stunt their development, so we have to be careful.{p}
+
+## MBMS10 g0 s0193
+JP: でもなんかやけに熱心に見てましたね。{p}{end}
+EN: But you sure were watching closely.{p}{end}
+
+## MBMS10 g0 s0194
+JP: 生徒思いなんですね{n}なんかむずかしい話ですね{n}気になる生徒でもいるとか…{p}{end}
+EN: You really care about your students{n}That sounds complicated{n}Got your eye on someone...?{p}{end}
+
+## MBMS10 g0 s0195
+JP: なにいってんの。{n}教師として当たり前のことじゃないの。{n}それともほめてくれてるの?{p}
+EN: What are you saying? That's just part of being a teacher. Or are you complimenting me?{p}
+
+## MBMS10 g0 s0196
+JP: なんか好印象を与えたような…。{p}
+EN: I think I made a good impression...{p}
+
+## MBMS10 g0 s0197
+JP: まぁ、あんまり{n}無理はしないでねってことなんだけど。{n}{v1}{col:0}クン{col:-}も気を付けてね!{p}{end}
+EN: Well, the point is, don't push yourselves too hard. You be careful too, {v1}{col:0}-kun{col:-}!{p}{end}
+
+## MBMS10 g0 s0198
+JP: 大事な体なんだから。{n}でもトレーニングを{n}サボれっていってるんじゃないのよ。{n}がんばってね{col:5}♥{col:-}{p}{end}
+EN: Your body's important. But I'm not telling you to skip training. Do your best{col:5}♥{col:-}{p}{end}
+
+## MBMS10 g0 s0199
+JP: よーしがんばるぞ!{p}
+EN: Alright, I'll give it my all!{p}
+
+## MBMS10 g0 s0200
+JP: そうそう!{n}ちょっと{v1}{col:0}クン{col:-}のことがね……{p}{end}
+EN: Oh, yes! I've got a little thing for {v1}{col:0}-kun{col:-}......{p}{end}
+
+## MBMS10 g0 s0201
+JP: ってそんなわけないでしょ!{p}
+EN: ...As if! Don't be silly!{p}
+
+## MBMS10 g0 s0202
+JP: （わぁー!ノリつっこみだ!!）{n}と、心の中で楽しくしゃべった。{p}
+EN: (Whoa! She played along and then shot herself down!!) I quipped happily, but only in my head.{p}
+
+## MBMS10 g0 s0204
+JP: あっ、ティファニーがいるぞ。{n}……でも、{n}いつもと様子がちがうような…。{p}{end}
+EN: Oh, there's Tiffany. ...But she seems different than usual...{p}{end}
+
+## MBMS10 g0 s0206
+JP: ティファニー!{p}
+EN: Tiffany!{p}
+
+## MBMS10 g0 s0207
+JP: なにか悩みでもあるの?{n}おなかでもすいてるの?{n}中間試験のことで心配事でもあるの?{n}恋わずらいかい?{p}{end}
+EN: Something bothering you?{n}Are you hungry?{n}Worried about the midterms?{n}Are you lovesick?{p}{end}
+
+## MBMS10 g0 s0208
+JP: 秋って……{n}切なくて、悲しい気分になるんデスね。{n}アメリカではこんなコトなかったのに…。{p}{end}
+EN: Autumn... it makes you feel so lonely and sad. I never felt like this in America...{p}{end}
+
+## MBMS10 g0 s0209
+JP: （アメリカ人も秋にはそんな{n}{sp}気持ちになるのか…。）{p}{end}
+EN: (So Americans get that way in autumn too...){p}{end}
+
+## MBMS10 g0 s0210
+JP: そんなことないでーす。{n}でも、チョットおなかすいてるかも…。{p}{end}
+EN: No, not at all. But maybe I'm a little hungry...{p}{end}
+
+## MBMS10 g0 s0211
+JP: 何か食べにいこうか。{p}{end}
+EN: Wanna go get something to eat?{p}{end}
+
+## MBMS10 g0 s0212
+JP: もうおなかいっぱいでーす{col:5}♥{col:-}{n}{v3:7}アリガトね!{p}{end}
+EN: I'm so full now{col:5}♥{col:-} Thank you, {v3:7}!{p}{end}
+
+## MBMS10 g0 s0213
+JP: そうなんでーす。{n}ミーは今回ちょっとジシンないでーす。{p}
+EN: That's right. I'm not so confident this time.{p}
+
+## MBMS10 g0 s0214
+JP: 俺だって全然だめだよ。{n}みんな同じなんだから。{n}なっ、元気出して!{p}
+EN: I'm totally hopeless too. We're all in the same boat. Come on, cheer up!{p}
+
+## MBMS10 g0 s0215
+JP: じゃあこれからイッショに特訓でーす!{p}{end}
+EN: Then let's do special training together, starting now!{p}{end}
+
+## MBMS10 g0 s0216
+JP: 今日はティファニーと一緒に{n}勉強しまくった。{p}{end}
+EN: Today I studied like crazy with Tiffany.{p}{end}
+
+## MBMS10 g0 s0217
+JP: 「コイワズライ」ってなんですか?{p}{end}
+EN: What does "lovesick" mean?{p}{end}
+
+## MBMS10 g0 s0218
+JP: それは…。まぁいいか!{n}元気出してよ!{n}おいしいケーキでも食べに行こう!{p}{end}
+EN: Well... never mind! Cheer up! Let's go get some yummy cake!{p}{end}
+
+## MBMS10 g0 s0219
+JP: それがイイでーす。{n}ミーはどんどん食べまーす。{p}
+EN: That sounds good. I will eat lots and lots.{p}
+
+## MBMS10 g0 s0220
+JP: （どうも恋わずらいでは{n}{sp}ないみたいだな…。）{p}
+EN: (Guess she's not lovesick after all...){p}
+
+## MBMS10 g0 s0222
+JP: あっボーマンがいるぞ!{p}
+EN: Oh, there's Boman!{p}
+
+## MBMS10 g0 s0224
+JP: ボーマン、何してるんだい?{p}
+EN: Boman, what're you doing?{p}
+
+## MBMS10 g0 s0225
+JP: ちょっと自主トレーニングを{n}しているのですよ。{p}
+EN: I am doing a little training on my own.{p}
+
+## MBMS10 g0 s0226
+JP: トレーニングつきあうよ{n}トレーニング手伝うよ{n}どうして自主トレなんかしてるの?{n}自主トレガンバってね{p}{end}
+EN: I'll train with you{n}I'll help you train{n}Why are you training on your own?{n}Good luck with your training{p}{end}
+
+## MBMS10 g0 s0227
+JP: ボーマンは、かなりハードな{n}トレーニングをしてるんだね……。{n}あれっ?{p}
+EN: Boman's training is pretty hardcore... Huh?{p}
+
+## MBMS10 g0 s0228
+JP: （………ココからだと{n}{sp}女子バレー部の練習も{n}{sp}よく見えるな……。{n}{sp}心なしかはりきっちゃうな。）{p}
+EN: (...From here you can see the girls' volleyball team practicing too... Somehow it's got me all fired up.){p}
+
+## MBMS10 g0 s0229
+JP: ボーマンに{v7:4}も{n}がんばってるねぇー{col:5}♥{col:-}{p}
+EN: Boman and {v7:4}, you're both working hard{col:5}♥{col:-}{p}
+
+## MBMS10 g0 s0230
+JP: よーし、もっとがんばるぞーっ!{n}（もしかしてボーマンもコレが目的{n}{sp}だったりして……。そんなわけないか）{p}{end}
+EN: Alright, time to work even harder! (Maybe this was Boman's goal too... Nah, couldn't be.){p}{end}
+
+## MBMS10 g0 s0231
+JP: （思ったよりめちゃくちゃハードな{n}{sp}トレーニングだな。{n}{sp}こりゃ支えてるのがやっとだぞ!）{p}
+EN: (This training's way harder than I thought. I can barely hold it up!){p}
+
+## MBMS10 g0 s0232
+JP: 大丈夫ですか{v5:8}。{n}冷や汗がでていますよ。{n}きつければ無理しなくてもいいのですよ。{p}
+EN: Are you alright, {v5:8}? You are breaking out in a cold sweat. If it is too hard, you do not need to push yourself.{p}
+
+## MBMS10 g0 s0233
+JP: なにいってるんだよ!{n}大丈夫に決まってるじゃないか!{n}（といいつつホントはかなりキツイ……。{n}{sp}かなりのパワーと根性が付きそうだ。）{p}{end}
+EN: What're you talking about! Of course I'm fine! (I say that, but it's really tough... This'll build some serious power and guts.){p}{end}
+
+## MBMS10 g0 s0234
+JP: もちろん来月の五輪祭に向けての{n}特訓じゃないですか。{n}{v5:8}もしておいた方が{n}いいのではないですか?{p}
+EN: It is training for next month's Gorin Festival, of course. Would it not be good for you to do it too, {v5:8}?{p}
+
+## MBMS10 g0 s0235
+JP: そうだな。俺もやっておこうかな。{n}（ボーマンとトレーニングした。）{p}
+EN: Yeah. Maybe I'll do it too. (I trained with Boman.){p}
+
+## MBMS10 g0 s0236
+JP: じゃあな、ボーマン、{n}自主トレがんばれよ!{p}
+EN: See ya, Boman. Good luck with your training!{p}
+
+## MBMS10 g0 s0237
+JP: なんだ{v5:8}はやらないのですか。{n}あっ!{p}
+EN: Oh, you are not going to train, {v5:8}? Ah!{p}
+
+## MBMS10 g0 s0238
+JP: こんにちはボーマン!{n}トレーニングがんばってる{col:5}♥{col:-}{p}{end}
+EN: Hi, Boman! Working hard on your training{col:5}♥{col:-}{p}{end}
+
+## MBMS10 g0 s0239
+JP: {v7:1}はトレーニング{n}しないんだね……。{n}私はがんばる人の方が好きだな……。{p}
+EN: {v7:1}, you're not training, huh... I like people who work hard...{p}
+
+## MBMS10 g0 s0240
+JP: （ちょっとガッカリされちゃったかも…。）{p}{end}
+EN: (I think she's a little disappointed in me...){p}{end}
+
+## MBMS10 g1 s0000
+JP: あ、隼人先生がやってきた……。{n}今度はいい点とるぞ!{p}{end}
+EN: Oh, here comes Hayato-sensei... I'm gonna get a good score this time!{p}{end}
+
+## MBMS10 g1 s0006
+JP: 体育館に向かうと、{n}何人かの男子生徒が{n}女子生徒を取り囲んでいるのが見える!!{n}これは……、イジメ?{p}{end}
+EN: On my way to the gym, I see some guys surrounding a girl!! Is this... bullying?{p}{end}
+
+## MBMS10 g1 s0008
+JP: ここは関わらない方がいいかナ…。{n}そうそうに立ち去ろう。{n}……{n}どこへ行こうかナ?{p}
+EN: Maybe I'd better not get involved... I'll get out of here. ...... Where should I go?{p}
+
+## MBMS10 g1 s0009
+JP: これはなんとしても止めないと!!{n}……!?{sp}あれ、私が行く前に{n}誰かが止めに入った!?{p}
+EN: I have to stop this no matter what!! ...!? Huh, someone stepped in before I could!?{p}
+
+## MBMS10 g1 s0011
+JP: （この声は……夏ね。）{p}
+EN: (That voice... it's Natsu.){p}
+
+## MBMS10 g1 s0015
+JP: （う…なんか出ていくタイミングを{n}{sp}失っちゃったけど……{n}{sp}ひっこむわけにはいかないわ。）{p}
+EN: (Ugh... I kinda missed my chance to step in... but I can't back down now.){p}
+
+## MBMS10 g1 s0016
+JP: そういうのを、イジメっていうのよ。{n}いいからその子の手、放しなさいよ!{p}
+EN: That's what you call bullying. Just let go of her arm!{p}
+
+## MBMS10 g1 s0017
+JP: {col:3}男子生徒{col:-}{n}「なんだ今度はこっちか?{n}{sp}女のくせにでしゃばりやがって!!{n}{sp}まとめてイワすゾ、オラァッ!!」{p}
+EN: {col:3}Male Student{col:-}{n}"What, you too? A girl stickin' her nose in!! I'll take you all on, punk!!"{p}
+
+## MBMS10 g1 s0018
+JP: （うわっ、いきなり殴りかかって来た!!{n}{sp}ここは……）{p}
+EN: (Whoa, he's swinging at me!! Okay...){p}
+
+## MBMS10 g1 s0020
+JP: （殴られる前に……殴れば!!{n}{sp}ガスッ!!{n}{sp}よし!!{sp}入ったわ!!）{p}
+EN: (If I hit him first...!! WHAM!! Yes!! Got him!!){p}
+
+## MBMS10 g1 s0021
+JP: あ、{v8:4}!{n}手を出しちゃダメよ!!{p}
+EN: Ah, {v8:4}! Don't fight back!!{p}
+
+## MBMS10 g1 s0022
+JP: （そういわれても…{n}{sp}勢いで2・3発殴ると{n}{sp}男子生徒はバタバタと逃げていった……）{p}{end}
+EN: (Easy for her to say... I got in two or three more hits, and the guys scrambled off...){p}{end}
+
+## MBMS10 g1 s0023
+JP: {v8:4}……。{n}いくら相手が悪いといっても、{n}暴力を振るうのは感心しないわ。{p}{end}
+EN: {v8:4}... Even if they started it, I don't like seeing you resort to violence.{p}{end}
+
+## MBMS10 g1 s0024
+JP: じゃぁ夏は、{n}素直に殴られろっていうの?{n}私、顔を殴られるトコロだったのよ?{p}{end}
+EN: So, Natsu, you're saying I should've just let them hit me? He almost punched me in the face, y'know?{p}{end}
+
+## MBMS10 g1 s0028
+JP: 行っちゃった……。{n}怒らせてしまったけど、{n}しかたないよネ…。{p}
+EN: She left... I made her mad, but what else could I do...{p}
+
+## MBMS10 g1 s0029
+JP: （とにかく…かわすヨ!!{n}{sp}ピシッ!{sp}ちょっとかすったけど、{n}{sp}よけた拍子に2、3歩よろめいて、{n}{sp}いいカンジで間合いがとれたワ……!）{p}{end}
+EN: (Just... dodge!! Whoosh! It grazed me, but I stumbled back a few steps and got some nice distance...!){p}{end}
+
+## MBMS10 g1 s0031
+JP: （でっかい声…!{n}{sp}と、男子生徒達はその声で{n}{sp}我にかえったのか、{n}{sp}バタバタと逃げ出した。）{p}
+EN: (What a loud voice...! That seemed to snap the guys out of it, and they scrambled away.){p}
+
+## MBMS10 g1 s0032
+JP: ふぅ…行ったわね。{n}アタシ、ああいうイジメするような{n}連中を見ると、腹立つのよ!!{n}つい本気で怒っちゃった…。{p}
+EN: Phew... they're gone. Bullies like that just make me so mad!! I really lost my temper there...{p}
+
+## MBMS10 g1 s0033
+JP: {v8:4}……アリガトね。{n}アンタがいなかったら{n}アタシが殴られるトコロだったわ。{n}あ!……血…。{p}{end}
+EN: {v8:4}... thanks. If you hadn't been here, I'd have been the one getting hit. Oh!... Blood...{p}{end}
+
+## MBMS10 g1 s0034
+JP: （え?……血?{n}{sp}さっきのちょっとかすった時?{n}{sp}切れてるとは思わなかったワ…）{p}{end}
+EN: (Huh?... Blood? From that graze earlier? I didn't think it cut me...){p}{end}
+
+## MBMS10 g1 s0036
+JP: （と、夏は私にハンカチを手渡した。{n}{sp}そして、イジメられていた{n}{sp}女の子の所へ行き、二言三言声をかけ…）{p}{end}
+EN: (Natsu handed me her handkerchief. Then she went over to the bullied girl and said a few words to her...){p}{end}
+
+## MBMS10 g1 s0037
+JP: アタシはこの子を送っていくわ。{n}さっきの連中がいるとマズイから。{n}じゃあね、{v8:4}。{n}さっきはアリガト!!{p}{end}
+EN: I'm gonna walk her home. Those guys might still be around. See ya, {v8:4}. And thanks for earlier!!{p}{end}
+
+## MBMS10 g1 s0038
+JP: （行っちゃった……。{n}{sp}夏って…いい人ね……。）{n}{col:0}『夏のハンカチ』{col:-}を手に入れた!!{p}
+EN: (She's gone... Natsu's a really good person...){n}Got {col:0}"Natsu's Handkerchief"{col:-}!!{p}
+
+## MBMS10 g1 s0039
+JP: 保健室の前までいくと、ちょうど職員室から{n}荷物をかかえたひなたが出てきた。{n}女の子が一人で持つには{n}ちょっと多い量ネ……。{p}
+EN: When I got to the infirmary, Hinata came out of the staff room carrying a big load. That's a bit much for one girl to carry...{p}
+
+## MBMS10 g1 s0040
+JP: あ、{v9:1}。{n}ヤッホー{col:5}♥{col:-}{p}
+EN: Oh, {v9:1}. Yoo-hoo{col:5}♥{col:-}{p}
+
+## MBMS10 g1 s0041
+JP: ヤッホーじゃないヨ。{n}すごい荷物ネ。どうしたの?{p}{end}
+EN: Don't "yoo-hoo" me. That's a huge load. What's going on?{p}{end}
+
+## MBMS10 g1 s0042
+JP: ちょっと英雄先生に頼まれてさ～。{n}明日の授業で使うんだって。{n}たまたま教室に私しかいなくてさぁ。{p}{end}
+EN: Hideo-sensei asked me to~. It's for tomorrow's class. I just happened to be the only one in the classroom.{p}{end}
+
+## MBMS10 g1 s0043
+JP: 手伝ってあげようか?{n}じゃ、がんばってね!{p}
+EN: Want a hand?{n}Well, good luck!{p}
+
+## MBMS10 g1 s0044
+JP: じゃ、がんばってね!{n}私は用事があるから。{n}じゃあネ!{p}
+EN: Well, good luck! I've got stuff to do. See ya!{p}
+
+## MBMS10 g1 s0046
+JP: 手伝ってあげようか?{n}荷物重そうだネ。{n}その量、一人じゃつらいでしょ?{p}
+EN: Want a hand? That looks heavy. It's too much for one person, right?{p}
+
+## MBMS10 g1 s0049
+JP: ムリヤリ荷物を奪う{n}半分だけでも手伝う{n}見守ってあげる{p}
+EN: Take the load by force{n}Help with at least half{n}Just watch over her{p}
+
+## MBMS10 g1 s0050
+JP: そんなわけないでしょ。{n}貸してごらんって!{p}
+EN: No way you're okay. Here, let me take it!{p}
+
+## MBMS10 g1 s0054
+JP: あ……、ゴメンね、ひなた!{n}私がひろうよ!{p}
+EN: Ah... sorry, Hinata! I'll pick it up!{p}
+
+## MBMS10 g1 s0055
+JP: もー、大丈夫だっていったのに～。{n}私ってそんなにひ弱にみえるかなー?{p}{end}
+EN: Geez, I told you I was fine~. Do I really look that weak?{p}{end}
+
+## MBMS10 g1 s0056
+JP: ひなただからネ{n}同じ女の子でしょ?{p}
+EN: Because you're Hinata{n}We're both girls, right?{p}
+
+## MBMS10 g1 s0057
+JP: ひなただからネ。{n}私、少しでもひなたの役に立ちたいの。{n}わかってもらえるかな?{p}
+EN: Because you're Hinata. I want to help you out, even a little. Does that make sense?{p}
+
+## MBMS10 g1 s0058
+JP: う、うん…………、{n}でもコレは大丈夫。{n}私一人で運べるから!{n}アリガトね。じゃ!!{p}
+EN: Y-yeah......, but I'm fine with this. I can carry it by myself! Thanks. Bye!!{p}
+
+## MBMS10 g1 s0059
+JP: （あ……、行っちゃった…。{n}{sp}残念、せっかくひなたの役に立てると{n}{sp}思ったのにな…）{p}{end}
+EN: (Ah... she's gone... Too bad. I thought I could finally help Hinata out...){p}{end}
+
+## MBMS10 g1 s0060
+JP: だって、女の子同士じゃない、{n}こんなコトくらい助け合わなきゃ。{n}それにね、私もそんなに{n}ひ弱じゃないんだよ!{p}{end}
+EN: Well, we're both girls, right? We should help each other with stuff like this. Besides, I'm not that weak either!{p}{end}
+
+## MBMS10 g1 s0061
+JP: アリガト、{v9:1}って{n}優しいのね。{n}じゃ、半分だけ持ってもらおうかな!{n}はい、これだけ!{sp}お願いね!{p}
+EN: Thanks, {v9:1}, you're so sweet. Then I guess you can carry half! Here, just these! Thanks!{p}
+
+## MBMS10 g1 s0062
+JP: そう?{n}でも重そうよ。{n}半分だけ持ってあげるよ。{p}{end}
+EN: Really? It looks heavy, though. I'll carry half.{p}{end}
+
+## MBMS10 g1 s0063
+JP: う～ん…。{n}じゃ、半分だけ!{n}お願いね!{p}{end}
+EN: Hmm~... Okay, just half! Thanks!{p}{end}
+
+## MBMS10 g1 s0064
+JP: ふぅ、ついたぁ。{n}アリガトね。{v9:1}。{n}助かったよ。{n}実はけっこう重くて困ってたんだ!{p}{end}
+EN: Phew, made it. Thanks, {v9:1}. You really helped. Truth is, it was pretty heavy and I was struggling!{p}{end}
+
+## MBMS10 g1 s0065
+JP: （そういう事なら素直にいえばいいのに…{n}{sp}ま、そういうトコロが{n}{sp}ひなたらしいんだけど……）{p}{end}
+EN: (If that's the case, she should've just said so... Well, that's just Hinata...){p}{end}
+
+## MBMS10 g1 s0066
+JP: {v9:1}……{n}アリガト…ね。{p}{end}
+EN: {v9:1}... thanks...{p}{end}
+
+## MBMS10 g1 s0067
+JP: そうか…{n}じゃ、教室まで一緒についてくワ。{n}重くなったらいつでも言ってネ。{p}
+EN: Okay... Then I'll walk with you to the classroom. Tell me whenever it gets too heavy.{p}
+
+## MBMS10 g1 s0069
+JP: ふぅ、ついたぁ。{n}アリガトね。{v9:1}。{n}もういいよ。{n}ついてきてくれてサンキュ!{p}
+EN: Phew, made it. Thanks, {v9:1}. You can go now. Thanks for coming with me!{p}
+
+## MBMS10 g1 s0070
+JP: （結局一人で運んだけど、{n}{sp}重かったんじゃないかナ?{n}{sp}ひなたって、そういうところ{n}{sp}素直じゃないなぁ…）{p}
+EN: (She carried it all herself in the end, but wasn't it heavy? Hinata can be so stubborn about stuff like that...){p}
+
+## MBMS10 g1 s0072
+JP: あ!誰か走って来たわ?{p}
+EN: Huh! Is someone running over here?{p}
+
+## MBMS10 g1 s0074
+JP: い、いやあの私は…。{p}{end}
+EN: W-wait, um, I'm...{p}{end}
+
+## MBMS10 g1 s0077
+JP: 先生!{n}私はソフトボールの部員ではないですよ。{p}
+EN: Sensei! I'm not on the softball team.{p}
+
+## MBMS10 g1 s0079
+JP: ふう、{n}もうちょっとで{n}部員にされる所だったわ。{n}さて、どこに行こうかな。{p}
+EN: Phew, I almost got drafted onto the team. Now, where should I go?{p}
+
+## MBMS10 g1 s0083
+JP: 私はどのポジションにつこうかなあ?{p}
+EN: What position should I take?{p}
+
+## MBMS10 g1 s0086
+JP: やっぱり私のノミの心臓じゃ{n}ピッチャーは無理だったなあ…。{n}次は勝てるように練習しておこう。{p}{end}
+EN: I'm too much of a chicken to pitch after all... I'll practice so we win next time.{p}{end}
+
+## MBMS10 g1 s0088
+JP: 私のたくみな配球術で{n}0点に抑えることができた!{p}{end}
+EN: My clever pitch calling held them to zero runs!{p}{end}
+
+## MBMS10 g1 s0091
+JP: ありがとうございます!{n}私って野球のセンスあるかも…。{p}
+EN: Thank you, sir! Maybe I've got a knack for baseball...{p}
+
+## MBMS10 g1 s0096
+JP: な、なんかお経みたいな声が聞こえるわ。{p}
+EN: Wh-what's that? Sounds like someone chanting a sutra.{p}
+
+## MBMS10 g1 s0099
+JP: なんだか気になるし，{n}ちょっとのぞいてみよう。{p}
+EN: I'm kinda curious. I'll take a little peek.{p}
+
+## MBMS10 g1 s0104
+JP: ちがうわ{n}そうだよ{p}
+EN: Nope{n}Yeah{p}
+
+## MBMS10 g1 s0105
+JP: ち、ちがうわ。{n}ちょっと通りがかっただけだから。{p}{end}
+EN: N-no. I was just passing by.{p}{end}
+
+## MBMS10 g1 s0119
+JP: やるもんじゃのう。{n}ちいと{v3:11}の事を見直したぞい!{p}
+EN: Ain't you somethin'. Gotta say, I think a little better of ya now, {v3:11}!{p}
+
+## MBMS10 g1 s0124
+JP: いいとこ見せようと思ったのに…。{n}試験までにはもっと勉強しておこっと。{p}
+EN: I wanted to show off a little... I'll study more before the exam.{p}
+
+## MBMS10 g1 s0125
+JP: 響子先生いるかなあ…{n}でも、やけに静かだわ。{p}{end}
+EN: Wonder if Kyoko-sensei's around... It's awfully quiet, though.{p}{end}
+
+## MBMS10 g1 s0129
+JP: エッジをさがしてたんだよ{n}何でもないわ（逃げる）{p}{end}
+EN: I was looking for you, Edge{n}Nothing! (Run away){p}{end}
+
+## MBMS10 g1 s0130
+JP: な、何でもないよ。{n}あっ、もう帰んなきゃ。{n}じゃ、またね!{p}
+EN: N-nothing. Oh, I gotta get going. See ya!{p}
+
+## MBMS10 g1 s0132
+JP: ちょうどよかった、{n}エッジをさがしてたのよ。{p}{end}
+EN: Perfect timing, I was looking for you, Edge.{p}{end}
+
+## MBMS10 g1 s0151
+JP: 何か分からないけどもらい損ねたわ。{n}もっとジャス学の事を勉強しとかなきゃ。{p}
+EN: Not sure what it was, but I missed out. I'd better study up on Rival Schools.{p}
+
+## MBMS10 g1 s0152
+JP: あっ、響子先生!{p}{end}
+EN: Oh, Kyoko-sensei!{p}{end}
+
+## MBMS10 g1 s0155
+JP: 先生がグラウンドにいるのって{n}めずらしいですねぇ。{p}
+EN: It's rare to see you on the field, sensei.{p}
+
+## MBMS10 g1 s0163
+JP: まぁ、あんまり{n}無理しないでねってことなんだけど。{n}{v1}{col:0}さん{col:-}も気を付けてね!{p}
+EN: Well, the point is, don't push yourselves too hard. You be careful too, {v1}{col:0}-san{col:-}!{p}
+
+## MBMS10 g1 s0164
+JP: 大事な体なんだから。{n}でもトレーニングを{n}サボれって言ってるんじゃないのよ。{n}がんばってね{col:5}♥{col:-}{p}{end}
+EN: Your body's important. But I'm not telling you to skip training. Do your best{col:5}♥{col:-}{p}{end}
+
+## MBMS10 g1 s0166
+JP: そうそう!{n}ちょっと{v1}{col:0}さん{col:-}のことがね……{p}{end}
+EN: Oh, yes! I've got a little thing for {v1}{col:0}-san{col:-}......{p}{end}
+
+## MBMS10 g1 s0170
+JP: あっ、ロベルト。{n}……何やってるんだろう。{p}
+EN: Oh, it's Roberto. ...What's he up to?{p}
+
+## MBMS10 g1 s0172
+JP: 「よっよっよっと!」{n}よう!{v8:5}。{n}君もリフティングやってみないかい?{p}
+EN: "Hup, hup, hup!" Hey! {v8:5}. Wanna try juggling too?{p}
+
+## MBMS10 g1 s0173
+JP: よし!{sp}いっちょ、やってみようかな{n}サッカーは苦手だからやめとくわ{p}
+EN: Alright! Maybe I'll give it a shot{n}I'm bad at soccer, so I'll pass{p}
+
+## MBMS10 g1 s0204
+JP: あっ、ティファニーがいるわ。{n}……でも、{n}いつもと様子がちがうような…。{p}{end}
+EN: Oh, there's Tiffany. ...But she seems different than usual...{p}{end}
+
+## MBMS10 g1 s0207
+JP: なにか悩みでもあるの?{n}おなかでもすいてるの?{n}期末試験のことで心配事でもあるの?{n}恋わずらいかな?{p}{end}
+EN: Something bothering you?{n}Are you hungry?{n}Worried about the finals?{n}Are you lovesick?{p}{end}
+
+## MBMS10 g1 s0209
+JP: （アメリカ人も秋にはそんな{n}{sp}気持ちになるのね…。）{p}{end}
+EN: (So Americans get that way in autumn too...){p}{end}
+
+## MBMS10 g1 s0211
+JP: 何か食べにいこっか。{p}{end}
+EN: Wanna go get something to eat?{p}{end}
+
+## MBMS10 g1 s0214
+JP: 私だって全然だめだよ。{n}みんな同じなんだから。{n}ネっ、元気出して!{p}
+EN: I'm totally hopeless too. We're all in the same boat. Come on, cheer up!{p}
+
+## MBMS10 g1 s0220
+JP: （どうも恋わずらいでは{n}{sp}ないみたいね…。）{p}{end}
+EN: (Guess she's not lovesick after all...){p}{end}
+
+## MBMS10 g1 s0222
+JP: あっ、ボーマンがいるわ!{p}{end}
+EN: Oh, there's Boman!{p}{end}
+
+## MBMS10 g1 s0224
+JP: ボーマン、何してるの?{p}
+EN: Boman, what're you doing?{p}
+
+## MBMS10 g1 s0228
+JP: （………ココからだと{n}{sp}女子バレー部の練習も{n}{sp}よく見えるな……。{n}{sp}負けないように頑張らないと。）{p}{end}
+EN: (...From here you can see the girls' volleyball team practicing too... I'd better work hard so I don't fall behind.){p}{end}
+
+## MBMS10 g1 s0229
+JP: ボーマンに{v8:4}も{n}がんばってるねぇー{col:5}♥{col:-}{p}
+EN: Boman and {v8:4}, you're both working hard{col:5}♥{col:-}{p}
+
+## MBMS10 g1 s0230
+JP: よーし、もっとがんばるぞーっ!{n}（もしかしてボーマンはコレが目的{n}{sp}だったりして……。そんなわけないか）{p}{end}
+EN: Alright, time to work even harder! (Maybe this was Boman's goal all along... Nah, couldn't be.){p}{end}
+
+## MBMS10 g1 s0231
+JP: （思ったよりめちゃくちゃハードな{n}{sp}トレーニングね。{n}{sp}これは支えてるのがやっとだわ!）{p}{end}
+EN: (This training's way harder than I thought. I can barely hold it up!){p}{end}
+
+## MBMS10 g1 s0232
+JP: 大丈夫ですか{v5:8}。{n}冷や汗がでていますね。{n}きつければ無理しなくてもいいのですよ。{p}
+EN: Are you alright, {v5:8}? You are breaking out in a cold sweat. If it is too hard, you do not need to push yourself.{p}
+
+## MBMS10 g1 s0233
+JP: なにいってるのよ!{n}大丈夫に決まってるじゃない!{n}（といいつつホントはかなりキツイ……。{n}{sp}コレはかなりパワーと根性が付きそう。）{p}
+EN: What're you talking about! Of course I'm fine! (I say that, but it's really tough... This'll build some serious power and guts.){p}
+
+## MBMS10 g1 s0235
+JP: そうだね。私もやっとこうかな。{n}（ボーマンとトレーニングした。）{p}{end}
+EN: Yeah. Maybe I'll do it too. (I trained with Boman.){p}{end}
+
+## MBMS10 g1 s0236
+JP: じゃあボーマン、{n}自主トレがんばってね!{n}バイバーイ。{p}
+EN: See you, Boman. Good luck with your training! Bye-bye!{p}
+
+## MBMS10 g1 s0239
+JP: {v9:1}はトレーニング{n}しないんだね……。{n}せっかく体育館に来てるのにもったいない。{p}{end}
+EN: {v9:1}, you're not training, huh... What a waste, when you came all the way to the gym.{p}{end}
+

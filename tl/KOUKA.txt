@@ -1,0 +1,513 @@
+# School anthems (Extras > Anthem), KOUKA00-04.BIZ sheets.
+# One entry per KOUKA.BIN record. RO = sung romaji, EN = English.
+# RO is shown on top, EN below.
+
+## anthem 0 rec 0
+JP: 太陽学園校歌
+RO: Taiyou Gakuen Kouka
+EN: Taiyo High Anthem
+
+## anthem 0 rec 1
+JP: 作詞
+RO: 
+EN: Lyrics: Wataru Kanemoto
+
+## anthem 0 rec 2
+JP: （一番）
+RO: 
+EN: Verse 1
+
+## anthem 0 rec 3
+JP: 若葉薫る朝風を
+RO: wakaba kaoru asakaze o
+EN: Fresh leaves on morning wind
+
+## anthem 0 rec 4
+JP: 希望に溢れし陽をうけて
+RO: kibou ni afureshi hi o ukete
+EN: under a sun so full of hope
+
+## anthem 0 rec 5
+JP: 育て自由と友の輪よ
+RO: sodate jiyuu to tomo no wa yo
+EN: Grow, freedom and friendship!
+
+## anthem 0 rec 6
+JP: のばせ個性と愛する心
+RO: nobase kosei to aisuru kokoro
+EN: Nurture self and loving heart
+
+## anthem 0 rec 7
+JP: 自ら求めし真理に向かい
+RO: mizukara motomeshi shinri ni mukai
+EN: Toward the truth we each seek
+
+## anthem 0 rec 8
+JP: 捧げよ青春
+RO: sasageyo seishun ten takaku
+EN: Offer up your youth to heaven
+
+## anthem 0 rec 9
+JP: 燃やせ青春
+RO: moyase seishun kagayaku taiyou
+EN: Burn, youth! O shining sun!
+
+## anthem 0 rec 10
+JP: これぞ我らの太陽学園
+RO: kore zo warera no Taiyou Gakuen
+EN: This is our own Taiyo High!
+
+## anthem 0 rec 11
+JP: （二番）
+RO: 
+EN: Verse 2
+
+## anthem 0 rec 12
+JP: 新緑煌めく山の木々
+RO: shinryoku kirameku yama no kigi
+EN: Hills shine in fresh green
+
+## anthem 0 rec 13
+JP: 谷風集めし鳥高く
+RO: tanikaze atsumeshi tori takaku
+EN: Birds soar on the valley wind
+
+## anthem 0 rec 14
+JP: 集え
+RO: tsudoe tomo to manabiya de
+EN: Gather with friends at school
+
+## anthem 0 rec 15
+JP: 究めよ己の仁愛を
+RO: kiwame yo onore no jin'ai o
+EN: Master your own compassion
+
+## anthem 0 rec 16
+JP: 信じし絆
+RO: shinjishi kizuna yurugi naku
+EN: Bonds we believe in, unshaken
+
+## anthem 0 rec 17
+JP: 尽くせ青春
+RO: tsukuse seishun oshimi naku
+EN: Give all your youth freely
+
+## anthem 0 rec 18
+JP: 燃やせ青春
+RO: moyase seishun kagayaku taiyou
+EN: Burn, youth! O shining sun!
+
+## anthem 0 rec 19
+JP: これぞ我らの太陽学園
+RO: kore zo warera no Taiyou Gakuen
+EN: This is our own Taiyo High!
+
+## anthem 1 rec 0
+JP: 五輪高校校歌
+RO: Gorin Koukou Kouka
+EN: Gorin High Anthem
+
+## anthem 1 rec 1
+JP: 作詞
+RO: 
+EN: Lyrics: Iritaro Kiai
+
+## anthem 1 rec 2
+JP: （一番）
+RO: 
+EN: Verse 1
+
+## anthem 1 rec 3
+JP: 青き空の下
+RO: aoki sora no shita
+EN: Beneath the blue sky
+
+## anthem 1 rec 4
+JP: 友情の絆
+RO: yuujou no kizuna
+EN: the bonds of friendship
+
+## anthem 1 rec 5
+JP: 鍛えん
+RO: kitaen
+EN: we shall forge
+
+## anthem 1 rec 6
+JP: 誇り高き
+RO: hokori takaki
+EN: Proud and noble,
+
+## anthem 1 rec 7
+JP: 肉体に宿る
+RO: nikutai ni yadoru
+EN: dwelling in a strong body,
+
+## anthem 1 rec 8
+JP: 真実の精神
+RO: shinjitsu no seishin
+EN: a true and sound spirit
+
+## anthem 1 rec 9
+JP: 求める者がここに集う
+RO: motomeru mono ga koko ni tsudou
+EN: Those who seek it gather here
+
+## anthem 1 rec 10
+JP: 五輪
+RO: Gorin Gorin Gorin
+EN: Gorin! Gorin! Gorin!
+
+## anthem 1 rec 11
+JP: 五輪高校
+RO: Gorin Koukou
+EN: Gorin High!
+
+## anthem 1 rec 12
+JP: （二番）
+RO: 
+EN: Verse 2
+
+## anthem 1 rec 13
+JP: 勝利を目指す
+RO: shouri o mezasu
+EN: Striving for victory,
+
+## anthem 1 rec 14
+JP: 赤き血潮
+RO: akaki chishio
+EN: the red blood in us
+
+## anthem 1 rec 15
+JP: いま燃ゆる
+RO: ima moyuru
+EN: is burning now
+
+## anthem 1 rec 16
+JP: たゆまぬ努力に
+RO: tayumanu doryoku ni
+EN: Nothing in the world
+
+## anthem 1 rec 17
+JP: 勝るものはなし
+RO: masaru mono wa nashi
+EN: beats tireless effort
+
+## anthem 1 rec 18
+JP: 競へ
+RO: kisoe
+EN: Compete
+
+## anthem 1 rec 19
+JP: 明日の栄光に
+RO: asu no eikou ni
+EN: for tomorrow's glory!
+
+## anthem 1 rec 20
+JP: 五輪
+RO: Gorin Gorin Gorin
+EN: Gorin! Gorin! Gorin!
+
+## anthem 1 rec 21
+JP: 五輪高校
+RO: Gorin Koukou
+EN: Gorin High!
+
+## anthem 2 rec 0
+JP: パシフィックハイスクール校歌
+RO: Pashifikku Hai Sukuuru Kouka
+EN: Pacific High Anthem
+
+## anthem 2 rec 1
+JP: 作詞トム・トラボルタ・ヒデ
+RO: 
+EN: Lyrics: Tom Travolta Hide
+
+## anthem 2 rec 2
+JP: （一番）
+RO: 
+EN: Verse 1
+
+## anthem 2 rec 3
+JP: 遥か祖国を後にして
+RO: haruka sokoku o ato ni shite
+EN: Our homelands far behind us,
+
+## anthem 2 rec 4
+JP: ここは極東学びの地
+RO: koko wa kyokutou manabi no chi
+EN: here in the Far East we learn
+
+## anthem 2 rec 5
+JP: COME
+RO: come on kyou kara
+EN: Come on! Starting today
+
+## anthem 2 rec 6
+JP: YOUたちは
+RO: you tachi wa
+EN: all you guys
+
+## anthem 2 rec 7
+JP: COME
+RO: come on
+EN: Come on!
+
+## anthem 2 rec 8
+JP: 僕らのフレンドさ
+RO: bokura no furendo sa
+EN: are friends of ours!
+
+## anthem 2 rec 9
+JP: 育て未来のプレジデント
+RO: sodate mirai no purejidento
+EN: Grow, future presidents!
+
+## anthem 2 rec 10
+JP: 育て未来のMVP
+RO: sodate mirai no MVP
+EN: Grow, future MVPs!
+
+## anthem 2 rec 11
+JP: A～Ah～パシフィック
+RO: a ah Pashifikku
+EN: Ah, ahh, Pacific!
+
+## anthem 2 rec 12
+JP: パシフィック
+RO: Pashifikku my bokou
+EN: Pacific, my alma mater!
+
+## anthem 2 rec 13
+JP: （二番）
+RO: 
+EN: Verse 2
+
+## anthem 2 rec 14
+JP: 太平洋を見下ろして
+RO: taiheiyou o mioroshite
+EN: Overlooking the Pacific,
+
+## anthem 2 rec 15
+JP: ここは亜細亜のパシフィック
+RO: koko wa Ajia no Pashifikku
+EN: Pacific, right here in Asia
+
+## anthem 2 rec 16
+JP: LET'S
+RO: let's go
+EN: Let's go!
+
+## anthem 2 rec 17
+JP: 今日からMEたちは
+RO: kyou kara me tachi wa
+EN: Starting today, we
+
+## anthem 2 rec 18
+JP: LET'S
+RO: let's go
+EN: Let's go!
+
+## anthem 2 rec 19
+JP: 青春フリーダム
+RO: seishun furiidamu
+EN: are young and free!
+
+## anthem 2 rec 20
+JP: 育て未来のミリオネアー
+RO: sodate mirai no mirioneaa
+EN: Grow, future millionaires!
+
+## anthem 2 rec 21
+JP: 育て未来のパトリオット
+RO: sodate mirai no patoriotto
+EN: Grow, future patriots!
+
+## anthem 2 rec 22
+JP: O～Oh～パシフィック
+RO: o oh Pashifikku
+EN: Oh, ohh, Pacific!
+
+## anthem 2 rec 23
+JP: パシフィック
+RO: Pashifikku my bokou
+EN: Pacific, my alma mater!
+
+## anthem 3 rec 0
+JP: 外道高校校歌
+RO: Gedou Koukou Kouka
+EN: Gedo High Anthem
+
+## anthem 3 rec 1
+JP: 作詞
+RO: 
+EN: Lyrics: Tatsuya Kiwami
+
+## anthem 3 rec 2
+JP: （一番）
+RO: 
+EN: Verse 1
+
+## anthem 3 rec 3
+JP: 男の進むべき道は
+RO: otoko no susumu beki michi wa
+EN: The path a man must take
+
+## anthem 3 rec 4
+JP: 暗くて険しい外道の道なり
+RO: kurakute kewashii gedou no michi nari
+EN: is Gedo's dark, steep road
+
+## anthem 3 rec 5
+JP: 修羅の心で仁を貫き
+RO: shura no kokoro de jin o tsuranuki
+EN: Asura-hearted, hold to mercy
+
+## anthem 3 rec 6
+JP: 羅刹の心で義を通す
+RO: rasetsu no kokoro de gi o toosu
+EN: Fiend-hearted, stand by honor
+
+## anthem 3 rec 7
+JP: ここは男を学ぶ道
+RO: koko wa otoko o manabu michi
+EN: This road makes us men
+
+## anthem 3 rec 8
+JP: 外道高校ここにあり
+RO: Gedou Koukou koko ni ari
+EN: Here stands Gedo High!
+
+## anthem 3 rec 9
+JP: （二番）
+RO: 
+EN: Verse 2
+
+## anthem 3 rec 10
+JP: 男が歩むべき道は
+RO: otoko ga ayumu beki michi wa
+EN: The road a man must walk
+
+## anthem 3 rec 11
+JP: 遠くて険しい外道の道なり
+RO: tookute kewashii gedou no michi nari
+EN: is Gedo's long, steep road
+
+## anthem 3 rec 12
+JP: 鬼の心で正義を貫き
+RO: oni no kokoro de seigi o tsuranuki
+EN: Oni-hearted, hold to justice
+
+## anthem 3 rec 13
+JP: 仏の心で悪を斬る
+RO: hotoke no kokoro de aku o kiru
+EN: Buddha-hearted, cut down evil
+
+## anthem 3 rec 14
+JP: ここは心を鍛える道
+RO: koko wa kokoro o kitaeru michi
+EN: This road forges our hearts
+
+## anthem 3 rec 15
+JP: 外道高校ここにあり
+RO: Gedou Koukou koko ni ari
+EN: Here stands Gedo High!
+
+## anthem 4 rec 0
+JP: ジャスティス学園校歌
+RO: Jasutisu Gakuen Kouka
+EN: Justice High Anthem
+
+## anthem 4 rec 1
+JP: 作詞Ａ・Ｋ
+RO: 
+EN: Lyrics: A.K.
+
+## anthem 4 rec 2
+JP: （一番）
+RO: 
+EN: Verse 1
+
+## anthem 4 rec 3
+JP: 明日の日本を創り出す
+RO: ashita no Nihon o tsukuridasu
+EN: To build tomorrow's Japan
+
+## anthem 4 rec 4
+JP: 若き力を磨くため
+RO: wakaki chikara o migaku tame
+EN: we hone the strength of youth
+
+## anthem 4 rec 5
+JP: 信じよ内なる正義の心
+RO: shinjiyo uchinaru seigi no kokoro
+EN: Believe in the justice within
+
+## anthem 4 rec 6
+JP: 迷いの中を真っすぐに
+RO: mayoi no naka o massugu ni
+EN: Straight on through all doubt
+
+## anthem 4 rec 7
+JP: 悪を許さぬ魂は
+RO: aku o yurusanu tamashii wa
+EN: A soul that won't abide evil
+
+## anthem 4 rec 8
+JP: 清く正しく美しく
+RO: kiyoku tadashiku utsukushiku
+EN: is pure, just and beautiful
+
+## anthem 4 rec 9
+JP: 仰げ母校の誠の教え
+RO: aoge bokou no makoto no oshie
+EN: Honor our school's true creed
+
+## anthem 4 rec 10
+JP: 偉大な学舎ジャスティス学園
+RO: idai na manabiya Jasutisu Gakuen
+EN: Our great Justice High!
+
+## anthem 4 rec 11
+JP: （二番）
+RO: 
+EN: Verse 2
+
+## anthem 4 rec 12
+JP: 日本の未来を切り開く
+RO: Nihon no mirai o kirihiraku
+EN: To forge the future of Japan
+
+## anthem 4 rec 13
+JP: 強き心を宿すため
+RO: tsuyoki kokoro o yadosu tame
+EN: we keep strong hearts within
+
+## anthem 4 rec 14
+JP: 鍛えよ己の英知と身体
+RO: kitaeyo onore no eichi to karada
+EN: Train your mind and your body
+
+## anthem 4 rec 15
+JP: 揮えぬ正義は無力なり
+RO: furuenu seigi wa muryoku nari
+EN: Justice unused is powerless
+
+## anthem 4 rec 16
+JP: 尽心貫く魂は
+RO: jinshin tsuranuku tamashii wa
+EN: A soul devoted to the end
+
+## anthem 4 rec 17
+JP: 強く優しく逞しく
+RO: tsuyoku yasashiku takumashiku
+EN: is strong, gentle and tough
+
+## anthem 4 rec 18
+JP: 抱け母校の真理の調べ
+RO: idake bokou no shinri no shirabe
+EN: Embrace our song of truth
+
+## anthem 4 rec 19
+JP: 理想の学舎ジャスティス学園
+RO: risou no manabiya Jasutisu Gakuen
+EN: Justice High, our ideal!

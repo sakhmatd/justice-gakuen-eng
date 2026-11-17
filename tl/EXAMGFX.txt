@@ -1,0 +1,45 @@
+# Exam image text: CEFT4 (start/end, HUD), SIKEN2 (results sheet, practice
+# menu, stamps), SIKEN1 (Exam Practice menu).
+# Lesson names (subjNN, menu_subjNN) come from the title: lines in EXAM.txt.
+# '|' forces a line break.
+# Comment line 1 is built as: subject + res_no + stat + res_ga, line 2 is
+# one of comment0-5 (comment0 alone on line 1 when every score is 100).
+start: TEST|START
+end: TIME|UP
+hud_subject: Subj
+res_header: RESULTS
+res_col_subject: Subject
+res_col_action: Action
+res_col_accuracy: Accuracy
+res_col_speed: Speed
+res_col_grade: Grade
+res_total: Total
+res_t_gakki: Term
+res_t_chukan: Midterm
+res_t_kimatsu: Final
+res_t_gakunen: Year-End Exam
+res_t_nyugaku: Entrance Exam
+res_no:  - 
+res_ga: :
+comment0: Hats off to ya!
+comment1: Your weakest, but still plenty!
+comment2: So close! Keep at it!
+comment3: So-so. Keep training!
+comment4: That'll get you killed in a real fight!
+comment5: A total mess!
+pr_again: Review Again
+pr_other: Practice Another
+pr_title: Back to Title
+pr_back: Back
+stamp_pass: PASSED
+stamp_fail: FAILED
+menu_header: EXAM SKILLS
+menu_q_exam: Which exam will you study for?
+menu_nyugaku: Entrance Exam
+menu_exam3: 1st Term Midterm
+menu_exam4: 1st Term Final
+menu_exam5: 2nd Term Midterm
+menu_exam6: 2nd Term Final
+menu_exam7: Year-End Exam
+menu_q_subj: Which subject will you focus on?
+menu_kamoku: Subj

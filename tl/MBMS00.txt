@@ -1,0 +1,928 @@
+## MBMS00 g0 s0000
+JP: {col:0}名{sp}前{n}性{sp}別{sp}{sp}{sp}{sp}{sp}{sp}タイプ{n}生月日{sp}{sp}{sp}{col:-}月{sp}{sp}{sp}日{n}{col:0}得{sp}意{sp}{sp}{sp}{sp}{sp}{sp}苦{sp}手{n}{sp}{sp}{sp}<友好度>{p}{end}
+EN: {col:0}Name{n}Sex               Type{n}Bday        {col:-}/{n}{col:0}Good              Weak{n}      <Affinity>{p}{end}
+
+## MBMS00 g0 s0001
+JP: バ{sp}ツ{sp}{sp}{sp}ひなた{sp}{sp}{sp}恭{sp}介{n}将{sp}馬{sp}{sp}{sp}{sp}夏{sp}{sp}{sp}{sp}ロベルト{n}ロ{sp}イ{sp}{sp}{sp}ティファニー{sp}{sp}{sp}ボーマン{p}
+EN: Batsu       Hinata      Kyosuke{n}Shoma       Natsu       Roberto{n}Roy         Tiffany     Boman{p}
+
+## MBMS00 g0 s0002
+JP: エッジ{sp}{sp}{sp}アキラ{sp}{sp}{sp}{sp}岩{n}英{sp}雄{sp}{sp}{sp}響{sp}子{sp}{sp}{sp}雷{sp}蔵{n}{sp}雹{sp}{sp}{sp}{sp}隼{sp}人{sp}{sp}{sp}醍{sp}醐{p}{end}
+EN: Edge        Akira       Gan{n}Hideo       Kyoko       Raizo{n}Hyo         Hayato      Daigo{p}{end}
+
+## MBMS00 g0 s0003
+JP: {col:0}アイテム数{p}
+EN: {col:0}Items{p}
+
+## MBMS00 g0 s0004
+JP: 男女{p}{end}
+EN: {g:193}{g:194}{p}{end}
+
+## MBMS00 g0 s0005
+JP: 連続攻撃一撃必殺空中殺法肉体防壁熱血根性{p}{end}
+EN: Combo   Power   Aerial  Defense Spirit  {p}{end}
+
+## MBMS00 g0 s0006
+JP: 英語数学国語理科社会体育音楽美術{p}{end}
+EN: Eng.MathJpn.Sci.Soc.P.E.Mus.Art.{p}{end}
+
+## MBMS00 g0 s0007
+JP: {sp}1{sp}2{sp}3{sp}4{sp}5{sp}6{sp}7{sp}8{sp}910111213141516171819202122232425262728293031{p}{end}
+EN: =
+
+## MBMS00 g0 s0008
+JP: {col:0}EXIT={col:9}{CROSS}{col:-}{p}{end}
+EN: =
+
+## MBMS00 g1 s0000
+JP: {col:0}入学式{col:-}{n}{col:1}{sp}4月{sp}6日{col:-}{n}新一年生が入学する日です。{p}{end}
+EN: {col:0}Entrance Ceremony{col:-}{n}{col:1}Apr. 6{col:-}{n}The day new first-years start school.{p}{end}
+
+## MBMS00 g1 s0001
+JP: {col:0}1学期中間試験{col:-}{n}{col:1}{sp}5月25日{col:-}{n}『私立ジャスティス学園』ならではの、{n}基礎を修得する試験です。{p}{end}
+EN: {col:0}1st Term Midterm Exam{col:-}{n}{col:1}May 25{col:-}{n}A Justice High exam to master the basics.{p}{end}
+
+## MBMS00 g1 s0002
+JP: {col:0}太P戦{col:-}{n}{col:1}{sp}6月12日{col:-}{n}太陽学園{sp}対{sp}パシフィックHSの{n}対抗戦です。{p}{end}
+EN: {col:0}Taiyo-Pacific Match{col:-}{n}{col:1}Jun. 12{col:-}{n}The rivalry match between Taiyo High and Pacific High.{p}{end}
+
+## MBMS00 g1 s0003
+JP: {col:0}1学期期末試験{col:-}{n}{col:1}{sp}7月{sp}6日{col:-}{n}『私立ジャスティス学園』の、{n}攻守の基礎を修得する試験です。{p}
+EN: {col:0}1st Term Final Exam{col:-}{n}{col:1}Jul. 6{col:-}{n}A Justice High exam to master the basics of attack and defense.{p}
+
+## MBMS00 g1 s0004
+JP: {col:0}臨海合宿{col:-}{n}{col:1}{sp}8月14日{col:-}{n}夏の海で体を鍛える、{n}二日間の合宿をおこないます。{p}
+EN: {col:0}Seaside Camp{col:-}{n}{col:1}Aug. 14{col:-}{n}A two-day camp to train your body by the summer sea.{p}
+
+## MBMS00 g1 s0005
+JP: {col:0}学園祭{col:-}{n}{col:1}{sp}9月26日{col:-}{n}色々な催し物に参加できます。{p}
+EN: {col:0}School Festival{col:-}{n}{col:1}Sep. 26{col:-}{n}You can join all kinds of events.{p}
+
+## MBMS00 g1 s0006
+JP: {col:0}2学期中間試験{col:-}{n}{col:1}10月26日{col:-}{n}『私立ジャスティス学園』ならではの、{n}攻撃の応用を修得する試験です。{p}
+EN: {col:0}2nd Term Midterm Exam{col:-}{n}{col:1}Oct. 26{col:-}{n}A Justice High exam to master applied attack techniques.{p}
+
+## MBMS00 g1 s0007
+JP: {col:0}五輪祭{col:-}{n}{col:1}11月28日{col:-}{n}五輪高校主催の体育祭です。{p}{end}
+EN: {col:0}Gorin Festival{col:-}{n}{col:1}Nov. 28{col:-}{n}A sports festival hosted by Gorin High.{p}{end}
+
+## MBMS00 g1 s0008
+JP: {col:0}2学期期末試験{col:-}{n}{col:1}12月14日{col:-}{n}『私立ジャスティス学園』ならではの、{n}上級テクニックを修得する試験です。{p}
+EN: {col:0}2nd Term Final Exam{col:-}{n}{col:1}Dec. 14{col:-}{n}A Justice High exam to master advanced techniques.{p}
+
+## MBMS00 g1 s0009
+JP: {col:0}クリスマス{col:-}{n}{col:1}12月24日{col:-}{n}ボーマンの知り合いの教会主催の{n}クリスマス・パーティに参加します。{p}{end}
+EN: {col:0}Christmas{col:-}{n}{col:1}Dec. 24{col:-}{n}A Christmas party at a church that Boman knows.{p}{end}
+
+## MBMS00 g1 s0010
+JP: {col:0}正月{col:-}{n}{col:1}{sp}1月{sp}1日{col:-}{n}元旦です。{n}初詣にいくことができます。{p}
+EN: {col:0}New Year's Day{col:-}{n}{col:1}Jan. 1{col:-}{n}It's New Year's Day. You can make your first shrine visit.{p}
+
+## MBMS00 g1 s0011
+JP: {col:0}バレンタインデー{col:-}{n}{col:1}{sp}2月14日{col:-}{n}女の子が好きな子にチョコレートを{n}プレゼントする日です。{p}{end}
+EN: {col:0}Valentine's Day{col:-}{n}{col:1}Feb. 14{col:-}{n}The day girls give chocolate to the one they like.{p}{end}
+
+## MBMS00 g1 s0012
+JP: {col:0}学年末試験{col:-}{n}{col:1}{sp}3月{sp}8日{col:-}{n}一年間の試験の総括をおこないます。{p}{end}
+EN: {col:0}Year-End Exam{col:-}{n}{col:1}Mar. 8{col:-}{n}A review of the whole year's exams.{p}{end}
+
+## MBMS00 g1 s0013
+JP: {col:0}進級テスト{col:-}{n}{col:1}{sp}3月20日{col:-}{n}試験官である熱血隼人先生自身が{n}対戦者となり、進級テストをおこないます。{p}
+EN: {col:0}Promotion Test{col:-}{n}{col:1}Mar. 20{col:-}{n}Examiner Hayato-sensei himself is your opponent in the promotion test.{p}
+
+## MBMS00 g1 s0014
+JP: {col:0}終業式{col:-}{n}{col:1}{sp}3月24日{col:-}{n}一年のしめくくりの日です。{p}{end}
+EN: {col:0}Closing Ceremony{col:-}{n}{col:1}Mar. 24{col:-}{n}The last day of the school year.{p}{end}
+
+## MBMS00 g2 s0000
+JP: {col:1}{sp}5月{sp}1日{col:-}{n}普段からトレーニングはしてるけど、月に{n}一回くらい重点的にきたえておかないとな。{n}毎月1日には自主トレをすることにしよう。{p}{end}
+EN: {col:1}May 1{col:-}{n}I train every day, but once a month I should really push myself. I'll do solo training on the 1st of each month.{p}{end}
+
+## MBMS00 g2 s0001
+JP: {col:1}{sp}6月{sp}1日{col:-}{n}梅雨も近いが、今日はウソのように{n}晴れ上がっている。{n}こういう日は自主トレでもして汗を流そう。{p}{end}
+EN: {col:1}Jun. 1{col:-}{n}The rainy season is close, but today it's unbelievably sunny. A good day to sweat it out training.{p}{end}
+
+## MBMS00 g2 s0002
+JP: {col:1}{sp}7月{sp}1日{col:-}{n}日差しが強くなってきた。{n}夏も近いことだし、今日も自主トレを{n}がんばるとしよう。{p}
+EN: {col:1}Jul. 1{col:-}{n}The sun is getting stronger. Summer's almost here, so I'll train hard today too.{p}
+
+## MBMS00 g2 s0003
+JP: {col:1}{sp}8月{sp}1日{col:-}{n}今月は臨海合宿がある。{n}水着になって恥ずかしくないように{n}鍛えておかないとな。{p}{end}
+EN: {col:1}Aug. 1{col:-}{n}The seaside camp is this month. I need to get in shape so I'm not embarrassed in a swimsuit.{p}{end}
+
+## MBMS00 g2 s0004
+JP: {col:1}{sp}9月{sp}1日{col:-}{n}夏も終わり、今日から2学期だ。{n}……さて、始業式も済んだことだし、{n}いつものように、自主トレをしよう。{p}{end}
+EN: {col:1}Sep. 1{col:-}{n}Summer's over and the 2nd term starts today. ...The opening ceremony is done, so time for my usual training.{p}{end}
+
+## MBMS00 g2 s0005
+JP: {col:1}10月{sp}1日{col:-}{n}風が涼しくなってきた。{n}一年も残り半分。{n}がんばって鍛えないとな。{p}{end}
+EN: {col:1}Oct. 1{col:-}{n}The wind is getting cooler. Half the year is left. I need to keep training hard.{p}{end}
+
+## MBMS00 g2 s0006
+JP: {col:1}11月{sp}1日{col:-}{n}今月は五輪祭だ。{n}自主トレも大事だが、参加種目の練習も{n}しといたほうがいいかな。{p}
+EN: {col:1}Nov. 1{col:-}{n}The Gorin Festival is this month. Training matters, but I should practice for my events too.{p}
+
+## MBMS00 g2 s0007
+JP: {col:1}12月{sp}1日{col:-}{n}だいぶ肌寒くなってきた。{n}今年もあと一ヶ月。{n}期末試験もあるし、気合いをいれていこう。{p}{end}
+EN: {col:1}Dec. 1{col:-}{n}It's getting pretty chilly. One month left this year, and finals too. Time to get fired up.{p}{end}
+
+## MBMS00 g2 s0008
+JP: {col:1}{sp}1月{sp}1日{col:-}{n}元旦だ。一年の計は元旦にありという。{n}初詣に行く前に、ちょっと自主トレでも{n}していくか。{p}
+EN: {col:1}Jan. 1{col:-}{n}New Year's Day. They say the year's plans are made today. Maybe I'll train a bit before my shrine visit.{p}
+
+## MBMS00 g2 s0009
+JP: {col:1}{sp}2月{sp}1日{col:-}{n}寒風が身体に応える。{n}まだトレーニング足りない証拠だな…。{n}みっちり自主トレしないと…。{p}
+EN: {col:1}Feb. 1{col:-}{n}The cold wind cuts right through me. Proof I haven't trained enough... I need to train hard...{p}
+
+## MBMS00 g2 s0010
+JP: {col:1}{sp}3月{sp}1日{col:-}{n}長い一年だったが、あと一月で終わりだ。{n}隼人先生にバカにされないように、{n}しっかり鍛えておかないとな…。{p}
+EN: {col:1}Mar. 1{col:-}{n}It's been a long year, but one month to go. I'd better train hard so Hayato-sensei won't laugh at me...{p}
+
+## MBMS00 g2 s0011
+JP: 何をしようか?{p}
+EN: What should I do?{p}
+
+## MBMS00 g2 s0012
+JP: 同じトレーニングのやりすぎで、{n}身体が動かない…{n}適度に他のトレーニングもやった方が{n}いいみたいだ…。{p}
+EN: I overdid the same training and my body won't move... I should mix in other kinds of training...{p}
+
+## MBMS00 g2 s0013
+JP: 本の読み過ぎで、今日はアタマが{n}働かないな…。{n}適度に他のトレーニングもやった方が{n}いいみたいだ…。{p}{end}
+EN: I read too much and my brain isn't working today... I should mix in other kinds of training...{p}{end}
+
+## MBMS00 g2 s0014
+JP: {col:1}{sp}4月15日{sp}第3水曜日{col:-}{n}授業は終わったが、今日は特に予定がない。{n}家に帰っても仕方がないし、{n}たまには校内をブラブラしてみよう。{p}
+EN: {col:1}Apr. 15, 3rd Wednesday{col:-}{n}Classes are over and I have no plans today. No point going home, so I'll wander around school for a change.{p}
+
+## MBMS00 g2 s0015
+JP: {col:1}{sp}5月20日{col:-}{n}今日は特に予定がない。{n}どこかにいってみよう。{p}{end}
+EN: {col:1}May 20{col:-}{n}No plans today. Let's go somewhere.{p}{end}
+
+## MBMS00 g2 s0016
+JP: {col:1}{sp}6月17日{col:-}{n}今日も特に予定がない。{n}たまには校内をブラブラしてみよう。{p}{end}
+EN: {col:1}Jun. 17{col:-}{n}No plans again today. I'll wander around school for a change.{p}{end}
+
+## MBMS00 g2 s0017
+JP: {col:1}{sp}7月15日{col:-}{n}夏も近づき、授業中は暑くてツライ…。{n}やっと授業は終わったものの、今日は予定が{n}ない。どこかにいってみよう。{p}
+EN: {col:1}Jul. 15{col:-}{n}Summer's coming and class is too hot to bear... Classes are finally over, but I have no plans. Let's go somewhere.{p}
+
+## MBMS00 g2 s0018
+JP: {col:1}{sp}8月19日{col:-}{n}夏休み中だが、ちょっと学校に来てみた。{n}せっかくだから、もう少し校内を{n}ブラブラしてみよう。{p}
+EN: {col:1}Aug. 19{col:-}{n}It's summer break, but I came to school anyway. Since I'm here, I'll wander around a little more.{p}
+
+## MBMS00 g2 s0019
+JP: {col:1}{sp}9月16日{col:-}{n}ツライ授業も終わった。{n}今日もとくに予定はないので、{n}どこかにいってみようか?{p}{end}
+EN: {col:1}Sep. 16{col:-}{n}Grueling classes are over. I have no plans today either, so why not go somewhere?{p}{end}
+
+## MBMS00 g2 s0020
+JP: {col:1}10月21日{col:-}{n}今日も校内をブラブラしてみよう。{n}どこへいこうかな。{p}
+EN: {col:1}Oct. 21{col:-}{n}I'll wander around school again today. Where should I go?{p}
+
+## MBMS00 g2 s0021
+JP: {col:1}11月18日{col:-}{n}授業は終わったが、今日もヒマだ。{n}校内を少しブラブラしてみるか…。{p}{end}
+EN: {col:1}Nov. 18{col:-}{n}Classes are over, and I'm bored again. Maybe I'll wander around school a bit...{p}{end}
+
+## MBMS00 g2 s0022
+JP: {col:1}12月16日{col:-}{n}クリスマスも近づいてきた。{n}なんとなくみんな浮かれ気分だ。{n}こんな日は校内を少しブラついてみよう。{p}{end}
+EN: {col:1}Dec. 16{col:-}{n}Christmas is getting close. Everyone seems to be in a festive mood. A good day to wander around school.{p}{end}
+
+## MBMS00 g2 s0023
+JP: {col:1}{sp}1月20日{col:-}{n}今日も特に予定はない。{n}さて、どこにいってみるかな。{p}
+EN: {col:1}Jan. 20{col:-}{n}No special plans today. Now, where should I go?{p}
+
+## MBMS00 g2 s0024
+JP: {col:1}{sp}2月17日{col:-}{n}今年もあと少しだし、{n}せっかくだから校内を{n}少しブラブラしてみよう。{p}
+EN: {col:1}Feb. 17{col:-}{n}The year is almost over, so I might as well wander around school a bit.{p}
+
+## MBMS00 g2 s0025
+JP: どこへいこうか?{p}{end}
+EN: Where should I go?{p}{end}
+
+## MBMS00 g2 s0026
+JP: 教室に残っていよう。{p}{end}
+EN: I'll stay in the classroom.{p}{end}
+
+## MBMS00 g2 s0027
+JP: グラウンドに行ってみよう。{p}
+EN: Let's go to the field.{p}
+
+## MBMS00 g2 s0028
+JP: 屋上に上ってみようか。{p}
+EN: Maybe I'll go up to the roof.{p}
+
+## MBMS00 g2 s0029
+JP: 体育館に行ってみよう。{p}
+EN: Let's go to the gym.{p}
+
+## MBMS00 g2 s0030
+JP: 保健室にでも行ってみるか。{p}
+EN: Maybe I'll drop by the nurse's office.{p}
+
+## MBMS00 g2 s0031
+JP: 教室にもどってみるか。{p}
+EN: Maybe I'll head back to the classroom.{p}
+
+## MBMS00 g2 s0032
+JP: {sp}{sp}月{sp}{sp}日。{p}
+EN:     /       . {p}
+
+## MBMS00 g2 s0033
+JP: {p}{end}
+EN: =
+
+## MBMS00 g2 s0034
+JP: {col:1}{sp}5月25日{col:-}{n}今日は1学期の中間試験がある。{n}そろそろ試験のある体育館へいくか。{p}{end}
+EN: {col:1}May 25{col:-}{n}Today is the 1st term midterm exam. I'd better head to the gym where it's held.{p}{end}
+
+## MBMS00 g2 s0035
+JP: {col:1}{sp}6月12日{col:-}{n}今日は太P戦の最終日にあたる日だ。{p}{end}
+EN: {col:1}Jun. 12{col:-}{n}Today is the last day of the Taiyo-Pacific Match.{p}{end}
+
+## MBMS00 g2 s0036
+JP: {col:1}{sp}7月{sp}6日{col:-}{n}もう1学期の期末試験だ。{n}どうしよう……。{p}{end}
+EN: {col:1}Jul. 6{col:-}{n}It's already the 1st term final exam. What do I do...{p}{end}
+
+## MBMS00 g2 s0037
+JP: {col:1}{sp}8月14日{col:-}{n}今日は夏のお楽しみ、臨海合宿だ。{n}さて、準備もできたことだし、{n}そろそろ出発するか。{p}
+EN: {col:1}Aug. 14{col:-}{n}Today is the summer treat, the seaside camp! I'm all packed, so I'd better get going.{p}
+
+## MBMS00 g2 s0038
+JP: {col:1}{sp}9月26日{col:-}{n}今日は学園祭だ。{p}
+EN: {col:1}Sep. 26{col:-}{n}Today is the school festival.{p}
+
+## MBMS00 g2 s0039
+JP: {col:1}10月26日{col:-}{n}今日は2学期の中間試験がある。{n}隼人先生に怒られないように、{n}そろそろ体育館へ行くか。{p}{end}
+EN: {col:1}Oct. 26{col:-}{n}Today is the 2nd term midterm exam. I'd better get to the gym before Hayato-sensei gets mad.{p}{end}
+
+## MBMS00 g2 s0040
+JP: {col:1}11月28日{col:-}{n}今日は一年に一度のイベント、五輪祭だ。{p}{end}
+EN: {col:1}Nov. 28{col:-}{n}Today is the once-a-year event, the Gorin Festival.{p}{end}
+
+## MBMS00 g2 s0041
+JP: {col:1}12月14日{col:-}{n}今日は2学期の期末試験だ。{n}今年もあと少しだし、気合い入れていくか。{p}
+EN: {col:1}Dec. 14{col:-}{n}Today is the 2nd term final exam. The year's almost over, so let's get fired up.{p}
+
+## MBMS00 g2 s0042
+JP: {col:1}12月24日{col:-}{n}今日は、待ちに待ったクリスマス・イブだ。{n}教会のパーティに誘われているので、{n}いってみよう。{p}
+EN: {col:1}Dec. 24{col:-}{n}It's the long-awaited Christmas Eve! I was invited to the church party, so let's go.{p}
+
+## MBMS00 g2 s0043
+JP: さて、一汗流したところで、{n}正月気分でも味わおうかな。{p}
+EN: Now that I've worked up a sweat, maybe I'll enjoy some New Year's spirit.{p}
+
+## MBMS00 g2 s0044
+JP: {col:1}{sp}2月14日{col:-}{n}今日はバレンタインデーだ。{p}{end}
+EN: {col:1}Feb. 14{col:-}{n}Today is Valentine's Day.{p}{end}
+
+## MBMS00 g2 s0045
+JP: {col:1}{sp}3月{sp}8日{col:-}{n}今日は学年末試験がある。{n}早く行かないと、隼人先生に{n}どやされるな…。{p}{end}
+EN: {col:1}Mar. 8{col:-}{n}Today is the year-end exam. If I'm not quick, Hayato-sensei will chew me out...{p}{end}
+
+## MBMS00 g2 s0046
+JP: {col:1}{sp}3月20日{col:-}{n}今日は今年最後の試験、進級試験がある。{n}隼人先生を最後に一発見返してやるか!{p}
+EN: {col:1}Mar. 20{col:-}{n}Today is the last exam of the year, the promotion test. Time to finally show Hayato-sensei what I've got!{p}
+
+## MBMS00 g2 s0047
+JP: {col:1}{sp}3月24日{col:-}{n}長かった一年も終わり、今日は終業式だ。{p}{end}
+EN: {col:1}Mar. 24{col:-}{n}The long year is over. Today is the closing ceremony.{p}{end}
+
+## MBMS00 g3 s0000
+JP: {col:1}{sp}5月{sp}1日{col:-}{n}普段からトレーニングはしてるけど、月に{n}一回くらい重点的にきたえておかないとネ。{n}毎月1日には自主トレをすることにしよう。{p}{end}
+EN: {col:1}May 1{col:-}{n}I train all the time, but once a month I should really push myself. I'll do solo training on the 1st of each month.{p}{end}
+
+## MBMS00 g3 s0001
+JP: {col:1}{sp}6月{sp}1日{col:-}{n}梅雨も近いが、今日はウソのように{n}天気がいいな。こういう日は自主トレでも{n}して汗を流すのがいいかも。{p}
+EN: {col:1}Jun. 1{col:-}{n}The rainy season is close, but the weather is amazing today. Maybe a good day to sweat it out training.{p}
+
+## MBMS00 g3 s0002
+JP: {col:1}{sp}7月{sp}1日{col:-}{n}今年もだんだん日差しが強くなってきたわ。{n}あんまり日焼けしないようにしないとね…{n}さぁ、今日も自主トレがんばろっと。{p}
+EN: {col:1}Jul. 1{col:-}{n}The sun is getting stronger. I'd better not get too tanned... Okay, time for training today too!{p}
+
+## MBMS00 g3 s0003
+JP: {col:1}{sp}8月{sp}1日{col:-}{n}今月は臨海合宿があるし、水着になって{n}恥ずかしくないようにちゃんと{n}運動しとかないとね。{p}
+EN: {col:1}Aug. 1{col:-}{n}The seaside camp is this month. I need to exercise so I'm not embarrassed in a swimsuit.{p}
+
+## MBMS00 g3 s0004
+JP: {col:1}{sp}9月{sp}1日{col:-}{n}夏も終わり、今日から2学期。{n}……さァ、始業式も済んだことだし、{n}いつものように、自主トレをしよっと。{p}{end}
+EN: {col:1}Sep. 1{col:-}{n}Summer's over and the 2nd term starts today. ...Okay, the opening ceremony is done, so time for my usual training.{p}{end}
+
+## MBMS00 g3 s0005
+JP: {col:1}10月{sp}1日{col:-}{n}風が涼しくなってきたなァ。{n}一年も残り半分。{n}がんばって鍛えないとネ。{p}{end}
+EN: {col:1}Oct. 1{col:-}{n}The wind is getting cooler. Half the year is left. I need to keep training hard!{p}{end}
+
+## MBMS00 g3 s0006
+JP: {col:1}11月{sp}1日{col:-}{n}今月は五輪祭もあるし、{n}自主トレも大事だけど、参加種目の練習も{n}しといたほうがいいかな。{p}
+EN: {col:1}Nov. 1{col:-}{n}The Gorin Festival is this month. Training matters, but I should practice for my events too.{p}
+
+## MBMS00 g3 s0007
+JP: {col:1}12月{sp}1日{col:-}{n}だいぶ寒くなってきたなァ。{n}今年もあと一ヶ月。期末試験もあるし、{n}気合いをいれてがんばろっと。{p}{end}
+EN: {col:1}Dec. 1{col:-}{n}It's getting pretty cold. One month left this year, and finals too. Time to get fired up!{p}{end}
+
+## MBMS00 g3 s0008
+JP: {col:1}{sp}1月{sp}1日{col:-}{n}元旦だわ。一年の計は元旦にありっていうし{n}初詣に行く前に、ちょっと自主トレでも{n}しとこうかナ。{p}{end}
+EN: {col:1}Jan. 1{col:-}{n}New Year's Day! They say the year's plans are made today. Maybe I'll train a bit before my shrine visit.{p}{end}
+
+## MBMS00 g3 s0009
+JP: {col:1}{sp}2月{sp}1日{col:-}{n}寒い～～～ッ。{n}こんな日は運動して、あたたまろ。{n}バレンタインデーも近いしネ。{p}{end}
+EN: {col:1}Feb. 1{col:-}{n}So coooold! On a day like this I'll exercise to warm up. Valentine's Day is coming soon, too.{p}{end}
+
+## MBMS00 g3 s0010
+JP: {col:1}{sp}3月{sp}1日{col:-}{n}長い一年だったけど、あと一月でおしまい。{n}隼人先生にバカにされないように、{n}しっかり鍛えておかないとネ。{p}
+EN: {col:1}Mar. 1{col:-}{n}It's been a long year, but one month to go. I'd better train hard so Hayato-sensei won't laugh at me.{p}
+
+## MBMS00 g3 s0011
+JP: 何をしようかナ?{p}{end}
+EN: What should I do?{p}{end}
+
+## MBMS00 g3 s0012
+JP: 同じトレーニングのやりすぎで、{n}身体がいうこときかないわ…{n}適度に他のトレーニングもやった方が{n}いいみたいネ…。{p}{end}
+EN: I overdid the same training and my body won't listen... I should mix in other kinds of training...{p}{end}
+
+## MBMS00 g3 s0013
+JP: 本の読み過ぎで、今日はアタマが{n}働かないわ…。{n}適度に他のトレーニングもやった方が{n}いいみたいネ…。{p}{end}
+EN: I read too much and my brain isn't working today... I should mix in other kinds of training...{p}{end}
+
+## MBMS00 g3 s0014
+JP: {col:1}{sp}4月15日{sp}第3水曜日{col:-}{n}授業は終わったけど、今日は特に予定が{n}ない。家に帰っても仕方がないし、{n}たまには校内をブラブラしてみようかな。{p}{end}
+EN: {col:1}Apr. 15, 3rd Wednesday{col:-}{n}Classes are over and I have no plans today. No point going home, so maybe I'll wander around school.{p}{end}
+
+## MBMS00 g3 s0015
+JP: {col:1}{sp}5月20日{col:-}{n}今日は特に予定がない。{n}どこかにいってみようかな。{p}{end}
+EN: {col:1}May 20{col:-}{n}No plans today. Maybe I'll go somewhere.{p}{end}
+
+## MBMS00 g3 s0016
+JP: {col:1}{sp}6月17日{col:-}{n}今日も特に予定がないナ。{n}たまには校内をブラブラしてみようっと。{p}
+EN: {col:1}Jun. 17{col:-}{n}No plans again today. I'll wander around school for a change.{p}
+
+## MBMS00 g3 s0017
+JP: {col:1}{sp}7月15日{col:-}{n}夏も近くなって、授業中は暑くてツライ～。{n}やっと授業は終わったけど、今日は{n}ヒマだし、どこかにいってみようかな。{p}
+EN: {col:1}Jul. 15{col:-}{n}Summer's coming and class is sooo hot... Classes are finally over and I'm free, so maybe I'll go somewhere.{p}
+
+## MBMS00 g3 s0018
+JP: {col:1}{sp}8月19日{col:-}{n}夏休み中だが、ちょっと学校に来てみた。{n}せっかくだし、もう少し校内を{n}ブラブラしてみよう。{p}{end}
+EN: {col:1}Aug. 19{col:-}{n}It's summer break, but I came to school anyway. Since I'm here, I'll wander around a little more.{p}{end}
+
+## MBMS00 g3 s0019
+JP: {col:1}{sp}9月16日{col:-}{n}ツライ授業も終わり。{n}今日もとくに予定はないし、{n}どこかにいってみようかな?{p}
+EN: {col:1}Sep. 16{col:-}{n}Grueling classes are over. I have no plans today either, so maybe I'll go somewhere?{p}
+
+## MBMS00 g3 s0020
+JP: {col:1}10月21日{col:-}{n}今日も校内をブラブラしてみようっと。{n}どこへいこうかな。{p}
+EN: {col:1}Oct. 21{col:-}{n}I'll wander around school again today. Where should I go?{p}
+
+## MBMS00 g3 s0021
+JP: {col:1}11月18日{col:-}{n}授業は終わったが、今日もヒマだナー。{n}校内を少しブラブラしてみよっかな…。{p}{end}
+EN: {col:1}Nov. 18{col:-}{n}Classes are over, and I'm so bored again. Maybe I'll wander around school a bit...{p}{end}
+
+## MBMS00 g3 s0022
+JP: {col:1}12月16日{col:-}{n}もうすぐクリスマス。{n}なんとなくみんな浮かれ気分だナ。{n}こんな日は校内をブラついてみようっと。{p}{end}
+EN: {col:1}Dec. 16{col:-}{n}Christmas is almost here. Everyone seems to be in a festive mood. A good day to wander around school.{p}{end}
+
+## MBMS00 g3 s0023
+JP: {col:1}{sp}1月20日{col:-}{n}今日も特に予定はないナ。{n}どこにいってみようかな。{p}{end}
+EN: {col:1}Jan. 20{col:-}{n}No special plans today. Where should I go?{p}{end}
+
+## MBMS00 g3 s0024
+JP: {col:1}{sp}2月17日{col:-}{n}今年もあと少しだし、{n}せっかくだから校内を少しブラブラして{n}みようっと。{p}
+EN: {col:1}Feb. 17{col:-}{n}The year is almost over, so I might as well wander around school a bit.{p}
+
+## MBMS00 g3 s0025
+JP: どこへいこうかな?{p}
+EN: Where should I go?{p}
+
+## MBMS00 g3 s0026
+JP: 教室に残ってようっと。{p}
+EN: I'll stay in the classroom.{p}
+
+## MBMS00 g3 s0027
+JP: グラウンドに行ってみようかな。{p}
+EN: Maybe I'll go to the field.{p}
+
+## MBMS00 g3 s0028
+JP: 屋上に上ってみようかな。{p}{end}
+EN: Maybe I'll go up to the roof.{p}{end}
+
+## MBMS00 g3 s0029
+JP: 体育館に行ってみよっと。{p}{end}
+EN: I'll go to the gym.{p}{end}
+
+## MBMS00 g3 s0030
+JP: 保健室にでも行ってみようか。{p}{end}
+EN: Maybe I'll drop by the nurse's office.{p}{end}
+
+## MBMS00 g3 s0031
+JP: 教室にもどってみよっと。{p}{end}
+EN: I'll head back to the classroom.{p}{end}
+
+## MBMS00 g3 s0034
+JP: {col:1}{sp}5月25日{col:-}{n}今日は1学期の中間試験。{n}そろそろ試験のある体育館へいこうかナ。{p}
+EN: {col:1}May 25{col:-}{n}Today is the 1st term midterm exam. Maybe I should head to the gym where it's held.{p}
+
+## MBMS00 g3 s0035
+JP: {col:1}{sp}6月12日{col:-}{n}今日は太P戦の最終日。{p}{end}
+EN: {col:1}Jun. 12{col:-}{n}Today is the last day of the Taiyo-Pacific Match.{p}{end}
+
+## MBMS00 g3 s0036
+JP: {col:1}{sp}7月{sp}6日{col:-}{n}もう1学期の期末試験ね。{n}どうしよう……。{p}{end}
+EN: {col:1}Jul. 6{col:-}{n}It's already the 1st term final exam. What do I do...{p}{end}
+
+## MBMS00 g3 s0037
+JP: {col:1}{sp}8月14日{col:-}{n}今日は夏のお楽しみ、臨海合宿。{n}さて、準備もできたことだし、{n}そろそろ出発しようかナ。{p}{end}
+EN: {col:1}Aug. 14{col:-}{n}Today is the summer treat, the seaside camp! I'm all packed, so maybe I should get going.{p}{end}
+
+## MBMS00 g3 s0038
+JP: {col:1}{sp}9月26日{col:-}{n}今日は学園祭。{p}{end}
+EN: {col:1}Sep. 26{col:-}{n}Today is the school festival.{p}{end}
+
+## MBMS00 g3 s0039
+JP: {col:1}10月26日{col:-}{n}今日は2学期の中間試験。{n}隼人先生に怒られないように、{n}そろそろ体育館へ行こうかナ。{p}
+EN: {col:1}Oct. 26{col:-}{n}Today is the 2nd term midterm exam. I'd better get to the gym before Hayato-sensei gets mad.{p}
+
+## MBMS00 g3 s0040
+JP: {col:1}11月28日{col:-}{n}今日は一年に一度のイベント、五輪祭。{p}
+EN: {col:1}Nov. 28{col:-}{n}Today is the once-a-year event, the Gorin Festival.{p}
+
+## MBMS00 g3 s0041
+JP: {col:1}12月14日{col:-}{n}今日は2学期の期末試験。{n}今年もあと少しだし、がんばらないとネ。{p}
+EN: {col:1}Dec. 14{col:-}{n}Today is the 2nd term final exam. The year's almost over, so I'd better do my best.{p}
+
+## MBMS00 g3 s0042
+JP: {col:1}12月24日{col:-}{n}今日は、待ちに待ったクリスマス・イブね。{n}教会のパーティに誘われてるから、{n}いってみようかな。{p}{end}
+EN: {col:1}Dec. 24{col:-}{n}It's the long-awaited Christmas Eve! I was invited to the church party, so maybe I'll go.{p}{end}
+
+## MBMS00 g3 s0044
+JP: {col:1}{sp}2月14日{col:-}{n}今日はバレンタインデー。{p}
+EN: {col:1}Feb. 14{col:-}{n}Today is Valentine's Day.{p}
+
+## MBMS00 g3 s0045
+JP: {col:1}{sp}3月{sp}8日{col:-}{n}今日は学年末試験。{n}早く行かないと、隼人先生に{n}叱られるなぁ…。{p}
+EN: {col:1}Mar. 8{col:-}{n}Today is the year-end exam. If I'm not quick, Hayato-sensei will scold me...{p}
+
+## MBMS00 g3 s0046
+JP: {col:1}{sp}3月20日{col:-}{n}今日は今年最後の試験、進級試験。{n}隼人先生を最後に見返してやろうかナ。{p}{end}
+EN: {col:1}Mar. 20{col:-}{n}Today is the last exam of the year, the promotion test. Time to finally show Hayato-sensei!{p}{end}
+
+## MBMS00 g3 s0047
+JP: {col:1}{sp}3月24日{col:-}{n}長かった一年も終わり、今日は終業式。{p}
+EN: {col:1}Mar. 24{col:-}{n}The long year is over. Today is the closing ceremony.{p}
+
+## MBMS00 g4 s0000
+JP: 教室{p}{end}
+EN: Classroom{p}{end}
+
+## MBMS00 g4 s0001
+JP: グラウンド{p}
+EN: Field{p}
+
+## MBMS00 g4 s0002
+JP: 屋上{p}{end}
+EN: Roof{p}{end}
+
+## MBMS00 g4 s0003
+JP: 体育館{p}
+EN: Gym{p}
+
+## MBMS00 g4 s0004
+JP: 保健室{p}
+EN: Infirmary{p}
+
+## MBMS00 g4 s0005
+JP: 君{p}
+EN: -kun{p}
+
+## MBMS00 g4 s0006
+JP: クン{p}{end}
+EN: -kun{p}{end}
+
+## MBMS00 g4 s0007
+JP: さん{p}{end}
+EN: -san{p}{end}
+
+## MBMS00 g4 s0008
+JP: ちゃん{p}
+EN: -chan{p}
+
+## MBMS00 g4 s0009
+JP: 太陽学園{p}{end}
+EN: Taiyo High{p}{end}
+
+## MBMS00 g4 s0010
+JP: 五輪高校{p}{end}
+EN: Gorin High{p}{end}
+
+## MBMS00 g4 s0011
+JP: パシフィックHS{p}{end}
+EN: Pacific High{p}{end}
+
+## MBMS00 g4 s0012
+JP: 外道高校{p}{end}
+EN: Gedo High{p}{end}
+
+## MBMS00 g4 s0013
+JP: 月を決めれ!{p}{end}
+EN: Pick a month!{p}{end}
+
+## MBMS00 g4 s0014
+JP: 学校を決めれ!{p}
+EN: Pick a school!{p}
+
+## MBMS00 g4 s0015
+JP: 男か女か?{p}
+EN: Male or female?{p}
+
+## MBMS00 g4 s0016
+JP: どのデータではじめますか?{p}
+EN: Which data do you want to start with?{p}
+
+## MBMS00 g4 s0017
+JP: 入学する{n}つづきからはじめる{p}{end}
+EN: Enroll{n}Continue{p}{end}
+
+## MBMS00 g4 s0018
+JP: {sp}NO{sp}{sp}DATA{p}
+EN: =
+
+## MBMS00 g4 s0020
+JP: 月{p}
+EN: {x:97ff}{p}
+
+## MBMS00 g4 s0021
+JP: 日{p}
+EN:  {p}
+
+## MBMS00 g4 s0022
+JP: モードセレクト画面に戻りますか?{n}{sp}{sp}{sp}はい{sp}{sp}いいえ{p}
+EN: Return to the mode select screen?{n}      Yes     No{p}
+
+## MBMS00 g4 s0023
+JP: メモリーカードをチェックしています。{n}{sp}{sp}{sp}しばらくお待ちください。{p}{end}
+EN: Checking memory card.{n}      Please wait.{p}{end}
+
+## MBMS00 g4 s0024
+JP: データがありません。{p}{end}
+EN: No data.{p}{end}
+
+## MBMS00 g4 s0025
+JP: CLEAR!{p}{end}
+EN: =
+
+## MBMS00 g4 s0026
+JP: メモリーカードをチェックしています。{n}しばらくお待ちください。{p}
+EN: Checking memory card.{n}Please wait.{p}
+
+## MBMS00 g4 s0027
+JP: セーブ中です。{n}メモリーカードを抜かないでください。{p}{end}
+EN: Saving.{n}Do not remove the memory card.{p}{end}
+
+## MBMS00 g4 s0028
+JP: DATA{sp}ERROR{p}{end}
+EN: =
+
+## MBMS00 g4 s0029
+JP: が、グーンと{sp}{sp}上がった!!{p}{end}
+EN:  shot way up{sp}{sp}{sp}{p}{end}
+
+## MBMS00 g4 s0030
+JP: が、かなり大きく{sp}{sp}上がった!!{p}{end}
+EN:  rose hugely{sp}{sp}{sp}{p}{end}
+
+## MBMS00 g4 s0031
+JP: が、大きく{sp}{sp}上がった!!{p}
+EN:  rose a lot{sp}{sp}{sp}{p}
+
+## MBMS00 g4 s0032
+JP: が、かなり{sp}{sp}上がった!!{p}
+EN:  rose quite a bit{sp}{sp}{sp}{p}
+
+## MBMS00 g4 s0033
+JP: が、{sp}{sp}上がった!{p}
+EN:  rose{sp}{sp}{sp}{p}
+
+## MBMS00 g4 s0034
+JP: が、少し{sp}{sp}上がった!{p}
+EN:  rose a little{sp}{sp}{sp}{p}
+
+## MBMS00 g4 s0035
+JP: が、何となく{sp}{sp}上がった。{p}
+EN:  sort of rose{sp}{sp}{sp}{p}
+
+## MBMS00 g4 s0036
+JP: が、ほんの少し{sp}{sp}下がった。{p}{end}
+EN:  dropped a tiny bit{sp}{sp}{sp}{p}{end}
+
+## MBMS00 g4 s0037
+JP: が、少し{sp}{sp}下がった!{p}
+EN:  dropped a little{sp}{sp}{sp}{p}
+
+## MBMS00 g4 s0038
+JP: が、{sp}{sp}下がった!!{p}{end}
+EN:  dropped{sp}{sp}{sp}{p}{end}
+
+## MBMS00 g4 s0039
+JP: が、かなり{sp}{sp}下がった!!{p}
+EN:  dropped a fair bit{sp}{sp}{sp}{p}
+
+## MBMS00 g4 s0040
+JP: が、大きく{sp}{sp}下がった!!{p}
+EN:  dropped a lot{sp}{sp}{sp}{p}
+
+## MBMS00 g4 s0041
+JP: が、ガクンと{sp}{sp}下がった!!{p}{end}
+EN:  plummeted{sp}{sp}{sp}{p}{end}
+
+## MBMS00 g4 s0042
+JP: が、死ぬほど{sp}{sp}下がった!!{p}{end}
+EN:  sank like a rock{sp}{sp}{sp}{p}{end}
+
+## MBMS00 g4 s0043
+JP: {col:4}攻撃力{col:-}{p}
+EN: {col:4}Attack{col:-}{p}
+
+## MBMS00 g4 s0044
+JP: {col:4}防御力{col:-}{p}
+EN: {col:4}Defense{col:-}{p}
+
+## MBMS00 g4 s0045
+JP: {col:4}体力{col:-}{p}{end}
+EN: {col:4}Stamina{col:-}{p}{end}
+
+## MBMS00 g4 s0046
+JP: {col:4}根性{col:-}{p}{end}
+EN: {col:4}Guts{col:-}{p}{end}
+
+## MBMS00 g4 s0047
+JP: {col:4}潜在能力{col:-}{p}{end}
+EN: {col:4}Potential{col:-}{p}{end}
+
+## MBMS00 g4 s0048
+JP: {col:4}スピード{col:-}{p}{end}
+EN: {col:4}Speed{col:-}{p}{end}
+
+## MBMS00 g4 s0049
+JP: {col:4}パンチ{col:-}{p}
+EN: {col:4}Punch{col:-}{p}
+
+## MBMS00 g4 s0050
+JP: {col:4}キック{col:-}{p}
+EN: {col:4}Kick{col:-}{p}
+
+## MBMS00 g4 s0051
+JP: {col:1}進める{col:-}{n}イベントを開始します。{p}
+EN: {col:1}Advance{col:-}{n}Start the event.{p}
+
+## MBMS00 g4 s0052
+JP: {col:1}進める{col:-}{n}日程を進めます{p}
+EN: {col:1}Advance{col:-}{n}Move the schedule forward.{p}
+
+## MBMS00 g4 s0053
+JP: {col:1}自主トレ{col:-}{n}トレーニング項目を選択します。{p}{end}
+EN: {col:1}Training{col:-}{n}Choose a training item.{p}{end}
+
+## MBMS00 g4 s0054
+JP: {col:1}ステータス{col:-}{n}自分の情報と、他のキャラの友好度と{n}愛情度を確認します。{p}{end}
+EN: {col:1}Status{col:-}{n}Check your info and the friendship and love levels of other characters.{p}{end}
+
+## MBMS00 g4 s0055
+JP: {col:1}行事予定{col:-}{n}一年間の行事の日程を確認できます。{p}{end}
+EN: {col:1}Calendar{col:-}{n}Check the dates of the year's events.{p}{end}
+
+## MBMS00 g4 s0056
+JP: {col:1}日記{col:-}{n}データの管理や、メッセージスピードの{n}設定を変更します。{p}
+EN: {col:1}Diary{col:-}{n}Manage data and change the message speed setting.{p}
+
+## MBMS00 g4 s0057
+JP: {col:1}課外活動{col:-}{n}実技試験や球技大会の練習ができます。{p}
+EN: {col:1}Activities{col:-}{n}Practice for skill exams and sports events.{p}
+
+## MBMS00 g4 s0058
+JP: {col:1}移動{col:-}{n}移動する場所を選択します。{p}{end}
+EN: {col:1}Move{col:-}{n}Choose where to go.{p}{end}
+
+## MBMS00 g4 s0059
+JP: {col:1}ランニング{col:-}{n}走り込みます。{n}主に{col:0}体力{col:-}をつけます。{p}{end}
+EN: {col:1}Running{col:-}{n}Run laps.{n}Mainly builds {col:0}Stamina{col:-}.{p}{end}
+
+## MBMS00 g4 s0060
+JP: {col:1}腕立て伏せ{col:-}{n}腕力や上半身の筋肉をきたえます。{n}主に{col:0}攻撃力{col:-}があがります。{p}
+EN: {col:1}Push-ups{col:-}{n}Builds arm and upper body muscles.{n}Mainly raises {col:0}Attack{col:-}.{p}
+
+## MBMS00 g4 s0061
+JP: {col:1}腹筋{col:-}{n}腹筋をきたえます。{n}主に{col:0}防御力{col:-}があがります。{p}
+EN: {col:1}Sit-ups{col:-}{n}Builds your abs.{n}Mainly raises {col:0}Defense{col:-}.{p}
+
+## MBMS00 g4 s0062
+JP: {col:1}ダッシュ{col:-}{n}短距離ダッシュをおこないます。{n}主に{col:0}スピード{col:-}があがります。{p}{end}
+EN: {col:1}Dash{col:-}{n}Run short sprints.{n}Mainly raises {col:0}Speed{col:-}.{p}{end}
+
+## MBMS00 g4 s0063
+JP: {col:1}パンチトレーニング{col:-}{n}パンチの打ち込みを行います。{n}主に{col:0}パンチ{col:-}の攻撃があがります。{p}{end}
+EN: {col:1}Punch Training{col:-}{n}Practice throwing punches.{n}Mainly raises {col:0}Punch{col:-} attacks.{p}{end}
+
+## MBMS00 g4 s0064
+JP: {col:1}キックトレーニング{col:-}{n}蹴りの練習を行います。{n}主に{col:0}キック{col:-}の攻撃があがります。{p}
+EN: {col:1}Kick Training{col:-}{n}Practice kicking.{n}Mainly raises {col:0}Kick{col:-} attacks.{p}
+
+## MBMS00 g4 s0065
+JP: {col:1}読書{col:-}{n}戦闘のセオリーなどを勉強します。{n}主に{col:0}潜在能力{col:-}があがります。{p}
+EN: {col:1}Reading{col:-}{n}Study fighting theory and such.{n}Mainly raises {col:0}Potential{col:-}.{p}
+
+## MBMS00 g4 s0066
+JP: {col:1}バックアップ{col:-}{n}データのセーブ・ロードを行います。{p}{end}
+EN: {col:1}Backup{col:-}{n}Save or load data.{p}{end}
+
+## MBMS00 g4 s0067
+JP: {col:1}メッセージスピード{col:-}{n}メッセージの表示されるスピードを{n}変更します。{p}
+EN: {col:1}Text Speed{col:-}{n}Change how fast messages are shown.{p}
+
+## MBMS00 g4 s0068
+JP: {col:1}実技試験予習{col:-}{n}定期試験の練習を行うことができます。{p}
+EN: {col:1}Exam Prep{col:-}{n}Practice for the regular skill exams.{p}
+
+## MBMS00 g4 s0069
+JP: {col:1}クラブの練習{col:-}{n}五輪祭などでおこなう、ミニゲームの{n}練習ができます。{p}
+EN: {col:1}Club Practice{col:-}{n}Practice the minigames played at events like the Gorin Festival.{p}
+
+## MBMS00 g4 s0070
+JP: {col:1}PK戦{col:-}{n}ミニゲームの{n}{col:0}『ロベルトのPK戦』{col:-}の練習を{n}おこないます。{p}
+EN: {col:1}PK Shootout{col:-}{n}Practice the minigame{n}{col:0}"Roberto's PK Shootout"{col:-}.{p}
+
+## MBMS00 g4 s0071
+JP: {col:1}サービスエース{col:-}{n}ミニゲームの{n}{col:0}『夏のサービスエース』{col:-}の練習を{n}おこないます。{p}{end}
+EN: {col:1}Service Ace{col:-}{n}Practice the minigame{n}{col:0}"Natsu's Service Ace"{col:-}.{p}{end}
+
+## MBMS00 g4 s0072
+JP: {col:1}ホームラン競争{col:-}{n}ミニゲームの{n}{col:0}『将馬のホームラン競争』{col:-}の練習を{n}おこないます。{p}
+EN: {col:1}Home Run Derby{col:-}{n}Practice the minigame{n}{col:0}"Shoma's Home Run Derby"{col:-}.{p}
+
+## MBMS00 g4 s0073
+JP: {col:1}教室{col:-}{n}帰りがけの生徒や、遊んでる生徒の{n}多い場所です。{p}
+EN: {col:1}Classroom{col:-}{n}A place full of students heading home or hanging out.{p}
+
+## MBMS00 g4 s0074
+JP: {col:1}グラウンド{col:-}{n}体育会系のクラブが主に{n}利用しています。{p}{end}
+EN: {col:1}Field{col:-}{n}Mostly used by the athletic clubs.{p}{end}
+
+## MBMS00 g4 s0075
+JP: {col:1}屋上{col:-}{n}景色がいいので、ヒマつぶしに{n}来ている生徒も多いようです。{p}{end}
+EN: {col:1}Roof{col:-}{n}The view is nice, so lots of students come here to kill time.{p}{end}
+
+## MBMS00 g4 s0076
+JP: {col:1}体育館{col:-}{n}クラブが利用していることが多いです。{p}{end}
+EN: {col:1}Gym{col:-}{n}Often used by the clubs.{p}{end}
+
+## MBMS00 g4 s0077
+JP: {col:1}保健室{col:-}{n}校内唯一の安らぎの場。{n}ベッドを求めて体を休めにくる生徒も{n}います。{p}{end}
+EN: {col:1}Infirmary{col:-}{n}The only peaceful place at school.{n}Some students come to rest in bed.{p}{end}
+
+## MBMS00 g4 s0078
+JP: {sp}{sp}月{sp}{sp}日{p}{end}
+EN:     /{p}{end}
+
+## MBMS00 g4 s0079
+JP: {col:1}爆裂シュート{col:-}{n}ミニゲームの{n}{col:0}『ロベルトの爆裂シュート』{col:-}の練習を{n}おこないます。{p}
+EN: {col:1}Explosive Shot{col:-}{n}Practice the minigame{n}{col:0}"Roberto's Explosive Shot"{col:-}.{p}
+
+## MBMS00 g4 s0080
+JP: {col:1}終了{col:-}{n}ゲームを終了します。{p}
+EN: {col:1}Quit{col:-}{n}Quit the game.{p}
+
+## MBMS00 g4 s0081
+JP: ゲームを終了しますか?{n}{n}{sp}{sp}はい{sp}{sp}{sp}いいえ{p}
+EN: Quit the game?{n}{n}    Yes       No{p}
+
+## MBMS00 g5 s0000
+JP: どちらをおこないますか?{p}{end}
+EN: Which will you do?{p}{end}
+
+## MBMS00 g5 s0001
+JP: セーブ{n}ロード{p}
+EN: Save{n}Load{p}
+
+## MBMS00 g5 s0002
+JP: 何番にデータをセーブしますか?{p}
+EN: Save data to which slot?{p}
+
+## MBMS00 g5 s0003
+JP: 番にはすでにデータがあります。{n}上書きしますか?{p}{end}
+EN:  already has data.{n}Overwrite it?{p}{end}
+
+## MBMS00 g5 s0004
+JP: はい{n}いいえ{p}{end}
+EN: Yes{n}No{p}{end}
+
+## MBMS00 g5 s0005
+JP: セーブが終了しました。{p}
+EN: Save complete.{p}
+
+## MBMS00 g5 s0006
+JP: 番にセーブします。{n}よろしいですか?{p}{end}
+EN: : save to this slot.{n}Is that OK?{p}{end}
+
+## MBMS00 g5 s0007
+JP: 何番のデータをロードしますか?{p}
+EN: Load which slot?{p}
+
+## MBMS00 g5 s0008
+JP: 番のデータをロードします。{n}よろしいですか?{p}{end}
+EN: : load this slot.{n}Is that OK?{p}{end}
+
+## MBMS00 g5 s0009
+JP: ロードが終了しました。{p}
+EN: Load complete.{p}
+
+## MBMS00 g5 s0010
+JP: バックアップを終了します。{n}よろしいですか?{p}{end}
+EN: Exit backup.{n}Is that OK?{p}{end}
+
+## MBMS00 g5 s0011
+JP: 0123456789{p}{end}
+EN: =
+
+## MBMS00 g5 s0012
+JP: お疲れ様でした。{n}何かボタンを押すと{n}モードセレクト画面に戻ります。{p}{end}
+EN: Thanks for playing.{n}Press any button to return{n}to the mode select screen.{p}{end}
+
+## MBMS00 g5 s0013
+JP: メモリーカードが初期化されていません。{n}初期化しますか?{p}{end}
+EN: The memory card is not formatted.{n}Format it?{p}{end}
+
+## MBMS00 g5 s0014
+JP: メモリーカードを初期化中です。{n}メモリーカードを抜かないで下さい。{p}
+EN: Formatting memory card.{n}Do not remove the memory card.{p}
+
+## MBMS00 g5 s0015
+JP: セーブできました。{n}何かボタンを押してください。{p}{end}
+EN: Saved.{n}Press any button.{p}{end}
+
+## MBMS00 g5 s0016
+JP: {col:0}CANCEL={col:9}{CROSS}{col:-}{p}{end}
+EN: =
+
+## MBMS00 g5 s0017
+JP: セーブします。{n}よろしいですか?{p}{end}
+EN: Save the data.{n}Is that OK?{p}{end}
+
+## MBMS00 g5 s0018
+JP: ロードします。{n}よろしいですか?{p}{end}
+EN: Load the data.{n}Is that OK?{p}{end}
+
+## MBMS00 g5 s0019
+JP: CLEARデータをセーブします。{n}よろしいですか?{p}
+EN: Save CLEAR data.{n}Is that OK?{p}
+
+## MBMS00 g5 s0020
+JP: データが壊れているのでロードできません。{p}{end}
+EN: The data is corrupted and can't load.{p}{end}
+
+## MBMS00 g5 s0021
+JP: CLEARデータはロードできません。{p}{end}
+EN: CLEAR data can't be loaded.{p}{end}
+
+## MBMS00 g5 s0022
+JP: セーブせずにゲームを終了します。{n}よろしいですか?{p}
+EN: Quit the game without saving.{n}Is that OK?{p}
+
+## MBMS00 g5 s0023
+JP: 終了する前にデータをセーブします。{n}よろしいですか?{p}{end}
+EN: Save the data before quitting.{n}Is that OK?{p}{end}
+
+## MBMS00 g5 s0024
+JP: どのデータで始めますか?{p}{end}
+EN: Which data do you want to start with?{p}{end}
+
+## MBMS00 g5 s0025
+JP: メモリーカードが差さっていません{p}{end}
+EN: No memory card inserted{p}{end}
+
+## MBMS00 g5 s0026
+JP: メモリーカードが壊れています{p}{end}
+EN: The memory card is damaged{p}{end}
+
+## MBMS00 g5 s0027
+JP: メモリーカードが初期化されていません{p}{end}
+EN: The memory card is not formatted{p}{end}
+
+## MBMS00 g5 s0028
+JP: ファイルがありません{p}{end}
+EN: No file found{p}{end}
+
+## MBMS00 g5 s0029
+JP: メモリーカードがいっぱいです{n}セーブするには1ブロック必要です{p}
+EN: The memory card is full{n}Saving needs 1 free block{p}
+
+## MBMS00 g5 s0030
+JP: データがありません{p}
+EN: No data{p}
+
+## MBMS00 g5 s0031
+JP: 初期化できませんでした{p}
+EN: Could not format{p}
+
+## MBMS00 g5 s0032
+JP: セーブできませんでした{p}
+EN: Could not save{p}
+
+## MBMS00 g5 s0033
+JP: ロードできませんでした{p}
+EN: Could not load{p}
+

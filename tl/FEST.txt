@@ -1,0 +1,15 @@
+# Festival mode graphics (MINITTL0-8.BIZ), built by tools/build_fest.py.
+header: Gorin|Festival
+item_home_run: Shoma's Home Run Derby
+item_pk: Roberto's PK Shootout
+item_shoot: Roberto's Explosive Shot
+item_ace: Natsu's Service Ace
+item_back: Back to Mode Menu
+fest_record: Best Record
+unit_pt: pt
+title_start: Game Start
+title_back: Back
+title_1p: 1P Play Start
+title_vs: VS Play Start
+title_rules: Rules & Controls
+title_record: Best Record

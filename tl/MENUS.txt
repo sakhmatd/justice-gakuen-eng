@@ -1,0 +1,90 @@
+# Diary-mode label graphics in DAT2/MA_COCK.BIZ (TIM 1), built by
+# tools/build_menus.py. One line per record: ID: EN text.
+# IDs and rectangles come from data/menu_labels.tsv.
+# ID: = keeps the original graphic.
+
+# hub command menu (MGAME records at file 0x059c)
+menu03: Advance
+menu04: Move
+menu05: Training
+menu06: Status
+menu07: Calendar
+menu08: Diary
+menu09: Activities
+menu10: Backup
+menu11: Settings
+menu12: Exam Prep
+menu13: Club Practice
+menu14: Explosive Shot
+menu15: Service Ace
+menu16: Home Run Derby
+menu17: Running
+menu18: Push-ups
+menu19: Sit-ups
+menu20: Dash
+menu21: Punch Training
+menu22: Kick Training
+menu23: Reading
+menu24: PK Shootout
+menu25: Text Speed
+menu26: Slow
+menu27: Normal
+menu28: Fast
+menu29: Instant
+menu30: Quit
+
+# hub header
+stat0: Power
+stat1: Stam
+stat2: Speed
+stat3: Spirit
+stat4: Charm
+school0: Taiyo High
+school1: Gorin High
+school2: Pacific High
+school3: Gedo High
+club0: Baseball
+club1: Soccer
+club2: Volleyball
+club3: Art
+club4: Brass Band
+club5: Drama
+club6: Go-Home Club
+
+# location titles (MGAME records 0x167c; 1F/2F and rooms are composites
+# rewritten as single records). "|" splits two lines.
+loc01: Classroom
+loc02: Fair
+loc05: Hotel
+loc12: Gym
+loc13: Suburbs
+loc14: Front Gate
+loc15: Infirmary
+loc16: Beach
+loc17: Beach Hut
+loc18: Shopping St.
+loc19: Cafe
+loc20: Guts Shrine
+loc21: Field
+loc22: Love Shrine
+loc23: Party|Courtyard
+loc24: Arcade
+loc25: Dept. Store
+loc26: Walkway
+loc27: Party Hall
+loc28: Riverbank
+loc29: Cemetery
+loc30: Home
+loc31: Roof
+loc32: Plaza
+loc34: 1F Hallway
+loc35: 2F Hallway
+loc10: Boys' Room
+loc11: Girls' Room
+
+# school-map room labels (DAT2/MZPANEL.BIZ entry 0)
+map0: Classroom
+map1: Field
+map2: Roof
+map3: Gym
+map4: Infirmary

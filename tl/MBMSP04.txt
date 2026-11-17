@@ -1,0 +1,328 @@
+## MBMSP04 g0 s0058
+JP: 今日はパシフィックハイスクールの{n}入学式だ。{p}{end}
+EN: Today is the Pacific High School entrance ceremony.{p}{end}
+
+## MBMSP04 g0 s0059
+JP: 講堂では、学長が新入生に向けてのスピーチ{n}をしている。{p}
+EN: In the auditorium, the principal is giving a speech to the new students.{p}
+
+## MBMSP04 g0 s0061
+JP: ハァ…どこもそうだとは思うけど、{n}校長の話って長いよなぁ。{p}
+EN: Sigh... I guess it's like this everywhere, but principals' speeches sure are long.{p}
+
+## MBMSP04 g0 s0062
+JP: まったく、{n}これだから日本人ってやつは困るな。{n}いつも形式ばかりにこだわっていて、{n}ムダな部分が多すぎる。{p}
+EN: Honestly, this is the problem with the Japanese. Always so hung up on formality. Way too much waste.{p}
+
+## MBMSP04 g0 s0063
+JP: 君はこのことについてどう思う?{p}
+EN: What do you think about it?{p}
+
+## MBMSP04 g0 s0064
+JP: 確かに、無駄が多いな{n}伝統も大切じゃないか{n}俺にはよくわからない{p}{end}
+EN: Yeah, there's a lot of waste{n}Isn't tradition important too?{n}I don't really know{p}{end}
+
+## MBMSP04 g0 s0065
+JP: ほう、話がわかるじゃないか。{n}ボクは『ロイ・ブロムウェル』。君は?{p}
+EN: Oh, you get it. I'm Roy Bromwell. And you?{p}
+
+## MBMSP04 g0 s0066
+JP: 俺は{v0}{sp}{v1}だ。{n}よろしく、ロイ。{p}{end}
+EN: I'm {v1} {v0}. Nice to meet you, Roy.{p}{end}
+
+## MBMSP04 g0 s0067
+JP: ロイの言う通りネ、{n}ニッポンジンのヒョーシキを疑っちゃう!{p}
+EN: Roy is right. I doubt Japanese people's common sins!{p}
+
+## MBMSP04 g0 s0068
+JP: ティファニー、それを言うなら常識だろ。{p}
+EN: Tiffany, you mean "common sense."{p}
+
+## MBMSP04 g0 s0069
+JP: {v0}{col:0}君{col:-}だったかな?{n}私は『ボーマン・デルガド』{n}そこの彼女は…{p}{end}
+EN: It was {v0}{col:0}-kun{col:-}, right? I'm Boman Delgado. And she is...{p}{end}
+
+## MBMSP04 g0 s0070
+JP: 『ティファニー・ローズ』でーす。{n}{v0}、よろしくネ!{p}
+EN: Tiffany Lords! Nice to meet you, {v0}!{p}
+
+## MBMSP04 g0 s0071
+JP: フン、日本人は伝統という言葉の意味を{n}はきちがえているな。{p}
+EN: Hmph, the Japanese misunderstand what "tradition" means.{p}
+
+## MBMSP04 g0 s0072
+JP: ただ、同じ事を繰り返す事が{n}『伝統』ではないだろう。{n}スピリッツが伴っていなくては、{n}『伝統』とは言えない。{p}{end}
+EN: Just repeating the same thing isn't "tradition." Without the spirit behind it, you can't call it tradition.{p}{end}
+
+## MBMSP04 g0 s0073
+JP: 『デントウ』大切ネ!{n}『デントウ』ないと、暗くて困るヨ。{p}{end}
+EN: "Tradition" is important! Without "tradition" it's too dark!{p}{end}
+
+## MBMSP04 g0 s0074
+JP: …それは『電灯』だろ。{n}ロイが言っているのは『伝統』。{n}古くから伝わる習慣や風習のことだよ。{p}{end}
+EN: ...You're thinking of "track lighting." Roy said "tradition." Customs handed down from long ago.{p}{end}
+
+## MBMSP04 g0 s0075
+JP: アハハ、ニホンゴ難しいネ。{n}ところで、ユーの名前は?{p}{end}
+EN: Ahaha, Japanese is so hard. By the way, what's your name?{p}{end}
+
+## MBMSP04 g0 s0076
+JP: 俺は{v0}{sp}{v1}だ。{n}よろしく。{p}
+EN: I'm {v1} {v0}. Nice to meet you.{p}
+
+## MBMSP04 g0 s0078
+JP: ボクは『ロイ・ブロムウェル』だ。{n}{v0}、この件については、{n}今度あらためて話をしようじゃないか。{p}
+EN: I'm Roy Bromwell. {v0}, let's discuss this properly another time.{p}
+
+## MBMSP04 g0 s0079
+JP: 私は『ボーマン・デルガド』。よろしく。{p}
+EN: I'm Boman Delgado. Nice to meet you.{p}
+
+## MBMSP04 g0 s0080
+JP: フン、うまく逃げたな。{p}
+EN: Hmph, nice dodge.{p}
+
+## MBMSP04 g0 s0081
+JP: 逃げた?{n}それって、チキンハートってこと?{p}
+EN: Dodge? You mean, a chicken heart?{p}
+
+## MBMSP04 g0 s0082
+JP: ロイの言う事ももっともですが、{n}これはいちがいにどちらが正しいとも{n}言えませんね。{n}私は慎重で賢い返答だと思いますよ。{p}
+EN: Roy has a point, but you can't say flatly which side is right. I think it was a careful, wise answer.{p}
+
+## MBMSP04 g0 s0083
+JP: 私は『ボーマン・デルガド』。{n}彼は…{p}{end}
+EN: I'm Boman Delgado. And he is...{p}{end}
+
+## MBMSP04 g0 s0085
+JP: 『ティファニー・ローズ』でーす。{n}ユーの名前は?{p}{end}
+EN: Tiffany Lords! What's your name?{p}{end}
+
+## MBMSP04 g0 s0087
+JP: まあ、これは一種のセレモニーですからね。{n}話が長くなるのは仕方のない事でしょう。{n}これも、主がお与えになった試練と思えば…{p}
+EN: Well, this is a kind of ceremony. Long speeches can't be helped. If we think of it as a trial given by the Lord...{p}
+
+## MBMSP04 g0 s0088
+JP: おいおい、勘弁してくれよボーマン。{n}ただでさえ長いスピーチで{n}うんざりしているのに、{n}この上説教までされたら体がもたないぜ。{p}{end}
+EN: Hey hey, give me a break, Boman. I'm already sick of this long speech. If you start preaching too, I won't survive.{p}{end}
+
+## MBMSP04 g0 s0089
+JP: 私が今日から君達の担任となる{n}『島津{sp}英雄』だ。よろしく。{n}とりあえず今日のホームルームは{n}これで終わるが、{p}{end}
+EN: From today, I'll be your homeroom teacher. I'm Hideo Shimazu. Nice to meet you. That's all for homeroom today, but...{p}{end}
+
+## MBMSP04 g0 s0096
+JP: こいつと同じ部に入るのは{n}やめたほうがいいと思わよ。{n}馬鹿がうつるからね。{p}
+EN: I wouldn't join the same club as this guy. His stupidity is contagious.{p}
+
+## MBMSP04 g0 s0103
+JP: お前、入部希望者か?{n}言っとくけど、{n}根性ない奴はゴメンだぜ!{p}
+EN: You here to join? Just so you know, I don't want anyone without guts!{p}
+
+## MBMSP04 g0 s0106
+JP: オイラは『沢村{sp}将馬』。よろしくな!{p}{end}
+EN: I'm Shoma Sawamura. Nice to meet ya!{p}{end}
+
+## MBMSP04 g0 s0134
+JP: 放課後。{n}このへんにおいしいアイスクリーム屋が{n}あると聞いてきたのだが、どこだろう?{n}もう少し探してみるか。{p}{end}
+EN: After school. I heard there's a great ice cream shop around here. Where is it? Let me look a bit more.{p}{end}
+
+## MBMSP04 g0 s0135
+JP: 「きゃっ!」{p}{end}
+EN: "Kyaa!"{p}{end}
+
+## MBMSP04 g0 s0136
+JP: ドンッ!{p}{end}
+EN: *Bump!*{p}{end}
+
+## MBMSP04 g0 s0137
+JP: ベチョッ!{p}
+EN: *Splat!*{p}
+
+## MBMSP04 g0 s0138
+JP: （女の子がいきなりぶつかってきた!!{n}{sp}ゲッ!!{sp}しかもその子の持っていた、{n}{sp}アイスがべっちょり胸に{n}{sp}ついてしまった……）{p}
+EN: (A girl ran right into me!! Ugh!! And the ice cream she was holding is smeared all over my chest...){p}
+
+## MBMSP04 g0 s0139
+JP: ごめんなさ～い、ちょっと前見てなくて……{n}あっ……!{n}アイス、つけちゃった!!{n}ごめんなさい、ごめんなさい!!{p}
+EN: I'm so sorry, I wasn't looking ahead... Ah...! I got ice cream on you!! I'm sorry, I'm sorry!!{p}
+
+## MBMSP04 g0 s0140
+JP: あ、いいよいいよ、{n}これくらい、洗えばすぐ取れるって。{n}だから気にしないで。{p}{end}
+EN: Oh, it's fine, it's fine. This will wash right out. Don't worry about it.{p}{end}
+
+## MBMSP04 g0 s0141
+JP: いや、だって……。{n}ちゃんとクリーニングに出さないと……{n}シミになるし……、ごめんなさいネ。{p}{end}
+EN: No, but... You need to get it dry-cleaned... It'll stain... I'm sorry.{p}{end}
+
+## MBMSP04 g0 s0142
+JP: どーした?{n}なんの騒ぎだ?{p}
+EN: What's up? What's all the fuss?{p}
+
+## MBMSP04 g0 s0143
+JP: あ、バツ……!{n}ごめん、ちょっとこの人に{n}ぶつかっちゃって……。{n}アイス落としちゃった……。{p}{end}
+EN: Oh, Batsu...! Sorry, I bumped into this person... I dropped the ice cream...{p}{end}
+
+## MBMSP04 g0 s0144
+JP: あーーーっ!!{n}オ、オレが楽しみにしてた{n}デルフォンヌのアイスが～～～。{n}こ、この野郎!!{p}
+EN: Aaaah!! M-my Delphonne ice cream I was looking forward to... Wh-why you!!{p}
+
+## MBMSP04 g0 s0145
+JP: （な、なんだコイツ、{n}{sp}いきなりつっかかってきたぞ!!{n}{sp}…待てよ!?{sp}デルフォンヌといえば{n}{sp}俺がさがしていた店だ……）{p}
+EN: (Wh-what's with this guy, picking a fight all of a sudden!! ...Wait!? Delphonne is the shop I was looking for...){p}
+
+## MBMSP04 g0 s0146
+JP: ち、ちがうのよ!{sp}バツ!!{n}ぶつかったのは私なの!!{n}それに、私この人の服汚しちゃって……。{p}{end}
+EN: N-no, Batsu!! I'm the one who bumped into him!! And I got his clothes dirty...{p}{end}
+
+## MBMSP04 g0 s0147
+JP: それは早めにクリーニングに出した方が{n}いいな。{n}スミマセン、ちゃんとクリーニング代、{n}出させてもらいますから。{p}
+EN: You'd better get that cleaned soon. Sorry, please let us pay for the cleaning.{p}
+
+## MBMSP04 g0 s0148
+JP: （今度は白ランにメガネの男だ……{n}{sp}クリーニング代くらいもらっておいても{n}{sp}いいかもしれないな……）{p}{end}
+EN: (Now a guy in a white uniform and glasses... Maybe I should just take the cleaning money...){p}{end}
+
+## MBMSP04 g0 s0149
+JP: はぁ、スミマセン。{p}
+EN: Uh, thanks.{p}
+
+## MBMSP04 g0 s0150
+JP: じゃ、これでよろしいですか?{n}ほら、ひなたもあやまれ。{n}……すみません、{n}では僕たちはこれで……。{p}
+EN: Is this enough? Come on, Hinata, apologize too. ...Sorry. Well, we'll be going...{p}
+
+## MBMSP04 g0 s0151
+JP: あ……あ、ちょっと!!{p}
+EN: Ah... uh, wait!!{p}
+
+## MBMSP04 g0 s0152
+JP: 何か?{p}
+EN: Yes?{p}
+
+## MBMSP04 g0 s0153
+JP: さっきいってた、デルフォンヌの場所、{n}教えてもらえませんか?{n}俺もさがしてたんですよ。{p}
+EN: Could you tell me where that Delphonne place is? I was looking for it too.{p}
+
+## MBMSP04 g0 s0154
+JP: そうなんだ、じゃ私が案内してあげる!!{n}さっきのおわびにね!{p}{end}
+EN: Really? Then I'll show you!! To make up for earlier!{p}{end}
+
+## MBMSP04 g0 s0155
+JP: そうだ、{n}オレのアイスも買いなおさねぇとな。{n}じゃ、一緒に行こうぜ!!{p}
+EN: Right, I gotta buy my ice cream again too. Let's go together!!{p}
+
+## MBMSP04 g0 s0156
+JP: あ～、うまかったなぁ。{n}やっぱりアイスはデルフォンヌに限るぜ!{p}
+EN: Ahh, that was good. Delphonne's the only ice cream for me!{p}
+
+## MBMSP04 g0 s0157
+JP: ホント、おいしいね。{n}さすがに噂になるだけのことはあるな。{p}
+EN: It really is good. No wonder people talk about it.{p}
+
+## MBMSP04 g0 s0158
+JP: なぁ……、さっきはいきなりつっかかって{n}悪かったな。{n}俺は『バツ』。おまえは?{p}
+EN: Hey... Sorry for jumping on you earlier. I'm Batsu. You?{p}
+
+## MBMSP04 g0 s0159
+JP: 俺は{v0}{sp}{v1}。{n}高校1年だ。{p}
+EN: I'm {v1} {v0}. First-year in high school.{p}
+
+## MBMSP04 g0 s0160
+JP: 私たちと一緒だね。{n}私、『若葉{sp}ひなた』。{n}ひなたって呼んでね!{p}{end}
+EN: Same as us. I'm Hinata Wakaba. Call me Hinata!{p}{end}
+
+## MBMSP04 g0 s0161
+JP: 僕は、『鑑{sp}恭介』。{n}このへんの学校だったら、{n}またちょくちょく会えるだろう。{n}よろしくな。{p}{end}
+EN: I'm Kyosuke Kagami. If you go to school around here, we'll probably run into each other again. Nice to meet you.{p}{end}
+
+## MBMSP04 g0 s0162
+JP: ああ、こちらこそよろしく。{n}（バツにひなたに、恭介か。{n}{sp}おもしろそうな人たちだな。{n}{sp}覚えておこう……）{p}
+EN: Yeah, nice to meet you too. (Batsu, Hinata and Kyosuke. They seem like fun people. I'll remember them...){p}
+
+## MBMSP04 g0 s0163
+JP: 放課後。{n}一通り、買い物もすんだし、{n}もう少しブラブラしてみよう。{p}
+EN: After school. I've done my shopping, so I'll wander around a bit more.{p}
+
+## MBMSP04 g1 s0058
+JP: 今日はパシフィックハイスクールの{n}入学式。{p}
+EN: Today is the Pacific High School entrance ceremony.{p}
+
+## MBMSP04 g1 s0061
+JP: ハァ…どこもそうだとは思うけど{n}校長の話って長いわね。{p}
+EN: Sigh... I guess it's like this everywhere, but principals' speeches are so long.{p}
+
+## MBMSP04 g1 s0062
+JP: まったく、{n}これだから日本人ってやつは困るな。{n}いつも形式ばかりにこだわっていて{n}ムダな部分が多すぎる。{p}{end}
+EN: Honestly, this is the problem with the Japanese. Always so hung up on formality. Way too much waste.{p}{end}
+
+## MBMSP04 g1 s0064
+JP: 確かに、無駄が多いかも{n}伝統も大切じゃないかな{n}私にはよくわからない{p}{end}
+EN: Maybe there's a lot of waste{n}Isn't tradition important?{n}I don't really know{p}{end}
+
+## MBMSP04 g1 s0066
+JP: 私は{v0}{sp}{v1}。{n}よろしくね、ロイ。{p}{end}
+EN: I'm {v1} {v0}. Nice to meet you, Roy.{p}{end}
+
+## MBMSP04 g1 s0069
+JP: {v0}{col:0}さん{col:-}だったかな?{n}私は『ボーマン・デルガド』。{n}そこの彼女は…{p}{end}
+EN: It was {v0}{col:0}-san{col:-}, right? I'm Boman Delgado. And she is...{p}{end}
+
+## MBMSP04 g1 s0070
+JP: 『ティファニー・ローズ』でーす。{n}…{v0}、ロイに手を出したら{n}許さないわヨ!{p}
+EN: Tiffany Lords! ...{v0}, if you lay a hand on Roy, I won't forgive you!{p}
+
+## MBMSP04 g1 s0072
+JP: ただ、同じ事を繰り返す事が{n}『伝統』ではないだろう。{n}そこにスピリッツが伴っていなくては{n}『伝統』とは言えない。{p}{end}
+EN: Just repeating the same thing isn't "tradition." Without the spirit behind it, you can't call it tradition.{p}{end}
+
+## MBMSP04 g1 s0076
+JP: 私は{v0}{sp}{v1}。{n}よろしく。{p}{end}
+EN: I'm {v1} {v0}. Nice to meet you.{p}{end}
+
+## MBMSP04 g1 s0096
+JP: こいつと同じ部に入るのは{n}やめたほうがいいと思うわよ。{n}馬鹿がうつるからね。{p}{end}
+EN: I wouldn't join the same club as this guy. His stupidity is contagious.{p}{end}
+
+## MBMSP04 g1 s0110
+JP: どうせ行くならワールドカップよね!{n}自分には無理かな…。{p}{end}
+EN: If we're going, it's the World Cup!{n}I don't think I'm up to it...{p}{end}
+
+## MBMSP04 g1 s0134
+JP: 放課後。{n}このへんにおいしいアイスクリーム屋が{n}あると聞いてきたのだけど、どこだろう?{n}もう少し探してみようかな。{p}
+EN: After school. I heard there's a great ice cream shop around here. Where is it? Maybe I'll look a bit more.{p}
+
+## MBMSP04 g1 s0138
+JP: （女の子がいきなりぶつかってきた!!{n}{sp}アッ!!{sp}しかもその子の持ってた、{n}{sp}アイスがべっちょり胸に{n}{sp}ついちゃった……）{p}
+EN: (A girl ran right into me!! Ah!! And the ice cream she was holding is smeared all over my chest...){p}
+
+## MBMSP04 g1 s0140
+JP: あ、いいよいいよ、{n}これくらい、洗えばすぐ取れるから。{n}だから気にしないで。{p}{end}
+EN: Oh, it's fine, it's fine. This will wash right out. Don't worry about it.{p}{end}
+
+## MBMSP04 g1 s0145
+JP: （な、なに?{sp}この人!?{n}{sp}いきなりつっかかってきた!!{n}{sp}……!?{sp}デルフォンヌといえば{n}{sp}確か、私がさがしている店……）{p}{end}
+EN: (Wh-what? This guy!? Picking a fight all of a sudden!! ...!? Delphonne is the shop I was looking for...){p}{end}
+
+## MBMSP04 g1 s0153
+JP: さっきいってた、デルフォンヌの場所、{n}教えてもらえませんか?{n}私もさがしてたの。{p}{end}
+EN: Could you tell me where that Delphonne place is? I was looking for it too.{p}{end}
+
+## MBMSP04 g1 s0157
+JP: ホント、おいしいね。{n}さすがに噂になるだけのことはあるわ。{p}
+EN: It really is good. No wonder people talk about it.{p}
+
+## MBMSP04 g1 s0158
+JP: なぁ……、さっきはいきなりつっかかって{n}悪かったな。{n}オレは『バツ』。おまえは?{p}{end}
+EN: Hey... Sorry for jumping on you earlier. I'm Batsu. You?{p}{end}
+
+## MBMSP04 g1 s0159
+JP: 私は{v0}{sp}{v1}。{n}高校1年よ。{p}
+EN: I'm {v1} {v0}. First-year in high school.{p}
+
+## MBMSP04 g1 s0162
+JP: うん、こちらこそよろしくネ。{n}（バツにひなたに、恭介か。{n}{sp}おもしろそうな人たちね。{n}{sp}覚えておこう……）{p}
+EN: Yeah, nice to meet you too. (Batsu, Hinata and Kyosuke. They seem like fun people. I'll remember them...){p}
+
+## MBMSP04 g1 s0177
+JP: （いきなり殴りかかられた!!{n}{sp}この……!!）{p}
+EN: (He just punched me!! Why you...!!){p}
+

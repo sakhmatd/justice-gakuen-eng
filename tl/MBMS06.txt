@@ -1,0 +1,1208 @@
+## MBMS06 g0 s0000
+JP: 太P戦…{p}{end}
+EN: The Taiyo-Pacific Match...{p}{end}
+
+## MBMS06 g0 s0001
+JP: それは、{n}太陽学園・パシフィックHS対抗戦{n}の略で、{p}{end}
+EN: That's the rivalry contest between Taiyo High and Pacific High.{p}{end}
+
+## MBMS06 g0 s0002
+JP: 8日間もの間、{n}両校の生徒達が己の技を{n}競い合うという大イベントだ。{p}{end}
+EN: It's a huge event where students from both schools pit their skills against each other for eight whole days.{p}{end}
+
+## MBMS06 g0 s0003
+JP: そして、今日はその最終日。{p}
+EN: And today is the final day.{p}
+
+## MBMS06 g0 s0004
+JP: 去年に引き続き、今年もかなりの接戦で、{n}今日の競技の結果が{n}勝者を決めるという状況。{p}{end}
+EN: Just like last year, it's a close race, and today's events will decide the winner.{p}{end}
+
+## MBMS06 g0 s0005
+JP: すでに両校の生徒達の興奮は、{n}頂点に達している。{p}{end}
+EN: The students of both schools are already at the peak of excitement.{p}{end}
+
+## MBMS06 g0 s0006
+JP: バツ達のところに行く{n}ロイ達のところに行く{p}
+EN: Go to Batsu and the others{n}Go to Roy and the others{p}
+
+## MBMS06 g0 s0007
+JP: いいか、お前ら!{n}泣いても笑っても今日が最終日だ!{n}勝負は今日の競技で決まる!{p}
+EN: Listen up, you lot! Laugh or cry, today is the last day! It all comes down to today's events!{p}
+
+## MBMS06 g0 s0008
+JP: {v3:16}、{n}俺の言いたい事がわかるか!?{p}{end}
+EN: {v3:16}, do you get what I'm trying to say!?{p}{end}
+
+## MBMS06 g0 s0009
+JP: え、えーと…。{p}
+EN: U-um...{p}
+
+## MBMS06 g0 s0010
+JP: わかりました!{n}わかりません!{p}
+EN: I get it!{n}I don't get it!{p}
+
+## MBMS06 g0 s0011
+JP: ばかものおおおおぉ!!{p}
+EN: IDIOOOOOT!!{p}
+
+## MBMS06 g0 s0012
+JP: いいか!{n}今日が最後だってことは、つまり、{n}「明日はねぇ」ってことだ!!{n}わかるか?{p}{end}
+EN: Listen! Today being the last day means... "there's no tomorrow"!! Got it?{p}{end}
+
+## MBMS06 g0 s0013
+JP: そうか、わかるか!{n}さすがは{v3:16}だ!{p}{end}
+EN: Yeah, you get it! That's {v3:16} for you!{p}{end}
+
+## MBMS06 g0 s0014
+JP: お前の骨は俺が拾ってやる!{n}さあ、安心して戦ってこい!!{p}{end}
+EN: If you fall, I'll pick up your bones! Now go out there and fight without a worry!!{p}{end}
+
+## MBMS06 g0 s0015
+JP: はい!{n}ありがとうございます!{p}
+EN: Yes, sir! Thank you!{p}
+
+## MBMS06 g0 s0016
+JP: {v3:0}、パシフィックの連中に{n}ほえ面かかせてやろうぜ!{p}{end}
+EN: {v3:0}, let's wipe the smirks off those Pacific guys' faces!{p}{end}
+
+## MBMS06 g0 s0017
+JP: そうだよ!{n}やるからには勝たなくちゃ!!{p}{end}
+EN: That's right! If we're doing this, we've gotta win!!{p}{end}
+
+## MBMS06 g0 s0018
+JP: 大丈夫、{n}僕らが力を合わせれば勝てるさ。{p}{end}
+EN: Don't worry. If we work together, we'll win.{p}{end}
+
+## MBMS06 g0 s0019
+JP: もちろん、負けるつもりはないよ!{p}{end}
+EN: Of course. I'm not planning on losing!{p}{end}
+
+## MBMS06 g0 s0020
+JP: 勝負は{v3:0}のでる種目に{n}かかってるんだからな。{n}頼むぜ!{p}{end}
+EN: It all comes down to your event, {v3:0}. We're countin' on ya!{p}{end}
+
+## MBMS06 g0 s0021
+JP: あれ?{n}そう言えば、{v7:1}って{n}何に出場するんだっけ?{p}{end}
+EN: Huh? Come to think of it, what event are you in, {v7:1}?{p}{end}
+
+## MBMS06 g0 s0022
+JP: 俺?{n}俺は……。{p}{end}
+EN: Me? I'm in...{p}{end}
+
+## MBMS06 g0 s0023
+JP: ホームラン競争に出る{n}サッカーPK戦に出る{n}バレーサービス合戦に出る{p}{end}
+EN: The Home Run Derby{n}The soccer PK Shootout{n}The volleyball serve contest{p}{end}
+
+## MBMS06 g0 s0024
+JP: そっか、頑張ってね!{n}{v7:1}ならきっと大丈夫だよ。{n}私、信じてるから{col:5}♥{col:-}{p}{end}
+EN: I see, good luck! You'll be fine, {v7:1}. I believe in you{col:5}♥{col:-}{p}{end}
+
+## MBMS06 g0 s0025
+JP: {v5:2}、{n}ピンチの時こそ冷静にな。{n}ともかく、頑張ってくれ。{p}
+EN: {v5:2}, stay calm, especially in a pinch. Anyway, give it your best.{p}
+
+## MBMS06 g0 s0026
+JP: ありがとう。{n}じゃあ、いってくるよ。{p}{end}
+EN: Thanks. Well, I'm off.{p}{end}
+
+## MBMS06 g0 s0027
+JP: {v3:6}、調子はどうだ?{p}{end}
+EN: {v3:6}, how are you feeling?{p}{end}
+
+## MBMS06 g0 s0028
+JP: やあ、{n}おはよう、ロイ。{n}みんな早いんだな。{p}{end}
+EN: Hey, morning, Roy. You're all here early.{p}{end}
+
+## MBMS06 g0 s0029
+JP: 今年の太P戦は、{n}かつてないほどの{n}シーソーゲームだからな。{n}みんな興奮してるのさ。{p}{end}
+EN: This year's Taiyo-Pacific Match is the closest seesaw battle ever. Everyone's fired up.{p}{end}
+
+## MBMS06 g0 s0030
+JP: {col:3}チアリーダー{col:-}{n}「ゴーゴー!{sp}パシフィック!{n}{sp}レッツゴー!{sp}パシフィック!」{p}{end}
+EN: {col:3}Cheerleaders{col:-}{n}"Go, go, Pacific! Let's go, Pacific!"{p}{end}
+
+## MBMS06 g0 s0031
+JP: うん、ティファニー達も{n}頑張ってるみたいだね。{p}
+EN: Yeah, looks like Tiffany and the others are going all out too.{p}
+
+## MBMS06 g0 s0032
+JP: ヘイ、{v3:7}!{n}応援はミーたちにまかせるネ!{p}
+EN: Hey, {v3:7}! Leave the cheering to us!{p}
+
+## MBMS06 g0 s0034
+JP: 本来、争いごとは{n}すすめられることではありません。{p}
+EN: Normally, I would not encourage conflict.{p}
+
+## MBMS06 g0 s0035
+JP: ですが、見てください。{n}みんなの生き生きとした顔を…。{p}
+EN: But look. Look at everyone's lively faces...{p}
+
+## MBMS06 g0 s0036
+JP: 神も、きっとこの太P戦を{n}温かく見守ってくださっているはずです。{p}{end}
+EN: I am sure God is watching over this match with warm eyes as well.{p}{end}
+
+## MBMS06 g0 s0037
+JP: うん、そうだね。{p}{end}
+EN: Yeah, you're right.{p}{end}
+
+## MBMS06 g0 s0038
+JP: おい、{v3:6}、{n}そろそろ君の出番じゃないか?{p}
+EN: Hey, {v3:6}, isn't it almost your turn?{p}
+
+## MBMS06 g0 s0039
+JP: {v3:7}、何に出るの?{n}ミーたち、精一杯応援するヨ!!{p}
+EN: {v3:7}, what event are you in? We'll cheer for you with all we've got!!{p}
+
+## MBMS06 g0 s0040
+JP: 俺?{n}俺は…。{p}
+EN: Me? I'm in...{p}
+
+## MBMS06 g0 s0042
+JP: たのんだぜ!{p}{end}
+EN: We're counting on you!{p}{end}
+
+## MBMS06 g0 s0043
+JP: ファイト!{p}
+EN: Go, go, go!{p}
+
+## MBMS06 g0 s0044
+JP: {v5:8}、{n}勝利があなたと共にあらんことを。{p}{end}
+EN: {v5:8}, may victory be with you.{p}{end}
+
+## MBMS06 g0 s0045
+JP: ありがとう、みんな。{n}俺、きっと勝つよ!{p}{end}
+EN: Thanks, everyone. I'm gonna win, for sure!{p}{end}
+
+## MBMS06 g0 s0047
+JP: （誰なんだろう、この人?）{p}
+EN: (Who is this guy?){p}
+
+## MBMS06 g0 s0048
+JP: {v0}、貴様の実力…、{n}見せてもらうぞ。{p}{end}
+EN: {v0}... Show me what you are truly capable of.{p}{end}
+
+## MBMS06 g0 s0049
+JP: な、なんだったんだ?{n}俺の…実力!?{p}{end}
+EN: Wh-what was that about? What I'm... capable of!?{p}{end}
+
+## MBMS06 g0 s0050
+JP: （俺の奇跡的な活躍もあって、{n}{sp}なんと、太陽学園は{n}{sp}劇的な逆転優勝を果たした。）{p}
+EN: (Thanks to my miraculous performance, Taiyo High pulled off a dramatic come-from-behind victory.){p}
+
+## MBMS06 g0 s0051
+JP: {v0}。{n}貴様の実力、確かに見せてもらった。{p}{end}
+EN: {v0}. I have seen what you are capable of.{p}{end}
+
+## MBMS06 g0 s0052
+JP: あ、あなたは、さっきの…。{p}
+EN: Y-you're the guy from before...{p}
+
+## MBMS06 g0 s0053
+JP: 私は、『忌野{sp}雹』。{n}この学園の生徒会長をしている。{p}{end}
+EN: I am Hyo Imawano. I am the president of this school's student council.{p}{end}
+
+## MBMS06 g0 s0054
+JP: 恭介の報告以上だ。{n}貴様は、私の右腕となるにふさわしい。{p}{end}
+EN: You exceeded even Kyosuke's report. You are worthy of being my right hand.{p}{end}
+
+## MBMS06 g0 s0055
+JP: いずれまた会うことになるだろう。{n}では、さらばだ…。{p}{end}
+EN: We will meet again before long. Until then, farewell...{p}{end}
+
+## MBMS06 g0 s0056
+JP: {v7:1}ーー!!{p}{end}
+EN: {v7:1}!!{p}{end}
+
+## MBMS06 g0 s0057
+JP: ガバッ{p}
+EN: Glomp!{p}
+
+## MBMS06 g0 s0058
+JP: （ひ、ひなたが抱きついてきた!!）{p}
+EN: (H-Hinata's hugging me!!){p}
+
+## MBMS06 g0 s0059
+JP: {v7:1}やったね、{n}私たちの優勝だよ!{n}すごいよ!すごいよー!!{p}{end}
+EN: {v7:1}, we did it! We won! That's amazing! Amaziiing!!{p}{end}
+
+## MBMS06 g0 s0060
+JP: だから言っただろ?{n}僕たちが力を合わせれば、{n}必ず勝てるって。{p}
+EN: What did I tell you? If we work together, we're sure to win.{p}
+
+## MBMS06 g0 s0061
+JP: まったく、お前はたいしたやつだよ。{p}
+EN: Man, you're really something.{p}
+
+## MBMS06 g0 s0062
+JP: ありがとう。{n}正直、自分でも信じられないんだ。{p}
+EN: Thanks. Honestly, I can't believe it myself.{p}
+
+## MBMS06 g0 s0063
+JP: と、ところで、ひなた。{n}そんなに力を入れられたら、{n}…苦しいよ。{p}{end}
+EN: B-by the way, Hinata. If you squeeze that hard... I can't breathe.{p}{end}
+
+## MBMS06 g0 s0064
+JP: え!?{n}あ、ご、ごめん!{p}{end}
+EN: Huh!? Oh, s-sorry!{p}{end}
+
+## MBMS06 g0 s0065
+JP: つい、感激しちゃって…{p}
+EN: I just got so excited...{p}
+
+## MBMS06 g0 s0066
+JP: ははははは。{n}こいつ、いっちょまえに照れてやんの。{p}
+EN: Hahahaha. Look at her, gettin' all bashful.{p}
+
+## MBMS06 g0 s0067
+JP: もう、茶化さないでよ!{p}
+EN: Geez, quit teasing me!{p}
+
+## MBMS06 g0 s0068
+JP: （こうして、太P戦は無事終了した。）{p}{end}
+EN: (And so, the Taiyo-Pacific Match came to a happy end.){p}{end}
+
+## MBMS06 g0 s0069
+JP: （俺は、力いっぱい頑張ったんだけど、{n}{sp}結局、太P戦は{n}{sp}10年ぶりの引き分けに終わった。）{p}{end}
+EN: (I gave it everything I had, but in the end the match was a draw for the first time in 10 years.){p}{end}
+
+## MBMS06 g0 s0070
+JP: {v0}。{n}貴様の実力、見せてもらった。{p}
+EN: {v0}. I have seen what you are capable of.{p}
+
+## MBMS06 g0 s0073
+JP: 恭介の報告どおりだ。{n}だが、私の右腕となるには{n}まだまだ力不足のようだな。{p}
+EN: Just as Kyosuke reported. But you are still far too weak to be my right hand.{p}
+
+## MBMS06 g0 s0075
+JP: おーい、{v3:0}。{n}こっちだこっち。{p}{end}
+EN: Hey, {v3:0}. Over here, over here!{p}{end}
+
+## MBMS06 g0 s0076
+JP: お疲れさま。{n}引き分けになっちゃったけど、{n}みんな頑張ったよね!{p}{end}
+EN: Good work! It ended in a draw, but everyone did great, right?{p}{end}
+
+## MBMS06 g0 s0077
+JP: うん、みんなもお疲れさま。{p}
+EN: Yeah, good work, everybody.{p}
+
+## MBMS06 g0 s0078
+JP: 今年は怪我人もいなかったようだよ。{p}
+EN: Looks like nobody got hurt this year.{p}
+
+## MBMS06 g0 s0079
+JP: バツの乱闘もなかったし、{n}風紀委員としてはうれしい限りだ。{p}
+EN: And Batsu didn't start any brawls. As a disciplinary committee member, I couldn't be happier.{p}
+
+## MBMS06 g0 s0080
+JP: ちぇっ!{n}それじゃ、オレがいつも乱闘してる{n}みたいじゃねぇか。{p}
+EN: Tch! You make it sound like I'm always brawlin'.{p}
+
+## MBMS06 g0 s0081
+JP: 違うのか?{p}
+EN: Aren't you?{p}
+
+## MBMS06 g0 s0082
+JP: あはははははは。{n}うん、してるしてる。{n}バツって、気がつくと乱闘してるもんね。{p}
+EN: Ahahahaha. Yep, you are, you are. Batsu, you're always in a brawl before you know it.{p}
+
+## MBMS06 g0 s0084
+JP: （俺は、思っていたほどに実力が出せず、{n}{sp}結果は最悪だった。{n}{sp}結局、パシフィックハイスクールの圧勝{n}{sp}という形で太P戦は幕を閉じた…。）{p}
+EN: (I couldn't perform as well as I'd hoped, and the results were awful. In the end, the match closed with a crushing win for Pacific High...){p}
+
+## MBMS06 g0 s0088
+JP: 恭介の報告もあてにならんな。{n}貴様が私の右腕となるには、{n}まだまだ力不足だ。{p}{end}
+EN: Kyosuke's reports are not to be trusted, it seems. You are still far too weak to be my right hand.{p}{end}
+
+## MBMS06 g0 s0089
+JP: いずれまた会うことになるだろう。{n}それまでに、少しでも{n}腕をみがいておくのだな。{p}{end}
+EN: We will meet again before long. Until then, see that you polish your skills, if only a little.{p}{end}
+
+## MBMS06 g0 s0090
+JP: うう、{v7:1}～…。{p}{end}
+EN: Uuu, {v7:1}...{p}{end}
+
+## MBMS06 g0 s0091
+JP: 泣かないでくれよ、ひなた。{n}ごめんな、俺がもっと{n}しっかりしてれば…。{p}
+EN: Don't cry, Hinata. I'm sorry. If only I'd done better...{p}
+
+## MBMS06 g0 s0092
+JP: まあ、お前の方も散々だったが、{n}お前だけの責任でもねぇよ。{p}
+EN: Well, you did pretty lousy, but it ain't all on you.{p}
+
+## MBMS06 g0 s0093
+JP: それに、太P戦は今年だけじゃねぇ。{p}
+EN: Besides, this ain't the only Taiyo-Pacific Match.{p}
+
+## MBMS06 g0 s0094
+JP: そう、また来年がある。{n}今年は負けても、来年勝てばいいさ。{p}
+EN: Right, there's always next year. We lost this year, but we can win next year.{p}
+
+## MBMS06 g0 s0095
+JP: そうだな、{n}来年こそは絶対に勝ってやるぜ!{p}
+EN: Yeah, next year we're gonna win for sure!{p}
+
+## MBMS06 g0 s0096
+JP: （こうして、太P戦は終了した。）{p}{end}
+EN: (And so, the Taiyo-Pacific Match was over.){p}{end}
+
+## MBMS06 g0 s0097
+JP: （俺の奇跡的な活躍もあって、{n}{sp}なんと、パシフィックハイスクールは{n}{sp}劇的な逆転優勝を果たした。）{p}
+EN: (Thanks to my miraculous performance, Pacific High pulled off a dramatic come-from-behind victory.){p}
+
+## MBMS06 g0 s0101
+JP: 私の目に狂いはなかったな。{n}貴様は、私の右腕となるにふさわしい。{p}{end}
+EN: My eye did not deceive me. You are worthy of being my right hand.{p}{end}
+
+## MBMS06 g0 s0103
+JP: {v3:7}ーー!!{p}{end}
+EN: {v3:7}!!{p}{end}
+
+## MBMS06 g0 s0104
+JP: {v3:7}やったヨ!{n}ミーたちの優勝ね!{n}アンビリーバブルね!!{p}
+EN: {v3:7}, we did it! We won! Unbelievable!!{p}
+
+## MBMS06 g0 s0105
+JP: ごほーびのキスね!{n}チュッ{col:5}♥{col:-}{p}{end}
+EN: Here's your victory kiss! Smooch{col:5}♥{col:-}{p}{end}
+
+## MBMS06 g0 s0106
+JP: （キ、キスされちゃった…。）{p}{end}
+EN: (Sh-she kissed me...){p}{end}
+
+## MBMS06 g0 s0107
+JP: 私たちが力を合わせれば、{n}必ず勝てると信じていましたよ。{p}{end}
+EN: I believed that if we joined our strength, we would surely win.{p}{end}
+
+## MBMS06 g0 s0110
+JP: （俺はロイと熱い握手を交わした。）{p}
+EN: (Roy and I shared a firm handshake.){p}
+
+## MBMS06 g0 s0111
+JP: ロイ、そんなに力を入れられたら、{n}痛いよ。{p}
+EN: Roy, that hurts when you squeeze so hard.{p}
+
+## MBMS06 g0 s0112
+JP: え!?{n}ああ、すまん。{p}
+EN: Huh!? Oh, sorry.{p}
+
+## MBMS06 g0 s0113
+JP: つい、興奮してしまった。{n}ボクらしくもないな。{p}
+EN: I got carried away. That's not like me.{p}
+
+## MBMS06 g0 s0114
+JP: ウフフフフフ…。{n}ロイが興奮するなんてめずらしーネ。{p}{end}
+EN: Ufufufu... It's rare to see Roy get so excited.{p}{end}
+
+## MBMS06 g0 s0115
+JP: おいおい、ティファニー。{n}茶化さないでくれよ。{p}
+EN: Come on, Tiffany. Don't tease me.{p}
+
+## MBMS06 g0 s0117
+JP: （俺は、力いっぱい頑張ったんだけど、{n}{sp}結局、太P戦は10年ぶりの引き分け{n}{sp}に終わった。）{p}{end}
+EN: (I gave it everything I had, but in the end the match was a draw for the first time in 10 years.){p}{end}
+
+## MBMS06 g0 s0121
+JP: 私の目に狂いはなかったな。{n}だが、私の右腕となるには{n}まだまだ力不足のようだな。{p}{end}
+EN: My eye did not deceive me. But it seems you are still far too weak to be my right hand.{p}{end}
+
+## MBMS06 g0 s0123
+JP: おーい、{v3:6}。{n}こっちだこっち。{p}{end}
+EN: Hey, {v3:6}. Over here, over here!{p}{end}
+
+## MBMS06 g0 s0124
+JP: {v3:7}、お疲れさまネ!{n}引き分けでザンネンだけど、{n}ミンナよく頑張ったよ!{p}{end}
+EN: Good job, {v3:7}! Too bad it was a draw, but everyone did great!{p}{end}
+
+## MBMS06 g0 s0126
+JP: 太陽学園の生徒達も、{n}本当に頑張って、いましたからね。{p}
+EN: The Taiyo students fought very hard as well.{p}
+
+## MBMS06 g0 s0127
+JP: 正直なところ、引き分けられただけでも{n}運が良かったと思いますよ。{p}{end}
+EN: To be honest, I think we were lucky just to get a draw.{p}{end}
+
+## MBMS06 g0 s0128
+JP: ああ…。{n}あいつら、思ってたより手強かったな。{n}ちょっとだけ見直したぜ。{p}{end}
+EN: Yeah... They were tougher than I thought. I'll give them a little credit.{p}{end}
+
+## MBMS06 g0 s0129
+JP: ウフフ、{n}ロイが日本人をほめるなんて、珍しいネ。{p}{end}
+EN: Ufufu, it's rare for Roy to praise Japanese people.{p}{end}
+
+## MBMS06 g0 s0131
+JP: （俺は、思っていたほどに実力が出せず、{n}{sp}結果は最悪だった。{n}{sp}結局、太陽学園の圧勝という形で{n}{sp}太P戦は幕を閉じた…。）{p}
+EN: (I couldn't perform as well as I'd hoped, and the results were awful. In the end, the match closed with a crushing win for Taiyo High...){p}
+
+## MBMS06 g0 s0135
+JP: どうやら、貴様が私の右腕となるには、{n}まだまだ時間が必要なようだ。{p}
+EN: It seems you will need much more time before you are fit to be my right hand.{p}
+
+## MBMS06 g0 s0137
+JP: くっ、「大和魂」恐るべし。{n}ボクたちがこうもあっさりと敗れるとは…。{p}{end}
+EN: Ugh, so this is the "Yamato spirit." I can't believe they beat us so easily...{p}{end}
+
+## MBMS06 g0 s0138
+JP: オーノー!!{n}ロイ、あんなに頑張ったのに{n}負けちゃったなんて…。{p}{end}
+EN: Oh no!! Roy tried so hard, and we still lost...{p}{end}
+
+## MBMS06 g0 s0139
+JP: 泣かないでくれよ、ティファニー。{n}ごめんな、俺がもっとしっかりしてれば…。{p}
+EN: Don't cry, Tiffany. I'm sorry. If only I'd done better...{p}
+
+## MBMS06 g0 s0140
+JP: あなた1人の責任ではありませんよ。{n}なによりも、太陽学園の生徒達の闘志を{n}たたえるべきでしょう。{p}{end}
+EN: This is not your fault alone. Above all, we should praise the fighting spirit of the Taiyo students.{p}{end}
+
+## MBMS06 g0 s0141
+JP: それに、太P戦は{n}今年だけじゃありません。{p}
+EN: Besides, this is not the only Taiyo-Pacific Match.{p}
+
+## MBMS06 g0 s0142
+JP: そうだな、また来年がある。{n}今年は負けても、来年勝てばいい。{p}{end}
+EN: That's right, there's always next year. We lost this year, but we'll just win next year.{p}{end}
+
+## MBMS06 g0 s0143
+JP: ああ、来年こそは絶対に勝ってやるぜ!{p}{end}
+EN: Yeah, next year we're gonna win for sure!{p}{end}
+
+## MBMS06 g0 s0145
+JP: グラウンドでは、将馬とロベルトが{n}『爆裂シュート』の練習をしている。{n}蹴ってるのはもっぱら将馬で、{n}それをロベルトが指導してるらしい。{p}
+EN: On the field, Shoma and Roberto are practicing the Explosive Shot. Shoma does all the kicking, and Roberto seems to be coaching him.{p}
+
+## MBMS06 g0 s0146
+JP: ダメだ、ダメだ!!{n}まだ、つま先で蹴ってる。{n}もっと足の甲を使うんだ!!{n}じゃないと二枚抜きはできないぞ!!{p}{end}
+EN: No, no!! You're still kicking with your toes. Use your instep more!! Or you'll never knock out two panels at once!!{p}{end}
+
+## MBMS06 g0 s0147
+JP: うるせえな!{n}さっきからやってるだろ!!{n}見てろよぉ……。{n}爆裂!!{sp}Vゴォォーーール!!{p}
+EN: Shut up! I've been doin' that this whole time!! Watch this... Victory GOOOOAL!!{p}
+
+## MBMS06 g0 s0148
+JP: （かけ声こそいさましいが、ボールの方は{n}{sp}ゴールの枠をはずれて彼方へ飛んでいく。{n}{sp}みると、ゴールの得点板は{n}{sp}まだ一枚もとれていない。）{p}
+EN: (His shout sure is brave, but the ball sails way off past the goal. And he still hasn't knocked out a single panel.){p}
+
+## MBMS06 g0 s0149
+JP: 力が入りすぎだな。{n}もっと軽く蹴ってみろよ……。{n}お、{v3:5}じゃないか。{n}どうしたんだ?{p}
+EN: You're putting too much power into it. Try kicking lighter... Oh, it's {v3:5}. What's up?{p}
+
+## MBMS06 g0 s0150
+JP: やぁ、ロベルト。{n}将馬をJリーガーにでもする気か?{p}
+EN: Hey, Roberto. You trying to turn Shoma into a J.League player?{p}
+
+## MBMS06 g0 s0151
+JP: こいつ、『太P戦』の『ホームラン競争』で{n}全然打てなかったモンだから、{n}こうやってオイラをイジメてるんだぜ!{n}いやんなっちゃうよな!{p}{end}
+EN: This guy couldn't hit a thing in the Home Run Derby at the Taiyo-Pacific Match, so now he's takin' it out on me! Gimme a break!{p}{end}
+
+## MBMS06 g0 s0152
+JP: このまま二人と話し込む{n}ここは立ち去る{p}
+EN: Keep talking with them{n}Leave{p}
+
+## MBMS06 g0 s0153
+JP: 悪りいけど、俺はこれで失礼するよ。{n}ちょっと用事があるんだ。{n}将馬、がんばれよ!!{n}じゃあな!!{p}{end}
+EN: Sorry, but I gotta get going. I've got something to do. Good luck, Shoma!! See ya!!{p}{end}
+
+## MBMS06 g0 s0155
+JP: イジメてるワケじゃないさ。{n}それに、この前の『ホームラン競争』だって{n}本気でやったわけじゃない。{n}その前の『PK戦』で、疲れてたんだ。{p}
+EN: I'm not picking on you. And I wasn't trying for real in that Home Run Derby. I was worn out from the PK Shootout before it.{p}
+
+## MBMS06 g0 s0156
+JP: わかったわかった。{n}いいから一休みしようぜ。{n}オイラ疲れちまったよ。{n}やっぱりオイラは、野球の方がいいな。{p}
+EN: Okay, okay. Let's just take a break. I'm beat. Guess I like baseball better after all.{p}
+
+## MBMS06 g0 s0157
+JP: やれやれ、あのくらいで情けない……。{n}サッカーのおもしろさがわからないかなぁ。{n}ところで、{v3:5}、{n}おまえは野球とサッカー、どっちが好きだ?{p}
+EN: Sheesh, tired already? He just doesn't get how fun soccer is. So, {v3:5}, which do you like, baseball or soccer?{p}
+
+## MBMS06 g0 s0158
+JP: 野球かな{n}サッカーだな{p}
+EN: Baseball, I guess{n}Soccer{p}
+
+## MBMS06 g0 s0159
+JP: やっぱり野球かな。{p}
+EN: Baseball, I guess.{p}
+
+## MBMS06 g0 s0160
+JP: お、そうこなくちゃ!!{n}やっぱり野球の方が楽しいよな!!{p}{end}
+EN: Now that's what I like to hear!! Baseball's way more fun, right!!{p}{end}
+
+## MBMS06 g0 s0161
+JP: 野球はカッ飛ばせばホームランだけど、{n}サッカーはいちいちゴールにいれないと{n}いけないからな。{n}面倒だぜ。{p}{end}
+EN: In baseball, ya just smack it and it's a homer. In soccer, ya gotta get it in the goal every single time. What a pain.{p}{end}
+
+## MBMS06 g0 s0162
+JP: シュートを『枠』に入れるのは基本だ。{n}そのチミツさが楽しいんじゃないか。{p}{end}
+EN: Getting your shot inside the frame is the basics. That precision is what makes it fun.{p}{end}
+
+## MBMS06 g0 s0163
+JP: サッカーの方が好きだな。{p}{end}
+EN: I like soccer better.{p}{end}
+
+## MBMS06 g0 s0164
+JP: {v3:5}、わかってるな。{n}サッカーは{n}ワールドワイドなスポーツだしな。{n}やるのも見るのもサッカーが一番さ。{p}
+EN: {v3:5}, you get it. Soccer's a worldwide sport, after all. Playing or watching, soccer's the best.{p}
+
+## MBMS06 g0 s0165
+JP: なんだよ、{v3:3}。{n}日本人ならやっぱり野球だろ!?{p}{end}
+EN: Come on, {v3:3}. If you're Japanese, it's gotta be baseball!{p}{end}
+
+## MBMS06 g0 s0166
+JP: ま、どっちにしても、だ。{n}将馬、次の勝負は『五輪祭』だからな。{n}しっかり練習しとけよ!{p}
+EN: Well, either way. Shoma, the next showdown is the Gorin Festival. Practice hard!{p}
+
+## MBMS06 g0 s0167
+JP: ロベルト、おまえこそな!!{n}{v3:3}、おまえも{n}練習しといた方がいいぞ。{n}『課外活動』でいつでも練習できるからな。{p}
+EN: Look who's talkin', Roberto!! {v3:3}, you'd better practice too. Ya can practice any time in "Activities."{p}
+
+## MBMS06 g0 s0168
+JP: 『ホームラン競争』はタイミングが大事だ。{n}ベストのタイミングを{n}カラダで覚えないとな!{p}
+EN: The Home Run Derby is all about timing. Ya gotta learn the best timing with your body!{p}
+
+## MBMS06 g0 s0169
+JP: 『PK戦』はパワーの加減が重要だ。{n}まず『枠』に入れることを考えて蹴れよ。{n}はずしたら何にもならないからな。{p}{end}
+EN: In the PK Shootout, it's all about controlling your power. Focus on getting it in the frame first. If you miss, it's all for nothing.{p}{end}
+
+## MBMS06 g0 s0170
+JP: （なるほど…、{n}{sp}覚えておこう…。）{p}{end}
+EN: (I see... I'll remember that...){p}{end}
+
+## MBMS06 g0 s0171
+JP: 屋上に上ると、外をみつめて物思いに{n}ふけっている人がいた。{n}あの後ろ姿は…生徒会長の雹さんだ。{p}
+EN: Up on the roof, someone is gazing out, lost in thought. From behind, that's... Hyo-san, the student council president.{p}
+
+## MBMS06 g0 s0172
+JP: 近寄ってみる{n}じゃましないように去る{p}{end}
+EN: Go up to him{n}Leave without disturbing him{p}{end}
+
+## MBMS06 g0 s0173
+JP: うかつにじゃましたら殺されそうだな…。{n}別の場所にいってみよう…。{p}
+EN: If I bother him carelessly, he might kill me... Let's try somewhere else...{p}
+
+## MBMS06 g0 s0174
+JP: そろそろと近寄ってみる…。{n}…と、数歩も進まないうちに気づかれた。{n}気づかれるような大きな音でもたてたかな?{p}{end}
+EN: I creep closer... but before I've taken a few steps, he notices me. Did I make some loud noise?{p}{end}
+
+## MBMS06 g0 s0175
+JP: {v0}か…。{n}ちょうどいい、{n}少し聞きたいことがあるのだが、{n}かまわないか?{p}{end}
+EN: {v0}... Good timing. There is something I would like to ask you. Do you mind?{p}{end}
+
+## MBMS06 g0 s0176
+JP: 私は今の学生には、物足りなさを{n}感じている。{n}君は、今の学生に欠けているもの、{n}そして、必要なものは何だと思う?{p}{end}
+EN: I find today's students lacking. What do you think they are missing? What is it they need?{p}{end}
+
+## MBMS06 g0 s0177
+JP: それは自由だ!{n}それは友情だ!{n}それは規律だ!{n}別に何も…{p}
+EN: Freedom!{n}Friendship!{n}Discipline!{n}Nothing, really...{p}
+
+## MBMS06 g0 s0178
+JP: それは自由ですね。{n}今の学生は、校則だの勉強だのいろんなモノ{n}にしばられすぎているんじゃないですか?{n}もっと自由が必要なんじゃないかな。{p}{end}
+EN: Freedom. Students today are tied down by too many things, like school rules and studying. I think they need more freedom.{p}{end}
+
+## MBMS06 g0 s0179
+JP: そうか……。{n}どうやら私は君を{n}買いかぶりすぎていたようだな…。{n}いや、もういい。帰りたまえ。{p}
+EN: I see... It seems I overestimated you... No, that is enough. You may go.{p}
+
+## MBMS06 g0 s0180
+JP: ………。{n}なんだかよくわからんが、とりあえず{n}帰ろう…。{p}{end}
+EN: ...... I don't really get it, but I guess I'll head home...{p}{end}
+
+## MBMS06 g0 s0181
+JP: それは友情です!{n}最近の学生って、熱く語り合ったりする事が{n}少ないですから。心から許しあえる友人が{n}必要なんじゃないでしょうか?{p}{end}
+EN: Friendship! Students these days rarely have heart-to-hearts. Don't they need friends they can truly trust?{p}{end}
+
+## MBMS06 g0 s0182
+JP: …友情……か。{n}……{n}お前の眼…弟に似ているな……。{p}{end}
+EN: ...Friendship... is it? ...... Your eyes... they resemble my brother's...{p}{end}
+
+## MBMS06 g0 s0183
+JP: いやすまない。{n}こっちの話しだ。気にするな。{n}もういい、帰りたまえ。{p}{end}
+EN: No, forgive me. I was talking to myself. Pay it no mind. That is enough, you may go.{p}{end}
+
+## MBMS06 g0 s0184
+JP: なんか、まずいこと言ったかな?{n}…それより、雹さんて弟がいるんだ…。{p}{end}
+EN: Did I say something wrong? ...More importantly, Hyo-san has a little brother...{p}{end}
+
+## MBMS06 g0 s0185
+JP: それは規律ですね。{n}最近の学生はだらしがなさすぎですよ。{n}もっと規律を守った行動をすべきです!{p}
+EN: Discipline. Students these days are way too sloppy. They should act with more discipline!{p}
+
+## MBMS06 g0 s0186
+JP: フム…。{n}いい答えだ。{n}君となら新しい日本を作れるかも{n}しれんな…。{p}{end}
+EN: Hmm... A fine answer. With you, I may be able to build a new Japan...{p}{end}
+
+## MBMS06 g0 s0187
+JP: いや、こっちの話しだ。{n}気にしないでくれ。{n}気をつけて帰りたまえよ。{p}{end}
+EN: No, I was talking to myself. Never mind. Take care on your way home.{p}{end}
+
+## MBMS06 g0 s0188
+JP: ………。{n}なんだかよくわからんが、とりあえず{n}気に入られたみたいだ…。{p}
+EN: ...... I don't really get it, but it seems he likes me...{p}
+
+## MBMS06 g0 s0189
+JP: そうですか?{n}俺は特に気になりませんけど。{n}学生なんて楽しければいいじゃないですか。{p}{end}
+EN: Really? It doesn't bother me much. Students should just have fun, right?{p}{end}
+
+## MBMS06 g0 s0190
+JP: ……ふん…!{p}{end}
+EN: ......Hmph...!{p}{end}
+
+## MBMS06 g0 s0191
+JP: あれ、いっちゃった…{n}よくわからない人だな、あの人も…。{p}{end}
+EN: Huh, he left... He's a hard one to figure out, too...{p}{end}
+
+## MBMS06 g0 s0192
+JP: ……はっ!{n}どうも寒いと思ったら制服のボタンが{n}なくなってる……いつの間になくなったん{n}だろう…?{p}
+EN: ......Huh! No wonder it felt cold, a button on my uniform is gone... When did that happen...?{p}
+
+## MBMS06 g0 s0193
+JP: お、恭介が体育館前を歩いている。{n}何か見回りをしているみたいだ。{n}どうしようか?{p}{end}
+EN: Oh, Kyosuke's walking in front of the gym. Looks like he's on patrol or something. What should I do?{p}{end}
+
+## MBMS06 g0 s0194
+JP: お、恭介が体育館前を歩いている。{n}何か見回りをしているみたいだ。{n}ちょっと声をかけてみるか。{p}{end}
+EN: Oh, Kyosuke's walking in front of the gym. Looks like he's on patrol or something. Maybe I'll say hi.{p}{end}
+
+## MBMS06 g0 s0195
+JP: 声をかける{n}そのまま通り過ぎる{p}
+EN: Say hi{n}Walk on by{p}
+
+## MBMS06 g0 s0196
+JP: なんか忙しそうだな…{n}声をかけるのはやめておこう。{n}…他に人はいないな…。{n}他のトコロへいってみるか。{p}
+EN: He looks busy... I'll leave him be. ...Nobody else is around... Let's try somewhere else.{p}
+
+## MBMS06 g0 s0197
+JP: よぉ、恭介。{n}何やってんの?{p}{end}
+EN: Yo, Kyosuke. Whatcha doing?{p}{end}
+
+## MBMS06 g0 s0198
+JP: やぁ{v5:2}か。{n}ちょっと校内の巡回をね。{n}風紀委員の仕事で、交代で校内を巡回する{n}ことになってるんだ。{p}{end}
+EN: Oh, {v5:2}. Just patrolling the school. The disciplinary committee takes turns patrolling the grounds.{p}{end}
+
+## MBMS06 g0 s0199
+JP: 大変なんだな、風紀委員の仕事も…{n}……で、巡回ってどんなことするの?{p}{end}
+EN: Sounds rough, being on the committee... So what do you do on patrol?{p}{end}
+
+## MBMS06 g0 s0200
+JP: まぁイジメやカツアゲの防止とか{n}そんなことの取り締まりだな。{n}あとはケンカの仲裁とかね…{n}ん?……何だ!?{p}
+EN: Well, we stop bullying and shakedowns, that kind of thing. And we break up fights... Hm? ...What's that!?{p}
+
+## MBMS06 g0 s0201
+JP: ん?体育館の方から騒ぎが聞こえるな…{n}あ、恭介は走っていってしまった…{n}じゃあ俺は…{p}{end}
+EN: Hm? I hear a commotion from the gym... Ah, Kyosuke ran off... So what do I do...{p}{end}
+
+## MBMS06 g0 s0202
+JP: 全速力でかけつける{n}恭介を追いかける{n}気にしないで帰る{p}
+EN: Run there at full speed{n}Chase after Kyosuke{n}Ignore it and go home{p}
+
+## MBMS06 g0 s0203
+JP: 風紀委員も大変だな…{n}俺は風紀委員じゃなくてよかった…{p}
+EN: Disciplinary committee sounds rough... Glad I'm not on it...{p}
+
+## MBMS06 g0 s0204
+JP: 声がしたのは体育館だなっ!{n}よし!!{p}{end}
+EN: The noise came from the gym! All right!!{p}{end}
+
+## MBMS06 g0 s0205
+JP: 一気にかけ出し、体育館に着く前に{n}恭介を追い抜いた!{n}……が、{n}体育館の騒ぎは収まったあとだった。{p}
+EN: I dash off and pass Kyosuke before I reach the gym! ...But the commotion there is already over.{p}
+
+## MBMS06 g0 s0206
+JP: 速いな、{v5:2}。{n}僕も遅いほうじゃないんだが…{n}ん…これは…{p}
+EN: You're fast, {v5:2}. I'm not slow myself... Hm... What's this...{p}
+
+## MBMS06 g0 s0207
+JP: 恭介は体育館の方へいったな!{n}追ってみよう!{p}{end}
+EN: Kyosuke went toward the gym! I'll follow him!{p}{end}
+
+## MBMS06 g0 s0208
+JP: さすがは恭介、速いな…{n}なんとか追いついたものの…{n}体育館の騒ぎは収まったあとだった。{p}
+EN: Kyosuke's fast, as expected... I manage to catch up, but the commotion in the gym is already over.{p}
+
+## MBMS06 g0 s0209
+JP: ひなた…、また君か…{p}{end}
+EN: Hinata... You again...{p}{end}
+
+## MBMS06 g0 s0210
+JP: わ、私はケンカを止めただけだよ!!{n}ただ、ちょっと力が入りすぎちゃって…{p}{end}
+EN: I-I was just stopping a fight!! I just put a little too much into it...{p}{end}
+
+## MBMS06 g0 s0211
+JP: （よく見るとひなたの足下に、大男が{n}{sp}二人転がっている）{p}{end}
+EN: (Looking closer, two big guys are lying at Hinata's feet.){p}{end}
+
+## MBMS06 g0 s0212
+JP: その二人は…バスケ部と剣道部の主将か…{n}前にも体育館の使い方でモメてたな…{n}ひなた、この二人が先にケンカを始めたって{n}いうのは本当なんだな?{p}{end}
+EN: Those two... the basketball and kendo captains. They fought over the gym before, too... Hinata, these two really started it?{p}{end}
+
+## MBMS06 g0 s0213
+JP: ホントだって!{n}私が自分からケンカなんて{n}するわけないじゃん!{n}{v7:1}なら信じてくれるよね。{p}
+EN: It's true! Like I'd ever start a fight myself! You believe me, right, {v7:1}?{p}
+
+## MBMS06 g0 s0214
+JP: もちろん信じるよ!{n}う～ん、どうだろう…{p}{end}
+EN: Of course I believe you!{n}Hmm, I wonder...{p}{end}
+
+## MBMS06 g0 s0215
+JP: もちろん信じるよ。{n}ひなたがそんな事するわけないもんな。{p}{end}
+EN: Of course I believe you. Hinata would never do something like that.{p}{end}
+
+## MBMS06 g0 s0216
+JP: やっぱり、{v7:1}なら{n}そういってくれると思った!{n}ね、恭介も信じてくれるでしょ?{p}
+EN: I knew you'd say that, {v7:1}! Hey, you believe me too, right, Kyosuke?{p}
+
+## MBMS06 g0 s0217
+JP: う～ん、どうだろう…?{n}現にこうして大の男が二人も{n}倒れてるからなぁ。{p}
+EN: Hmm, I wonder...? There are two grown men lying right here, after all.{p}
+
+## MBMS06 g0 s0218
+JP: へえ、{v7:1}って。{n}そんなこと言うんだ…{n}いいよ、もう聞かないから!{n}ね、恭介は信じてくれるでしょ?{p}
+EN: Wow, {v7:1}. So that's how it is... Fine, I won't ask you anymore! Hey, Kyosuke, you believe me, right?{p}
+
+## MBMS06 g0 s0219
+JP: ……。{n}わかった、わかった。{n}だけどもうこんな事するんじゃないぞ。{n}せめてケンカを止めるときは…{p}{end}
+EN: ...... All right, all right. But don't do this again. At least when you break up a fight...{p}{end}
+
+## MBMS06 g0 s0220
+JP: 「手加減してやれ」…でしょ?{n}わかってるって!{n}今度から気をつけるからネ!{p}
+EN: "Go easy on them"... right? I know, I know! I'll be careful from now on!{p}
+
+## MBMS06 g0 s0221
+JP: やれやれ…あの子にも困ったものだ{n}ま、そこが彼女の{n}いいところでもあるんだけどな。{p}
+EN: Good grief... That girl is a handful. Then again, that's one of her good points.{p}
+
+## MBMS06 g0 s0222
+JP: まったくだ。{n}彼女の前ではケンカしないようにしよう…{p}{end}
+EN: No kidding. I'll make sure not to fight in front of her...{p}{end}
+
+## MBMS06 g0 s0223
+JP: ロイとティファニーだ。{n}何やってるんだ?{p}{end}
+EN: It's Roy and Tiffany. What are they up to?{p}{end}
+
+## MBMS06 g0 s0225
+JP: 何やってるの?{sp}おふたりさん。{p}
+EN: What are you two up to?{p}
+
+## MBMS06 g0 s0226
+JP: {v3:7}聞いて下さい!{n}ロイが今日のミーのショッピング{n}いっしょに行かないっていいマ～ス。{n}約束してたのに……。{p}{end}
+EN: {v3:7}, listen! Roy says he won't come shopping with me today. And he promised...{p}{end}
+
+## MBMS06 g0 s0227
+JP: ロイそれはひどいんじゃないか?{p}
+EN: Roy, isn't that kinda mean?{p}
+
+## MBMS06 g0 s0228
+JP: 一方的に電話してきて、約束して、{n}返事も聞かずに電話切るんだゼ。{n}そんなの約束じゃないね!{p}
+EN: She calls me out of nowhere, makes a promise, and hangs up without hearing my answer. That's no promise!{p}
+
+## MBMS06 g0 s0229
+JP: それもヤクソクぅ～～!!!!{p}{end}
+EN: It's still a promiiise!!!!{p}{end}
+
+## MBMS06 g0 s0230
+JP: まぁまぁ、そんなコトでケンカしないの!{n}ケンカするほど仲がいいって言うし、{n}2人は本当は……{p}{end}
+EN: Now, now, don't fight over something like that! They say fighting means you're close. You two really...{p}{end}
+
+## MBMS06 g0 s0231
+JP: ケンカやめたいって思ってるんじゃないの{n}アツアツなんじゃないの{n}バカじゃないの{p}
+EN: ...want to make up, right?{n}...are madly in love, right?{n}...are idiots, right?{p}
+
+## MBMS06 g0 s0232
+JP: おいおいなんてこというんだ!{n}やめてくれよ。{p}{end}
+EN: Hey, hey, what are you saying! Knock it off.{p}{end}
+
+## MBMS06 g0 s0233
+JP: ホントのこと言われて照れてるだけデ～ス。{n}ロイって正直でカワイイデ～ス{col:5}♥{col:-}{p}{end}
+EN: He's just shy because you told the truth. Roy is so honest and cute{col:5}♥{col:-}{p}{end}
+
+## MBMS06 g0 s0234
+JP: もうやめてくれ……。{n}見てるこっちが恥ずかしくなる。{p}{end}
+EN: Please stop... Just watching you two is embarrassing.{p}{end}
+
+## MBMS06 g0 s0235
+JP: なんてヒドイこというんですかっ!{n}「イキマッス!」{p}
+EN: How can you say something so mean! "Here I go!"{p}
+
+## MBMS06 g0 s0236
+JP: 「OK!」{p}
+EN: "OK!"{p}
+
+## MBMS06 g0 s0237
+JP: まさか!?ツープラトン??{n}わぁ～っ!{p}
+EN: No way!? A double-team?? Waaah!{p}
+
+## MBMS06 g0 s0238
+JP: なんかすっきりしたデ～ス。{p}
+EN: I feel all better now.{p}
+
+## MBMS06 g0 s0239
+JP: じゃあ買い物にいこうか{col:5}♥{col:-}{p}{end}
+EN: Well then, shall we go shopping{col:5}♥{col:-}{p}{end}
+
+## MBMS06 g0 s0240
+JP: もう!{sp}勝手にしろっ!{p}
+EN: Geez! Do whatever you want!{p}
+
+## MBMS06 g1 s0002
+JP: 8日間もの間、{n}両校の生徒達が己の技を{n}競い合うという大イベント。{p}
+EN: It's a huge event where students from both schools pit their skills against each other for eight whole days.{p}
+
+## MBMS06 g1 s0003
+JP: そして、なんと今日はその最終日。{p}{end}
+EN: And guess what, today is the final day.{p}{end}
+
+## MBMS06 g1 s0004
+JP: 去年に引き続き、今年もかなりの接戦で、{n}今日の競技の結果が{n}勝者を決めるという状況だわ。{p}{end}
+EN: Just like last year, it's a close race, and today's events will decide the winner.{p}{end}
+
+## MBMS06 g1 s0005
+JP: 両校の生徒達の興奮が、{n}頂点に達しているのは{n}見た目にも明らかよね。{p}{end}
+EN: Anyone can see that the students of both schools are at the peak of excitement.{p}{end}
+
+## MBMS06 g1 s0021
+JP: あれ?{n}そう言えば、{v9:1}って{n}何に出場するんだっけ?{p}{end}
+EN: Huh? Come to think of it, what event are you in, {v9:1}?{p}{end}
+
+## MBMS06 g1 s0022
+JP: 私?{n}私は……。{p}{end}
+EN: Me? I'm in...{p}{end}
+
+## MBMS06 g1 s0024
+JP: そっか、頑張ってね!{n}{v9:1}ならきっと大丈夫だよ。{n}私、信じてるから{col:5}♥{col:-}{p}{end}
+EN: I see, good luck! You'll be fine, {v9:1}. I believe in you{col:5}♥{col:-}{p}{end}
+
+## MBMS06 g1 s0025
+JP: {v8:2}、{n}ピンチの時こそ冷静にな。{n}ともかく、頑張ってくれ。{p}
+EN: {v8:2}, stay calm, especially in a pinch. Anyway, give it your best.{p}
+
+## MBMS06 g1 s0026
+JP: ありがと。{n}じゃあ、いってくるね。{p}
+EN: Thanks. Well, I'm off.{p}
+
+## MBMS06 g1 s0028
+JP: おはよう、ロイ。{n}みんな早いのね。{p}
+EN: Morning, Roy. You're all here early.{p}
+
+## MBMS06 g1 s0031
+JP: うん、ティファニー達も{n}頑張ってるみたいね。{p}{end}
+EN: Yeah, looks like Tiffany and the others are going all out too.{p}{end}
+
+## MBMS06 g1 s0038
+JP: {v3:6}、{n}そろそろ君の出番じゃないか?{p}{end}
+EN: {v3:6}, isn't it almost your turn?{p}{end}
+
+## MBMS06 g1 s0040
+JP: 私?{n}私は…。{p}
+EN: Me? I'm in...{p}
+
+## MBMS06 g1 s0045
+JP: ありがとう、みんな。{n}私、きっと勝つよ!{p}{end}
+EN: Thanks, everyone. I'm gonna win, for sure!{p}{end}
+
+## MBMS06 g1 s0049
+JP: な、なんなの?{n}私の…実力!?{p}
+EN: Wh-what was that about? What I'm... capable of!?{p}
+
+## MBMS06 g1 s0050
+JP: （私の奇跡的な活躍もあって、{n}{sp}なんと、太陽学園は{n}{sp}劇的な逆転優勝を果たした。）{p}
+EN: (Thanks to my miraculous performance, Taiyo High pulled off a dramatic come-from-behind victory.){p}
+
+## MBMS06 g1 s0056
+JP: {v9:1}ーー!!{p}{end}
+EN: {v9:1}!!{p}{end}
+
+## MBMS06 g1 s0058
+JP: （ひなたが抱きついてきた…）{p}{end}
+EN: (Hinata's hugging me...){p}{end}
+
+## MBMS06 g1 s0059
+JP: {v9:1}やったね、{n}私たちの優勝だよ!{n}すごいよ!すごいよー!!{p}{end}
+EN: {v9:1}, we did it! We won! That's amazing! Amaziiing!!{p}{end}
+
+## MBMS06 g1 s0062
+JP: ありがとう。{n}正直、自分でも信じられないの。{p}{end}
+EN: Thanks. Honestly, I can't believe it myself.{p}{end}
+
+## MBMS06 g1 s0065
+JP: エヘヘ…、{n}つい、感激しちゃって。{p}
+EN: Ehehe... I just got so excited.{p}
+
+## MBMS06 g1 s0066
+JP: おいおい、勝ったのに泣くなよな。{n}そんなに勝ったのがうれしかったのか?{p}
+EN: Hey now, don't cry, we won. Were ya that happy about it?{p}
+
+## MBMS06 g1 s0067
+JP: だ、だって…。{n}みんなホントに頑張ってたから、{n}むくわれて良かったなって思って。{p}{end}
+EN: W-well... Everyone worked so hard, so I'm just glad it paid off.{p}{end}
+
+## MBMS06 g1 s0069
+JP: （私は、力いっぱい頑張ったんだけど、{n}{sp}結局、太P戦は{n}{sp}10年ぶりの引き分けに終わった。）{p}{end}
+EN: (I gave it everything I had, but in the end the match was a draw for the first time in 10 years.){p}{end}
+
+## MBMS06 g1 s0074
+JP: またいずれ会うことになるだろう。{n}では、さらばだ…。{p}{end}
+EN: We will meet again before long. Until then, farewell...{p}{end}
+
+## MBMS06 g1 s0078
+JP: 今年は、怪我人もいなかったようだ。{n}バツの乱闘もなかったようだし、{n}風紀委員としてはうれしい限りだよ。{p}
+EN: Looks like nobody got hurt this year. And Batsu didn't start any brawls. As a disciplinary committee member, I couldn't be happier.{p}
+
+## MBMS06 g1 s0083
+JP: （私は、思っていたほどに実力が出せず、{n}{sp}結果は最悪だった。{n}{sp}結局、パシフィックハイスクールの圧勝{n}{sp}という形で太P戦は幕を閉じた…。）{p}
+EN: (I couldn't perform as well as I'd hoped, and the results were awful. In the end, the match closed with a crushing win for Pacific High...){p}
+
+## MBMS06 g1 s0089
+JP: うう、{v9:1}～…。{p}{end}
+EN: Uuu, {v9:1}...{p}{end}
+
+## MBMS06 g1 s0090
+JP: 泣かないでよ、ひなた。{n}ごめんね、私がもっと{n}しっかりしてれば…。{p}
+EN: Don't cry, Hinata. I'm sorry. If only I'd done better...{p}
+
+## MBMS06 g1 s0091
+JP: まあ、お前の方も散々だったが、{n}お前だけの責任じゃねぇよ。{p}
+EN: Well, you did pretty lousy, but it ain't all on you.{p}
+
+## MBMS06 g1 s0094
+JP: うん、来年こそは絶対に勝とうね!{p}{end}
+EN: Yeah, let's win for sure next year!{p}{end}
+
+## MBMS06 g1 s0096
+JP: （私の奇跡的な活躍もあって、{n}{sp}なんと、パシフィックハイスクールは{n}{sp}劇的な逆転優勝を果たした。）{p}
+EN: (Thanks to my miraculous performance, Pacific High pulled off a dramatic come-from-behind victory.){p}
+
+## MBMS06 g1 s0106
+JP: ありがとう。{n}でも、正直、自分でも信じられない。{p}{end}
+EN: Thanks. But honestly, I can't believe it myself.{p}{end}
+
+## MBMS06 g1 s0107
+JP: （私はロイと熱い握手を交わした。）{p}
+EN: (Roy and I shared a firm handshake.){p}
+
+## MBMS06 g1 s0111
+JP: うふふふふ。{n}ロイが照れるなんてめずらしーネ。{p}
+EN: Ufufufu. It's rare to see Roy get embarrassed.{p}
+
+## MBMS06 g1 s0114
+JP: （私は、力いっぱい頑張ったんだけど、{n}{sp}結局、太P戦は10年ぶりの引き分け{n}{sp}に終わった。）{p}{end}
+EN: (I gave it everything I had, but in the end the match was a draw for the first time in 10 years.){p}{end}
+
+## MBMS06 g1 s0128
+JP: （私は、思っていたほどに実力が出せず、{n}{sp}結果は最悪だった。{n}{sp}結局、太陽学園の圧勝という形で{n}{sp}太P戦は幕を閉じた…。）{p}
+EN: (I couldn't perform as well as I'd hoped, and the results were awful. In the end, the match closed with a crushing win for Taiyo High...){p}
+
+## MBMS06 g1 s0136
+JP: 泣かないでよ、ティファニー。{n}ごめんね、私がもっとしっかりしてれば…。{p}
+EN: Don't cry, Tiffany. I'm sorry. If only I'd done better...{p}
+
+## MBMS06 g1 s0142
+JP: グラウンドでは、将馬君とロベルト君が{n}『爆裂シュート』の練習をしてる…。{n}蹴ってるのはもっぱら将馬君で、{n}それをロベルト君が指導してるみたい。{p}
+EN: On the field, Shoma-kun and Roberto-kun are practicing the Explosive Shot... Shoma-kun kicks, and Roberto-kun coaches.{p}
+
+## MBMS06 g1 s0143
+JP: ダメだ、ダメだ!!{n}まだ、つま先でけってる。{n}もっと足の甲を使うんだ!!{n}じゃないと二枚抜きはできないぞ!!{p}{end}
+EN: No, no!! You're still kicking with your toes. Use your instep more!! Or you'll never knock out two panels at once!!{p}{end}
+
+## MBMS06 g1 s0145
+JP: （かけ声はいさましいけど、{n}{sp}ボールのコントロールは全然ダメね。{n}{sp}まだ、ゴールの得点板は{n}{sp}一枚もとれてないし。）{p}{end}
+EN: (His shout is brave, but his ball control is hopeless. He still hasn't knocked out a single panel.){p}{end}
+
+## MBMS06 g1 s0146
+JP: 力が入りすぎだな。{n}もっと軽く蹴ってみろよ……。{n}お、{v8:5}じゃないか。{n}どうしたんだ?{p}
+EN: You're putting too much power into it. Try kicking lighter... Oh, it's {v8:5}. What's up?{p}
+
+## MBMS06 g1 s0147
+JP: こんにちは、ロベルト君。{n}将馬君をJリーガーにでもするつもりなの?{p}
+EN: Hi, Roberto-kun. Are you trying to turn Shoma-kun into a J.League player?{p}
+
+## MBMS06 g1 s0148
+JP: こいつ、『太P戦』の『ホームラン競争』で{n}全然打てなかったモンだから、{n}こうやってオイラをイジメるんだぜ!{n}いやんなっちゃうよな!{p}
+EN: This guy couldn't hit a thing in the Home Run Derby at the Taiyo-Pacific Match, so now he's takin' it out on me! Gimme a break!{p}
+
+## MBMS06 g1 s0150
+JP: 悪いけど、私はこれで失礼するわ。{n}ちょっと用事があるの。{n}将馬君、がんばってネ!!{n}それじゃ!{p}
+EN: Sorry, but I have to go. I've got something to do. Good luck, Shoma-kun!! Bye!{p}
+
+## MBMS06 g1 s0151
+JP: さてと、どこに行こうかナ。{p}
+EN: Now then, where should I go?{p}
+
+## MBMS06 g1 s0154
+JP: やれやれ、あのくらいで情けない……。{n}サッカーのおもしろさがわからないかなぁ。{n}ところで、{v8:5}、{n}君は野球とサッカー、どっちが好きだ?{p}
+EN: Sheesh, tired already? He just doesn't get how fun soccer is. So, {v8:5}, which do you like, baseball or soccer?{p}
+
+## MBMS06 g1 s0155
+JP: 野球かな{n}サッカーね{p}{end}
+EN: Baseball, I guess{n}Soccer{p}{end}
+
+## MBMS06 g1 s0160
+JP: サッカーの方が好きね。{p}
+EN: I like soccer better.{p}
+
+## MBMS06 g1 s0161
+JP: {v8:5}、わかってるな。{n}サッカーは{n}ワールドワイドなスポーツだしな。{n}やるのも見るのもサッカーが一番さ。{p}
+EN: {v8:5}, you get it. Soccer's a worldwide sport, after all. Playing or watching, soccer's the best.{p}
+
+## MBMS06 g1 s0167
+JP: （なるほど…、{n}{sp}覚えておこうっと…。）{p}{end}
+EN: (I see... I'd better remember that...){p}{end}
+
+## MBMS06 g1 s0168
+JP: 屋上に上ると、外をみつめて物思いに{n}ふけっている人がいる。{n}あの後ろ姿は…生徒会長の雹クンね。{p}
+EN: Up on the roof, someone is gazing out, lost in thought. From behind, that's... Hyo-kun, the student council president.{p}
+
+## MBMS06 g1 s0170
+JP: うかつにじゃましたら殺されそうね…。{n}別の場所にいってみようかな…。{p}{end}
+EN: If I bother him carelessly, he might kill me... Maybe I'll try somewhere else...{p}{end}
+
+## MBMS06 g1 s0171
+JP: そろそろと近寄ってみる…。{n}…と、数歩も進まないうちに気づかれた。{n}気づかれるような大きな音でもたてたかナ?{p}{end}
+EN: I creep closer... but before I've taken a few steps, he notices me. Did I make some loud noise?{p}{end}
+
+## MBMS06 g1 s0174
+JP: それは自由ヨ!{n}それは友情ヨ!{n}それは規律ヨ!{n}別に何も…{p}
+EN: Freedom!{n}Friendship!{n}Discipline!{n}Nothing, really...{p}
+
+## MBMS06 g1 s0175
+JP: それは自由ね。{n}今の学生は、テレビとか流行とか{n}いろんなモノに流されてると思います。{n}本当はもっと自由でもいいんじゃないかな。{p}
+EN: Freedom. Students today get swept along by so many things, like TV and trends. I think they could be a lot freer.{p}
+
+## MBMS06 g1 s0177
+JP: ………。{n}なんだかよくわからないけど、とりあえず{n}帰ろ…。{p}
+EN: ...... I don't really get it, but I guess I'll head home...{p}
+
+## MBMS06 g1 s0178
+JP: それは友情ネ!{n}最近の学生って、あんまり深いつきあいを{n}したがらないでしょ?{sp}心から許しあえる、{n}友達が必要なんじゃないかな?{p}
+EN: Friendship! Students these days avoid getting close, right? I think they need friends they can truly trust.{p}
+
+## MBMS06 g1 s0181
+JP: なんか、まずいこと言ったみたい……?{n}…それより、雹クンて弟がいるんだ……。{p}{end}
+EN: Did I say something wrong...? More importantly, Hyo-kun has a little brother...{p}{end}
+
+## MBMS06 g1 s0182
+JP: それは規律ね。{n}最近の学生はだらしがなさすぎヨ。{n}もっと規律を守った行動をすべきです!{p}
+EN: Discipline. Students these days are way too sloppy. They should act with more discipline!{p}
+
+## MBMS06 g1 s0185
+JP: ………。{n}なんだかよくわからないけど、とりあえず{n}気に入られたみたい……。{p}
+EN: ...... I don't really get it, but it seems he likes me...{p}
+
+## MBMS06 g1 s0186
+JP: そうかな?{n}私は特に気になりませんけど。{n}学生なんて楽しければいいじゃないの?{p}
+EN: Really? It doesn't bother me much. Students should just have fun, don't you think?{p}
+
+## MBMS06 g1 s0188
+JP: あれ、いっちゃった…{n}よくわからない人ネ、あの人も…。{p}
+EN: Huh, he left... He's a hard one to figure out, too...{p}
+
+## MBMS06 g1 s0189
+JP: ……はっ!{n}なんか寒いと思ったら制服のボタンが{n}なくなってるワ……いつの間になくなったん{n}だろ…?{p}
+EN: ......Huh! No wonder it felt cold, a button on my uniform is gone... When did that happen...?{p}
+
+## MBMS06 g1 s0190
+JP: あ、恭介君が体育館前を歩いている。{n}何か見回りをしているみたいネ。{n}どうしようかな?{p}{end}
+EN: Oh, Kyosuke-kun is walking in front of the gym. Looks like he's on patrol or something. What should I do?{p}{end}
+
+## MBMS06 g1 s0191
+JP: お、恭介君が体育館前を歩いている。{n}何か見回りをしているみたいネ。{n}ちょっと声をかけてみようかナ。{p}
+EN: Oh, Kyosuke-kun is walking in front of the gym. Looks like he's on patrol or something. Maybe I'll say hi.{p}
+
+## MBMS06 g1 s0193
+JP: なんか忙しいみたいね……{n}声をかけるのはやめとこ……。{n}…他に人はいないわね……。{n}他のトコロへいってみようかナ。{p}
+EN: He looks busy... I'll leave him be. ...Nobody else is around... Maybe I'll try somewhere else.{p}
+
+## MBMS06 g1 s0194
+JP: はぁい、恭介君。{n}何やってるの?{p}{end}
+EN: Hiii, Kyosuke-kun. What are you doing?{p}{end}
+
+## MBMS06 g1 s0195
+JP: やぁ{v8:2}か。{n}ちょっと校内の巡回をね。{n}風紀委員の仕事で、交代で校内を巡回する{n}ことになってるんだ。{p}{end}
+EN: Oh, {v8:2}. Just patrolling the school. The disciplinary committee takes turns patrolling the grounds.{p}{end}
+
+## MBMS06 g1 s0196
+JP: 大変なんだネ、風紀委員の仕事も…{n}……で、巡回ってどんなことするの?{p}{end}
+EN: Sounds tough, being on the committee... So what do you do on patrol?{p}{end}
+
+## MBMS06 g1 s0198
+JP: ん?体育館の方から騒ぎが聞こえるワ…{n}あ、恭介君は走っていっちゃった……{n}じゃあ私は…{p}
+EN: Hm? I hear a commotion from the gym... Ah, Kyosuke-kun ran off... So what do I do...{p}
+
+## MBMS06 g1 s0199
+JP: 全速力でかけつける{n}恭介君を追いかける{n}気にしないで帰る{p}{end}
+EN: Run there at full speed{n}Chase after Kyosuke-kun{n}Ignore it and go home{p}{end}
+
+## MBMS06 g1 s0200
+JP: 風紀委員も大変ネ…{n}私は風紀委員じゃなくてよかった…{p}{end}
+EN: Disciplinary committee sounds tough... Glad I'm not on it...{p}{end}
+
+## MBMS06 g1 s0201
+JP: 声がしたのは体育館ねっ!{n}よし!!{p}
+EN: The noise came from the gym! All right!!{p}
+
+## MBMS06 g1 s0202
+JP: 一気にかけ出し、体育館に着く前に{n}恭介君を追い抜いた!{n}……けど、{n}体育館の騒ぎは収まったあとみたい……。{p}
+EN: I dash off and pass Kyosuke-kun before I reach the gym! ...But it looks like the commotion there is already over.{p}
+
+## MBMS06 g1 s0203
+JP: 速いな、{v8:2}。{n}僕も遅いほうじゃないんだが…{n}ん…これは…{p}
+EN: You're fast, {v8:2}. I'm not slow myself... Hm... What's this...{p}
+
+## MBMS06 g1 s0204
+JP: 恭介君は体育館の方へいったみたいね!{n}追ってみよう!{p}{end}
+EN: Looks like Kyosuke-kun went toward the gym! I'll follow him!{p}{end}
+
+## MBMS06 g1 s0205
+JP: さすがに恭介君、速いわ…{n}なんとか追いついたけど…{n}体育館の騒ぎは収まったあとみたい。{p}
+EN: Kyosuke-kun's fast, as expected... I caught up, but it looks like the commotion in the gym is already over.{p}
+
+## MBMS06 g1 s0208
+JP: （よく見るとひなたの足下に、大男が{n}{sp}二人転がっているわ。）{p}{end}
+EN: (Looking closer, two big guys are lying at Hinata's feet.){p}{end}
+
+## MBMS06 g1 s0210
+JP: ホントだって!{n}私が自分からケンカなんて{n}するわけないじゃん!{n}{v9:1}なら信じてくれるよね。{p}
+EN: It's true! Like I'd ever start a fight myself! You believe me, right, {v9:1}?{p}
+
+## MBMS06 g1 s0211
+JP: もちろん信じるよ!{n}う～ん、どうかな…{p}
+EN: Of course I believe you!{n}Hmm, I wonder...{p}
+
+## MBMS06 g1 s0212
+JP: もちろん信じるヨ。{n}ひなたがそんな事するわけないもんネ。{p}{end}
+EN: Of course I believe you. Hinata would never do something like that.{p}{end}
+
+## MBMS06 g1 s0213
+JP: やっぱり、{v9:1}なら{n}そういってくれると思った!{n}ね、恭介も信じてくれるでしょ?{p}
+EN: I knew you'd say that, {v9:1}! Hey, you believe me too, right, Kyosuke?{p}
+
+## MBMS06 g1 s0214
+JP: う～ん、どうかな…?{n}現にこうして大の男が二人も{n}倒れちゃってるからなぁ。{p}
+EN: Hmm, I wonder...? There are two grown men lying right here, after all.{p}
+
+## MBMS06 g1 s0215
+JP: へえ、{v9:1}って。{n}そんなこと言うんだ…{n}いいよ、もう聞かないから!{n}ね、恭介は信じてくれるでしょ?{p}
+EN: Wow, {v9:1}. So that's how it is... Fine, I won't ask you anymore! Hey, Kyosuke, you believe me, right?{p}
+
+## MBMS06 g1 s0218
+JP: やれやれ…あの子にも困ったものだ{n}ま、それが彼女の{n}いいところでもあるんだけどな。{p}
+EN: Good grief... That girl is a handful. Then again, that's one of her good points.{p}
+
+## MBMS06 g1 s0219
+JP: ホント。{n}あの子の前ではケンカしないようにしヨ…{p}{end}
+EN: Seriously. I'll make sure not to fight in front of her...{p}{end}
+
+## MBMS06 g1 s0220
+JP: ロイとティファニーだ。{n}何やってるのかな?{p}
+EN: It's Roy and Tiffany. What are they up to?{p}
+
+## MBMS06 g1 s0224
+JP: ロイそれはひどいんじゃないの。{p}
+EN: Roy, isn't that kinda mean?{p}
+
+## MBMS06 g1 s0231
+JP: もうやめて……。{n}見てるこっちが恥ずかしくなるじゃない。{p}{end}
+EN: Please stop... Just watching you two is embarrassing.{p}{end}
+
+## MBMS06 g1 s0237
+JP: もう!{sp}勝手にしたらっ!{p}{end}
+EN: Geez! Do whatever you want!{p}{end}
+

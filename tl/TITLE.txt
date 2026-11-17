@@ -1,0 +1,42 @@
+# Mode select screen graphics in DAT2/MENU.BIZ, built by tools/build_title.py.
+# ID: EN text. "|" forces a line break; descriptions wrap by themselves.
+# Rectangles: data/boot_text.tsv.
+
+# header (256x40 + 112x40)
+hdr: Evolution Disc
+
+# mode labels (20 px high, fixed widths)
+label0: Solo Play
+label1: Versus
+label2: Exam Practice
+label3: Options
+label4: Data
+label5: Extras
+label6: Hot-Blooded|Youth|Diary
+label7: Co-op
+label8: Team
+label9: Tournament
+label10: League
+label11: Festival
+label12: EDIT Register
+
+# mode descriptions (3 lines; 351 px wide, 255 px for modes 1, 5, 11)
+desc0: A PlayStation original mode! Challengers can join in, and EDIT characters can be used too.
+desc1: A mode just for two-player battles.
+desc2: Practice the skill tests from the Hot-Blooded Youth Diary exams.
+desc3: Freely change the button settings, difficulty and game rules.
+desc4: Save or load data on a memory card.
+desc5: What can you do here? Wait and see...
+desc6: A simulation where you share school life with the game's characters and create an original character!
+desc7: Two players team up to defeat the enemies. Up to 4 can play at once.
+desc8: Pick 2 to 4 characters for a team battle, one fighter at a time.
+desc9: Tournaments with up to 8 players.
+desc10: Pick 2 to 6 characters for a round-robin league.
+desc11: Play the minigames from the Hot-Blooded Youth Diary.
+desc12: Register EDIT characters from Hot-Blooded Youth Diary save data so you can use them in the game.
+
+# Extras > Diary viewer help panel (MOJI2.TIZ and MENU.BIZ 0x2f800, 128x72).
+# Lines 1-2 end at the circle/cross icons, line 3 at the START mark.
+help_next: Next Page
+help_prev: Prev. Page
+help_back: Back to Extras

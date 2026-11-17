@@ -1,0 +1,19 @@
+# Diary-mode image text.
+# Hub header date: shown as "4/8 Wed" (月 -> "/", 日 blank).
+date_month: /
+date_day:
+wd0: Sun
+wd1: Mon
+wd2: Tue
+wd3: Wed
+wd4: Thu
+wd5: Fri
+wd6: Sat
+# Club results banner (MZPANEL entry 0, 0x46800, two 256x52 strips).
+club_banner: Club Activity|Results
+# Continue screen school names (MA_TIT 0x0, 80x24 each).
+cont_taiyo: Taiyo High
+cont_gorin: Gorin High
+cont_gedo: Gedo High
+cont_pacific: Pacific High
+cont_justice: Justice High

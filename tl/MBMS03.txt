@@ -1,0 +1,2092 @@
+## MBMS03 g0 s0000
+JP: ついこの間入学試験だったのに{n}もう学年末試験…。{n}なんか一年て早いなあ…。{p}
+EN: It feels like the entrance exam was just the other day, and it's already the year-end exam... A year sure goes by fast...{p}
+
+## MBMS03 g0 s0001
+JP: いよいよ一年生最後の試験だ!{n}{v3:16}!{n}最後ぐらいビシッと決めてくれよ!{n}じゃあ始めるぜ!{p}{end}
+EN: At last, the final exam of first year! {v3:16}! At least nail this last one! Let's begin!{p}{end}
+
+## MBMS03 g0 s0002
+JP: ふふふ、いいぜえ!{n}このレベルの試験に合格できりゃあ{n}何も心配はいらねえ!{n}じゃあな!{p}
+EN: Heh heh, that's the stuff! If you can pass an exam at this level, there's nothing to worry about! See ya!{p}
+
+## MBMS03 g0 s0003
+JP: よーし!{n}実戦で活かせるように精進するぞ!{p}
+EN: All right! I'll keep training so I can use this in real fights!{p}
+
+## MBMS03 g0 s0004
+JP: 一年間何をやってきたんだ?{n}もう一回一年生をやりたいのか?{n}進級試験が心配になってきたぜ。{p}
+EN: What have you been doing all year? Want to do first year all over again? I'm getting worried about your promotion test.{p}
+
+## MBMS03 g0 s0005
+JP: 進級試験か…{n}進級できなかったらどうしよう…{p}{end}
+EN: The promotion test... What if I don't get promoted...{p}{end}
+
+## MBMS03 g0 s0006
+JP: いよいよ最後の試験『進級テスト』を行う!{n}最後のテスト課題は{n}『この俺と戦って俺を越えること!』{n}これだけだ!{p}
+EN: At last, the final exam, the "Promotion Test"! The final task is "Fight me and surpass me!" That's all!{p}
+
+## MBMS03 g0 s0007
+JP: 一年間の全てを俺にぶつけてみろ!{n}お前自身を答えとしてぶつければ{n}自ずと正解は出るはずだ!{n}さあ始めるぞ!{p}
+EN: Throw everything from this year at me! Throw yourself at me as your answer, and the right answer will come on its own! Let's begin!{p}
+
+## MBMS03 g0 s0008
+JP: ようし合格だ!{n}もう何も言うことはねえぜ!{p}
+EN: All right, you pass! I've got nothing more to say!{p}
+
+## MBMS03 g0 s0009
+JP: 2年生になったら{n}良き先輩として後輩達を指導してくれよ!{n}じゃあな!{p}{end}
+EN: Once you're a second-year, guide your juniors as a good senpai! See ya!{p}{end}
+
+## MBMS03 g0 s0010
+JP: はい!{n}隼人先生!{n}一年間どうもありがとうございました!{p}{end}
+EN: Yes! Hayato-sensei! Thank you so much for this year!{p}{end}
+
+## MBMS03 g0 s0011
+JP: {v3:16}!{n}悔しいか?あっ!{p}{end}
+EN: {v3:16}! Frustrated? Huh!?{p}{end}
+
+## MBMS03 g0 s0012
+JP: はい!{n}悔しいです!{p}{end}
+EN: Yes! I'm frustrated!{p}{end}
+
+## MBMS03 g0 s0013
+JP: 本当に悔しいか?{n}あっ!{p}{end}
+EN: Really frustrated? Huh!?{p}{end}
+
+## MBMS03 g0 s0014
+JP: はい!{n}本当に悔しいです!{p}
+EN: Yes! I'm really frustrated!{p}
+
+## MBMS03 g0 s0015
+JP: そうか…じゃあ合格だ!{p}
+EN: I see... Then you pass!{p}
+
+## MBMS03 g0 s0016
+JP: えっ?{p}
+EN: Huh?{p}
+
+## MBMS03 g0 s0017
+JP: その悔しさがあれば{n}2年生になっても大丈夫だ!{n}進級してもいいぜ!{p}
+EN: With that frustration, you'll be fine as a second-year! You can move up!{p}
+
+## MBMS03 g0 s0018
+JP: ほ、本当ですか!{p}{end}
+EN: R-really!?{p}{end}
+
+## MBMS03 g0 s0019
+JP: 俺はウソはつくが{n}今のはウソじゃねえ!{p}
+EN: I tell lies sometimes, but that wasn't one!{p}
+
+## MBMS03 g0 s0021
+JP: ……はい。{n}隼人先生、{n}一年間どうもありがとうございました!{p}{end}
+EN: ......Yes. Hayato-sensei, thank you so much for this year!{p}{end}
+
+## MBMS03 g0 s0022
+JP: この学園に入学してから、もう1年になる。{n}時間が過ぎるのって、{n}本当にあっという間なんだな。{p}{end}
+EN: It's already been a year since I started at this school. Time really does fly.{p}{end}
+
+## MBMS03 g0 s0023
+JP: 思い出せばこの1年、{n}本当にいろんな事があったっけ…。{p}
+EN: Looking back, so much happened this year...{p}
+
+## MBMS03 g0 s0024
+JP: …明日から、春休みになるわけだが、{n}決して休みボケすることのないように{n}各自、自己管理を心がけて…{p}
+EN: ...Starting tomorrow is spring break, but make sure you don't get lazy over the holiday. Each of you should manage yourselves...{p}
+
+## MBMS03 g0 s0025
+JP: {face:8}（・・・・・・・・・・）{face:255}{p}{end}
+EN: {face:8}(..........){face:255}{p}{end}
+
+## MBMS03 g0 s0026
+JP: （終業式さえ終わってしまえば春休み。{n}{sp}そう考えると、いつもの学園長の長い{n}{sp}スピーチもちっともつらくないな。）{p}{end}
+EN: (Once the closing ceremony is over, it's spring break. Thinking that, even the principal's usual long speech doesn't bother me at all.){p}{end}
+
+## MBMS03 g0 s0027
+JP: ふぅー、やっと終業式も終わったな。{n}あいかわらず、ああいうかったりいのは{n}苦手だぜ。{p}{end}
+EN: Phew, the closing ceremony is finally over. I still can't stand boring stuff like that.{p}{end}
+
+## MBMS03 g0 s0028
+JP: 俺だって苦手さ。{n}でも、明日から春休みだって考えれば{n}どうってことないよ。{p}
+EN: Me neither. But when you think spring break starts tomorrow, it's no big deal.{p}
+
+## MBMS03 g0 s0029
+JP: そうそう、明日から春休みなんだよな。{n}{v3:0}は、{n}春休みなんか予定あるのか?{p}
+EN: Right, right, spring break starts tomorrow. {v3:0}, you got any plans for spring break?{p}
+
+## MBMS03 g0 s0030
+JP: うーん、特にこれと言ってないよ。{n}強いて言えば、トレーニングくらいかな。{p}{end}
+EN: Hmm, nothing in particular. Training, if anything.{p}{end}
+
+## MBMS03 g0 s0031
+JP: …そういえば、この1年{n}お前には迷惑かけっぱなしだったな。{p}
+EN: ...Come to think of it, I caused you nothin' but trouble this year.{p}
+
+## MBMS03 g0 s0032
+JP: え?{n}何の事を言ってるんだ?{p}{end}
+EN: Huh? What are you talking about?{p}{end}
+
+## MBMS03 g0 s0033
+JP: お前、俺のせいでかなりケンカに{n}巻き込まれてただろ?{p}{end}
+EN: You got dragged into a lot of fights because of me, right?{p}{end}
+
+## MBMS03 g0 s0034
+JP: ああ、そのことか。{n}バツ、そんなこと気にしてたのか?{p}{end}
+EN: Oh, that. Batsu, you were worried about that?{p}{end}
+
+## MBMS03 g0 s0035
+JP: バツは間違った事はしてなかっただろ。{n}結果的にケンカになっちゃっているだけで、{n}気にする事はないと思うよ。{p}
+EN: You never did anything wrong, Batsu. It just ended up turning into fights. I don't think you need to worry about it.{p}
+
+## MBMS03 g0 s0036
+JP: 俺はバツのそういうまっすぐなところ、{n}すごくいいと思うしな。{p}{end}
+EN: And I think that straightforward side of you is really great.{p}{end}
+
+## MBMS03 g0 s0037
+JP: へへっ、{n}そんなたいしたもんじゃないんだけどな。{p}{end}
+EN: Heh, it's nothin' that great.{p}{end}
+
+## MBMS03 g0 s0038
+JP: でも、{n}お前なら……{n}きっとそう言ってくれると思ってたぜ。{p}
+EN: But I knew... you'd say that.{p}
+
+## MBMS03 g0 s0039
+JP: 俺達はパートナーだろ?{n}バツのことなら、{n}誰よりもわかってるつもりだぜ。{p}{end}
+EN: We're partners, right? When it comes to you, Batsu, I know you better than anyone.{p}{end}
+
+## MBMS03 g0 s0040
+JP: でもさ、毎日はカンベンしてくれよな。{n}さすがに体がもたないよ。{p}
+EN: But hey, not every day, okay? My body can't take it.{p}
+
+## MBMS03 g0 s0041
+JP: おいおい、情けない事言うなよ。{n}俺の相棒のつもりなら、50人くらいは{n}簡単に片づけてもらわないとな。{p}{end}
+EN: Hey, hey, don't be so pathetic. If you wanna be my partner, you gotta be able to take out fifty guys easy.{p}{end}
+
+## MBMS03 g0 s0042
+JP: う、嘘だろー!?{p}{end}
+EN: Y-you're kidding, right!?{p}{end}
+
+## MBMS03 g0 s0043
+JP: はははははは、冗談だ。{p}
+EN: Hahahahaha, just kiddin'.{p}
+
+## MBMS03 g0 s0044
+JP: けど、お前といっしょなら{n}どんなヤツらにも負けない自信はある!{p}
+EN: But with you by my side, I know I won't lose to anybody!{p}
+
+## MBMS03 g0 s0045
+JP: 俺達の愛と友情は誰にも破れはしない。{n}そうだろ?{p}{end}
+EN: Nobody can beat our love and friendship. Right?{p}{end}
+
+## MBMS03 g0 s0046
+JP: これからもよろしくたのむぜ、相棒!{p}
+EN: Count on me from here on too, partner!{p}
+
+## MBMS03 g0 s0047
+JP: 「ねえ、{v7:1}ってばぁー!{n}{sp}まってよぉー!」{p}{end}
+EN: "Hey, {v7:1}! Waaait for meee!"{p}{end}
+
+## MBMS03 g0 s0048
+JP: ん?{n}誰かが俺を呼んでるみたいだ。{p}
+EN: Hm? Sounds like someone's calling me.{p}
+
+## MBMS03 g0 s0049
+JP: ハァハァ…{n}やっと追いついたぁ。{p}{end}
+EN: *pant pant*... Finally caught up.{p}{end}
+
+## MBMS03 g0 s0050
+JP: ねえ、{v7:1}{n}いっしょに帰ろうよ。{p}{end}
+EN: Hey, {v7:1}, let's walk home together.{p}{end}
+
+## MBMS03 g0 s0051
+JP: うん、いいよ。{n}じゃあ、河原でもまわっていこうか。{p}
+EN: Yeah, sure. Let's go by the riverbank.{p}
+
+## MBMS03 g0 s0052
+JP: （そういえば、ひなたとはよくここで、{n}{sp}いっしょにトレーニングをしたっけ…。）{p}
+EN: (Come to think of it, Hinata and I often trained here together...){p}
+
+## MBMS03 g0 s0053
+JP: …よくここで{n}いっしょにトレーニングしたね。{p}{end}
+EN: ...We trained here together a lot, didn't we.{p}{end}
+
+## MBMS03 g0 s0054
+JP: うん、俺も同じこと考えてた。{p}{end}
+EN: Yeah, I was thinking the same thing.{p}{end}
+
+## MBMS03 g0 s0055
+JP: 前にも言ったと思うけど、{n}{v7:1}とするトレーニングって{n}とっても楽しいの。{p}{end}
+EN: I think I told you before, but training with you, {v7:1}, is really fun.{p}{end}
+
+## MBMS03 g0 s0056
+JP: …でもね、{n}楽しいのは、トレーニングが{n}できるからっていうだけじゃないんだ。{p}{end}
+EN: ...But you know, it's not fun just because I get to train.{p}{end}
+
+## MBMS03 g0 s0057
+JP: 君と、一緒にいられるから…{n}なんだなって…わかったの。{p}
+EN: It's because I get to be with you... I figured that out.{p}
+
+## MBMS03 g0 s0058
+JP: 私、{v7:1}と{n}いっしょにいたいんだなって…{p}{end}
+EN: I really want to be with you, {v7:1}...{p}{end}
+
+## MBMS03 g0 s0059
+JP: （ひ、ひなた…{n}{sp}ひょっとして、俺の事?）{p}
+EN: (H-Hinata... Could she mean me?){p}
+
+## MBMS03 g0 s0060
+JP: なーんちゃって!{p}{end}
+EN: Just kidding!{p}{end}
+
+## MBMS03 g0 s0061
+JP: 今の{v7:1}の顔、{n}面白かったよー。{n}うふふふふふ。{p}{end}
+EN: The face you just made, {v7:1}, was so funny. Ufufufufu.{p}{end}
+
+## MBMS03 g0 s0063
+JP: もー、簡単に引っかかっちゃうんだから。{n}そんなに私の演技うまかった?{p}{end}
+EN: Geez, you fall for it so easily. Was my acting that good?{p}{end}
+
+## MBMS03 g0 s0064
+JP: …演技?{p}{end}
+EN: ...Acting?{p}{end}
+
+## MBMS03 g0 s0067
+JP: こらあ、ひなた!{sp}お前なあ!{n}人の純な心をもてあそびやがってー!!{p}
+EN: Hey, Hinata! You! Toying with a guy's innocent heart!!{p}
+
+## MBMS03 g0 s0068
+JP: キャー!{n}ごめんなさーい。{p}
+EN: Eek! I'm sorryyy.{p}
+
+## MBMS03 g0 s0069
+JP: でもね…{n}{v7:1}といっしょにいたい{n}っていうのは嘘じゃないよ。{p}{end}
+EN: But you know... the part about wanting to be with you, {v7:1}, wasn't a lie.{p}{end}
+
+## MBMS03 g0 s0070
+JP: 私、{v7:1}のこと大好きだよ{col:5}♥{col:-}{p}
+EN: I love you, {v7:1}{col:5}♥{col:-}{p}
+
+## MBMS03 g0 s0071
+JP: 恭介、1年間おつかれさま。{n}とりあえず、春休みが終わるまでは{n}風紀委員もお休みだね。{p}{end}
+EN: Kyosuke, good work this year. Anyway, the disciplinary committee is off until spring break ends, right?{p}{end}
+
+## MBMS03 g0 s0072
+JP: ありがとう。{n}でも、お休みというわけにはいかないよ。{p}{end}
+EN: Thanks. But I can't exactly take a break.{p}{end}
+
+## MBMS03 g0 s0073
+JP: 春休みといっても、学校を利用する生徒が{n}いないわけじゃないからね。{p}
+EN: It's spring break, but that doesn't mean no students use the school.{p}
+
+## MBMS03 g0 s0074
+JP: 風紀委員って大変なんだな。{p}
+EN: The disciplinary committee sure has it tough.{p}
+
+## MBMS03 g0 s0075
+JP: {v5:2}みたいな{n}遅刻常習者が多いからね。{n}苦労はたえないよ。{p}
+EN: There are a lot of habitual latecomers like {v5:2}. My troubles never end.{p}
+
+## MBMS03 g0 s0076
+JP: 最近は遅刻してないってば。{p}
+EN: I told you, I haven't been late lately.{p}
+
+## MBMS03 g0 s0077
+JP: ハハハハハハハハ。{p}
+EN: Hahahahahahahaha.{p}
+
+## MBMS03 g0 s0078
+JP: （俺と恭介は、しばらく何をするでもなく{n}{sp}屋上から見える景色を眺めていた。）{p}{end}
+EN: (Kyosuke and I stood for a while, doing nothing, looking at the view from the roof.){p}{end}
+
+## MBMS03 g0 s0079
+JP: {face:8}・・・・・・・・・・{face:255}{n}なあ、{v5:2}。{p}
+EN: {face:8}..........{face:255} Hey, {v5:2}.{p}
+
+## MBMS03 g0 s0080
+JP: うん?{n}なんだい、恭介。{p}{end}
+EN: Hm? What is it, Kyosuke?{p}{end}
+
+## MBMS03 g0 s0081
+JP: この一年間を君と過ごして、{n}僕は色々な事を考えさせられたよ…。{p}
+EN: Spending this year with you made me think about a lot of things...{p}
+
+## MBMS03 g0 s0082
+JP: かつての僕は、{n}校則という法の下に、{n}学園の秩序を守るのが{n}風紀委員の役目だと思っていた。{p}
+EN: I used to think the disciplinary committee's job was to keep order at the school under the law of the school rules.{p}
+
+## MBMS03 g0 s0083
+JP: でも、それは間違いだったと思う。{n}本当は、もっと生徒達の自主性や{n}良心を信じてあげるべきなんだよな。{p}{end}
+EN: But I think that was wrong. We should trust the students' independence and conscience more.{p}{end}
+
+## MBMS03 g0 s0084
+JP: 規則はみんなを縛るためにあるのではなく、{n}みんながより良く過ごしていくための{n}指針であればいいんだ。{p}{end}
+EN: Rules shouldn't be there to bind everyone. They should be a guide to help everyone get along better.{p}{end}
+
+## MBMS03 g0 s0085
+JP: うん。{n}難しい事はわからないけど、{n}みんなを信じるって事は大切だと思う。{p}{end}
+EN: Yeah. I don't get the hard stuff, but I think trusting everyone is important.{p}{end}
+
+## MBMS03 g0 s0086
+JP: 恭介の言う事はきっと間違ってないよ。{n}だって、恭介の笑顔、1年前に比べたら{n}すごく優しくなってるからね。{p}{end}
+EN: I'm sure you're not wrong, Kyosuke. Your smile has gotten so much kinder compared to a year ago.{p}{end}
+
+## MBMS03 g0 s0087
+JP: そうかな?{n}自分ではよく分からないよ。{p}
+EN: Do you think so? I can't really tell myself.{p}
+
+## MBMS03 g0 s0088
+JP: でも、もしそうだとしたのなら、{n}それは{v5:2}のおかげだよ。{p}{end}
+EN: But if it's true, it's thanks to you, {v5:2}.{p}{end}
+
+## MBMS03 g0 s0089
+JP: 君が僕を変えてくれたんだからね。{n}本当に…感謝しているよ。{p}
+EN: You're the one who changed me. I'm truly... grateful.{p}
+
+## MBMS03 g0 s0090
+JP: いやー、やっと終わった。{n}まさか終業式まであんなに長い話を{n}聞かされるとは思わなかったぜ。{p}
+EN: Man, it's finally over. I never thought we'd have to sit through a speech that long at the closing ceremony too.{p}
+
+## MBMS03 g0 s0091
+JP: ははは、学園長の話の長さにも{n}困ったもんだね。{p}
+EN: Hahaha, the principal's long speeches sure are a problem.{p}
+
+## MBMS03 g0 s0092
+JP: ところで、将馬はこれから練習?{p}
+EN: By the way, Shoma, do you have practice now?{p}
+
+## MBMS03 g0 s0093
+JP: いや、今日は野球部の練習はないんだ。{n}もちろん、自主トレはするけどな。{p}
+EN: Nah, there's no baseball practice today. I'll train on my own, of course.{p}
+
+## MBMS03 g0 s0094
+JP: じゃあ、春休みも?{p}
+EN: Over spring break too?{p}
+
+## MBMS03 g0 s0095
+JP: ああ、自主トレだな。{n}レギュラーへの道のりは遠くて長いんだ。{p}{end}
+EN: Yeah, training on my own. The road to the starting lineup is long.{p}{end}
+
+## MBMS03 g0 s0096
+JP: そうか、大変なんだな。{p}
+EN: I see, that's rough.{p}
+
+## MBMS03 g0 s0097
+JP: あ、あのさ…{v3:3}。{p}
+EN: H-hey... {v3:3}.{p}
+
+## MBMS03 g0 s0098
+JP: よかったら春休みの間、{n}オイラのトレーニングを{n}手伝ってくれないか?{p}{end}
+EN: If you don't mind, could you help me train over spring break?{p}{end}
+
+## MBMS03 g0 s0099
+JP: ああ、いいよ。{n}将馬を1人にするとすぐ無茶をして、{n}いつ怪我しちゃうかわからないからな。{p}{end}
+EN: Yeah, sure. If I leave you alone, you'll overdo it and who knows when you'll get hurt.{p}{end}
+
+## MBMS03 g0 s0100
+JP: その代わり、{n}ひとつだけ条件があるんだけどな。{p}
+EN: But there's one condition.{p}
+
+## MBMS03 g0 s0101
+JP: 条件?{n}なんだよ、条件って?{p}{end}
+EN: A condition? What condition?{p}{end}
+
+## MBMS03 g0 s0102
+JP: 絶対にレギュラーになって、甲子園に{n}出場するってのでどうだ?{p}{end}
+EN: You make the starting lineup for sure and play at Koshien. How about it?{p}{end}
+
+## MBMS03 g0 s0103
+JP: おぅ、任せとけ!!{n}絶対にお前を甲子園に連れてってやる!{p}{end}
+EN: Yeah, leave it to me!! I'll take you to Koshien for sure!{p}{end}
+
+## MBMS03 g0 s0104
+JP: それだけじゃないぜ、おまけに優勝旗も{n}つけてやる。{p}
+EN: And that's not all. I'll throw in the championship flag too.{p}
+
+## MBMS03 g0 s0105
+JP: なーんて、カッコつけすぎだな。{n}へへへへ…。{p}{end}
+EN: Ha, that's a bit much, huh. Hehehehe...{p}{end}
+
+## MBMS03 g0 s0106
+JP: よぉ…。{p}{end}
+EN: Hey...{p}{end}
+
+## MBMS03 g0 s0107
+JP: 将馬…。{p}{end}
+EN: Shoma...{p}{end}
+
+## MBMS03 g0 s0108
+JP: {v3:3}、ちょっと顔かせよ。{n}いいだろ?{p}{end}
+EN: {v3:3}, come with me for a sec. Okay?{p}{end}
+
+## MBMS03 g0 s0109
+JP: もう一度聞くぞ。{n}お前、夏のことはどう思ってるんだ?{p}{end}
+EN: I'll ask you one more time. What do you think of Natsu?{p}{end}
+
+## MBMS03 g0 s0111
+JP: どうなんだ?{n}男だったら、はっきり言えよ。{p}
+EN: Well? If you're a man, say it straight.{p}
+
+## MBMS03 g0 s0112
+JP: 将馬、お前には悪いけど…{n}俺は、夏のことが好きだ。{n}もちろん、1人の女の子としてね。{p}{end}
+EN: Shoma, sorry, but... I like Natsu. As a girl, of course.{p}{end}
+
+## MBMS03 g0 s0113
+JP: 誰にも、{n}もちろん将馬にもゆずるつもりはない。{n}今なら…はっきりと言える。{p}
+EN: I'm not giving her up to anyone, not even you, Shoma. Now... I can say it clearly.{p}
+
+## MBMS03 g0 s0114
+JP: …だとよ、夏。{p}
+EN: ...You hear that, Natsu?{p}
+
+## MBMS03 g0 s0116
+JP: ええっ!?{n}な、な、な、夏…どうして、ここに?{p}
+EN: Whaaat!? N-n-n-Natsu... What are you doing here?{p}
+
+## MBMS03 g0 s0117
+JP: そ、それは…{p}{end}
+EN: W-well...{p}{end}
+
+## MBMS03 g0 s0118
+JP: オイラが呼んだんだよ。{n}お前らがあんまりウダウダしてるんで{n}見てらんなくってな。{p}{end}
+EN: I called her here. You two were dawdlin' so much I couldn't stand watchin'.{p}{end}
+
+## MBMS03 g0 s0119
+JP: じゃ、オイラはいくぜ。{p}
+EN: Well, I'm off.{p}
+
+## MBMS03 g0 s0120
+JP: せいぜい仲良くやれよ、夏。{n}お前みたいなのを好きだなんて{n}いうヤツは、もう2度と現れないかも{n}しれねーんだからな。{p}
+EN: You two get along, Natsu. A guy who'd say he likes someone like you might never show up again.{p}
+
+## MBMS03 g0 s0121
+JP: しょ、将馬、アンタねぇ!{n}…まったく、逃げ足だけは速いんだから。{p}{end}
+EN: Sh-Shoma, you...! ...Geez, the only thing he's quick at is running away.{p}{end}
+
+## MBMS03 g0 s0122
+JP: …あのさ、夏{n}さっきの、全部聞いてた?{p}
+EN: ...Um, Natsu. Did you hear everything just now?{p}
+
+## MBMS03 g0 s0123
+JP: …うん。{n}正直、うれしかったよ。{p}{end}
+EN: ...Yeah. Honestly, I was happy.{p}{end}
+
+## MBMS03 g0 s0124
+JP: ははは、ちょっと恥ずかしいな。{n}でも、ちょうど良かったのかもしれない。{p}
+EN: Hahaha, that's a little embarrassing. But maybe it worked out just right.{p}
+
+## MBMS03 g0 s0125
+JP: あらためて言うよ。{n}俺、夏のことが好きだ。{n}つきあってくれないか?{p}
+EN: I'll say it again. I like you, Natsu. Will you go out with me?{p}
+
+## MBMS03 g0 s0126
+JP: うふふ、{n}アタシが断ると思ってるの?{p}{end}
+EN: Ufufu, do you think I'd say no?{p}{end}
+
+## MBMS03 g0 s0127
+JP: ありがとう、{v7:4}。{n}アタシも{v7:4}のこと、{n}好きだよ。{p}{end}
+EN: Thank you, {v7:4}. I like you too, {v7:4}.{p}{end}
+
+## MBMS03 g0 s0128
+JP: これからは毎日でも、とびきりおいしい{n}お弁当作ってあげるよ{col:5}♥{col:-}{p}{end}
+EN: From now on I'll make you an amazing lunch every single day{col:5}♥{col:-}{p}{end}
+
+## MBMS03 g0 s0129
+JP: やあ、ロベルト。{n}調子はどうだい?{p}
+EN: Hey, Roberto. How's it going?{p}
+
+## MBMS03 g0 s0130
+JP: 絶好調だぜ!{n}最近はチームの士気も上がってきててな。{n}この調子なら、インターハイも夢じゃない。{p}
+EN: Never better! Team morale's been going up lately. At this rate, the Inter-High isn't just a dream.{p}
+
+## MBMS03 g0 s0131
+JP: そりゃあ、すごいじゃないか。{n}インターハイなんかに出たら、{n}ロベルトも一躍有名人だな。{p}
+EN: That's amazing. If you make it to the Inter-High, you'll be famous overnight, Roberto.{p}
+
+## MBMS03 g0 s0132
+JP: そりゃ、気が早すぎるんじゃないか?{n}まだ予選だって、はじまってないってのに。{p}{end}
+EN: Aren't you getting ahead of yourself? The qualifiers haven't even started yet.{p}{end}
+
+## MBMS03 g0 s0133
+JP: {v3:5}、{n}練習ももうすぐ終わるから{n}そこで待っててくれよ。{n}ちょっと、話があるんだ。{p}
+EN: {v3:5}, practice is almost over, so wait for me there. I've got something to talk about.{p}
+
+## MBMS03 g0 s0134
+JP: で、話ってなんだいロベルト。{p}{end}
+EN: So, what did you want to talk about, Roberto?{p}{end}
+
+## MBMS03 g0 s0135
+JP: ああ、話しというよりどちらかと言うと{n}勧誘なんだが…。{p}
+EN: Well, it's less a talk and more of a recruitment pitch...{p}
+
+## MBMS03 g0 s0136
+JP: 勧誘って、いったい何の?{p}{end}
+EN: Recruitment? For what?{p}{end}
+
+## MBMS03 g0 s0137
+JP: {v3:5}。{n}お前、本格的にサッカーをやってみないか?{n}部活レベルでなく、プロを目標にしてだ。{p}{end}
+EN: {v3:5}. Want to try playing soccer seriously? Not at club level, but aiming to go pro.{p}{end}
+
+## MBMS03 g0 s0138
+JP: プロ?{sp}サッカー?{p}
+EN: Pro? Soccer?{p}
+
+## MBMS03 g0 s0139
+JP: お前自身、気づいていないようだが、{n}お前は恐ろしいほどの素質をもってるんだ。{p}{end}
+EN: You don't seem to realize it, but you have frightening talent.{p}{end}
+
+## MBMS03 g0 s0140
+JP: 冗談だろ?{n}俺に素質なんてありゃしないって。{p}{end}
+EN: You're kidding, right? I don't have any talent.{p}{end}
+
+## MBMS03 g0 s0141
+JP: 冗談じゃない。{n}俺は本気だし、いたって正気だ。{n}お前なら、{n}近い将来エースストライカーになれる。{p}{end}
+EN: I'm not kidding. I'm serious and perfectly sane. You could become an ace striker in the near future.{p}{end}
+
+## MBMS03 g0 s0142
+JP: 俺を、信じてくれ…。{p}{end}
+EN: Trust me...{p}{end}
+
+## MBMS03 g0 s0143
+JP: （バイザーに隠れて見えないが、ロベルト{n}{sp}の目は、嘘をいっていないみたいだ…。）{p}{end}
+EN: (I can't see them behind his visor, but Roberto's eyes don't seem to be lying...){p}{end}
+
+## MBMS03 g0 s0144
+JP: わかったよ、でもロベルトの期待に{n}答えられないかもしれないぜ。{p}
+EN: All right, but I might not live up to your expectations, Roberto.{p}
+
+## MBMS03 g0 s0145
+JP: 心配ない、お前なら大丈夫さ。{n}この天才ゴールキーパーの俺が保証する。{p}{end}
+EN: Don't worry, you'll be fine. I, the genius goalkeeper, guarantee it.{p}{end}
+
+## MBMS03 g0 s0146
+JP: （…その後、二人は伝説の黄金コンビとして{n}{sp}日本のサッカー界に、永遠に{n}{sp}その名を刻むことになるのだが、{n}{sp}それはまた別のお話である…）{p}{end}
+EN: (...After that, the two would carve their names into Japanese soccer forever as a legendary golden duo, but that is another story...){p}{end}
+
+## MBMS03 g0 s0147
+JP: やあ、ロイ。{n}こんな所で何してるんだい?{p}{end}
+EN: Hey, Roy. What are you doing here?{p}{end}
+
+## MBMS03 g0 s0148
+JP: よぉ、{v3:6}…。{p}
+EN: Hey, {v3:6}...{p}
+
+## MBMS03 g0 s0149
+JP: なんだか、元気ないね。{p}
+EN: You seem kind of down.{p}
+
+## MBMS03 g0 s0150
+JP: {v3:6}、{n}ちょっとつきあってくれないか?{p}
+EN: {v3:6}, would you come with me for a bit?{p}
+
+## MBMS03 g0 s0151
+JP: うん、別にいいけど。{p}{end}
+EN: Yeah, sure.{p}{end}
+
+## MBMS03 g0 s0152
+JP: で、どうしたんだい?{n}ロイ。{p}{end}
+EN: So, what's wrong, Roy?{p}{end}
+
+## MBMS03 g0 s0153
+JP: …実はな、父さんがアメリカに帰れと{n}言ってきたんだ。{p}{end}
+EN: ...Actually, my father told me to come back to America.{p}{end}
+
+## MBMS03 g0 s0154
+JP: 何だって!?{n}ずいぶん急すぎないか?{p}{end}
+EN: What!? Isn't that awfully sudden?{p}{end}
+
+## MBMS03 g0 s0155
+JP: ああ。{n}理由はボクにもよくわからないが…。{p}
+EN: Yeah. I don't really know the reason either...{p}
+
+## MBMS03 g0 s0156
+JP: まったく、父さんも勝手すぎる。{n}修行とかいって、日本くんだりまで留学{n}させておいて、今度は急に帰ってこいと{n}言うんだからな。{p}{end}
+EN: Honestly, Father is too selfish. He sends me all the way to Japan to study, calling it training, and now he suddenly tells me to come back.{p}{end}
+
+## MBMS03 g0 s0157
+JP: だが、日本を離れられると思えば、{n}せいせいするよ。{n}ハハハハハハハハ。{p}
+EN: But when I think I get to leave Japan, it's a relief. Hahahahahahahaha.{p}
+
+## MBMS03 g0 s0158
+JP: やっぱり、アメリカに帰っちゃうのか?{n}…でも、しょうがないよな。{p}{end}
+EN: So you're going back to America after all? ...Well, I guess it can't be helped.{p}{end}
+
+## MBMS03 g0 s0159
+JP: {face:8}・・・・・・・・・・{face:255}{n}ああ、ボクは日本が…大嫌いだからな。{p}
+EN: {face:8}..........{face:255} Yeah, because I... hate Japan.{p}
+
+## MBMS03 g0 s0160
+JP: だが……{n}君がいるなら{n}この日本も悪くはない…。{p}{end}
+EN: But... if you're here, then Japan isn't so bad...{p}{end}
+
+## MBMS03 g0 s0161
+JP: 決めたよ。{p}
+EN: I've decided.{p}
+
+## MBMS03 g0 s0162
+JP: ボクは、もうしばらく日本に残る。{n}父さんにもそう言うつもりだ。{n}我ながら、あまり頭のいい選択だとは{n}思えないけどな…。{p}
+EN: I'll stay in Japan a while longer. I'm going to tell Father so. I don't think it's a very smart choice, though...{p}
+
+## MBMS03 g0 s0163
+JP: でも、それもいい。{n}君の側にいられるんだからな。{p}{end}
+EN: But that's fine. It means I can stay by your side.{p}{end}
+
+## MBMS03 g0 s0164
+JP: ネエ、{v3:7}。{n}今日は誰かと帰るノ?{p}
+EN: Hey, {v3:7}. Are you going home with someone today?{p}
+
+## MBMS03 g0 s0165
+JP: やあ、ティファニー。{n}別に誰とも約束はしてないけど、{n}よかったら、いっしょに帰るかい?{p}
+EN: Hey, Tiffany. I didn't promise anyone, but want to walk home together?{p}
+
+## MBMS03 g0 s0166
+JP: ウン!{n}そうと決まれば、『善は急げ』ネ!{p}{end}
+EN: Yes! Then, as they say, "strike while the iron is hot"!{p}{end}
+
+## MBMS03 g0 s0167
+JP: ティファニー、それを言うなら…{n}ん?{face:8}・・・{face:255}あ、あってるぞ!?{p}{end}
+EN: Tiffany, the saying is... Hm? {face:8}...{face:255} H-hey, you got it right!?{p}{end}
+
+## MBMS03 g0 s0168
+JP: ミーだって、日本語くらい覚えられるヨ!{n}まったく、シツレイしちゃうネ!{p}
+EN: Even me, I can learn some Japanese! Really, so rude!{p}
+
+## MBMS03 g0 s0169
+JP: ははは、ゴメンゴメン。{p}
+EN: Hahaha, sorry, sorry.{p}
+
+## MBMS03 g0 s0171
+JP: どうしたの、ティファニー?{n}急に黙っちゃって。{n}何か…あったの?{p}{end}
+EN: What's wrong, Tiffany? You suddenly went quiet. Did... something happen?{p}{end}
+
+## MBMS03 g0 s0172
+JP: ウン…{p}
+EN: Yeah...{p}
+
+## MBMS03 g0 s0173
+JP: 無理にとは言わないけど、{n}俺で良かったら話してくれないかな?{p}{end}
+EN: I won't force you, but if you're okay with me, will you tell me?{p}{end}
+
+## MBMS03 g0 s0174
+JP: あのね、{v3:7}…{n}ロイが、アメリカに帰れることになって{n}それで{face:8}・・・・・・{face:255}{p}{end}
+EN: You see, {v3:7}... Roy is going back to America, and so{face:8}......{face:255}{p}{end}
+
+## MBMS03 g0 s0175
+JP: ミーもいっしょに帰らないかって、{n}…言われたノ。{p}{end}
+EN: He asked me... if I go back with him.{p}{end}
+
+## MBMS03 g0 s0176
+JP: 何だって!?{n}アメリカに帰るって…一体いつ?{p}{end}
+EN: What!? Going back to America... When?{p}{end}
+
+## MBMS03 g0 s0177
+JP: あさっテ…{p}
+EN: Day after tomorrow...{p}
+
+## MBMS03 g0 s0178
+JP: そんな急に…{n}それで、ティファニーはどうするの?{p}{end}
+EN: So sudden... So what are you going to do, Tiffany?{p}{end}
+
+## MBMS03 g0 s0179
+JP: わかンない。{n}ロイに、一緒に帰ろうって言われて{n}うれしかったけド、でも…{p}{end}
+EN: I don't know. I was happy Roy asked me to go back with him, but...{p}{end}
+
+## MBMS03 g0 s0180
+JP: もう{v3:7}と会えないって思ったら、{n}なんだか、急にムネの興がクルしくなって、{p}
+EN: When I think I can't see you anymore, {v3:7}, suddenly my heart hurts so much,{p}
+
+## MBMS03 g0 s0181
+JP: どうしたらイイのか{n}ワカんなくなっちゃったノ…。{p}{end}
+EN: and I don't know what to do...{p}{end}
+
+## MBMS03 g0 s0182
+JP: ねえ、{v3:7}。{n}ミーはどうしたらいいノ?{p}
+EN: Hey, {v3:7}. What should I do?{p}
+
+## MBMS03 g0 s0183
+JP: ティファニー、それは君が決めなくちゃ。{n}俺は、君がどうするべきかなんて{n}言えないんだ。{p}
+EN: Tiffany, you have to decide that. I can't tell you what you should do.{p}
+
+## MBMS03 g0 s0184
+JP: でも、たったひとつだけ言える事もあるよ。{p}{end}
+EN: But there's just one thing I can say.{p}{end}
+
+## MBMS03 g0 s0185
+JP: What?{n}{v3:7}、ナニ?{p}{end}
+EN: What? {v3:7}, what?{p}{end}
+
+## MBMS03 g0 s0186
+JP: 俺は、ティファニーのことが好きだ。{n}他の誰よりも…。{p}{end}
+EN: I like you, Tiffany. More than anyone else...{p}{end}
+
+## MBMS03 g0 s0187
+JP: エヘヘヘヘヘヘ…{n}なんだか、くすぐったいネ。{p}{end}
+EN: Ehehehehehehe... That kinda tickles.{p}{end}
+
+## MBMS03 g0 s0188
+JP: でも、とってもウレシー{col:5}♥{col:-}{n}アリガト、{v3:7}。{p}
+EN: But I'm sooo happy{col:5}♥{col:-} Thank you, {v3:7}.{p}
+
+## MBMS03 g0 s0189
+JP: チュッ{col:5}♥{col:-}{p}{end}
+EN: *smooch*{col:5}♥{col:-}{p}{end}
+
+## MBMS03 g0 s0190
+JP: ミーは決めました!{n}ニッポンに残りマース!!{p}{end}
+EN: I have decided! I stay in Japan!!{p}{end}
+
+## MBMS03 g0 s0191
+JP: {v3:7}、ミーは{n}『クレイジー・フォー・ユー』ね!{p}
+EN: {v3:7}, I am "Crazy for You"!{p}
+
+## MBMS03 g0 s0192
+JP: もうイッショーはなれないヨ!{n}ウフフフ{col:5}♥{col:-}{p}{end}
+EN: I never leave you, ever! Ufufufu{col:5}♥{col:-}{p}{end}
+
+## MBMS03 g0 s0193
+JP: 私達がこの学校に入学して、{n}もう1年になるのですね。{n}時が過ぎるのは、本当に早いものです。{p}
+EN: It's already been a year since we enrolled at this school. Time truly passes quickly.{p}
+
+## MBMS03 g0 s0194
+JP: うん、あの入学式が{n}まるで昨日の事のように{n}感じられるよ。{p}
+EN: Yeah, that entrance ceremony feels like it was just yesterday.{p}
+
+## MBMS03 g0 s0195
+JP: それは、きっと{v5:8}にとって{n}この1年が{n}充実していたということですよ。{p}
+EN: That must mean this year was a fulfilling one for you, {v5:8}.{p}
+
+## MBMS03 g0 s0196
+JP: そうなのかな?{n}…うん。{n}きっと、そうなんだろうね。{p}{end}
+EN: You think so? ...Yeah. I'm sure it was.{p}{end}
+
+## MBMS03 g0 s0197
+JP: ボーマンが言うと、{n}本当にそんな気がするから不思議だよ。{p}{end}
+EN: It's strange. When you say it, Boman, it really feels true.{p}{end}
+
+## MBMS03 g0 s0198
+JP: 私はこの学校に入学するまで、{n}日本は宗教の教えを守らない、{n}利己的な国だと思っていました。{p}
+EN: Until I came to this school, I thought Japan was a selfish country that did not follow any religious teaching.{p}
+
+## MBMS03 g0 s0199
+JP: 自分の事だけしか考えられない、{n}エゴイズムに満ちた国だと…。{p}{end}
+EN: A country full of egoism, where people only think of themselves...{p}{end}
+
+## MBMS03 g0 s0200
+JP: でも、君のおかげで{n}それが大きな誤解だと{n}気づく事ができたのです。{n}{v5:8}、本当にありがとう。{p}{end}
+EN: But thanks to you, I realized that was a great misunderstanding. {v5:8}, thank you so much.{p}{end}
+
+## MBMS03 g0 s0201
+JP: そ、そんな、{n}お礼を言われるような事は{n}してないよ。{p}{end}
+EN: N-no, I didn't do anything worth thanking me for.{p}{end}
+
+## MBMS03 g0 s0202
+JP: …私の日本への留学期間は1年。{n}あさってには、アメリカに帰らなくては{n}なりません。{p}
+EN: ...My study abroad in Japan was for one year. The day after tomorrow, I must return to America.{p}
+
+## MBMS03 g0 s0203
+JP: {face:8}・・・・・・・・・・{face:255}{n}（ボーマンが嘘をつくとは思えない…{n}{sp}これは、本当のことなんだな…。）{p}{end}
+EN: {face:8}..........{face:255} (I can't imagine Boman lying... So this is really true...){p}{end}
+
+## MBMS03 g0 s0204
+JP: 私としても、このまま日本を去るのは{n}残念です…。{p}{end}
+EN: I too am sorry to leave Japan like this...{p}{end}
+
+## MBMS03 g0 s0205
+JP: {face:8}・・・・・・・・・・{face:255}{n}（ボーマン、{n}{sp}おまえの事は絶対に忘れないぜ!）{p}
+EN: {face:8}..........{face:255} (Boman, I'll never forget you!){p}
+
+## MBMS03 g0 s0206
+JP: そこで……{n}留学の期間を延長して、{n}この近くの教会に{n}住み込みで働く事にしました。{p}
+EN: So... I extended my study abroad and decided to live and work at a church near here.{p}
+
+## MBMS03 g0 s0207
+JP: ガクッ{p}
+EN: *thud*{p}
+
+## MBMS03 g0 s0208
+JP: おや、{v5:8}。{n}どうしたんですか?{p}{end}
+EN: Oh, {v5:8}. What's the matter?{p}{end}
+
+## MBMS03 g0 s0209
+JP: ははははは…{n}な、なんでもないよ。{p}
+EN: Hahahahaha... N-nothing.{p}
+
+## MBMS03 g0 s0210
+JP: そういうことで、{n}また募金運動をするときは、{n}よろしくお願いします。{p}{end}
+EN: So, when I do my next fundraising drive, I'm counting on you.{p}{end}
+
+## MBMS03 g0 s0211
+JP: わかった。{n}ボーマンの頼みなら、断れないよ。{p}{end}
+EN: Okay. I can't say no to you, Boman.{p}{end}
+
+## MBMS03 g0 s0212
+JP: ありがとう、{v5:8}。{n}君がいるだけで、本当に心強いですよ。{p}{end}
+EN: Thank you, {v5:8}. Just having you here truly gives me strength.{p}{end}
+
+## MBMS03 g0 s0213
+JP: よぉ、{v3:9}。{n}まってたぜぇ。{p}{end}
+EN: Yo, {v3:9}. I've been waitin'.{p}{end}
+
+## MBMS03 g0 s0214
+JP: エッジ、用ってなんだい?{p}{end}
+EN: Edge, what did you want?{p}{end}
+
+## MBMS03 g0 s0215
+JP: まあまあ、そうあせんなって。{n}黙ってついて来いよ。{p}
+EN: Now, now, don't rush. Just follow me quietly.{p}
+
+## MBMS03 g0 s0216
+JP: なあ、いいかげん教えてくれよ。{n}屋上で何をするっていうんだ?{p}{end}
+EN: Come on, tell me already. What are we doing on the roof?{p}{end}
+
+## MBMS03 g0 s0217
+JP: ああ、いいだろう。{n}教えてやるよ。{p}
+EN: Yeah, all right. I'll tell ya.{p}
+
+## MBMS03 g0 s0218
+JP: ヒュッ、カッ!!{n}（突然、{n}{sp}俺の足元にナイフが突きささった。）{p}{end}
+EN: *Whoosh, thunk!!* (Suddenly, a knife stuck into the ground at my feet.){p}{end}
+
+## MBMS03 g0 s0219
+JP: …!?エッジ{n}一体何のつもりなんだ!?{p}
+EN: ...!? Edge, what do you think you're doing!?{p}
+
+## MBMS03 g0 s0220
+JP: 何って、タイマンだよ。{n}オレとお前の決着をつけるためのな。{p}
+EN: What? A one-on-one. To settle things between you and me.{p}
+
+## MBMS03 g0 s0221
+JP: 醍醐先輩も、今年で卒業だからな。{n}今のうちに、白黒はっきりさせておけば、{n}お互い楽ってもんだろ?{p}{end}
+EN: Daigo-senpai graduates this year. If we settle who's who now, it'll be easier on both of us, right?{p}{end}
+
+## MBMS03 g0 s0222
+JP: いくぜぇ!{p}
+EN: Here I come!{p}
+
+## MBMS03 g0 s0223
+JP: ちょ、ちょっと待った!!{p}{end}
+EN: W-wait a second!!{p}{end}
+
+## MBMS03 g0 s0224
+JP: なぁんだ、{v3:9}。{n}怖じ気づいたのかよォ?{p}{end}
+EN: What's this, {v3:9}? Chickened out?{p}{end}
+
+## MBMS03 g0 s0225
+JP: ちがうよ、そうじゃない!{n}でも、仲間である俺達が争って{n}何になるっていうんだよ!?{p}
+EN: No, that's not it! But what good is it for us friends to fight each other!?{p}
+
+## MBMS03 g0 s0226
+JP: 俺はエッジを殴りたくない。{n}きっとアキラも岩も、エッジとは{n}争いたくないと思ってるはずだよ。{p}{end}
+EN: I don't want to hit you, Edge. I'm sure Akira and Gan don't want to fight you either.{p}{end}
+
+## MBMS03 g0 s0227
+JP: なあエッジ、総番長の座って{n}仲間と奪い合って争うほどの{n}価値があるのか?{p}{end}
+EN: Hey, Edge, is the top boss spot really worth fighting your friends over?{p}{end}
+
+## MBMS03 g0 s0228
+JP: 俺にはそうは思えない!{n}俺には、総番長の座なんかよりも{n}エッジの方が大事なんだ!{p}{end}
+EN: I don't think so! You matter more to me than the top boss spot, Edge!{p}{end}
+
+## MBMS03 g0 s0229
+JP: {face:8}・・・・・・・・・・{face:255}{n}チェッ、やーめだ!やめ!{p}
+EN: {face:8}..........{face:255} Tch, forget it! I quit!{p}
+
+## MBMS03 g0 s0230
+JP: まったく…{n}そんな恥ずかしいセリフはかれたら、{n}殴りにくくてしょうがねぇよ。{n}ズリィよなぁ…。{p}
+EN: Geez... Spoutin' embarrassing lines like that makes it real hard to hit ya. That's cheatin'...{p}
+
+## MBMS03 g0 s0231
+JP: エッジ…。{p}
+EN: Edge...{p}
+
+## MBMS03 g0 s0232
+JP: まあ、お前のことだから、{n}まずそう言うだろうとは{n}思ってたけどよ。{p}
+EN: Well, knowin' you, I figured you'd say somethin' like that.{p}
+
+## MBMS03 g0 s0233
+JP: 正直、さっきのお前に、{n}醍醐先輩がダブって見えたぜ。{p}{end}
+EN: Honestly, just now I saw Daigo-senpai in you.{p}{end}
+
+## MBMS03 g0 s0234
+JP: お前、どこか醍醐先輩に似てるよなぁ…{p}{end}
+EN: You're kinda like Daigo-senpai somehow...{p}{end}
+
+## MBMS03 g0 s0235
+JP: ま、仮に総番長がいなくても{n}オレ達2人に敵はいねぇ。{n}これからもよろしく頼むぜぇ、{n}相棒!{p}
+EN: Well, even without a top boss, nobody can touch the two of us. Count on me from here on, partner!{p}
+
+## MBMS03 g0 s0236
+JP: やっと、終業式が終わったー!{p}{end}
+EN: The closing ceremony is finally over!{p}{end}
+
+## MBMS03 g0 s0237
+JP: あっ、そういえばアキラが{n}終業式の後に河原へ来てくれって{n}言ってたな…。{p}{end}
+EN: Oh, come to think of it, Akira asked me to come to the riverbank after the closing ceremony...{p}{end}
+
+## MBMS03 g0 s0238
+JP: 何の用か知らないけど、{n}とりあえず、河原へ行ってみようか。{p}
+EN: I don't know what it's about, but let's head to the riverbank for now.{p}
+
+## MBMS03 g0 s0239
+JP: 来てくれたんだな。{p}
+EN: You came.{p}
+
+## MBMS03 g0 s0240
+JP: アキラ、どうしたんだ?{n}こんな所に呼び出たりして。{p}
+EN: Akira, what's up? Calling me out to a place like this.{p}
+
+## MBMS03 g0 s0241
+JP: まさか…俺と勝負しようとか?{p}{end}
+EN: Don't tell me... you want to fight me?{p}{end}
+
+## MBMS03 g0 s0242
+JP: 違う!{n}第一、お前と勝負をして何になる。{p}{end}
+EN: No! What good would fighting you do anyway?{p}{end}
+
+## MBMS03 g0 s0243
+JP: 大事な…話なんだ。{n}茶化さないできいて…くれ。{p}
+EN: It's... important. Please listen... without joking around.{p}
+
+## MBMS03 g0 s0244
+JP: うん、わかったよ。{p}
+EN: Okay, I got it.{p}
+
+## MBMS03 g0 s0245
+JP: 俺は、今まで仲間達をだまし続けてきた。{n}そして、自分の心さえも偽ってきた。{p}
+EN: I've been deceiving my friends all this time. And I've even been lying to my own heart.{p}
+
+## MBMS03 g0 s0246
+JP: ア、アキラ?{n}おまえ、一体何を言ってるんだ。{p}{end}
+EN: A-Akira? What are you saying?{p}{end}
+
+## MBMS03 g0 s0247
+JP: でももう、自分の心に嘘をつき続け、{n}{v3:10}をだましつづけるなんて、{n}ガマンできないんだ…。{p}{end}
+EN: But I can't stand lying to my own heart and deceiving you any longer, {v3:10}...{p}{end}
+
+## MBMS03 g0 s0248
+JP: （ア、アキラが、{n}{sp}今まで決して自分では脱ごうと{n}{sp}しなかったヘルメットを!）{p}
+EN: (A-Akira is taking off the helmet she never once took off before!){p}
+
+## MBMS03 g0 s0250
+JP: そ、そんな…まさか。{n}君が、『アキラ』だったなんて…{p}{end}
+EN: N-no way... It can't be. You were "Akira"...{p}{end}
+
+## MBMS03 g0 s0251
+JP: ごめん…なさい、今まで黙っていて。{n}理由があって、男と偽ってたの。{p}
+EN: I'm... sorry for keeping quiet until now. I had a reason to pretend to be a boy.{p}
+
+## MBMS03 g0 s0252
+JP: …怒らないの?{n}ずっと、{v6:10}を{n}だましてたんだよ?{p}
+EN: ...You're not angry? I deceived you all this time, {v6:10}.{p}
+
+## MBMS03 g0 s0253
+JP: どうして?{n}怒る必要なんてないじゃないか。{n}ちょっと驚いたけど…。{n}それより、どうして俺に素顔を?{p}
+EN: Why? There's no reason to be angry. I'm a little surprised, though... But why show me your real face?{p}
+
+## MBMS03 g0 s0254
+JP: それは…{n}『アキラ』のままじゃ、{n}永遠に{v6:10}に{n}私の気持ちを伝えられなかったから。{p}
+EN: Because... as "Akira," I could never tell you how I feel, {v6:10}.{p}
+
+## MBMS03 g0 s0255
+JP: アキラの気持ち?{p}{end}
+EN: How you feel?{p}{end}
+
+## MBMS03 g0 s0256
+JP: うん。{n}たった一言言うだけなのに、なんだか{n}とっても長かった…。{p}{end}
+EN: Yeah. It's just a few words, but somehow it took so long...{p}{end}
+
+## MBMS03 g0 s0257
+JP: そう、あなたのことが好きだって{col:5}♥{col:-}{p}{end}
+EN: Yes, that I love you{col:5}♥{col:-}{p}{end}
+
+## MBMS03 g0 s0258
+JP: おお、{v3:11}来たか。{n}呼び出したりしてスマンかったの。{p}{end}
+EN: Ooh, {v3:11}, you came. Sorry for callin' you out.{p}{end}
+
+## MBMS03 g0 s0259
+JP: 岩、用ってなんだい?{p}{end}
+EN: Gan, what did you want?{p}{end}
+
+## MBMS03 g0 s0260
+JP: 実はのう、{n}おぬしを男と見込んで{n}頼みがあるんじゃが…{n}聞いてくれるか?{p}{end}
+EN: Well, y'see, I've got a favor to ask ya, man to man... Will ya hear me out?{p}{end}
+
+## MBMS03 g0 s0261
+JP: 俺と岩の仲だろ?{n}何でも言えよ!{p}{end}
+EN: We're friends, right? Ask me anything!{p}{end}
+
+## MBMS03 g0 s0262
+JP: 実は…頼みというのは…{n}おぬしに、{n}ワシの相棒になってもらいたいんじゃ。{p}{end}
+EN: Well... the favor is... I want ya to be my partner.{p}{end}
+
+## MBMS03 g0 s0263
+JP: 相棒に?{n}一体どういうことだい?{p}{end}
+EN: Your partner? What do you mean?{p}{end}
+
+## MBMS03 g0 s0264
+JP: おぬしも知ってのとおり、{n}ワシは力だけしか能がない{n}ダメな男じゃ。{p}
+EN: As ya know, I'm a useless guy who's only got muscle.{p}
+
+## MBMS03 g0 s0265
+JP: エッジはあのとおり、ずる賢いヤツじゃし、{n}アキラは、強いうえに頭もいいヤツじゃ。{p}{end}
+EN: Edge is a sly one, as ya know, and Akira is strong and smart too.{p}{end}
+
+## MBMS03 g0 s0266
+JP: なんとなく、言いたいことはわかったけど…{n}要するに、岩の頭脳役になれってこと?{p}
+EN: I sort of get what you're saying... So you want me to be your brains, Gan?{p}
+
+## MBMS03 g0 s0267
+JP: その通り、さすがじゃの。{n}おぬしにワシの力になってほしいんじゃ。{n}なんとか、頼まれてくれんかのう。{p}
+EN: Exactly, sharp as ever. I want ya to lend me your strength. Won't ya do it for me?{p}
+
+## MBMS03 g0 s0268
+JP: 何かあった時に、ワシだけが足を{n}引っ張るのはゴメンじゃ。{p}{end}
+EN: When somethin' happens, I don't wanna be the only one holdin' everyone back.{p}{end}
+
+## MBMS03 g0 s0269
+JP: それに、{v3:11}といると{n}何でもできる気がするんじゃよ。{p}{end}
+EN: And with {v3:11} around, I feel like I can do anythin'.{p}{end}
+
+## MBMS03 g0 s0270
+JP: 岩のお願いを断れるわけないだろ?{n}よろこんで引き受けるよ。{p}
+EN: How could I turn down a request from you, Gan? I'd be glad to.{p}
+
+## MBMS03 g0 s0271
+JP: {v3:11}!{n}おぬしと言う男は{n}本当にいいヤツじゃのう…。{n}ワシは最高に感動したぞい。{p}{end}
+EN: {v3:11}! You really are a good man... I'm deeply moved.{p}{end}
+
+## MBMS03 g0 s0272
+JP: じゃあ、これからもよろしく頼むぞい、{n}ワシの相棒!!{n}ガッハッハッハッハッハッハッハ!{p}
+EN: Then I'm countin' on ya from here on, partner!! Gahahahahahahaha!{p}
+
+## MBMS03 g0 s0273
+JP: {v0}{col:0}君{col:-}、{n}スマンがちょっといいかな?{p}
+EN: {v0}{col:0}-kun{col:-}, sorry, do you have a moment?{p}
+
+## MBMS03 g0 s0274
+JP: あ、はい。{n}なんですか?{p}{end}
+EN: Ah, yes. What is it?{p}{end}
+
+## MBMS03 g0 s0275
+JP: ちょっと、君と話がしたいと思ってね。{n}悪いが、屋上まで来てくれないかな。{p}{end}
+EN: I wanted to talk with you a bit. Sorry, but would you come up to the roof?{p}{end}
+
+## MBMS03 g0 s0276
+JP: この1年、君たちと過ごして色々な事を{n}学ばせてもらったよ。{n}とてもかけがえのない物をね…。{p}
+EN: Spending this year with all of you, I've learned many things. Truly irreplaceable things...{p}
+
+## MBMS03 g0 s0277
+JP: {v0}{col:0}君{col:-}、私は君のような素直で{n}まっすぐな心の持ち主を育ててゆくのが、{n}教師の使命だと思っている…。{p}{end}
+EN: {v0}{col:0}-kun{col:-}, I believe a teacher's mission is to raise people with honest, straight hearts like yours...{p}{end}
+
+## MBMS03 g0 s0278
+JP: いかに学校で知識をつめ込んでいても、{n}それを使う者の心が曲がっていては、全く{n}意味がないのだからね。{p}{end}
+EN: No matter how much knowledge you cram in at school, it means nothing if the heart of the one using it is crooked.{p}{end}
+
+## MBMS03 g0 s0279
+JP: そんな難しいことを考えていたなんて、{n}英雄先生ってすごいんですね。{p}
+EN: I didn't know you thought about such deep things. You're amazing, Hideo-sensei.{p}
+
+## MBMS03 g0 s0280
+JP: い、いやあ、まあその…、{n}きょ、教師として…と、当然のことだよ。{p}{end}
+EN: W-well, um, you see... a-as a teacher... i-it's only natural.{p}{end}
+
+## MBMS03 g0 s0281
+JP: そう、学校で学ぶべきこと、学べることは{n}知識だけではない。{p}
+EN: Yes, what you should learn, and can learn, at school is not only knowledge.{p}
+
+## MBMS03 g0 s0282
+JP: これから先、そのことだけは{n}どうか忘れずにいてほしい。{p}
+EN: From here on, please never forget at least that.{p}
+
+## MBMS03 g0 s0283
+JP: はい、先生!{p}{end}
+EN: Yes, sensei!{p}{end}
+
+## MBMS03 g0 s0284
+JP: うん、いい返事だ。{p}
+EN: Good, that's a fine answer.{p}
+
+## MBMS03 g0 s0285
+JP: 英雄先生、{n}卒業までご指導よろしくお願いします。{p}{end}
+EN: Hideo-sensei, please keep teaching me until graduation.{p}{end}
+
+## MBMS03 g0 s0286
+JP: こ、こちらこそ、未熟者だが…よろしく。{p}
+EN: L-likewise, inexperienced as I am... I'm in your care.{p}
+
+## MBMS03 g0 s0287
+JP: 残りの学園生活で、君がどれだけ成長して{n}いくのか…本当に楽しみだよ。{p}{end}
+EN: I'm truly looking forward to seeing how much you grow in the rest of your school life.{p}{end}
+
+## MBMS03 g0 s0288
+JP: 響子先生!{p}
+EN: Kyoko-sensei!{p}
+
+## MBMS03 g0 s0289
+JP: あら、{v1}{col:0}クン{col:-}。{n}今日も元気みたいね。{n}先生、うれしいわ。{p}{end}
+EN: Oh, {v1}{col:0}-kun{col:-}. You look well today too. That makes me happy.{p}{end}
+
+## MBMS03 g0 s0290
+JP: 俺が元気なのは、{n}響子先生の顔が見れたからですよ。{p}
+EN: I'm well because I got to see your face, Kyoko-sensei.{p}
+
+## MBMS03 g0 s0291
+JP: コラ、{n}大人をからかうんじゃありません。{p}{end}
+EN: Hey now, don't tease a grown-up.{p}{end}
+
+## MBMS03 g0 s0292
+JP: …嘘じゃないんだけどな。{p}{end}
+EN: ...But I'm not lying.{p}{end}
+
+## MBMS03 g0 s0293
+JP: 響子先生、{n}変なこと聞いてもいいですか?{p}{end}
+EN: Kyoko-sensei, can I ask you something weird?{p}{end}
+
+## MBMS03 g0 s0294
+JP: 別にいいわよ、内容にもよるけど。{p}{end}
+EN: Sure, depending on what it is.{p}{end}
+
+## MBMS03 g0 s0295
+JP: じゃあ、単刀直入に聞きます。{n}響子先生って…{n}好きな人いるんですか?{p}{end}
+EN: Then I'll get straight to the point. Kyoko-sensei... is there someone you like?{p}{end}
+
+## MBMS03 g0 s0296
+JP: あら、素敵な質問ね。{n}そーねぇ、好きな人…か。{p}
+EN: My, what a lovely question. Let's see, someone I like...{p}
+
+## MBMS03 g0 s0297
+JP: いるわよ、いっぱい。{n}私はこの学校の生徒達、みんなが大好き。{n}でも、どちらかといえば{n}母親みたいな感情に近い『好き』かもね。{p}{end}
+EN: There are lots. I love all the students at this school. But it might be a "love" closer to a mother's feeling.{p}{end}
+
+## MBMS03 g0 s0298
+JP: 響子先生ずるいや、{n}それって、答えになってないよ。{p}
+EN: That's not fair, Kyoko-sensei. That's not an answer.{p}
+
+## MBMS03 g0 s0299
+JP: ウフフフ…。{n}大人の女はずるいものなのよ。{p}
+EN: Ufufufu... Grown women are unfair like that.{p}
+
+## MBMS03 g0 s0300
+JP: じゃあ、先生が質問する番ね。{n}{v1}{col:0}クン{col:-}、{n}異性として好きな人はいる?{p}
+EN: Then it's my turn to ask. {v1}{col:0}-kun{col:-}, is there someone you like romantically?{p}
+
+## MBMS03 g0 s0302
+JP: 白状しちゃいなさい。{n}楽になるわよ{col:5}♥{col:-}{p}{end}
+EN: Come on, confess. You'll feel better{col:5}♥{col:-}{p}{end}
+
+## MBMS03 g0 s0303
+JP: 若葉さん?それとも鮎原さんかしら?{n}マニアックなところで、ティファニーさん{n}というのもありね。{p}
+EN: Wakaba-san? Or maybe Ayuhara-san? For a more niche pick, Tiffany-san is possible too.{p}
+
+## MBMS03 g0 s0304
+JP: ち、ちがいますって、{n}やめてくださいよ。{n}俺が好きなのは…{n}響子先生なんですから!{p}
+EN: N-no, it's not like that, please stop. The one I like is... you, Kyoko-sensei!{p}
+
+## MBMS03 g0 s0305
+JP: …や、やだわ、もう、{n}{v1}{col:0}クン{col:-}ったら。{n}あんまり、からかわないでちょうだい。{n}先生、びっくりしちゃったわ。{p}{end}
+EN: ...G-goodness, {v1}{col:0}-kun{col:-}, really. Please don't tease me so much. You surprised me.{p}{end}
+
+## MBMS03 g0 s0306
+JP: 冗談なんかじゃないです。{n}俺は本気ですよ。{p}
+EN: I'm not joking. I'm serious.{p}
+
+## MBMS03 g0 s0307
+JP: わ、私なんて、もうオバサンよ?{n}それでも{v1}{col:0}クン{col:-}はいいのかしら?{p}
+EN: B-but I'm already a middle-aged woman, you know? Is that still okay with you, {v1}{col:0}-kun{col:-}?{p}
+
+## MBMS03 g0 s0308
+JP: はい。{n}俺は、みんなに優しくて温かい響子先生が{n}好きなんです。{p}
+EN: Yes. I love you, Kyoko-sensei, because you're kind and warm to everyone.{p}
+
+## MBMS03 g0 s0309
+JP: ありがとう、{v1}{col:0}クン{col:-}。{n}先生、とってもうれしいわ。{p}{end}
+EN: Thank you, {v1}{col:0}-kun{col:-}. That makes me very happy.{p}{end}
+
+## MBMS03 g0 s0310
+JP: でも、恋人同士になるのは、{n}{v1}{col:0}クン{col:-}が卒業する日まで、{n}おあずけになっちゃうわね。{p}{end}
+EN: But being sweethearts will have to wait until the day you graduate, {v1}{col:0}-kun{col:-}.{p}{end}
+
+## MBMS03 g0 s0311
+JP: でも、{n}卒業の日まで、二人で頑張りましょ{col:5}♥{col:-}{p}
+EN: Until graduation day, let's both do our best{col:5}♥{col:-}{p}
+
+## MBMS03 g0 s0312
+JP: {v0}{col:0}君{col:-}、ちょっと待ちたまえ。{p}
+EN: {v0}{col:0}-kun{col:-}, wait a moment.{p}
+
+## MBMS03 g0 s0313
+JP: あ、学園長。{n}僕に何か?{p}{end}
+EN: Ah, Principal. Do you need me?{p}{end}
+
+## MBMS03 g0 s0314
+JP: うむ、すまないがわしについてきてくれ。{n}君に話があるのだよ。{p}{end}
+EN: Mm, I'm sorry, but please come with me. I have something to discuss with you.{p}{end}
+
+## MBMS03 g0 s0315
+JP: （うーん、俺、何か悪い事したっけ?{n}{sp}遅刻はしょっちゅうだけど…。{n}{sp}まさか、退学とかいわれるんじゃ…。）{p}
+EN: (Hmm, did I do something bad? I'm always late, but... Don't tell me he's going to expel me...){p}
+
+## MBMS03 g0 s0316
+JP: うむ、ここならいいだろう。{p}
+EN: Mm, this should do.{p}
+
+## MBMS03 g0 s0317
+JP: {v0}{col:0}君{col:-}、{n}話というのは他でもない…{n}わしの養子になる気はないかね?{p}{end}
+EN: {v0}{col:0}-kun{col:-}, what I want to discuss is none other than... would you consider becoming my adopted son?{p}{end}
+
+## MBMS03 g0 s0318
+JP: よ、養子!?{n}学園長、突然何を?{p}{end}
+EN: A-adopted son!? Principal, what are you saying all of a sudden?{p}{end}
+
+## MBMS03 g0 s0319
+JP: うむ、君が驚くのも無理はない事だ。{n}では、説明しよう…。{p}{end}
+EN: Mm, it's only natural you'd be surprised. Then let me explain...{p}{end}
+
+## MBMS03 g0 s0320
+JP: 今の日本は病んでいる。{n}その事は君も、{n}少なからずわかっていることだと思う。{p}{end}
+EN: Japan today is sick. I think you understand that too, at least somewhat.{p}{end}
+
+## MBMS03 g0 s0322
+JP: 私は、日本を根底から変革したいと{n}考えている。{n}そのためには、多くの優秀な生徒達を育て、{n}社会に送り出す必要があるのだ。{p}{end}
+EN: I wish to change Japan from its roots. To do that, I must raise many excellent students and send them out into society.{p}{end}
+
+## MBMS03 g0 s0323
+JP: わしのもとで忌野家伝来の教育を受け、{n}さらに君の能力を伸ばし、いずれは私の{n}後継者となってはくれぬかね?{p}{end}
+EN: Will you receive the Imawano family's ancestral education under me, develop your abilities further, and one day become my successor?{p}{end}
+
+## MBMS03 g0 s0324
+JP: 学園長、それほどまでに僕のことを…{p}
+EN: Principal, you think that highly of me...{p}
+
+## MBMS03 g0 s0325
+JP: わかりました。{n}学園長のご期待にそえるよう、{n}粉骨砕身の覚悟で頑張ります。{p}
+EN: I understand. I'll give it everything I have to live up to your expectations.{p}
+
+## MBMS03 g0 s0326
+JP: おお、やってくれるか!{n}さすがは、わしの見込んだ生徒よ。{p}{end}
+EN: Oh, you'll do it! As expected of the student I chose.{p}{end}
+
+## MBMS03 g0 s0327
+JP: わしらは今日より、親子…そして家族だ。{n}{v1}、我が息子よ、{n}期待しているぞ!{p}
+EN: From today, we are father and son... a family. {v1}, my son, I have high hopes for you!{p}
+
+## MBMS03 g0 s0329
+JP: 雹さん、やっぱりここにいたんですね。{p}{end}
+EN: Hyo-san, so you were here after all.{p}{end}
+
+## MBMS03 g0 s0330
+JP: {v0}か。{n}なぜ、私がここにいるとわかった?{p}{end}
+EN: {v0}. How did you know I was here?{p}{end}
+
+## MBMS03 g0 s0331
+JP: なんとなくかな。{n}きっと、ここなら雹さんに会えるだろうと{n}思ったんです。{p}{end}
+EN: Just a feeling, I guess. I thought I'd surely find you here, Hyo-san.{p}{end}
+
+## MBMS03 g0 s0332
+JP: そうか…。{p}
+EN: I see...{p}
+
+## MBMS03 g0 s0333
+JP: {v0}よ…私の右腕となり、{n}ともに日本を支配してみないか?{p}
+EN: {v0}... Will you become my right hand and rule Japan with me?{p}
+
+## MBMS03 g0 s0334
+JP: ええっ?{n}に、日本を支配するって…。{p}{end}
+EN: Whaaat? R-rule Japan...{p}{end}
+
+## MBMS03 g0 s0335
+JP: 雹さん、自分が何を言っているのか{n}わかっているんですか?{p}{end}
+EN: Hyo-san, do you understand what you're saying?{p}{end}
+
+## MBMS03 g0 s0336
+JP: 無論だ…。{n}腐った日本を制圧し、忌野家を頂点とした、{n}優れたものだけの国にする。{n}ただそれだけのことだ。{p}{end}
+EN: Of course... I will subdue rotten Japan and make it a nation of only the superior, with the Imawano family at its peak. That is all.{p}{end}
+
+## MBMS03 g0 s0337
+JP: どうしてそんなことを!?{p}{end}
+EN: Why would you do that!?{p}{end}
+
+## MBMS03 g0 s0338
+JP: 私は、父の遺言を果たさねばならぬ!{n}父上の無念を…。{p}{end}
+EN: I must fulfill my father's last wish! My father's regret...{p}{end}
+
+## MBMS03 g0 s0339
+JP: 恭介が私から離れた今、{n}信頼できるのは……{n}{v1}、お前だけだ…。{p}
+EN: Now that Kyosuke has left me, the only one I can trust... is you, {v1}...{p}
+
+## MBMS03 g0 s0340
+JP: 頼む、{n}私を…1人に…しないでくれ。{p}{end}
+EN: Please... don't leave me... alone.{p}{end}
+
+## MBMS03 g0 s0341
+JP: 雹さん…、大丈夫です。{n}俺がずっと側にいるから。{n}もう独りじゃないんです。{p}
+EN: Hyo-san... It's all right. I'll always be by your side. You're not alone anymore.{p}
+
+## MBMS03 g0 s0343
+JP: これが、恭介の言っていた『絆』なのか?{n}心が、温かい…。{n}頭の痛みが、消えてゆく…。{p}{end}
+EN: Is this the "bond" Kyosuke spoke of? My heart is warm... The pain in my head is fading...{p}{end}
+
+## MBMS03 g0 s0344
+JP: そうか、これが『安らぎ』か。{n}久しく忘れていた感情だ…。{p}{end}
+EN: I see, so this is "peace." A feeling I forgot long ago...{p}{end}
+
+## MBMS03 g0 s0345
+JP: 不思議なものだ…{n}お前といると、はるか昔に忘れてきた{n}感情が少しずつ蘇ってくるのがわかる。{n}心の安らぎを感じる…{p}{end}
+EN: How strange... With you, I can feel emotions I forgot long ago slowly coming back. I feel peace in my heart...{p}{end}
+
+## MBMS03 g0 s0346
+JP: 今は日本の支配など、どうでもいい。{n}もうしばらくお前とこうしていたい…{n}ただ、それだけだ。{p}
+EN: For now, ruling Japan doesn't matter. I just want to stay like this with you a little longer... That is all.{p}
+
+## MBMS03 g0 s0347
+JP: おう、{v3:16}!{n}この俺に用ってなあ、一体なんだ?{p}
+EN: Hey, {v3:16}! So what do you want with me?{p}
+
+## MBMS03 g0 s0348
+JP: 隼人先生…{n}この1年間、今までずっと黙っていましたが{n}もうこれ以上、自分を偽る事はできません!{p}
+EN: Hayato-sensei... I've kept quiet this whole year, but I can't lie to myself any longer!{p}
+
+## MBMS03 g0 s0349
+JP: ほぅ、いい目をしてやがる。{n}己の死をもいとわねぇ…そんな気迫が{n}ヒシヒシと伝わってくるぜ。{p}
+EN: Oh, you've got a good look in your eyes. I can feel your spirit, ready to face even death.{p}
+
+## MBMS03 g0 s0350
+JP: フッ、まったく…{n}若いってのは、うらやましい限りだ。{n}ドンドン大きくなっていきやがる…。{p}{end}
+EN: Heh, really... Youth is something to envy. You grow bigger and bigger...{p}{end}
+
+## MBMS03 g0 s0351
+JP: 隼人先生…{p}
+EN: Hayato-sensei...{p}
+
+## MBMS03 g0 s0352
+JP: よぉし、{v3:16}!{n}お前の覚悟は、良くわかった!!{n}その気迫を、ありったけの力で俺に{n}ぶつけてみろ!{p}{end}
+EN: All right, {v3:16}! I understand your resolve!! Hit me with that spirit with everything you've got!{p}{end}
+
+## MBMS03 g0 s0353
+JP: 隼人先生!{n}{v0}{sp}{v1}、行きます!!{p}{end}
+EN: Hayato-sensei! {v1} {v0}, here I come!!{p}{end}
+
+## MBMS03 g0 s0354
+JP: よぉし、来い!!{p}{end}
+EN: All right, come on!!{p}{end}
+
+## MBMS03 g0 s0355
+JP: 俺は世界中の誰よりも、隼人先生が{n}好きだあああああ!{p}{end}
+EN: I love you, Hayato-sensei, more than anyone in the whole world!!!{p}{end}
+
+## MBMS03 g0 s0356
+JP: {face:8}・・・・・・・・・・{face:255}{n}フッ、いい気迫だったぜ、{v3:16}。{p}{end}
+EN: {face:8}..........{face:255} Heh, that was some spirit, {v3:16}.{p}{end}
+
+## MBMS03 g0 s0357
+JP: それだけの気迫と情熱を見せられたら、{n}それに応えなきゃいけねぇ。{n}…それが男ってもんだ。{p}{end}
+EN: When someone shows me that much spirit and passion, I've got to answer it. ...That's what a man does.{p}{end}
+
+## MBMS03 g0 s0358
+JP: いいだろう。{n}{v3:16}、さあ遠慮せずに俺の胸に{n}飛び込んでこい!!{p}
+EN: All right. {v3:16}, don't hold back, jump into my arms!!{p}
+
+## MBMS03 g0 s0359
+JP: は、隼人先生ーーーーー!!!!{p}
+EN: H-Hayato-senseeeeei!!!!{p}
+
+## MBMS03 g0 s0360
+JP: {v3:16}ーーーーーーー!!!!{p}
+EN: {v3:16}!!!!!!!!{p}
+
+## MBMS03 g0 s0361
+JP: せ、先生、俺…{p}
+EN: S-sensei, I...{p}
+
+## MBMS03 g0 s0362
+JP: 何も言うんじゃねぇ、{n}これが青春ってやつよ。{p}{end}
+EN: Don't say a word. This is what they call youth.{p}{end}
+
+## MBMS03 g0 s0363
+JP: さあ、{v3:16}。{n}あの夕日に向かって走るぞ!{p}{end}
+EN: Now, {v3:16}. Let's run toward that sunset!{p}{end}
+
+## MBMS03 g0 s0365
+JP: …ここにいたか。{p}{end}
+EN: ...So you were here.{p}{end}
+
+## MBMS03 g0 s0366
+JP: 醍醐先輩。{n}もしかして、俺を探してたんですか?{p}
+EN: Daigo-senpai. Were you looking for me?{p}
+
+## MBMS03 g0 s0367
+JP: まあ、そんなところだ。{p}
+EN: Something like that.{p}
+
+## MBMS03 g0 s0368
+JP: {v5:17}、心して聞いてくれ…。{n}お前、総番長をやるつもりはないか?{p}
+EN: {v5:17}, listen carefully... Would you be willing to be the top boss?{p}
+
+## MBMS03 g0 s0369
+JP: ええっ?{n}そ、総番長って…{n}一体どういうことですか?{p}{end}
+EN: Whaaat? Th-the top boss... What do you mean?{p}{end}
+
+## MBMS03 g0 s0370
+JP: {face:8}・・・・・・・・・・{face:255}{n}俺も今年でこの高校を卒業する。{p}{end}
+EN: {face:8}..........{face:255} I graduate from this school this year.{p}{end}
+
+## MBMS03 g0 s0371
+JP: そこで…お前が俺の後を継ぎ{n}次の総番長となれば、学園内に無用な{n}混乱や争いをおこさずにすむ。{p}{end}
+EN: So... if you succeed me as the next top boss, the school can avoid needless chaos and fighting.{p}{end}
+
+## MBMS03 g0 s0372
+JP: で、でも…{n}俺に総番長なんて、{n}無理に決まってますよ。{n}醍醐先輩みたいにケンカ強くないし…。{p}{end}
+EN: B-but... there's no way I could be the top boss. I'm not as strong a fighter as you, Daigo-senpai...{p}{end}
+
+## MBMS03 g0 s0373
+JP: {v5:17}、{n}お前は何か勘違いをしているな。{p}
+EN: {v5:17}, you misunderstand something.{p}
+
+## MBMS03 g0 s0374
+JP: 本当の強さとは、{n}腕っぷしの太さや力の強さではない!{p}{end}
+EN: True strength isn't thick arms or raw power!{p}{end}
+
+## MBMS03 g0 s0375
+JP: どんな逆境にも耐えうる、{n}強じんな『心』を持っていること。{n}それが、本当に『強い』ということだ!{p}{end}
+EN: Having a tough "heart" that can endure any hardship. That is what being truly "strong" means!{p}{end}
+
+## MBMS03 g0 s0376
+JP: 俺はこの1年間、お前を観察し続けてきた。{n}お前は、多くの仲間達の信頼を受け、{n}そして仁義を貫ける漢（おとこ）だ。{p}{end}
+EN: I've watched you all year. You have the trust of many friends, and you're a real man who keeps his code of honor.{p}{end}
+
+## MBMS03 g0 s0377
+JP: お前ならやれる。{n}俺の目に狂いはない!{p}
+EN: You can do it. My eyes don't deceive me!{p}
+
+## MBMS03 g0 s0378
+JP: 醍醐先輩、わかりました!{n}俺、できる限りやってみます!{p}
+EN: Daigo-senpai, I understand! I'll do the best I can!{p}
+
+## MBMS03 g0 s0379
+JP: そうか、やってくれるか。{n}だが、覚悟しておけよ。{n}明日からは、毎日特訓だ!{p}
+EN: I see, you'll do it. But be ready. From tomorrow, special training every day!{p}
+
+## MBMS03 g0 s0380
+JP: 俺の卒業までもう時間がない。{n}それまでに、真の総番長にふさわしい{n}漢になってもらうからな!{p}
+EN: There's not much time left until I graduate. By then, I'll make you a man worthy of being the true top boss!{p}
+
+## MBMS03 g0 s0381
+JP: さーて、終業式も終わったし、{n}帰るとするかな。{p}
+EN: Well now, the closing ceremony's over. Guess I'll head home.{p}
+
+## MBMS03 g0 s0382
+JP: {v3:16}、ちょっと待ちな。{p}
+EN: {v3:16}, hold it right there.{p}
+
+## MBMS03 g0 s0383
+JP: 隼人先生、一体どうしたんですか?{n}俺、もう帰りたいんですけど。{p}
+EN: Hayato-sensei, what's going on? I'd like to go home now.{p}
+
+## MBMS03 g0 s0384
+JP: それはできんな。{n}お前には、{n}これから一週間みっちりと{n}補習を受けてもらう。{p}{end}
+EN: Can't let you do that. You'll be taking a full week of remedial classes starting now.{p}{end}
+
+## MBMS03 g0 s0385
+JP: {v0}{col:0}クン{col:-}、観念してくれたまえ。{n}我々としても、手荒なまねは{n}したくないからね。{p}{end}
+EN: {v0}{col:0}-kun{col:-}, please give up. We don't want to be rough with you either.{p}{end}
+
+## MBMS03 g0 s0386
+JP: 出席日数がギリギリの上に、遅刻の常習犯、{n}おまけに成績不振…{n}これでは言い逃れできないわね。{p}{end}
+EN: Barely enough attendance days, a habitual latecomer, and poor grades on top of that... There's no talking your way out of this.{p}{end}
+
+## MBMS03 g0 s0387
+JP: これを機会に、{n}勉学の遅れを取り戻すといいだろう。{n}そうそう、御両親の許しは{n}すでに得ているから、心配する事はない。{p}{end}
+EN: Take this chance to catch up on your studies. Oh yes, we already have your parents' permission, so there's nothing to worry about.{p}{end}
+
+## MBMS03 g0 s0388
+JP: では、一週間頑張ってくれたまえ。{p}{end}
+EN: Well then, do your best for the week.{p}{end}
+
+## MBMS03 g0 s0389
+JP: そ、そんなぁ…{n}お、俺の春休みがー!{p}{end}
+EN: N-no way... M-my spring break!{p}{end}
+
+## MBMS03 g1 s0004
+JP: 一年間何をやってきたんだ!?{n}もう一回一年生をやりたいのか?{n}進級試験が心配になってきたぜ。{p}{end}
+EN: What have you been doing all year!? Want to do first year all over again? I'm getting worried about your promotion test.{p}{end}
+
+## MBMS03 g1 s0005
+JP: 進級試験かあ…{n}進級できなかったらどうしよう…{p}
+EN: The promotion test... What if I don't get promoted...{p}
+
+## MBMS03 g1 s0021
+JP: …はい。{n}…隼人先生、{n}一年間どうもありがとうございました!{p}{end}
+EN: ...Yes. ...Hayato-sensei, thank you so much for this year!{p}{end}
+
+## MBMS03 g1 s0028
+JP: 私だって苦手よ。{n}でも、明日から春休みだって考えれば{n}どうってことないかな。{p}{end}
+EN: Me neither. But when you think spring break starts tomorrow, it's no big deal.{p}{end}
+
+## MBMS03 g1 s0032
+JP: え?{n}何の事を言ってるの?{p}
+EN: Huh? What are you talking about?{p}
+
+## MBMS03 g1 s0034
+JP: ああ、あのことね。{n}バツ、そんなこと気にしてたの?{p}
+EN: Oh, that. Batsu, you were worried about that?{p}
+
+## MBMS03 g1 s0035
+JP: バツは間違った事はしてなかったでしょ。{n}結果的にケンカになっちゃっているだけで、{n}気にする事はないと思うよ。{p}{end}
+EN: You never did anything wrong, Batsu. It just ended up turning into fights. I don't think you need to worry about it.{p}{end}
+
+## MBMS03 g1 s0036
+JP: 私はバツのそういうまっすぐなところ、{n}すごくいいと思うしね。{p}{end}
+EN: And I think that straightforward side of you is really great.{p}{end}
+
+## MBMS03 g1 s0039
+JP: 私たちパートナーでしょ?{n}バツのことなら、{n}誰よりもわかってるつもりよ。{p}{end}
+EN: We're partners, right? When it comes to you, Batsu, I know you better than anyone.{p}{end}
+
+## MBMS03 g1 s0040
+JP: でも、毎日はカンベンしてよね。{n}さすがに体がもたないわ。{p}{end}
+EN: But hey, not every day, okay? My body can't take it.{p}{end}
+
+## MBMS03 g1 s0042
+JP: うそ、冗談でしょ!?{p}{end}
+EN: No way, you're kidding, right!?{p}{end}
+
+## MBMS03 g1 s0043
+JP: はははははは、あたりまえだろ。{p}
+EN: Hahahahaha, of course I am.{p}
+
+## MBMS03 g1 s0047
+JP: 「ねえ、{v9:1}ってばぁー!{n}{sp}まってよぉー!」{p}{end}
+EN: "Hey, {v9:1}! Waaait for meee!"{p}{end}
+
+## MBMS03 g1 s0048
+JP: ん?{n}誰かが私を呼んでるみたい。{p}{end}
+EN: Hm? Sounds like someone's calling me.{p}{end}
+
+## MBMS03 g1 s0050
+JP: ねえ、{v9:1}{n}いっしょに帰ろうよ。{p}{end}
+EN: Hey, {v9:1}, let's walk home together.{p}{end}
+
+## MBMS03 g1 s0054
+JP: うん、私も同じこと考えてた。{p}{end}
+EN: Yeah, I was thinking the same thing.{p}{end}
+
+## MBMS03 g1 s0055
+JP: 前にも言ったと思うけど、{n}{v9:1}とするトレーニングって{n}とっても楽しいの。{p}{end}
+EN: I think I told you before, but training with you, {v9:1}, is really fun.{p}{end}
+
+## MBMS03 g1 s0058
+JP: 私、{v9:1}と{n}いっしょにいたいんだなって…{p}{end}
+EN: I really want to be with you, {v9:1}...{p}{end}
+
+## MBMS03 g1 s0059
+JP: （ひ、ひなた…{n}{sp}ひょっとして、私の事?）{p}
+EN: (H-Hinata... Could she mean me?){p}
+
+## MBMS03 g1 s0061
+JP: 今の{v9:1}の顔、{n}面白かったよー。{n}うふふふふふ。{p}{end}
+EN: The face you just made, {v9:1}, was so funny. Ufufufufu.{p}{end}
+
+## MBMS03 g1 s0067
+JP: こらあ、ひなた!{n}人の純な心をもてあそんだわねー!!{p}{end}
+EN: Hey, Hinata! Toying with a girl's innocent heart!!{p}{end}
+
+## MBMS03 g1 s0069
+JP: でもね…{n}{v9:1}といっしょにいたい{n}っていうのは嘘じゃないよ。{p}{end}
+EN: But you know... the part about wanting to be with you, {v9:1}, wasn't a lie.{p}{end}
+
+## MBMS03 g1 s0070
+JP: 私、{v9:1}のこと大好きだよ{col:5}♥{col:-}{p}
+EN: I love you, {v9:1}{col:5}♥{col:-}{p}
+
+## MBMS03 g1 s0074
+JP: 風紀委員って大変なのね。{p}{end}
+EN: The disciplinary committee sure has it tough.{p}{end}
+
+## MBMS03 g1 s0075
+JP: {v8:2}みたいな{n}遅刻常習者が多いからね。{n}苦労はたえないよ。{p}
+EN: There are a lot of habitual latecomers like {v8:2}. My troubles never end.{p}
+
+## MBMS03 g1 s0078
+JP: （私と恭介は、しばらく何をするでもなく{n}{sp}屋上から見える景色を眺めていた。）{p}{end}
+EN: (Kyosuke and I stood for a while, doing nothing, looking at the view from the roof.){p}{end}
+
+## MBMS03 g1 s0079
+JP: {face:8}・・・・・・・・・・{face:255}{n}なあ、{v8:2}。{p}
+EN: {face:8}..........{face:255} Hey, {v8:2}.{p}
+
+## MBMS03 g1 s0080
+JP: うん?なあに、恭介。{p}{end}
+EN: Hm? What is it, Kyosuke?{p}{end}
+
+## MBMS03 g1 s0085
+JP: うん。{n}難しい事はわからないけど、{n}みんなを信じるって事は大切だと思うよ。{p}
+EN: Yeah. I don't get the hard stuff, but I think trusting everyone is important.{p}
+
+## MBMS03 g1 s0086
+JP: 恭介の言う事はきっと間違ってないよ。{n}だって、恭介の笑顔、1年前に比べたら{n}すごく優しくなってるもん。{p}
+EN: I'm sure you're not wrong, Kyosuke. Your smile has gotten so much kinder compared to a year ago.{p}
+
+## MBMS03 g1 s0088
+JP: でも、もしそうだとしたのなら、{n}それは{v8:2}のおかげだよ。{p}{end}
+EN: But if it's true, it's thanks to you, {v8:2}.{p}{end}
+
+## MBMS03 g1 s0091
+JP: ふふふ、学園長の話の長さにも{n}困ったもんだね。{p}
+EN: Hehehe, the principal's long speeches sure are a problem.{p}
+
+## MBMS03 g1 s0096
+JP: そう、大変だね。{p}{end}
+EN: I see, that's rough.{p}{end}
+
+## MBMS03 g1 s0099
+JP: うん、いいよ。{n}将馬を1人にするとすぐ無茶をして、{n}いつ怪我しちゃうか分からないんだもん。{p}
+EN: Yeah, sure. If I leave you alone, you'll overdo it and who knows when you'll get hurt.{p}
+
+## MBMS03 g1 s0100
+JP: そのかわり、{n}ひとつだけ条件があるんだけどな。{p}
+EN: But there's one condition.{p}
+
+## MBMS03 g1 s0102
+JP: 絶対にレギュラーになって、甲子園に{n}出場するってのでどう?{p}
+EN: You make the starting lineup for sure and play at Koshien. How about it?{p}
+
+## MBMS03 g1 s0111
+JP: どうなんだ?{n}はっきり言えよ。{p}
+EN: Well? Say it straight.{p}
+
+## MBMS03 g1 s0112
+JP: 将馬、君には悪いけど…{n}私は、夏のことが好き。{n}もちろん、1人の女の子としてね。{p}{end}
+EN: Shoma, sorry, but... I like Natsu. As a girl, of course.{p}{end}
+
+## MBMS03 g1 s0113
+JP: 誰にも、{n}もちろん将馬にもゆずるつもりはないわ。{n}今なら…うん、はっきりと言える。{p}
+EN: I'm not giving her up to anyone, not even you, Shoma. Now... yes, I can say it clearly.{p}
+
+## MBMS03 g1 s0124
+JP: あはは、ちょっと恥ずかしいな。{n}でも、ちょうど良かったのかもしれない。{p}
+EN: Ahaha, that's a little embarrassing. But maybe it worked out just right.{p}
+
+## MBMS03 g1 s0125
+JP: あらためて言うね。{n}私、夏のことが好き。{n}こんな私だけど、つきあってくれる?{p}{end}
+EN: I'll say it again. I like you, Natsu. I know I'm just me, but will you go out with me?{p}{end}
+
+## MBMS03 g1 s0127
+JP: ありがとう、{v8:4}。{n}アタシも{v8:4}のこと、{n}好きだよ。{p}{end}
+EN: Thank you, {v8:4}. I like you too, {v8:4}.{p}{end}
+
+## MBMS03 g1 s0129
+JP: ねえ、ロベルト。{n}調子はどう?{p}
+EN: Hey, Roberto. How's it going?{p}
+
+## MBMS03 g1 s0131
+JP: すごいね!{n}でも、インターハイなんかに出たら、{n}ロベルトも一躍有名人だよ。{p}
+EN: That's amazing! If you make it to the Inter-High, you'll be famous overnight, Roberto.{p}
+
+## MBMS03 g1 s0133
+JP: {v8:5}、{n}練習ももうすぐ終わるから{n}そこで待っててくれよ。{n}ちょっと、話があるんだ。{p}
+EN: {v8:5}, practice is almost over, so wait for me there. I've got something to talk about.{p}
+
+## MBMS03 g1 s0134
+JP: で、話ってなあに?ロベルト。{p}{end}
+EN: So, what did you want to talk about, Roberto?{p}{end}
+
+## MBMS03 g1 s0135
+JP: あ、ああ、それなんだが…{p}{end}
+EN: Ah, well, about that...{p}{end}
+
+## MBMS03 g1 s0136
+JP: 何か悩み事でもあるの?{n}私とロベルトの仲じゃない、何でも{n}言ってよ。{p}{end}
+EN: Is something bothering you? We're friends, Roberto. Tell me anything.{p}{end}
+
+## MBMS03 g1 s0137
+JP: {v8:5}…、その、{n}俺とつきあってくれないか?{p}
+EN: {v8:5}... um, will you go out with me?{p}
+
+## MBMS03 g1 s0138
+JP: いいけど、どこに?{n}もしかして、Jリーグの試合?{p}{end}
+EN: Sure, but where? A J.League match, maybe?{p}{end}
+
+## MBMS03 g1 s0139
+JP: そ、そういう意味じゃない。{n}俺、{v8:5}のことが{n}好きになっちまったんだ。{p}
+EN: Th-that's not what I mean. I've fallen for you, {v8:5}.{p}
+
+## MBMS03 g1 s0140
+JP: だから、異性として…恋人として{n}俺と、つきあってくれないか?{p}{end}
+EN: So... as a man and a woman... as lovers... will you go out with me?{p}{end}
+
+## MBMS03 g1 s0141
+JP: ロ、ロベルト…{p}
+EN: R-Roberto...{p}
+
+## MBMS03 g1 s0142
+JP: 俺、{v8:5}が応援に来てくれた日{n}は不思議と調子がよくなるんだ。{p}{end}
+EN: Strangely, on days you come to cheer me on, {v8:5}, I always play better.{p}{end}
+
+## MBMS03 g1 s0143
+JP: はじめは自分でも何でかわからなかった。{n}でも、やっと気づいたんだ。{n}…自分の本当の気持ちに。{p}{end}
+EN: At first I didn't know why. But I finally realized it. ...My true feelings.{p}{end}
+
+## MBMS03 g1 s0144
+JP: だから、どうしても伝えたくなって…。{n}スマン、びっくりさせちまったかな?{p}{end}
+EN: So I really wanted to tell you... Sorry, did I surprise you?{p}{end}
+
+## MBMS03 g1 s0145
+JP: ううん、そんなことない。{n}すごくうれしいよ、ロベルト。{p}
+EN: No, not at all. I'm really happy, Roberto.{p}
+
+## MBMS03 g1 s0146
+JP: 私なんかでよければ、喜んで恋人になる{col:5}♥{col:-}{p}
+EN: If you'll have me, I'd be glad to be your girlfriend{col:5}♥{col:-}{p}
+
+## MBMS03 g1 s0147
+JP: ありがとう、{v8:5}。{n}これでインターハイ優勝も{n}決まったようなもんだ。{p}{end}
+EN: Thank you, {v8:5}. Now winning the Inter-High is as good as done.{p}{end}
+
+## MBMS03 g1 s0148
+JP: 俺には{n}{v8:5}っていう、{n}勝利の女神がついてるんだからな!{p}{end}
+EN: 'Cause I've got {v8:5}, my goddess of victory, on my side!{p}{end}
+
+## MBMS03 g1 s0149
+JP: あれ、ロイじゃない。{n}こんな所で何してるの?{p}{end}
+EN: Huh, isn't that Roy? What are you doing here?{p}{end}
+
+## MBMS03 g1 s0154
+JP: で、どうしたの?{n}ロイ。{p}{end}
+EN: So, what's wrong, Roy?{p}{end}
+
+## MBMS03 g1 s0156
+JP: ええ!?{n}ずいぶん急じゃない!{p}
+EN: What!? That's awfully sudden!{p}
+
+## MBMS03 g1 s0160
+JP: やっぱり、アメリカに帰っちゃうの?{n}…でも、しょうがないよね。{p}
+EN: So you're going back to America after all? ...Well, I guess it can't be helped.{p}
+
+## MBMS03 g1 s0162
+JP: だが……{n}君がいるなら{n}この日本も悪くない…。{p}
+EN: But... if you're here, then Japan isn't so bad...{p}
+
+## MBMS03 g1 s0167
+JP: こんにちわ、ティファニー。{n}別に誰とも約束してないよ。{n}よかったら、いっしょに帰る?{p}{end}
+EN: Hello, Tiffany. I didn't promise anyone. Want to walk home together?{p}{end}
+
+## MBMS03 g1 s0169
+JP: ティファニー、それを言うなら…{n}ん?{face:8}・・・{face:255}あ、あってるわ!?{p}{end}
+EN: Tiffany, the saying is... Hm? {face:8}...{face:255} H-hey, you got it right!?{p}{end}
+
+## MBMS03 g1 s0171
+JP: あはは、ゴメンゴメン。{p}
+EN: Ahaha, sorry, sorry.{p}
+
+## MBMS03 g1 s0175
+JP: 無理にとは言わないけど、{n}私で良かったら話してくれないかな?{p}{end}
+EN: I won't force you, but if you're okay with me, will you tell me?{p}{end}
+
+## MBMS03 g1 s0177
+JP: ミーもいっしょに帰らないかって{n}…言われたノ。{p}
+EN: He asked me... if I go back with him.{p}
+
+## MBMS03 g1 s0178
+JP: それ、本当!?{n}アメリカに帰るって…一体いつ?{p}
+EN: Is that true!? Going back to America... When?{p}
+
+## MBMS03 g1 s0185
+JP: ティファニー、それは自分で決めなくちゃ。{n}私には、ティファニーが{n}どうするべきかなんて言えない。{p}{end}
+EN: Tiffany, you have to decide that yourself. I can't tell you what you should do.{p}{end}
+
+## MBMS03 g1 s0188
+JP: 私、ティファニーのことが好き。{n}他の誰よりも…。{p}{end}
+EN: I like you, Tiffany. More than anyone else...{p}{end}
+
+## MBMS03 g1 s0196
+JP: うん、あの入学式が{n}まるで昨日の事のように{n}感じられるわ。{p}
+EN: Yeah, that entrance ceremony feels like it was just yesterday.{p}
+
+## MBMS03 g1 s0198
+JP: そうなのかな?{n}…うん。{n}きっと、そうなのよね。{p}{end}
+EN: You think so? ...Yeah. I'm sure it was.{p}{end}
+
+## MBMS03 g1 s0199
+JP: ボーマンが言うと{n}本当にそんな気になってくるから不思議。{p}{end}
+EN: It's strange. When you say it, Boman, it really feels true.{p}{end}
+
+## MBMS03 g1 s0207
+JP: {face:8}・・・・・・・・・・{face:255}{n}（私、アナタの事は絶対に忘れないから…）{p}
+EN: {face:8}..........{face:255} (I'll never forget you...){p}
+
+## MBMS03 g1 s0211
+JP: あははははは…{n}な、なんでもない。{p}
+EN: Ahahahahaha... N-nothing.{p}
+
+## MBMS03 g1 s0213
+JP: わかった。{n}ボーマンの頼みなら、断れないもん。{p}
+EN: Okay. I can't say no to you, Boman.{p}
+
+## MBMS03 g1 s0216
+JP: エッジ、用ってなあに?{p}
+EN: Edge, what did you want?{p}
+
+## MBMS03 g1 s0218
+JP: ねえ、いいかげん教えてよ。{n}屋上で何をするっていうの?{p}
+EN: Come on, tell me already. What are we doing on the roof?{p}
+
+## MBMS03 g1 s0220
+JP: ヒュッ、カッ!!{n}（突然、{n}{sp}私の足元にナイフが突きささった。）{p}{end}
+EN: *Whoosh, thunk!!* (Suddenly, a knife stuck into the ground at my feet.){p}{end}
+
+## MBMS03 g1 s0221
+JP: …!?エッジ{n}一体どういうつもりなの!?{p}{end}
+EN: ...!? Edge, what do you think you're doing!?{p}{end}
+
+## MBMS03 g1 s0223
+JP: 醍醐先輩も、今年で卒業だからな。{n}今のうちに、白黒はっきりさせておけば、{n}お互い楽ってもんだろう?{p}
+EN: Daigo-senpai graduates this year. If we settle who's who now, it'll be easier on both of us, right?{p}
+
+## MBMS03 g1 s0225
+JP: ちょ、ちょっと待って!!{p}{end}
+EN: W-wait a second!!{p}{end}
+
+## MBMS03 g1 s0227
+JP: ちがうよ、そうじゃない!{n}でも、仲間である私達が争って{n}何になるっていうの!?{p}
+EN: No, that's not it! But what good is it for us friends to fight each other!?{p}
+
+## MBMS03 g1 s0228
+JP: 私はエッジを殴りたくない。{n}きっとアキラも岩も、エッジとは{n}争いたくないと思ってるはずだよ。{p}{end}
+EN: I don't want to hit you, Edge. I'm sure Akira and Gan don't want to fight you either.{p}{end}
+
+## MBMS03 g1 s0229
+JP: ねえエッジ、総番長の座って{n}仲間と奪い合って争うほどの{n}価値があるのかな?{p}
+EN: Hey, Edge, is the top boss spot really worth fighting your friends over?{p}
+
+## MBMS03 g1 s0230
+JP: 私にはそうは思えないよ!{n}私には、総番長の座なんかよりも{n}エッジの方が大事だもの!{p}
+EN: I don't think so! You matter more to me than the top boss spot, Edge!{p}
+
+## MBMS03 g1 s0232
+JP: まったく…{n}そんな恥ずかしいセリフはかれたら、{n}殴りにくいじゃねェか。{n}ズリィよなぁ…。{p}{end}
+EN: Geez... Spoutin' embarrassing lines like that makes it real hard to hit ya. That's cheatin'...{p}{end}
+
+## MBMS03 g1 s0237
+JP: ま、仮に総番長がいなくても{n}オレ達2人に敵はいねぇしな。{n}これからもよろしく頼むぜぇ、{n}相棒!{p}
+EN: Well, even without a top boss, nobody can touch the two of us. Count on me from here on, partner!{p}
+
+## MBMS03 g1 s0239
+JP: あっ、そういえばアキラが{n}終業式の後に河原へ来てくれって{n}言ってたっけ…。{p}
+EN: Oh, come to think of it, Akira asked me to come to the riverbank after the closing ceremony...{p}
+
+## MBMS03 g1 s0240
+JP: 何の用かわからないけど、{n}とりあえず河原に行ってみよう。{p}{end}
+EN: I don't know what it's about, but let's head to the riverbank for now.{p}{end}
+
+## MBMS03 g1 s0242
+JP: アキラ、どうしたの?{n}こんな所に呼び出たりして。{p}{end}
+EN: Akira, what's up? Calling me out to a place like this.{p}{end}
+
+## MBMS03 g1 s0243
+JP: まさか…私と勝負しようとか?{p}{end}
+EN: Don't tell me... you want to fight me?{p}{end}
+
+## MBMS03 g1 s0248
+JP: ア、アキラ?{n}アナタ、一体何を言ってるの。{p}
+EN: A-Akira? What are you saying?{p}
+
+## MBMS03 g1 s0252
+JP: そ、そんな…まさか。{n}『アキラ』が女だったなんて…{p}
+EN: N-no way... It can't be. "Akira" was a girl...{p}
+
+## MBMS03 g1 s0254
+JP: …怒らないの?{n}ずっと、{v9:10}を{n}だましてたんだよ?{p}
+EN: ...You're not angry? I deceived you all this time, {v9:10}.{p}
+
+## MBMS03 g1 s0255
+JP: どうして?{n}怒る必要なんてないじゃない。{n}ちょっと驚いたけど…。{n}それより、どうして私に素顔を?{p}{end}
+EN: Why? There's no reason to be angry. I'm a little surprised, though... But why show me your real face?{p}{end}
+
+## MBMS03 g1 s0256
+JP: それは…{n}『アキラ』のままじゃ、{n}永遠に{v9:10}に{n}私の気持ちを伝えられなかったから。{p}
+EN: Because... as "Akira," I could never tell you how I feel, {v9:10}.{p}
+
+## MBMS03 g1 s0260
+JP: おお、{v3:11}{col:0}さん{col:-}来たか。{n}呼び出したりしてスマンかったの。{p}{end}
+EN: Ooh, {v3:11}{col:0}-san{col:-}, you came. Sorry for callin' you out.{p}{end}
+
+## MBMS03 g1 s0261
+JP: 岩、用ってなに?{p}{end}
+EN: Gan, what did you want?{p}{end}
+
+## MBMS03 g1 s0262
+JP: 実はのう、{n}おぬしを見込んで{n}頼みがあるんじゃが…{n}聞いてくれるか?{p}{end}
+EN: Well, y'see, I've got a favor to ask ya... Will ya hear me out?{p}{end}
+
+## MBMS03 g1 s0263
+JP: 私と岩の仲でしょ?{n}何でも言ってよ!{p}{end}
+EN: We're friends, right? Ask me anything!{p}{end}
+
+## MBMS03 g1 s0265
+JP: 相棒に?{n}一体どういうことなの?{p}{end}
+EN: Your partner? What do you mean?{p}{end}
+
+## MBMS03 g1 s0271
+JP: それに、{v3:11}{col:0}さん{col:-}といると{n}何でもできる気がするんじゃ。{p}
+EN: And with {v3:11}{col:0}-san{col:-} around, I feel like I can do anythin'.{p}
+
+## MBMS03 g1 s0272
+JP: 岩のお願いを断れるわけないでしょ?{n}よろこんで引き受けるわ。{p}{end}
+EN: How could I turn down a request from you, Gan? I'd be glad to.{p}{end}
+
+## MBMS03 g1 s0273
+JP: {v3:11}{col:0}さん{col:-}!{n}おぬしは本当にいいヤツじゃのう…。{n}ワシは最高に感動したぞい。{p}
+EN: {v3:11}{col:0}-san{col:-}! You really are a good one... I'm deeply moved.{p}
+
+## MBMS03 g1 s0282
+JP: いや、私は教師失格だよ…。{n}君に先生と呼ばれるような資格はないんだ。{p}{end}
+EN: No, I've failed as a teacher... I don't deserve to be called sensei by you.{p}{end}
+
+## MBMS03 g1 s0283
+JP: 英雄先生、一体どうしたんです?{p}
+EN: Hideo-sensei, what's wrong?{p}
+
+## MBMS03 g1 s0284
+JP: わ、わ、私は…お、教え子である君に…{n}こ、こここここ、恋心をいだいてしまった。{n}私には、教師と呼ばれる資格などない。{p}{end}
+EN: I-I-I... I've f-f-fallen in l-love with you, my own student. I don't deserve to be called a teacher.{p}{end}
+
+## MBMS03 g1 s0285
+JP: 英雄先生?{p}
+EN: Hideo-sensei?{p}
+
+## MBMS03 g1 s0286
+JP: な、なんだね?{p}
+EN: Wh-what is it?{p}
+
+## MBMS03 g1 s0287
+JP: 私も、英雄先生の事が好き。{n}だから、おあいこですよ{col:5}♥{col:-}{p}{end}
+EN: I love you too, Hideo-sensei. So we're even{col:5}♥{col:-}{p}{end}
+
+## MBMS03 g1 s0288
+JP: {v0}{col:0}君{col:-}…ありがとう。{n}な、な、何と言っていいのか…{n}その…う、うれしいよ。{p}{end}
+EN: {v0}{col:0}-kun{col:-}... thank you. I-I-I don't know what to say... I'm, um, h-happy.{p}{end}
+
+## MBMS03 g1 s0290
+JP: あら、{v1}{col:0}さん{col:-}。{n}今日も元気みたいね。{n}先生、うれしいわ。{p}{end}
+EN: Oh, {v1}{col:0}-san{col:-}. You look well today too. That makes me happy.{p}{end}
+
+## MBMS03 g1 s0291
+JP: 私が元気なのは、{n}響子先生の顔が見れたからですよ。{p}
+EN: I'm well because I got to see your face, Kyoko-sensei.{p}
+
+## MBMS03 g1 s0299
+JP: 響子先生ずるい、{n}それって、答えになってないよ。{p}{end}
+EN: That's not fair, Kyoko-sensei. That's not an answer.{p}{end}
+
+## MBMS03 g1 s0301
+JP: じゃあ、先生が質問する番ね。{n}{v1}{col:0}さん{col:-}には、{n}好きな人はいるのかしら?{p}{end}
+EN: Then it's my turn to ask. {v1}{col:0}-san{col:-}, is there someone you like?{p}{end}
+
+## MBMS03 g1 s0304
+JP: 鑑クン?それとも三浦クンかしら?{n}マニアックなところで、ボーマンクン{n}というのもありね。{p}{end}
+EN: Kagami-kun? Or maybe Miura-kun? For a more niche pick, Boman-kun is possible too.{p}{end}
+
+## MBMS03 g1 s0305
+JP: ち、ちがいますっ、やめてください。{n}私が好きなのは…{n}響子先生なんですから!{p}{end}
+EN: N-no, it's not like that, please stop. The one I like is... you, Kyoko-sensei!{p}{end}
+
+## MBMS03 g1 s0306
+JP: …や、やだわ、もう、{n}{v1}{col:0}さん{col:-}ったら。{n}あんまり、からかわないでちょうだい。{n}先生、びっくりしちゃったわ。{p}{end}
+EN: ...G-goodness, {v1}{col:0}-san{col:-}, really. Please don't tease me so much. You surprised me.{p}{end}
+
+## MBMS03 g1 s0307
+JP: 冗談なんかじゃないです。{n}私、本気ですよ。{p}
+EN: I'm not joking. I'm serious.{p}
+
+## MBMS03 g1 s0308
+JP: わ、私なんて、もうオバサンよ?{n}それでも{v1}{col:0}さん{col:-}はいいのかしら?{p}
+EN: B-but I'm already a middle-aged woman, you know? Is that still okay with you, {v1}{col:0}-san{col:-}?{p}
+
+## MBMS03 g1 s0309
+JP: はい。{n}私は、みんなに優しくて温かい響子先生が{n}好きなんです。{p}
+EN: Yes. I love you, Kyoko-sensei, because you're kind and warm to everyone.{p}
+
+## MBMS03 g1 s0310
+JP: ありがとう、{v1}{col:0}さん{col:-}。{n}先生、とってもうれしいわ。{p}{end}
+EN: Thank you, {v1}{col:0}-san{col:-}. That makes me very happy.{p}{end}
+
+## MBMS03 g1 s0311
+JP: でも、恋人同士になるのは、{n}{v1}{col:0}さん{col:-}が卒業する日まで、{n}おあずけになっちゃうわね。{p}{end}
+EN: But being sweethearts will have to wait until the day you graduate, {v1}{col:0}-san{col:-}.{p}{end}
+
+## MBMS03 g1 s0314
+JP: あ、学園長。{n}私に何か?{p}{end}
+EN: Ah, Principal. Do you need me?{p}{end}
+
+## MBMS03 g1 s0316
+JP: （うーん、私、何か悪い事したっけ?{n}{sp}遅刻はしょっちゅうだけど…。{n}{sp}まさか、退学とかいわれるんじゃ…。）{p}
+EN: (Hmm, did I do something bad? I'm always late, but... Don't tell me he's going to expel me...){p}
+
+## MBMS03 g1 s0324
+JP: わしのもとで忌野家伝来の教育を受け、{n}さらに君の能力を伸ばし、いずれは私の{n}後継者となってはくれんかね?{p}{end}
+EN: Will you receive the Imawano family's ancestral education under me, develop your abilities further, and one day become my successor?{p}{end}
+
+## MBMS03 g1 s0325
+JP: 学園長、それほどまでに私のことを…{p}
+EN: Principal, you think that highly of me...{p}
+
+## MBMS03 g1 s0328
+JP: わしらは今日より、親子…そして家族だ。{n}{v1}、我が娘よ、{n}期待しているぞ!{p}{end}
+EN: From today, we are father and daughter... a family. {v1}, my daughter, I have high hopes for you!{p}{end}
+
+## MBMS03 g1 s0330
+JP: 雹、やっぱりここにいたんだね。{p}
+EN: Hyo, so you were here after all.{p}
+
+## MBMS03 g1 s0332
+JP: なんとなく。{n}きっと、ここなら雹に会えるだろうと{n}思ったの。{p}{end}
+EN: Just a feeling. I thought I'd surely find you here, Hyo.{p}{end}
+
+## MBMS03 g1 s0336
+JP: 雹…自分が何を言っているのか{n}わかってるの!?{p}
+EN: Hyo... do you understand what you're saying!?{p}
+
+## MBMS03 g1 s0342
+JP: 雹…、大丈夫。{n}私がずっと側にいてあげる、{n}もう独りじゃないよ。{p}{end}
+EN: Hyo... It's all right. I'll always be by your side. You're not alone anymore.{p}{end}
+
+## MBMS03 g1 s0356
+JP: 私、世界中の誰よりも隼人先生が{n}好きなのーー!!{p}{end}
+EN: I love you, Hayato-sensei, more than anyone in the whole world!!{p}{end}
+
+## MBMS03 g1 s0362
+JP: せ、先生、私…{p}
+EN: S-sensei, I...{p}
+
+## MBMS03 g1 s0367
+JP: 醍醐先輩。{n}もしかして、私を探してたんですか?{p}
+EN: Daigo-senpai. Were you looking for me?{p}
+
+## MBMS03 g1 s0373
+JP: で、でも…{n}私に総番長なんて、{n}無理に決まってますよ。{n}醍醐先輩みたいにケンカ強くないし…。{p}{end}
+EN: B-but... there's no way I could be the top boss. I'm not as strong a fighter as you, Daigo-senpai...{p}{end}
+
+## MBMS03 g1 s0377
+JP: 俺はこの1年間、お前を観察し続けてきた。{n}お前は、多くの仲間達の信頼を受け、{n}そして仁義を貫けるヤツだ。{p}{end}
+EN: I've watched you all year. You have the trust of many friends, and you're someone who keeps a code of honor.{p}{end}
+
+## MBMS03 g1 s0379
+JP: 醍醐先輩、わかりました!{n}私、できる限りやってみます!{p}
+EN: Daigo-senpai, I understand! I'll do the best I can!{p}
+
+## MBMS03 g1 s0381
+JP: 俺の卒業までもう時間がない。{n}それまでに、真の総番長にふさわしい{n}ヤツになってもらうからな!{p}{end}
+EN: There's not much time left until I graduate. By then, I'll make you worthy of being the true top boss!{p}{end}
+
+## MBMS03 g1 s0382
+JP: さーて、終業式も終わったし、{n}そろそろ帰ろうかな。{p}
+EN: Well now, the closing ceremony's over. Guess I'll head home soon.{p}
+
+## MBMS03 g1 s0384
+JP: 隼人先生、一体どうしたんですか?{n}私、もう帰りたいんですけど。{p}
+EN: Hayato-sensei, what's going on? I'd like to go home now.{p}
+
+## MBMS03 g1 s0390
+JP: そ、そんなぁ…{n}わ、私の春休みがー!{p}{end}
+EN: N-no way... M-my spring break!{p}{end}
+

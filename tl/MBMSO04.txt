@@ -1,0 +1,1140 @@
+## MBMSO04 g0 s0000
+JP: こんにちは。{n}あなたが、{n}{v0}{sp}{v1}{col:0}君{col:-}ね。{n}{v4}へようこそ。{p}
+EN: Hello. So you must be {v1} {v0}{col:0}-kun{col:-}. Welcome to {v4}.{p}
+
+## MBMSO04 g0 s0001
+JP: 私は保健の『水無月{sp}響子』です。{n}わからない事があったら{n}なんでも、私に聞いてね。{p}
+EN: I'm the school nurse, Kyoko Minazuki. If there's anything you don't understand, just ask me.{p}
+
+## MBMSO04 g0 s0002
+JP: まず、このゲームの目的から説明します。{n}よく聞いて。{p}{end}
+EN: First, let me explain the goal of this game. Listen closely.{p}{end}
+
+## MBMSO04 g0 s0003
+JP: このゲームの目的は、{n}1年間の学生生活を通して、{n}自分だけの{col:0}オリジナルキャラクター{col:-}{n}（EDITキャラクター）を作ることです。{p}{end}
+EN: The goal of this game is to spend a year of school life and create your very own {col:0}original character{col:-} (an EDIT character).{p}{end}
+
+## MBMSO04 g0 s0004
+JP: ここで、作成したキャラクターは、{n}{col:0}『EDITキャラクターの登録』{col:-}{n}で登録すると、エボリューションDISCの{n}各モードで使用できるようになります。{p}{end}
+EN: Once you register the character you make here with {col:0}"Register EDIT Character"{col:-}, you can use it in every mode of the Evolution Disc.{p}{end}
+
+## MBMSO04 g0 s0005
+JP: {col:0}『EDITキャラクターの登録』{col:-}は、{n}このゲームの途中のデータでも、{n}登録できます。{n}最後まで、クリアする必要はないわ。{p}
+EN: You can use {col:0}"Register EDIT Character"{col:-} even with data from partway through. You don't have to finish the game.{p}
+
+## MBMSO04 g0 s0006
+JP: もちろん、一年間の学生生活を通して{n}自分自身を成長させていけば、{n}より強いキャラクターを{n}作ることができるわ。{p}
+EN: Of course, the more you grow over your year of school life, the stronger the character you can make.{p}
+
+## MBMSO04 g0 s0007
+JP: 成長させる方法は大きく二つあります。{n}一つは{col:0}クラブ{col:-}。{n}もう一つは{col:0}自主トレ{col:-}ね。{p}{end}
+EN: There are two main ways to grow. One is your {col:0}club{col:-}. The other is {col:0}training{col:-}.{p}{end}
+
+## MBMSO04 g0 s0008
+JP: クラブは所属しているだけで、{n}全体的にパラメータが上がっていきます。{n}ただし、あんまり大きくは上がらないわ。{p}{end}
+EN: Just being in a club raises your stats across the board. But they won't go up very much.{p}{end}
+
+## MBMSO04 g0 s0009
+JP: 自主トレは毎月1日に{n}行うことができます。{n}クラブと比べると{n}上がるパラメータの種類は少ないけど、{p}
+EN: You can train on the 1st of every month. Compared to clubs, it raises fewer kinds of stats, but...{p}
+
+## MBMSO04 g0 s0010
+JP: その分、大きく成長させることができるの。{n}上手く使い分けて、{n}バランスよく成長させる事ね。{p}
+EN: ...it lets you grow a lot more in those. Use both well and grow in a balanced way.{p}
+
+## MBMSO04 g0 s0011
+JP: もう一つ、体育祭や学園祭といった{n}{col:0}学校行事{col:-}でも、あなたの行動次第で、{n}パラメータをあげることができます。{p}{end}
+EN: One more thing: at {col:0}school events{col:-} like the sports and school festivals, you can also raise your stats depending on what you do.{p}{end}
+
+## MBMSO04 g0 s0012
+JP: 期間は{col:0}1年間{col:-}。{n}入学して、2年生に進級するまでね。{p}
+EN: You have {col:0}one year{col:-}. From enrollment until you move up to second year.{p}
+
+## MBMSO04 g0 s0013
+JP: 何か質問があるかしら?{p}
+EN: Do you have any questions?{p}
+
+## MBMSO04 g0 s0014
+JP: 操作法について{n}ゲームの流れについて{n}一年の行事について{n}特になし{p}
+EN: About controls{n}About how the game flows{n}About the year's events{n}No questions{p}
+
+## MBMSO04 g0 s0015
+JP: 他に質問は?{p}{end}
+EN: Any other questions?{p}{end}
+
+## MBMSO04 g0 s0016
+JP: では、{n}一応無試験ってワケにはいかないから、{n}入学試験を受けてもらいます。{n}基本的な操作の試験だから、簡単よ。{p}
+EN: Well, we can't just let you in without an exam, so you'll take the entrance exam. It only tests basic controls, so it's easy.{p}
+
+## MBMSO04 g0 s0017
+JP: では、入学式に学校で会いましょう。{n}頑張ってね、期待してるわ。{p}
+EN: Then I'll see you at school for the entrance ceremony. Good luck, I'm counting on you.{p}
+
+## MBMSO04 g0 s0018
+JP: {col:0}基本の操作方法{col:-}について説明します。{p}
+EN: I'll explain the {col:0}basic controls{col:-}.{p}
+
+## MBMSO04 g0 s0019
+JP: 操作方法は基本的に、{n}方向キーでアイコン・選択肢の選択{n}{col:8}{CIRCLE}{col:-}・{col:8}{SQUARE}{col:-}・{col:9}{TRIANGLE}{col:-}・{col:10}{L1}{col:-}ボタンで決定{n}{col:9}{CROSS}{col:-}・{col:10}{L2}{col:-}ボタンでキャンセルです。{p}
+EN: Basically, use the D-pad to pick icons and choices, {col:8}{CIRCLE}{col:-} {col:8}{SQUARE}{col:-} {col:9}{TRIANGLE}{col:-} {col:10}{L1}{col:-} to confirm, and {col:9}{CROSS}{col:-} {col:10}{L2}{col:-} to cancel.{p}
+
+## MBMSO04 g0 s0020
+JP: メッセージをすすめるのも、{n}{col:8}{CIRCLE}{col:-}・{col:8}{SQUARE}{col:-}・{col:9}{TRIANGLE}{col:-}・{col:10}{L1}{col:-}ボタンです。{n}あと、{col:9}{TRIANGLE}{col:-}ボタンで、次の選択肢まで{n}メッセージをとばすことができます。{p}{end}
+EN: To advance messages, also use {col:8}{CIRCLE}{col:-} {col:8}{SQUARE}{col:-} {col:9}{TRIANGLE}{col:-} {col:10}{L1}{col:-}. The {col:9}{TRIANGLE}{col:-} button also skips messages up to the next choice.{p}{end}
+
+## MBMSO04 g0 s0021
+JP: ミニゲームの操作法は、そのゲームの{n}{col:0}『操作説明』{col:-}を参考にしてね。{p}{end}
+EN: For minigame controls, see that game's {col:0}"Controls"{col:-} screen.{p}{end}
+
+## MBMSO04 g0 s0022
+JP: {col:0}ゲームの流れ{col:-}について説明します。{p}{end}
+EN: I'll explain {col:0}how the game flows{col:-}.{p}{end}
+
+## MBMSO04 g0 s0023
+JP: 毎月1日に自主トレをすることができます。{n}{col:0}『自主トレ』{col:-}アイコンが表示されるので、{n}そのアイコンを選択して、自主トレの種類を{n}選んで下さい。自主トレを実行します。{p}{end}
+EN: You can train on the 1st of every month. Select the {col:0}"Training"{col:-} icon when it appears, then choose a kind of training to do it.{p}{end}
+
+## MBMSO04 g0 s0024
+JP: 自主トレは、毎月選ばなくても{n}{col:0}『進める』{col:-}を選択すれば、{n}前の月におこなった自主トレを{n}自動的に実行します。{p}
+EN: You don't have to choose training every month. If you select {col:0}"Advance"{col:-}, you'll automatically repeat last month's training.{p}
+
+## MBMSO04 g0 s0025
+JP: ただし、同じ自主トレばかり、{n}連続でおこなうと、{n}ちょっとケガをすることがあるので、{n}気をつけて。{p}
+EN: But if you keep doing the same training over and over, you may get a little hurt, so be careful.{p}
+
+## MBMSO04 g0 s0026
+JP: 適度に他の自主トレを{n}おこなうことも必要よ。{p}{end}
+EN: It's important to mix in other kinds of training too.{p}{end}
+
+## MBMSO04 g0 s0027
+JP: 毎月{col:0}第3水曜日{col:-}には、{n}校内のいろいろなトコロを{n}移動できます。{p}
+EN: On the {col:0}3rd Wednesday{col:-} of every month, you can move around to various places at school.{p}
+
+## MBMSO04 g0 s0028
+JP: 移動できる場所は、{col:0}教室{col:-}、{col:0}グラウンド{col:-}、{n}{col:0}屋上{col:-}、{col:0}体育館{col:-}、{col:0}保健室{col:-}の5カ所です。{n}あ、月によっては、{n}移動できない場所もあるから注意してね。{p}{end}
+EN: There are 5 places: the {col:0}Classroom{col:-}, {col:0}Field{col:-}, {col:0}Roof{col:-}, {col:0}Gym{col:-} and {col:0}Infirmary{col:-}. Some months, you can't go to some of them.{p}{end}
+
+## MBMSO04 g0 s0029
+JP: 移動した場所によって、{n}誰かに会えると思うわ。{n}保健室に来てくれれば、私にも会えるわよ。{n}いつもいるワケじゃないけどね。{p}{end}
+EN: Depending on where you go, you'll probably meet someone. Come to the infirmary and you can see me. I'm not always there, though.{p}{end}
+
+## MBMSO04 g0 s0030
+JP: あと、月によっては学校行事があります。{n}その内容については、{n}{col:0}『一年の行事について』{col:-}で説明します。{p}
+EN: Also, some months have school events. I'll explain those in {col:0}"About the year's events"{col:-}.{p}
+
+## MBMSO04 g0 s0031
+JP: それと、クラブ活動だけど、{n}クラブに入っていれば、{n}毎日参加することになります。{n}特に何かをする必要はないわ。{p}
+EN: As for club activities, if you're in a club, you take part every day. You don't have to do anything special.{p}
+
+## MBMSO04 g0 s0032
+JP: 毎月、{col:0}『自主トレ』{col:-}と{col:0}『移動イベント』{col:-}前に{n}クラブ活動の成果が表示されるから、{n}それをみれば、どの程度成長したか、{n}わかると思うわ。{p}
+EN: Every month, your club results are shown before {col:0}"Training"{col:-} and {col:0}"Move events"{col:-}, so you can see how much you've grown.{p}
+
+## MBMSO04 g0 s0033
+JP: {col:0}一年の行事{col:-}について説明します。{p}
+EN: I'll explain {col:0}the year's events{col:-}.{p}
+
+## MBMSO04 g0 s0034
+JP: 一年間の主な行事は、4月には{col:0}入学式{col:-}、{n}6月には{col:0}太P戦{col:-}があります。{p}{end}
+EN: The main events are the {col:0}Entrance Ceremony{col:-} in April and the {col:0}Taiyo-Pacific Match{col:-} in June.{p}{end}
+
+## MBMSO04 g0 s0035
+JP: {col:0}太P戦{col:-}は、本来は太陽学園と{n}パシフィックハイスクールの対抗戦だけど、{n}今年から飛び入り参加が可能になったので{n}どの高校からでも参加可能よ。{p}
+EN: The {col:0}Taiyo-Pacific Match{col:-} used to be just Taiyo vs. Pacific High, but from this year anyone can join in, from any school.{p}
+
+## MBMSO04 g0 s0036
+JP: あと8月には{col:0}臨海合宿{col:-}、{n}9月には{col:0}学園祭{col:-}があります。{n}11月には{col:0}五輪祭{col:-}、いわゆる体育祭ね。{n}これも五輪高校以外の生徒も参加可能よ。{p}{end}
+EN: Then the {col:0}Seaside Camp{col:-} in August, the {col:0}School Festival{col:-} in September, and the {col:0}Gorin Festival{col:-} sports meet in November. Any school can join.{p}{end}
+
+## MBMSO04 g0 s0037
+JP: 大きなイベントとしてはこんなトコロね。{n}あと、{col:0}中間試験{col:-}や{col:0}期末試験{col:-}など、{n}定期試験も、もちろん受けてもらいます。{p}
+EN: Those are the big events. You'll of course also take regular exams, like {col:0}midterms{col:-} and {col:0}finals{col:-}.{p}
+
+## MBMSO04 g0 s0038
+JP: 試験の担当は隼人先生になると思うけど、{n}彼の指示通りに行動すれば、{n}合格できるはずよ。{p}
+EN: Hayato-sensei will probably run the exams. If you do as he says, you should pass.{p}
+
+## MBMSO04 g0 s0039
+JP: 大丈夫、試験は一発勝負だけど、{n}普段のメニュー画面の{col:0}『課外活動』{col:-}を{n}選択すれば、いつでも練習できるわ。{p}
+EN: Don't worry. Each exam is one shot, but you can practice any time by choosing {col:0}"Activities"{col:-} on the menu.{p}
+
+## MBMSO04 g0 s0040
+JP: {col:0}太P戦{col:-}、{col:0}五輪祭{col:-}では、{n}サッカーや野球のミニゲームで{n}勝負する事になるわね。{p}
+EN: At the {col:0}Taiyo-Pacific Match{col:-} and the {col:0}Gorin Festival{col:-}, you'll compete in soccer and baseball minigames.{p}
+
+## MBMSO04 g0 s0041
+JP: これも{col:0}『課外活動』{col:-}で練習できるから、{n}ヒマな時にやっておいてもいいかもね。{p}
+EN: You can practice those in {col:0}"Activities"{col:-} too, so try them when you have free time.{p}
+
+## MBMSO04 g0 s0042
+JP: これらのミニゲームで活躍できれば、{n}当然パラメータも多くアップするわ。{n}頑張って。{p}
+EN: If you do well in these minigames, your stats will go up a lot, of course. Good luck.{p}
+
+## MBMSO04 g0 s0043
+JP: おっ!来たな新入生!{p}{end}
+EN: Oh! Here's the new student!{p}{end}
+
+## MBMSO04 g0 s0044
+JP: 誰だ、この人は?{p}{end}
+EN: Who's this guy?{p}{end}
+
+## MBMSO04 g0 s0045
+JP: 俺か?俺は体育教師だが人はこう呼ぶ{n}『燃える赤ジャージの熱血隼人』ってね!{n}よーく覚えておくんだな!{p}{end}
+EN: Me? I'm the gym teacher, but people call me "Burning Red Tracksuit Hayato Nekketsu"! You'd better remember it!{p}{end}
+
+## MBMSO04 g0 s0046
+JP: 俺がこれから入学試験をしてやる!{p}{end}
+EN: I'm gonna give you your entrance exam!{p}{end}
+
+## MBMSO04 g0 s0047
+JP: 入学試験って?{p}
+EN: Entrance exam?{p}
+
+## MBMSO04 g0 s0048
+JP: やり方は簡単だ。{n}俺の出す指示にしたがって{n}その通りに動くだけだ!{p}
+EN: It's simple. Just follow my orders and move exactly how I say!{p}
+
+## MBMSO04 g0 s0049
+JP: 例えば、{n}「弱パンチ」と俺が言えば{n}弱パンチを出せばいい。{n}なっ!簡単だろ!{p}{end}
+EN: For example, if I say "Light Punch", you throw a light punch. See! Easy, right!{p}{end}
+
+## MBMSO04 g0 s0050
+JP: しかし、出すまでの時間が遅い時や{n}間違った行動をすれば減点対象になるから{n}気を付けろ!{p}
+EN: But if you're too slow or do the wrong thing, you lose points, so watch out!{p}
+
+## MBMSO04 g0 s0051
+JP: 一つの試験に対して五科目のテストがあり{n}その五科目の総合成績で{n}S（良い）～E（悪い）{n}までの評価を判断し、合否が決定される。{p}
+EN: Each exam has five tests. Your total score over those five is graded from S (good) to E (bad), and that decides if you pass.{p}
+
+## MBMSO04 g0 s0052
+JP: このS～Eまでの総合成績がくせもので、{n}成績によってEDITキャラクターの{n}パラメータの成長に大きく関わってくるから{n}決して手を抜くなよ!{p}
+EN: That S-to-E grade is the tricky part. It has a big effect on how your EDIT character's stats grow, so don't you dare slack off!{p}
+
+## MBMSO04 g0 s0053
+JP: じゃあ試験を始めるぞ!{p}
+EN: Okay, the exam starts now!{p}
+
+## MBMSO04 g0 s0054
+JP: ふふふっ、いいぜえ!{n}教えがいのある奴が入ってきたもんだぜ!{n}次の試験も楽しみにしてるぜ!{n}あばよ!{p}{end}
+EN: Heh heh, not bad! Looks like I got a student worth teaching! I'm looking forward to the next exam! See ya!{p}{end}
+
+## MBMSO04 g0 s0055
+JP: ……うん!{n}高校生活も{n}何とかやっていけそうな感じがするぞ。{n}がんばるぞ!{p}
+EN: ...Yeah! I think I can handle high school life somehow. I'll do my best!{p}
+
+## MBMSO04 g0 s0056
+JP: なんだあ、そのざまは?{n}一生は長えが青春は短いんだぜ!{n}まあ、入学は認めてやるが次の試験では結果{n}を出せよ!じゃあな!{p}
+EN: What's with that pathetic showing? Life is long, but youth is short! Fine, I'll let you in, but you'd better get results next exam! Later!{p}
+
+## MBMSO04 g0 s0057
+JP: はあ……。{n}少し心配になってきたなあ……。{n}でも、まだまだ先は長いんだ!{n}頑張るぞ!{p}{end}
+EN: Sigh... I'm starting to get a little worried... But there's still a long way to go! I'll do my best!{p}{end}
+
+## MBMSO04 g0 s0058
+JP: 今日は待ちに待った{n}五輪高校の入学式の日だ!{p}{end}
+EN: Today's the day I've been waiting for: the Gorin High entrance ceremony!{p}{end}
+
+## MBMSO04 g0 s0059
+JP: あの超名門スポーツ校に入れるなんて、{n}まるで夢のようだぜ。{p}
+EN: I can't believe I got into that elite sports school. It's like a dream.{p}
+
+## MBMSO04 g0 s0060
+JP: まだ学校に行くには早すぎる時間だからな。{n}すこし遠回りしていく事にしよう。{p}
+EN: It's still way too early to go to school. I'll take the long way.{p}
+
+## MBMSO04 g0 s0061
+JP: やっぱり早朝のランニングは最高だな。{n}空気もうまいし、言う事なしだ。{p}{end}
+EN: Running in the early morning really is the best. The air is great, nothing to complain about.{p}{end}
+
+## MBMSO04 g0 s0062
+JP: あぶねぇ!!{p}{end}
+EN: Look out!!{p}{end}
+
+## MBMSO04 g0 s0063
+JP: え!?{p}
+EN: Huh!?{p}
+
+## MBMSO04 g0 s0064
+JP: 剛速球がうなりをあげて向かってくる!!{p}
+EN: A fastball comes roaring right at me!!{p}
+
+## MBMSO04 g0 s0065
+JP: 俺は地面に転がっていた棒切れを拾うと{n}飛んできたボールを反射的に打ち返す…。{p}{end}
+EN: I grab a stick lying on the ground and hit the ball back on reflex...{p}{end}
+
+## MBMSO04 g0 s0066
+JP: おーい?{n}生きてるか!?{p}{end}
+EN: Heeey? You alive!?{p}{end}
+
+## MBMSO04 g0 s0067
+JP: う…いてててて。だ、誰だ?{n}『硬球』なんかぶつけやがったのは!?{p}{end}
+EN: Ow... ow ow ow. Wh-who threw a hardball at me!?{p}{end}
+
+## MBMSO04 g0 s0068
+JP: わ、わりいな。{n}ピッチングの練習をしてたんだが{n}汗でボールがすべっちまって…。{p}
+EN: S-sorry. I was practicing my pitching, but the ball slipped 'cause of my sweat...{p}
+
+## MBMSO04 g0 s0069
+JP: 汗ですべった?{n}ただノーコンなだけじゃないのか?{p}{end}
+EN: Slipped on sweat? Isn't your control just bad?{p}{end}
+
+## MBMSO04 g0 s0070
+JP: な、なんだとおおおお!?{n}オイラが本当にノーコンかどうか{n}見せてやる!{p}
+EN: Wh-whaaaat!? I'll show you whether I've got bad control!{p}
+
+## MBMSO04 g0 s0071
+JP: とっととそのミットを構えやがれ!{p}{end}
+EN: Hurry up and get that mitt ready!{p}{end}
+
+## MBMSO04 g0 s0072
+JP: まったく、お前の練習に{n}つきあわされたせいで{n}時間ギリギリだぜ。{p}{end}
+EN: Geez, thanks to your practice, we're almost late.{p}{end}
+
+## MBMSO04 g0 s0073
+JP: 男がいつまでもウダウダ言うなよな。{n}間に合ったんだからいいじゃねえか。{p}
+EN: A man shouldn't keep whining. We made it, didn't we?{p}
+
+## MBMSO04 g0 s0074
+JP: ずいぶん遅い登校だな、将馬。{n}入学式はもうすぐ始まるぜ。{p}{end}
+EN: Showing up pretty late, Shoma. The ceremony's about to start.{p}{end}
+
+## MBMSO04 g0 s0075
+JP: まったく、入学早々こんな調子じゃ{n}先が思いやられるわね。{p}{end}
+EN: Geez, if you're like this on day one, I worry about the rest of the year.{p}{end}
+
+## MBMSO04 g0 s0076
+JP: 今日はこいつと特訓をしてたんだ。{n}レギュラーになるには{n}これくらいしないとな。{p}
+EN: I was doing special training with this guy today. That's what it takes to make the starting lineup.{p}
+
+## MBMSO04 g0 s0077
+JP: やる気満々だな。{n}俺は『ロベルト・三浦』だ。よろしく。{n}君の名前は?{p}{end}
+EN: You're really fired up. I'm Roberto Miura. Nice to meet you. What's your name?{p}{end}
+
+## MBMSO04 g0 s0078
+JP: 俺は{v0}{sp}{v1}。{p}{end}
+EN: I'm {v1} {v0}.{p}{end}
+
+## MBMSO04 g0 s0079
+JP: {v0}、今日は助かったぜ。{n}オイラは『沢村{sp}将馬』だ。{n}また特訓するときはよろしくな。{p}
+EN: {v0}, you really helped me out today. I'm Shoma Sawamura. Let's train together again sometime.{p}
+
+## MBMSO04 g0 s0080
+JP: あたしは『鮎原{sp}夏』。{n}将馬とは幼馴染よ。{n}ノーコン将馬と練習だなんて{n}{v0}{col:0}クン{col:-}も命知らずだね。{p}
+EN: I'm Natsu Ayuhara. Shoma and I are childhood friends. Practicing with No-Control Shoma? {v0}{col:0}-kun{col:-}, you must have a death wish.{p}
+
+## MBMSO04 g0 s0081
+JP: だから、ノーコンって言うなあ!!{p}{end}
+EN: I said stop calling me No-Control!!{p}{end}
+
+## MBMSO04 g0 s0082
+JP: キーンコーンカーンコーン{p}{end}
+EN: *Ding dong ding dong*{p}{end}
+
+## MBMSO04 g0 s0083
+JP: おい、入学式が始まるぜ。{p}{end}
+EN: Hey, the entrance ceremony's starting.{p}{end}
+
+## MBMSO04 g0 s0084
+JP: じゃあ、またな!{p}{end}
+EN: See you later!{p}{end}
+
+## MBMSO04 g0 s0085
+JP: わしが校長の『忌野{sp}雷蔵』だ。{n}まずは、入学おめでとう。{n}諸君らは…{p}{end}
+EN: I am the principal, Raizo Imawano. First of all, congratulations on your enrollment. You all...{p}{end}
+
+## MBMSO04 g0 s0086
+JP: …ハァ、どこもそうだとは思うけど、{n}校長の話って長いよなぁ。{p}{end}
+EN: ...Sigh. I guess it's like this everywhere, but principals' speeches sure are long.{p}{end}
+
+## MBMSO04 g0 s0087
+JP: 雷蔵の話は1時間にもおよび、{n}途中、数人の生徒が貧血で倒れたらしい…。{p}
+EN: Raizo's speech went on for an hour. Apparently a few students fainted partway through...{p}
+
+## MBMSO04 g0 s0088
+JP: 私が今日から君達の担任となる{n}『島津{sp}英雄』だ。よろしく。{p}
+EN: From today, I'll be your homeroom teacher. I'm Hideo Shimazu. Nice to meet you.{p}
+
+## MBMSO04 g0 s0089
+JP: 早速だが、これから全員に自己紹介を{n}してもらおうと思う。{p}{end}
+EN: Let's get right to it. I'd like everyone to introduce themselves.{p}{end}
+
+## MBMSO04 g0 s0090
+JP: それじゃ端の席から順番に始めてくれ。{p}{end}
+EN: Start from the seat at the end and go in order.{p}{end}
+
+## MBMSO04 g0 s0091
+JP: はーい!私、『若葉{sp}ひなた』!{p}
+EN: Okaaay! I'm Hinata Wakaba!{p}
+
+## MBMSO04 g0 s0092
+JP: 特技は運動全般とカラオケ。{n}部活は無所属だけど、いろんなクラブの{n}助っ人とかやってるよ。{p}{end}
+EN: I'm good at all kinds of sports and karaoke. I'm not in a club, but I help out a bunch of different clubs.{p}{end}
+
+## MBMSO04 g0 s0093
+JP: これから1年間よろしくね!{p}
+EN: Let's have a great year together!{p}
+
+## MBMSO04 g0 s0094
+JP: 『一文字{sp}バツ』だ。{p}{end}
+EN: Batsu Ichimonji.{p}{end}
+
+## MBMSO04 g0 s0095
+JP: 部活にはまだ入ってねぇ。{n}これからよろしくな。{p}
+EN: Haven't joined a club yet. Nice to meet ya.{p}
+
+## MBMSO04 g0 s0096
+JP: 僕は『鑑{sp}恭介』。{p}
+EN: I'm Kyosuke Kagami.{p}
+
+## MBMSO04 g0 s0097
+JP: 部活には入っていないけど{n}風紀委員をしている。{p}
+EN: I'm not in a club, but I'm on the disciplinary committee.{p}
+
+## MBMSO04 g0 s0098
+JP: 趣味はチェスと将棋、{n}特技は書道に生け花だ。{n}1年間よろしく。{p}
+EN: My hobbies are chess and shogi, and I'm skilled at calligraphy and flower arranging. I look forward to this year.{p}
+
+## MBMSO04 g0 s0099
+JP: …今度は俺の自己紹介の番だ。{p}{end}
+EN: ...Now it's my turn to introduce myself.{p}{end}
+
+## MBMSO04 g0 s0100
+JP: 一発、明るく!{n}ここは無難に…{n}知性を光らせてみる{p}
+EN: Go big and cheerful!{n}Play it safe...{n}Show off my brains{p}
+
+## MBMSO04 g0 s0101
+JP: 俺の名前は{v0}{sp}{v1}だ!{n}とにかく、これから1年間よろしく頼むぜ!{p}
+EN: My name's {v1} {v0}! Anyway, let's have a great year!{p}
+
+## MBMSO04 g0 s0102
+JP: よろしくね!{p}{end}
+EN: Nice to meet you!{p}{end}
+
+## MBMSO04 g0 s0103
+JP: {v0}{sp}{v1}です。{n}えーと、趣味も特技も特にありません。{n}よろしくお願いします。{p}
+EN: I'm {v1} {v0}. Um, I don't really have any hobbies or skills. Nice to meet you all.{p}
+
+## MBMSO04 g0 s0104
+JP: 俺は{v0}{sp}{v1}。{n}趣味は読書かな。{p}
+EN: I'm {v1} {v0}. My hobby is reading, I guess.{p}
+
+## MBMSO04 g0 s0105
+JP: 最近の作品もくまなくチェックしてるから、{n}本に興味のある人は、何でも聞いてくれ。{p}{end}
+EN: I keep up with all the latest books, so if you're into books, ask me anything.{p}{end}
+
+## MBMSO04 g0 s0106
+JP: へぇ…。{p}{end}
+EN: Huh...{p}{end}
+
+## MBMSO04 g0 s0107
+JP: 全員の自己紹介は終わったな?{n}それじゃ、これでホームルームを終わる。{p}{end}
+EN: Everyone's done introducing themselves? Then that's it for homeroom.{p}{end}
+
+## MBMSO04 g0 s0108
+JP: どこのクラブに入るか{n}まだ決めていない者は、{n}いろいろクラブを回ってみると{n}参考になると思うぞ。{p}{end}
+EN: If you haven't decided on a club yet, try visiting a few. It should help.{p}{end}
+
+## MBMSO04 g0 s0109
+JP: 起立!礼!{p}
+EN: Stand! Bow!{p}
+
+## MBMSO04 g0 s0110
+JP: ワイワイ、ガヤガヤ{p}
+EN: *chatter chatter*{p}
+
+## MBMSO04 g0 s0111
+JP: 廊下では、早くもクラブの勧誘が{n}始まっているみたいだ。{p}
+EN: Looks like the clubs are already recruiting in the hallway.{p}
+
+## MBMSO04 g0 s0112
+JP: やっぱり、クラブに入らないと{n}高校生活は始まらないよな。{p}{end}
+EN: Yeah, high school life doesn't start until you join a club.{p}{end}
+
+## MBMSO04 g0 s0113
+JP: よお、{v0}。{n}お前もうクラブは決めたか?{n}まだなら野球部に入ろうぜ!{p}
+EN: Hey, {v0}. Picked a club yet? If not, join the baseball team!{p}
+
+## MBMSO04 g0 s0114
+JP: こいつと同じ部に入るのは{n}やめたほうがいいと思うよ。{n}バカがうつっちゃうから。{p}
+EN: I wouldn't join the same club as this guy. His stupidity is contagious.{p}
+
+## MBMSO04 g0 s0115
+JP: それよりも、バレーボールをしない?{n}歓迎するわよ。{p}
+EN: How about playing volleyball instead? You'd be welcome.{p}
+
+## MBMSO04 g0 s0116
+JP: ば、馬鹿だとお!?{p}
+EN: S-stupid!?{p}
+
+## MBMSO04 g0 s0117
+JP: また始まったか…。{n}お前ら、入学早々ケンカはやめとけよ。{p}{end}
+EN: Here they go again... You two, quit fighting on the first day.{p}{end}
+
+## MBMSO04 g0 s0118
+JP: まあ、気が向いたらサッカー部を{n}見学しに来てくれ、じゃあな。{p}{end}
+EN: Well, if you feel like it, come check out the soccer team. See you.{p}{end}
+
+## MBMSO04 g0 s0119
+JP: どのクラブに入ろうか?{p}
+EN: Which club should I join?{p}
+
+## MBMSO04 g0 s0120
+JP: 野球部{sp}{sp}{sp}{sp}{sp}{sp}{sp}吹奏楽部{n}サッカー部{sp}{sp}{sp}{sp}{sp}演劇部{n}バレーボール部{sp}{sp}{sp}帰宅部{n}美術部{p}{end}
+EN: Baseball            Brass Band{n}Soccer              Drama{n}Volleyball          Go-Home Club{n}Art{p}{end}
+
+## MBMSO04 g0 s0121
+JP: おう{v0}、来たな!{n}野球部に入りにきたんだろ?{p}{end}
+EN: Hey {v0}, you came! You're here to join the baseball team, right?{p}{end}
+
+## MBMSO04 g0 s0122
+JP: もちろんだ!{n}ちがうぞ{p}
+EN: Of course!{n}Nope{p}
+
+## MBMSO04 g0 s0123
+JP: …へへっ、お前とならいいバッテリーが組め{n}そな気がするぜ!よろしくな!{p}
+EN: ...Heh, I've got a feeling we'll make a good battery! Glad to have you!{p}
+
+## MBMSO04 g0 s0124
+JP: {v1}は『野球部』に入部した!{p}
+EN: {v1} joined the "Baseball Team"!{p}
+
+## MBMSO04 g0 s0125
+JP: お前ならけっこういいセン行くと思うぜ。{n}その気になったら、また来いよな!{p}{end}
+EN: I think you'd do pretty well. Come back if you change your mind!{p}{end}
+
+## MBMSO04 g0 s0126
+JP: よう、{v0}。{n}お前、サッカー部に入らないか?{n}俺と国立競技場を目指そうぜ!{p}{end}
+EN: Hey, {v0}. Want to join the soccer team? Let's aim for the National Stadium together!{p}{end}
+
+## MBMSO04 g0 s0127
+JP: どうせ行くならワールドカップ!{n}自分には無理かな…。{p}{end}
+EN: If we're going, it's the World Cup!{n}I don't think I'm up to it...{p}{end}
+
+## MBMSO04 g0 s0128
+JP: フッ、やけに大きくでたじゃないか。{n}期待してるぜ!{p}
+EN: Heh, talking pretty big, aren't you? I'm counting on you!{p}
+
+## MBMSO04 g0 s0129
+JP: {v1}は『サッカー部』に入部した!{p}
+EN: {v1} joined the "Soccer Team"!{p}
+
+## MBMSO04 g0 s0130
+JP: …そうか、残念だな。{n}気が変わったらまた来てくれよ。{p}{end}
+EN: ...I see. Too bad. Come back if you change your mind.{p}{end}
+
+## MBMSO04 g0 s0131
+JP: {v0}{col:0}クン{col:-}じゃない。{n}バレーボール部に入部しにきたの?{p}
+EN: Well, if it isn't {v0}{col:0}-kun{col:-}. Here to join the volleyball team?{p}
+
+## MBMSO04 g0 s0132
+JP: バレーボール部に入部!{n}考え直す{p}{end}
+EN: Join the volleyball team!{n}Think it over{p}{end}
+
+## MBMSO04 g0 s0133
+JP: フフ、やっぱりアタシの目に{n}狂いはなかったみたいだね。{p}
+EN: Heh heh, looks like my eye for people was right.{p}
+
+## MBMSO04 g0 s0134
+JP: {v1}は『バレーボール部』に入部{n}した!{p}{end}
+EN: {v1} joined the "Volleyball Team"!{p}{end}
+
+## MBMSO04 g0 s0135
+JP: …そう。でも、{n}アンタはきっとこのバレーコートに{n}もどってくる。きっとね!{p}
+EN: ...I see. But you'll come back to this volleyball court. I just know it!{p}
+
+## MBMSO04 g0 s0136
+JP: 美術部に入部しますか?{p}
+EN: Join the art club?{p}
+
+## MBMSO04 g0 s0138
+JP: {v1}は美術部に入部した!{p}
+EN: {v1} joined the art club!{p}
+
+## MBMSO04 g0 s0139
+JP: 吹奏楽部に入部しますか?{p}{end}
+EN: Join the brass band?{p}{end}
+
+## MBMSO04 g0 s0141
+JP: {v1}は吹奏楽部に入部した!{p}{end}
+EN: {v1} joined the brass band!{p}{end}
+
+## MBMSO04 g0 s0142
+JP: 演劇部に入部しますか?{p}
+EN: Join the drama club?{p}
+
+## MBMSO04 g0 s0144
+JP: {v1}は演劇部に入部した!{p}
+EN: {v1} joined the drama club!{p}
+
+## MBMSO04 g0 s0145
+JP: クラブに入るのをやめますか?{p}{end}
+EN: Skip joining a club?{p}{end}
+
+## MBMSO04 g0 s0147
+JP: めんどくさいし、{n}別にクラブなんかに入らなくてもいいか。{p}{end}
+EN: Too much hassle. I don't really need to join a club.{p}{end}
+
+## MBMSO04 g0 s0148
+JP: 結局、{v1}は{n}どのクラブにも入らなかった…。{p}
+EN: In the end, {v1} didn't join any club...{p}
+
+## MBMSO04 g0 s0149
+JP: 放課後。{n}今日も早く帰るか。{n}お、なんか外国人が3人、{n}もめてるみたいだ。{p}
+EN: After school. Guess I'll head home early again. Oh, looks like three foreigners are arguing.{p}
+
+## MBMSO04 g0 s0150
+JP: どうして日本の街はこんなに{n}ゴミゴミしてるんだ!?{n}これじゃ、自分がどこにいるか{n}さっぱりわからない!!{p}{end}
+EN: Why are Japanese streets so cramped!? I have no idea where we are!!{p}{end}
+
+## MBMSO04 g0 s0151
+JP: まぁそういうな、ロイ。{n}国が小さいんだ、仕方あるまい。{p}
+EN: Now, now, Roy. It's a small country. It can't be helped.{p}
+
+## MBMSO04 g0 s0152
+JP: ボーマンのいうとおりネ。{n}そんなことより、はやく目的地を{n}さがさないとチカクしちゃうね!!{p}
+EN: Boman is right. More important, we have to find the place fast or we'll be tardy-late!!{p}
+
+## MBMSO04 g0 s0153
+JP: それをいうなら、『ちこく』だろ……。{n}そうだ、あそこの人にちょっと聞いて{n}みましょう。{p}
+EN: You mean "late"... I know, let's ask that person over there.{p}
+
+## MBMSO04 g0 s0154
+JP: ヘイ!そこのジャパニーズ!!{n}道を教えてくれないか!!{p}
+EN: Hey! You there, Japanese!! Tell us the way!!{p}
+
+## MBMSO04 g0 s0155
+JP: （ム……、やけに高圧的な外国人だな……）{p}{end}
+EN: (Hmm... this foreigner is awfully pushy...){p}{end}
+
+## MBMSO04 g0 s0156
+JP: 教会を探してるんだ、このへんの人間なら{n}知ってるだろ?{sp}ジャパニーズ。{p}
+EN: We're looking for a church. You live around here, so you must know it, right? Japanese.{p}
+
+## MBMSO04 g0 s0157
+JP: （ムッ……）{n}ああ、たしかこっちの方にありましたよ。{n}ええと、案内しましょうか?{p}{end}
+EN: (Grr...) Yeah, I think it's this way. Uh, want me to show you?{p}{end}
+
+## MBMSO04 g0 s0158
+JP: ありがたい!{sp}これも神のお導きです。{n}よろしくお願いします。{p}{end}
+EN: How kind! This too is the Lord's guidance. Thank you very much.{p}{end}
+
+## MBMSO04 g0 s0159
+JP: {face:8}・・・・・・・・・・{face:255}{p}{end}
+EN: {face:8}..........{face:255}{p}{end}
+
+## MBMSO04 g0 s0160
+JP: （???{sp}あれ?{n}{sp}こっちかな……。）{p}
+EN: (??? Huh? Is it this way...?){p}
+
+## MBMSO04 g0 s0161
+JP: （???{sp}迷ったかな?{n}{sp}いやあっちだったか?）{p}{end}
+EN: (??? Am I lost? Or was it over there?){p}{end}
+
+## MBMSO04 g0 s0162
+JP: ヘイヘイ、ジャパニーズ!{n}ホントに大丈夫なんだろうな!!{p}{end}
+EN: Hey hey, Japanese! Are you sure about this!!{p}{end}
+
+## MBMSO04 g0 s0163
+JP: （ムカッ）{n}俺の名前は{v0}{sp}{v1}だ。{n}人をそういう呼び方するなよ。{p}
+EN: (Grr) My name is {v1} {v0}. Don't call people that.{p}
+
+## MBMSO04 g0 s0164
+JP: ほう……。{n}すまなかった。{n}しかし、そこまではっきりモノがいえる{n}ジャパニーズも珍しいな!!{p}{end}
+EN: Oh... My apologies. But it's rare to meet a Japanese who speaks his mind that clearly!!{p}{end}
+
+## MBMSO04 g0 s0166
+JP: おお、たしかにこのあたりです!{n}ここまでくれば、あとは私でも{n}わかります!{sp}ありがとう!!{p}
+EN: Oh, this is definitely the area! From here even I can find it! Thank you!!{p}
+
+## MBMSO04 g0 s0167
+JP: ふぅ、やっとついたな。{n}さっきは悪かったな。{n}ありがとう……ええと?{p}{end}
+EN: Whew, we finally made it. Sorry about earlier. Thanks... uh, what was it?{p}{end}
+
+## MBMSO04 g0 s0168
+JP: {v0}だ。{n}{v0}{sp}{v1}。{p}{end}
+EN: {v0}. {v1} {v0}.{p}{end}
+
+## MBMSO04 g0 s0169
+JP: ボクはロイ。『ロイ・ブロムウェル』だ。{n}ロイと呼んでくれ。{n}こっちは『ボーマン』。{n}そしてこっちが……。{p}{end}
+EN: I'm Roy. Roy Bromwell. Call me Roy. This is Boman. And this is...{p}{end}
+
+## MBMSO04 g0 s0170
+JP: 『ティファニー』で～す!{n}{v3:7}、よろしくね～!!{p}{end}
+EN: Tiffany! {v3:7}, nice to meet you!!{p}{end}
+
+## MBMSO04 g0 s0171
+JP: {v3:7}ってコーコーセーですか?{p}{end}
+EN: {v3:7}, are you a high-school-student?{p}{end}
+
+## MBMSO04 g0 s0172
+JP: うん、そうだよ。{p}{end}
+EN: Yeah, that's right.{p}{end}
+
+## MBMSO04 g0 s0173
+JP: じゃ、ミー達と同じネ!!{n}仲良くしましょ!!{p}{end}
+EN: Then you're the same as us!! Let's be friends!!{p}{end}
+
+## MBMSO04 g0 s0174
+JP: 感謝しますよ、{v5:8}。{n}これも神の思し召しでしょう。{n}あなたとはまたお会いしたいですね。{p}
+EN: I'm grateful, {v5:8}. This too must be the will of the Lord. I hope we meet again.{p}
+
+## MBMSO04 g0 s0175
+JP: 君のような日本人は珍しいな。{n}ぜひまた会おう、{n}{v3:6}!{p}
+EN: A Japanese like you is rare. Let's meet again, {v3:6}!{p}
+
+## MBMSO04 g0 s0176
+JP: ロイに、ティファニーに、ボーマンか。{n}初めはイヤなヤツかと思ったけど、{n}いいヤツだな……。{p}
+EN: Roy, Tiffany and Boman, huh. At first I thought they were jerks, but they're good people...{p}
+
+## MBMSO04 g0 s0177
+JP: 放課後。{n}一通り、買い物もすんだし、もう少し{n}ブラブラしてみよう。{p}
+EN: After school. I've done my shopping, so I'll wander around a bit more.{p}
+
+## MBMSO04 g0 s0178
+JP: お、何か向こうで騒ぎが聞こえるぞ。{n}どうやらケンカみたいだ。{p}{end}
+EN: Oh, there's some commotion over there. Looks like a fight.{p}{end}
+
+## MBMSO04 g0 s0179
+JP: （高校生くらいの不良同士がケンカを{n}{sp}している。{n}{sp}片方は12～3人、みんなこわい形相を{n}{sp}している。）{p}{end}
+EN: (Some high-school delinquents are fighting. One side has 12 or 13 guys, all with scary faces.){p}{end}
+
+## MBMSO04 g0 s0180
+JP: （対するは、たったの2人。{n}{sp}一人はすごい髪型をした細身の男。{n}{sp}もう一人は2メートルはあろうかという{n}{sp}巨漢だ。）{p}{end}
+EN: (On the other side, just two. One is a skinny guy with an amazing hairdo. The other is a giant, nearly two meters tall.){p}{end}
+
+## MBMSO04 g0 s0181
+JP: （たしかに2人とも強そうだが、{n}{sp}この人数相手では不利じゃないか?{n}{sp}止めた方がいいか……?）{p}
+EN: (They both look tough, but isn't that a lot of guys to take on? Should I stop them...?){p}
+
+## MBMSO04 g0 s0182
+JP: おい、兄ちゃん。{n}人の肩にぶつかっといて挨拶なしとは{n}いい度胸じゃねぇか!{p}
+EN: Hey, pal. Bumping into my shoulder and not even saying sorry? You got guts!{p}
+
+## MBMSO04 g0 s0183
+JP: {col:3}不良学生{col:-}{n}「んだと?{sp}俺達のニワで、この人数相手に{n}{sp}ケンカ売ろうってのか?」{p}
+EN: {col:3}Delinquent{col:-}{n}"What? You wanna pick a fight with this many of us, on our turf?"{p}
+
+## MBMSO04 g0 s0184
+JP: おい、エッジ。{n}いい加減にせんか。{p}
+EN: Hey, Edge. That's enough.{p}
+
+## MBMSO04 g0 s0185
+JP: いいじゃねぇか、岩。{n}こういうツルまなけりゃ何もできねぇ連中、{n}見てるだけで、オレはムカつくんだ!!{p}{end}
+EN: Who cares, Gan. Punks who can't do anything unless they're in a pack piss me off just lookin' at 'em!!{p}{end}
+
+## MBMSO04 g0 s0186
+JP: （エッジと呼ばれた男が、そこまで{n}{sp}いい終わる前に、不良が殴り{n}{sp}かかってきた!!）{p}{end}
+EN: (Before the man called Edge could finish, a delinquent came at him swinging!!){p}{end}
+
+## MBMSO04 g0 s0187
+JP: （この人数に2人でケンカするなんて{n}{sp}ムチャな話だ。{n}{sp}とめないと、大騒ぎになるぞ!!）{p}{end}
+EN: (Two of them fighting this many is crazy. If I don't stop it, there'll be a huge mess!!){p}{end}
+
+## MBMSO04 g0 s0188
+JP: おい!{sp}2人相手に、集団で襲いかかる{n}なんて卑怯なことはヤメロ!{n}それに、こんなところでケンカするな!{n}往来のじゃまだ!!{p}
+EN: Hey! Ganging up on two guys is cowardly, cut it out! And don't fight here! You're blocking the street!!{p}
+
+## MBMSO04 g0 s0189
+JP: {col:3}不良学生{col:-}{n}「んだと!{sp}てめぇもこいつらの仲間か?{n}{sp}じゃますんな!!」{p}
+EN: {col:3}Delinquent{col:-}{n}"What! You with these guys? Butt out!!"{p}
+
+## MBMSO04 g0 s0190
+JP: ガスッ!!{p}
+EN: *Whack!!*{p}
+
+## MBMSO04 g0 s0191
+JP: （いきなり殴りかかられた!!{n}{sp}コイツ……!!）{p}{end}
+EN: (He just punched me!! Why you...!!){p}{end}
+
+## MBMSO04 g0 s0192
+JP: ガスッ!!{n}（つい反撃してしまった!!{n}{sp}こうなったらしかたないか!!）{n}ガスッ!{sp}バキッ!!{p}
+EN: *Whack!!* (I hit back without thinking!! Well, no helping it now!!) *Whack! Crack!!*{p}
+
+## MBMSO04 g0 s0193
+JP: おい兄ちゃん!{sp}手出しは無用だぜ!!{n}オレ達は好きでやってるんだ!!{p}{end}
+EN: Hey pal! Stay out of this!! We're doin' this 'cause we like it!!{p}{end}
+
+## MBMSO04 g0 s0194
+JP: （声は聞こえるが、こうなっては{n}{sp}しかたない……。{n}{sp}しかし、こいつら人数がドンドン増える。{n}{sp}これじゃキリがないぞ……!!）{p}
+EN: (I hear him, but it's too late now... But more and more of them keep coming. This will never end...!!){p}
+
+## MBMSO04 g0 s0195
+JP: （不良がさらに2、3人増えた{n}{sp}その時!!{n}{sp}メットの男が乱入してきた!!）{p}{end}
+EN: (Just as two or three more delinquents showed up, a guy in a helmet burst in!!){p}{end}
+
+## MBMSO04 g0 s0196
+JP: エッジ!{sp}岩!!{n}おまえら、いい加減にしないか!!{p}
+EN: Edge! Gan!! Knock it off, both of you!!{p}
+
+## MBMSO04 g0 s0197
+JP: 貴様ら、何者かは知らないが、{n}この場はおさめてもらおう。{n}俺達は無益な争いは好まない。{p}
+EN: I don't know who you are, but you'll settle this here. We don't like pointless fights.{p}
+
+## MBMSO04 g0 s0198
+JP: {col:3}不良学生{col:-}{n}「なんだと!?{sp}先にケンカをウッてきた{n}{sp}のはてめぇらの方じゃねぇか!!」{p}{end}
+EN: {col:3}Delinquent{col:-}{n}"What!? You're the ones who started it!!"{p}{end}
+
+## MBMSO04 g0 s0199
+JP: （なぐり込んできた相手を、すばやく{n}{sp}さばくと、その男は肘を相手の脇に{n}{sp}たたき込んだ!!）{p}{end}
+EN: (He swiftly handled the guy who charged at him, then drove an elbow into his side!!){p}{end}
+
+## MBMSO04 g0 s0200
+JP: しかたないな……。{n}兄貴……!{p}
+EN: No choice... Big brother...!{p}
+
+## MBMSO04 g0 s0201
+JP: ………………。{p}
+EN: ..................{p}
+
+## MBMSO04 g0 s0202
+JP: （いつの間にかメット男の後ろに、{n}{sp}長ラン姿の男が立っていた……。{n}{sp}…この威圧感、ただ者ではない…!）{p}{end}
+EN: (At some point, a man in a long school coat was standing behind the helmet guy... This presence... he's no ordinary man...!){p}{end}
+
+## MBMSO04 g0 s0203
+JP: {col:3}不良学生{col:-}{n}「や、やべぇ!{n}{sp}あの男……醍醐だ!!{n}{sp}ズラかろうぜ!!」{p}
+EN: {col:3}Delinquent{col:-}{n}"Cr-crap! That guy... it's Daigo!! Let's split!!"{p}
+
+## MBMSO04 g0 s0204
+JP: その男をみるなり、不良達は{n}あわてて逃げ出した。{p}{end}
+EN: The moment they saw him, the delinquents ran off in a panic.{p}{end}
+
+## MBMSO04 g0 s0205
+JP: すごい威圧感だったな……。{n}あれ?{sp}さっきの学ランの人がいない?{n}どこにいったんだろう?{p}{end}
+EN: What an intimidating presence... Huh? The guy in the school coat is gone? Where did he go?{p}{end}
+
+## MBMSO04 g0 s0206
+JP: 君、すまなかったな。{n}へんなことに巻きこんでしまって。{n}オレから謝る。スマン。{p}
+EN: Sorry about that. We dragged you into this mess. I apologize. My bad.{p}
+
+## MBMSO04 g0 s0207
+JP: ケンカ止めに入って、一緒にケンカしてちゃ{n}しょうがないよな!!{n}それにしても、おまえ強いな!!{n}なかなかやるじゃねぇか!!{p}
+EN: Jumping in to stop a fight and then joining it, that's just hopeless!! But man, you're strong!! Not bad at all!!{p}
+
+## MBMSO04 g0 s0208
+JP: オレは『エッジ』。{n}おまえは?{p}
+EN: I'm Edge. Who're you?{p}
+
+## MBMSO04 g0 s0209
+JP: 俺は、{v0}だ。{n}{v0}{sp}{v1}。{p}
+EN: I'm {v0}. {v1} {v0}.{p}
+
+## MBMSO04 g0 s0210
+JP: {v0}{sp}{v1}ね。{n}こっちは、あのデカイのが『岩』だ。{n}このメットかぶってるのが、{n}『アキラ』。{p}{end}
+EN: {v1} {v0}, huh. That big guy's Gan. And the one in the helmet's Akira.{p}{end}
+
+## MBMSO04 g0 s0211
+JP: 『風間アキラ』だ。{n}よろしくな。{p}{end}
+EN: Akira Kazama. Nice to meet you.{p}{end}
+
+## MBMSO04 g0 s0212
+JP: ところで、さっきの男の人は?{p}{end}
+EN: By the way, who was that man just now?{p}{end}
+
+## MBMSO04 g0 s0213
+JP: あの人は、『醍醐』先輩だ。{n}このへんの不良なんかハダシで逃げ出す{n}外道高校の生きた伝説だぜ。{p}{end}
+EN: That's Daigo-senpai. A living legend of Gedo High. Punks around here run off barefoot when they see him.{p}{end}
+
+## MBMSO04 g0 s0214
+JP: そして、このアキラの兄というワケじゃ!{p}
+EN: And he's Akira's big brother, see!{p}
+
+## MBMSO04 g0 s0215
+JP: オレは兄貴ほど強くはないがな……。{n}ま、また会うこともあるだろう。{n}じゃあな、{v3:10}。{p}{end}
+EN: I'm not as strong as my brother... Well, I'm sure we'll meet again. See you, {v3:10}.{p}{end}
+
+## MBMSO04 g0 s0216
+JP: エッジに、アキラに、岩か……。{n}それに、あの醍醐先輩……。{n}みんな強そうだな……。{p}
+EN: Edge, Akira and Gan... And that Daigo-senpai... They all look really strong...{p}
+
+## MBMSO04 g1 s0000
+JP: こんにちは。{n}あなたが、{n}{v0}{sp}{v1}{col:0}さん{col:-}ね。{n}{v4}へようこそ。{p}{end}
+EN: Hello. So you must be {v1} {v0}{col:0}-san{col:-}. Welcome to {v4}.{p}{end}
+
+## MBMSO04 g1 s0005
+JP: {col:0}『EDITキャラクターの登録』{col:-}は、{n}このゲームの途中のデータでも、{n}登録できます。{n}最後までクリアする必要はないわ。{p}{end}
+EN: You can use {col:0}"Register EDIT Character"{col:-} even with data from partway through. You don't have to finish the game.{p}{end}
+
+## MBMSO04 g1 s0027
+JP: {col:0}毎月第3水曜日{col:-}には、{n}校内のいろいろなトコロを{n}移動できます。{p}
+EN: On the {col:0}3rd Wednesday of every month{col:-}, you can move around to various places at school.{p}
+
+## MBMSO04 g1 s0033
+JP: 一年の行事について説明します。{p}
+EN: I'll explain the year's events.{p}
+
+## MBMSO04 g1 s0037
+JP: 大きなイベントとしてはこんなトコロね。{n}あと、{col:0}中間試験{col:-}や{col:0}期末試験{col:-}など、{n}定期試験ももちろん受けてもらいます。{p}{end}
+EN: Those are the big events. You'll of course also take regular exams, like {col:0}midterms{col:-} and {col:0}finals{col:-}.{p}{end}
+
+## MBMSO04 g1 s0044
+JP: 誰、この人?{p}{end}
+EN: Who's this?{p}{end}
+
+## MBMSO04 g1 s0055
+JP: ……うん!{n}高校生活も{n}何とかやっていけそうな感じがするわ。{n}がんばるぞ!{p}
+EN: ...Yeah! I think I can handle high school life somehow. I'll do my best!{p}
+
+## MBMSO04 g1 s0056
+JP: なんだあ、そのざまは?{n}一生は長えが青春は短いんだぜ!{n}まあ、入学は認めてやるが次の試験では結果{n}を出せよ。じゃあな!{p}
+EN: What's with that pathetic showing? Life is long, but youth is short! Fine, I'll let you in, but you'd better get results next exam. Later!{p}
+
+## MBMSO04 g1 s0057
+JP: はあ……。{n}少し心配になってきたなあ……。{n}でも、まだまだ先は長いんだ!{n}頑張ろうっと!{p}{end}
+EN: Sigh... I'm starting to get a little worried... But there's still a long way to go! I'll do my best!{p}{end}
+
+## MBMSO04 g1 s0058
+JP: 今日は待ちに待った{n}五輪高校の入学式の日!{p}
+EN: Today's the day I've been waiting for: the Gorin High entrance ceremony!{p}
+
+## MBMSO04 g1 s0059
+JP: あの超名門スポーツ校に入れるなんて、{n}まるで夢のようだわ。{p}
+EN: I can't believe I got into that elite sports school. It's like a dream.{p}
+
+## MBMSO04 g1 s0060
+JP: まだ学校に行くには早すぎる時間だけど、{n}学校の設備でも見学して回ろうかな。{p}
+EN: It's still way too early for school, but maybe I'll look around the school's facilities.{p}
+
+## MBMSO04 g1 s0061
+JP: これが名門五輪高校の体育館か。{n}確かに、かなりの設備ね。{p}{end}
+EN: So this is famous Gorin High's gym. The facilities really are something.{p}{end}
+
+## MBMSO04 g1 s0062
+JP: あぶない!!{p}{end}
+EN: Look out!!{p}{end}
+
+## MBMSO04 g1 s0064
+JP: バレーボールがうなりをあげて{n}こちらに向かってくる!!!{p}{end}
+EN: A volleyball comes roaring right at me!!!{p}{end}
+
+## MBMSO04 g1 s0065
+JP: 私は、すばやく腰を落とすと{n}飛んできたボールを反射的にレシーブした!{p}{end}
+EN: I quickly dropped my hips and received the ball on reflex!{p}{end}
+
+## MBMSO04 g1 s0066
+JP: ご、ごめんね。大丈夫だった?{p}{end}
+EN: S-sorry. Are you okay?{p}{end}
+
+## MBMSO04 g1 s0067
+JP: …いたたたた。{n}すごい威力のスパイクだわ。{p}
+EN: ...Ow ow ow. That was one powerful spike.{p}
+
+## MBMSO04 g1 s0068
+JP: 本当にごめんね…。{n}スパイクの練習をしてたんだけど{n}集中しすぎて、周りへの配慮が{n}足りなかったみたい。{p}
+EN: I'm really sorry... I was practicing my spikes, but I got so focused I didn't pay attention to anyone around me.{p}
+
+## MBMSO04 g1 s0069
+JP: ねえ、もしよかったら{n}ちょっと練習を手伝ってくれない?{n}また、さっきみたいな事に{n}なるかもしれないしね…。{p}
+EN: Hey, if you don't mind, could you help me practice a bit? Otherwise something like that might happen again...{p}
+
+## MBMSO04 g1 s0070
+JP: ええ、かまわないわよ。{p}
+EN: Sure, I don't mind.{p}
+
+## MBMSO04 g1 s0071
+JP: 今日はありがとう。{n}おかげで練習もはかどったわ。{p}{end}
+EN: Thanks for today. My practice went great thanks to you.{p}{end}
+
+## MBMSO04 g1 s0072
+JP: ずいぶん遅い登校だな、夏。{n}入学式はもうすぐ始まるぜ。{p}
+EN: Showing up pretty late, Natsu. The ceremony's about to start.{p}
+
+## MBMSO04 g1 s0073
+JP: まったく、入学早々こんな調子じゃ{n}先が思いやられるぜ。{p}
+EN: Geez, if you're like this on day one, I worry about the rest of the year.{p}
+
+## MBMSO04 g1 s0074
+JP: 今日はこの子と特訓をしてたの。{n}レギュラーになるには{n}これくらいしないとね。{p}{end}
+EN: I was doing special training with her today. That's what it takes to make the starting lineup.{p}{end}
+
+## MBMSO04 g1 s0076
+JP: 私は{v0}{sp}{v1}、{n}よろしく。{p}{end}
+EN: I'm {v1} {v0}. Nice to meet you.{p}{end}
+
+## MBMSO04 g1 s0077
+JP: {v0}{col:0}さん{col:-}、今日は助かったわ。{n}アタシは『鮎原{sp}夏』。{n}また特訓するときはよろしくね。{p}
+EN: {v0}{col:0}-san{col:-}, you really helped me out today. I'm Natsu Ayuhara. Let's train together again sometime.{p}
+
+## MBMSO04 g1 s0078
+JP: オイラは『沢村{sp}将馬』。{n}夏と練習だなんて{n}お前も命知らずだな。{p}{end}
+EN: I'm Shoma Sawamura. Practicing with Natsu? You must have a death wish too.{p}{end}
+
+## MBMSO04 g1 s0079
+JP: ちょっと将馬、それ、どういう意味よ?{p}{end}
+EN: Hey Shoma, what's that supposed to mean?{p}{end}
+
+## MBMSO04 g1 s0087
+JP: 早速だが、これから全員に{n}自己紹介をしてもらおうと思う。{p}{end}
+EN: Let's get right to it. I'd like everyone to introduce themselves.{p}{end}
+
+## MBMSO04 g1 s0097
+JP: …今度は私の自己紹介の番だ{p}
+EN: ...Now it's my turn to introduce myself.{p}
+
+## MBMSO04 g1 s0099
+JP: 私は{v0}{sp}{v1}。{n}とにかく、これから1年間よろしく!{p}{end}
+EN: I'm {v1} {v0}. Anyway, let's have a great year!{p}{end}
+
+## MBMSO04 g1 s0102
+JP: 私は{v0}{sp}{v1}。{n}趣味は読書かな。{p}
+EN: I'm {v1} {v0}. My hobby is reading, I guess.{p}
+
+## MBMSO04 g1 s0103
+JP: 最近の作品もくまなくチェックしてるから、{n}本に興味のある人は、何でも聞いてね。{p}
+EN: I keep up with all the latest books, so if you're into books, ask me anything.{p}
+
+## MBMSO04 g1 s0106
+JP: どのクラブに入るか{n}まだ決めていない者は{n}いろいろクラブを回ってみると{n}参考になると思うぞ。{p}{end}
+EN: If you haven't decided on a club yet, try visiting a few. It should help.{p}{end}
+
+## MBMSO04 g1 s0110
+JP: やっぱり、クラブに入らないと{n}高校生活は始まらないわよね。{p}
+EN: Yeah, high school life doesn't start until you join a club.{p}
+
+## MBMSO04 g1 s0111
+JP: {v0}{col:0}さん{col:-}、もうクラブは決めた?{n}バレーボールをやってみる気はない?{p}{end}
+EN: {v0}{col:0}-san{col:-}, picked a club yet? Want to try volleyball?{p}{end}
+
+## MBMSO04 g1 s0112
+JP: こいつと同じ部に入るのは{n}やめたほうがいいと思うぜ。{n}バカがうつるからな{p}{end}
+EN: I wouldn't join the same club as her. Her stupidity is contagious.{p}{end}
+
+## MBMSO04 g1 s0113
+JP: それよりも、野球部に入らないか?{n}歓迎するぜ。{p}
+EN: How about the baseball team instead? You'd be welcome.{p}
+
+## MBMSO04 g1 s0114
+JP: ちょっと!{n}いま、何て言ったのよ将馬!?{p}{end}
+EN: Hey! What did you just say, Shoma!?{p}{end}
+
+## MBMSO04 g1 s0116
+JP: まあ、気が向いたらサッカー部を{n}見学に来てくれ、じゃあな。{p}
+EN: Well, if you feel like it, come check out the soccer team. See you.{p}
+
+## MBMSO04 g1 s0120
+JP: もちろんよ!{n}ちがうわ{p}
+EN: Of course!{n}Nope{p}
+
+## MBMSO04 g1 s0121
+JP: へへっ、お前ならきっと来ると思ってたぜ!{n}よろしくな!{p}
+EN: Heh, I knew you'd come! Glad to have you!{p}
+
+## MBMSO04 g1 s0128
+JP: …そうか、残念だな。{n}ま、気が変わったらまた来てくれよ。{p}{end}
+EN: ...I see. Too bad. Well, come back if you change your mind.{p}{end}
+
+## MBMSO04 g1 s0129
+JP: {v0}{col:0}さん{col:-}じゃない。{n}バレーボール部に入部しにきたの?{p}
+EN: Well, if it isn't {v0}{col:0}-san{col:-}. Here to join the volleyball team?{p}
+
+## MBMSO04 g1 s0146
+JP: 結局、{v1}は{n}どのクラブにも入らなかった…{p}{end}
+EN: In the end, {v1} didn't join any club...{p}{end}
+
+## MBMSO04 g1 s0147
+JP: 放課後。{n}今日も早く帰ろう。{n}あ、なんか外国人が3人、{n}もめてるみたいね。{p}
+EN: After school. I'll head home early again. Oh, looks like three foreigners are arguing.{p}
+
+## MBMSO04 g1 s0153
+JP: （ム……、やけに高圧的な外国人ね……）{p}
+EN: (Hmm... these foreigners are awfully pushy...){p}
+
+## MBMSO04 g1 s0155
+JP: （ムッ……）{n}ええ、たしかこっちの方にありましたよ。{n}ええと、案内しましょうか?{p}{end}
+EN: (Grr...) Yes, I think it's this way. Um, want me to show you?{p}{end}
+
+## MBMSO04 g1 s0159
+JP: （???{sp}迷ったかな?{n}{sp}いやあっちだったかナ?）{p}
+EN: (??? Am I lost? Or was it over there?){p}
+
+## MBMSO04 g1 s0161
+JP: （ムカッ）{n}私の名前は{v0}{sp}{v1}よ。{n}人をそういう呼び方しないで。{p}
+EN: (Grr) My name is {v1} {v0}. Don't call people that.{p}
+
+## MBMSO04 g1 s0166
+JP: {v0}よ。{n}{v0}{sp}{v1}。{p}{end}
+EN: {v0}. {v1} {v0}.{p}{end}
+
+## MBMSO04 g1 s0167
+JP: ボクはロイ。『ロイ・ブロムウェル』だ。{n}ロイと呼んでくれ。{n}こっちは『ボーマン』。{n}そしてこっちが……{p}
+EN: I'm Roy. Roy Bromwell. Call me Roy. This is Boman. And this is...{p}
+
+## MBMSO04 g1 s0170
+JP: うん、そうよ。{p}
+EN: Yes, that's right.{p}
+
+## MBMSO04 g1 s0172
+JP: 感謝しますよ。{n}{v5:8}。{n}これも神の思し召しでしょう。{n}あなたとはまたお会いしたいですね。{p}{end}
+EN: I'm grateful, {v5:8}. This too must be the will of the Lord. I hope we meet again.{p}{end}
+
+## MBMSO04 g1 s0174
+JP: ロイに、ティファニーに、ボーマンか。{n}初めはイヤな外国人かと思ったけど、{n}いい人たちね……。{p}{end}
+EN: Roy, Tiffany and Boman, huh. At first I thought they were rude foreigners, but they're nice people...{p}{end}
+
+## MBMSO04 g1 s0176
+JP: あ、何か向こうで騒ぎが聞こえるわ。{n}どうやらケンカみたい。{p}
+EN: Oh, there's some commotion over there. Looks like a fight.{p}
+
+## MBMSO04 g1 s0177
+JP: （高校生くらいの不良同士がケンカを{n}{sp}している。{n}{sp}片方は12～3人、みんなこわい顔つきを{n}{sp}してるわ。）{p}
+EN: (Some high-school delinquents are fighting. One side has 12 or 13 guys, all with scary faces.){p}
+
+## MBMSO04 g1 s0178
+JP: （対するは、たったの2人。{n}{sp}一人はすごい髪型をした細身の男。{n}{sp}もう一人は2メートルくらいある、{n}{sp}巨漢ネ。）{p}{end}
+EN: (On the other side, just two. One is a skinny guy with an amazing hairdo. The other is a giant, about two meters tall.){p}{end}
+
+## MBMSO04 g1 s0179
+JP: （たしかに2人とも強そうだけど、{n}{sp}この人数相手では不利なんじゃない?{n}{sp}止めた方がいいかも……?）{p}{end}
+EN: (They both look tough, but isn't that a lot of guys to take on? Maybe I should stop them...?){p}{end}
+
+## MBMSO04 g1 s0184
+JP: （エッジと呼ばれた人が、そこまで{n}{sp}いい終わる前に、不良が殴り{n}{sp}かかってきた!!）{p}{end}
+EN: (Before the man called Edge could finish, a delinquent came at him swinging!!){p}{end}
+
+## MBMSO04 g1 s0185
+JP: （この人数に2人でケンカするなんて{n}{sp}ムチャな話ね。{n}{sp}とめないと、大騒ぎになるわ!!）{p}{end}
+EN: (Two of them fighting this many is crazy. If I don't stop it, there'll be a huge mess!!){p}{end}
+
+## MBMSO04 g1 s0186
+JP: ちょっと!{sp}2人相手に、集団で襲いかかる{n}なんて大人げないことヤメなさいよ!!{n}それに、こんなところでケンカするなんて、{n}他の人に迷惑でしょ!!{p}{end}
+EN: Hey! Ganging up on two people is so childish, cut it out!! And fighting in a place like this bothers everyone else!!{p}{end}
+
+## MBMSO04 g1 s0189
+JP: （いきなり殴りかかられた!!{n}{sp}この人……!!）{p}{end}
+EN: (He just punched me!! Why you...!!){p}{end}
+
+## MBMSO04 g1 s0190
+JP: ガスッ!!{n}（つい反撃しちゃった!!{n}{sp}こうなったらしかたないわね!!）{n}ガスッ!{sp}バキッ!!{p}
+EN: *Whack!!* (I hit back without thinking!! Well, no helping it now!!) *Whack! Crack!!*{p}
+
+## MBMSO04 g1 s0191
+JP: おいネェちゃん!{sp}手出しは無用だぜ!!{n}オレ達は好きでやってるんだ!!{p}
+EN: Hey lady! Stay out of this!! We're doin' this 'cause we like it!!{p}
+
+## MBMSO04 g1 s0192
+JP: （声は聞こえるけど、こうなっては{n}{sp}しかたないナ……{n}{sp}しかし、こいつら人数がドンドン増える。{n}{sp}これじゃキリがないわね……!!）{p}
+EN: (I hear him, but it's too late now... But more and more of them keep coming. This will never end...!!){p}
+
+## MBMSO04 g1 s0195
+JP: 貴様ら、何者かは知らないが、{n}この場はおさめてもらおう。{n}オレ達は無益な争いは好まない。{p}{end}
+EN: I don't know who you are, but you'll settle this here. We don't like pointless fights.{p}{end}
+
+## MBMSO04 g1 s0200
+JP: （いつの間にかメット男の後ろに、{n}{sp}長ラン姿の男が立っていた……。{n}{sp}この人…この迫力、ただ者じゃ{n}{sp}なさそう……!）{p}
+EN: (At some point, a man in a long school coat was standing behind the helmet guy... This man... with that aura, he's no ordinary person...!){p}
+
+## MBMSO04 g1 s0203
+JP: すごい迫力ね……。{n}あれ?{sp}さっきの学ランの人がいない?{n}どこにいったんだろう?{p}{end}
+EN: What an aura... Huh? The guy in the school coat is gone? Where did he go?{p}{end}
+
+## MBMSO04 g1 s0205
+JP: ケンカ止めに入って、一緒にケンカしてちゃ{n}しょうがないよな!!{n}それにしても、おまえ強いな!!{n}とても女とは思えねぇぜ!!{p}
+EN: Jumping in to stop a fight and then joining it, that's just hopeless!! But man, you're strong!! Hard to believe you're a girl!!{p}
+
+## MBMSO04 g1 s0207
+JP: 私は、{v0}。{n}{v0}{sp}{v1}よ。{p}
+EN: I'm {v0}. {v1} {v0}.{p}
+
+## MBMSO04 g1 s0212
+JP: そして、このアキラの兄というワケじゃ!!{p}{end}
+EN: And he's Akira's big brother, see!!{p}{end}
+

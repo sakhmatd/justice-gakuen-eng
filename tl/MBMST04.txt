@@ -1,0 +1,1008 @@
+## MBMST04 g0 s0056
+JP: なんだあ、そのざまは?{n}一生は長えが青春は短いんだぜ!{n}まあ、入学は認めてやるが{n}次の試験では結果を出せよ!{p}{end}
+EN: What's with that pathetic showing? Life is long, but youth is short! Fine, I'll let you in, but you'd better get results next exam!{p}{end}
+
+## MBMST04 g0 s0057
+JP: はあ……{n}少し心配になってきたなあ……。{n}でも、まだまだ先は長いんだ!{n}頑張るぞ!{p}
+EN: Sigh... I'm starting to get a little worried... But there's still a long way to go! I'll do my best!{p}
+
+## MBMST04 g0 s0058
+JP: ジリリリリリリリリリリ!!!{p}{end}
+EN: *Riiiiiiiiiing!!!*{p}{end}
+
+## MBMST04 g0 s0059
+JP: げげ!ち、ち、遅刻だあーー!!{p}
+EN: Crap! I-I-I'm gonna be late!!{p}
+
+## MBMST04 g0 s0060
+JP: 入学式に遅刻なんて{n}シャレにならないぜ、まったく!{p}
+EN: Being late for the entrance ceremony is no joke!{p}
+
+## MBMST04 g0 s0061
+JP: よし!このペースなら間に合うぞ。{n}このまま一気に…{p}
+EN: Okay! At this pace I'll make it. Just keep going...{p}
+
+## MBMST04 g0 s0062
+JP: うわあ!!{p}
+EN: Waaah!!{p}
+
+## MBMST04 g0 s0063
+JP: いててて…いったい何がどうなったんだ?{p}
+EN: Ow ow ow... What just happened?{p}
+
+## MBMST04 g0 s0064
+JP: い、いたたたたー。{p}
+EN: O-ow ow ow...{p}
+
+## MBMST04 g0 s0065
+JP: もう、ちゃんと前見て走ってよね。{p}{end}
+EN: Geez, look where you're running!{p}{end}
+
+## MBMST04 g0 s0066
+JP: ご、ごめん。{n}遅刻しそうだったから…{p}{end}
+EN: S-sorry. I was about to be late...{p}{end}
+
+## MBMST04 g0 s0067
+JP: ちょ、ちょっと!{n}どこさわってるの、もう!{p}
+EN: H-hey! Where are you touching!?{p}
+
+## MBMST04 g0 s0068
+JP: …キミ、新手のチカン!?{p}{end}
+EN: ...Are you some new kind of pervert!?{p}{end}
+
+## MBMST04 g0 s0069
+JP: ご、誤解だ!{n}今のはぶつかったはずみで…{p}{end}
+EN: I-it's a misunderstanding! That was just from the crash...{p}{end}
+
+## MBMST04 g0 s0070
+JP: ………{n}わかった、信じてあげる。{p}{end}
+EN: .........Okay, I'll believe you.{p}{end}
+
+## MBMST04 g0 s0071
+JP: それより、急がないと遅刻しちゃう!{n}ほら、キミも早く立って!!{n}走るよ!{p}{end}
+EN: More importantly, we're gonna be late! Come on, get up! We're running!{p}{end}
+
+## MBMST04 g0 s0072
+JP: え?ちょ、ちょっと!!{p}
+EN: Huh? W-wait!!{p}
+
+## MBMST04 g0 s0073
+JP: ゼェ…ゼェ…ゼェ…ゼェ…ゼェ…{p}
+EN: *pant*... *pant*... *pant*...{p}
+
+## MBMST04 g0 s0074
+JP: フゥ…よかったあ。{n}何とか間に合ったみたい。{p}{end}
+EN: Whew... Good. Looks like we made it.{p}{end}
+
+## MBMST04 g0 s0075
+JP: 走るのには自信あったんだけど、{n}キミも結構早いんだね。{p}
+EN: I'm pretty confident in my running, but you're fast too.{p}
+
+## MBMST04 g0 s0076
+JP: 私、『若葉{sp}ひなた』。{n}キミの名前は?{p}
+EN: I'm Hinata Wakaba. What's your name?{p}
+
+## MBMST04 g0 s0077
+JP: 俺は{v0}{sp}{v1}。{n}ヨロシクな。{p}
+EN: I'm {v1} {v0}. Nice to meet you.{p}
+
+## MBMST04 g0 s0078
+JP: {v0}{col:0}君{col:-}かあ。{n}うふふっ、同じクラスになれるといーね{col:5}♥{col:-}{p}
+EN: {v0}{col:0}-kun{col:-}, huh. Hee hee, hope we end up in the same class{col:5}♥{col:-}{p}
+
+## MBMST04 g0 s0080
+JP: あ、入学式が始まっちゃう。{n}じゃあ、またね!{p}{end}
+EN: Oh, the ceremony's starting. See you later!{p}{end}
+
+## MBMST04 g0 s0081
+JP: いけね、俺も急がなくっちゃ!{p}{end}
+EN: Crap, I'd better hurry too!{p}{end}
+
+## MBMST04 g0 s0083
+JP: ハァ…どこもそうだとは思うけど、校長の話{n}って長いよなぁ。{p}
+EN: Sigh... I guess it's like this everywhere, but principals' speeches sure are long.{p}
+
+## MBMST04 g0 s0084
+JP: まったくだ。{n}どうしてこう、いつもいつも{n}話しが長いんだか…{n}いい加減、うんざりするぜ。{p}{end}
+EN: No kidding. Why are their speeches always so long... I'm sick of it.{p}{end}
+
+## MBMST04 g0 s0085
+JP: よし、ここから脱出するぞ!{n}お前も来いよ。{p}
+EN: Alright, I'm breaking out of here! You're coming too.{p}
+
+## MBMST04 g0 s0086
+JP: …………?{p}
+EN: ............?{p}
+
+## MBMST04 g0 s0087
+JP: へへっ、こんなに簡単に抜け出せるなんて{n}思わなかったぜ。{p}{end}
+EN: Heh heh, didn't think it'd be this easy to sneak out.{p}{end}
+
+## MBMST04 g0 s0088
+JP: 君たち、入学式を抜け出して{n}ここで一体何をしているんだ?{p}{end}
+EN: You two. What are you doing out here, skipping the entrance ceremony?{p}{end}
+
+## MBMST04 g0 s0089
+JP: 何だ、てめえは?{p}{end}
+EN: Who the hell are you?{p}{end}
+
+## MBMST04 g0 s0090
+JP: 僕は『鑑{sp}恭介』。{n}風紀委員として、君たちの行動を{n}見逃すわけにいかなかったんでね。{p}{end}
+EN: I'm Kyosuke Kagami. As a disciplinary committee member, I couldn't overlook what you were doing.{p}{end}
+
+## MBMST04 g0 s0091
+JP: へん、ご苦労なこった!{n}風紀委員だか何だか知らねえが{n}ほっといてもらおうか。{p}{end}
+EN: Heh, thanks for your trouble! Disciplinary committee or whatever, just leave us alone.{p}{end}
+
+## MBMST04 g0 s0092
+JP: おい、おまえら!{n}そこで何をしてやがる!?{p}
+EN: Hey, you lot! What are you doing over there!?{p}
+
+## MBMST04 g0 s0093
+JP: や、やべえ!おい、逃げるぞ!{p}{end}
+EN: Cr-crap! Hey, run for it!{p}{end}
+
+## MBMST04 g0 s0094
+JP: な、何で風紀委員の僕まで{n}逃げなくちゃいけないんだ?{p}{end}
+EN: Wh-why do I have to run too? I'm on the disciplinary committee!{p}{end}
+
+## MBMST04 g0 s0095
+JP: へへへ、これでお前も共犯だぜ!{p}
+EN: Heh heh heh, now you're our accomplice!{p}
+
+## MBMST04 g0 s0096
+JP: はははは、これは一本取られたな。{n}よければ君たちの名前を教えてくれないか?{p}
+EN: Ha ha ha ha, you got me there. If you don't mind, would you tell me your names?{p}
+
+## MBMST04 g0 s0097
+JP: オレはバツ。{n}『一文字{sp}バツ』だ。よろしくな。{p}
+EN: I'm Batsu. Batsu Ichimonji. Nice to meet ya.{p}
+
+## MBMST04 g0 s0098
+JP: 俺は{v0}{sp}{v1}。{n}よろしく。{p}{end}
+EN: I'm {v1} {v0}. Nice to meet you.{p}{end}
+
+## MBMST04 g0 s0099
+JP: 一文字バツに{n}{v0}{sp}{v1}か…{n}今後のためにも、君たちの名前は{n}覚えておくことにするよ。{p}
+EN: Batsu Ichimonji and {v1} {v0}... I'll remember your names, for future reference.{p}
+
+## MBMST04 g0 s0114
+JP: おい、{v0}!{n}まさか、お前と同じクラスだとは{n}思わなかったぜ。{p}{end}
+EN: Hey, {v0}! Didn't think we'd be in the same class!{p}{end}
+
+## MBMST04 g0 s0115
+JP: お前とはなんか気が合いそうだ。{n}あらためてよろしくな!{p}
+EN: I feel like we'll get along. Nice to meet ya, for real this time!{p}
+
+## MBMST04 g0 s0116
+JP: {v0}{col:0}君{col:-}、{v0}{col:0}君{col:-}!{n}おんなじクラスだったんだねー。{n}びっくりしたよ!!{p}{end}
+EN: {v0}{col:0}-kun{col:-}, {v0}{col:0}-kun{col:-}! We're in the same class! What a surprise!!{p}{end}
+
+## MBMST04 g0 s0117
+JP: キミと同じクラスだったら{n}なんだか楽しくなりそう。{n}ヨロシクね!{p}{end}
+EN: Being in the same class as you, I think it'll be fun. Nice to meet you!{p}{end}
+
+## MBMST04 g0 s0118
+JP: そうそう、私のことは『ひなた』って{n}呼び捨てでいいから。{p}{end}
+EN: Oh yeah, you can just call me "Hinata," no honorifics.{p}{end}
+
+## MBMST04 g0 s0119
+JP: {v0}{col:0}君{col:-}だったかな?{p}{end}
+EN: It was {v0}{col:0}-kun{col:-}, wasn't it?{p}{end}
+
+## MBMST04 g0 s0120
+JP: まさか同じクラスだとは思わなかったよ。{n}あらためて、これから1年間よろしく。{p}{end}
+EN: I never thought we'd be in the same class. Once again, I look forward to this year.{p}{end}
+
+## MBMST04 g0 s0121
+JP: じゃあ、僕は風紀委員の仕事があるから{n}失礼するよ。{p}
+EN: Well, I have disciplinary committee work, so I'll excuse myself.{p}
+
+## MBMST04 g0 s0124
+JP: なあ、もうクラブは決めたか?{n}まだなら野球部に入ろうぜ!{p}{end}
+EN: Hey, decided on a club yet? If not, join the baseball team!{p}{end}
+
+## MBMST04 g0 s0125
+JP: こいつと同じ部に入るのは{n}やめたほうがいいわよ。{n}馬鹿がうつるからね。{p}
+EN: I wouldn't join the same club as this guy. His stupidity is contagious.{p}
+
+## MBMST04 g0 s0126
+JP: それよりも、バレーボールしない?{n}歓迎するわよ。{p}{end}
+EN: How about volleyball instead? You'd be welcome.{p}{end}
+
+## MBMST04 g0 s0128
+JP: また始まったか…{n}お前ら、入学早々ケンカはやめとけよ。{p}
+EN: Here they go again... You two, quit fighting on the first day.{p}
+
+## MBMST04 g0 s0132
+JP: お前、入部希望者か?{n}言っとくけどな{n}根性ない奴はゴメンだぜ!{p}
+EN: You here to join? Just so you know, I don't want anyone without guts!{p}
+
+## MBMST04 g0 s0133
+JP: 根性なら人一倍!{n}さ、さよーならー{p}
+EN: I've got more guts than anyone!{n}G-goodbye...{p}
+
+## MBMST04 g0 s0134
+JP: …へへっ、{n}どうやら冷やかしじゃないみたいだな。{p}{end}
+EN: ...Heh, looks like you're not just window-shopping.{p}{end}
+
+## MBMST04 g0 s0135
+JP: オイラは『沢村{sp}将馬』。{n}よろしくな!{p}
+EN: I'm Shoma Sawamura. Nice to meet ya!{p}
+
+## MBMST04 g0 s0137
+JP: まったく、{n}最近カッコばかりの奴が多くて困るぜ!{p}{end}
+EN: Geez, lately there are too many guys who are all style!{p}{end}
+
+## MBMST04 g0 s0138
+JP: そこの君、サッカー部に入らないか?{n}俺と国立競技場を目指そうぜ!{p}{end}
+EN: You there, want to join the soccer team? Let's aim for the National Stadium together!{p}{end}
+
+## MBMST04 g0 s0139
+JP: どうせ行くならワールドカップ!{n}自分には無理かな…{p}
+EN: If we're going, it's the World Cup!{n}I don't think I'm up to it...{p}
+
+## MBMST04 g0 s0141
+JP: 俺は『ロベルト・三浦』。{n}ポジションはゴールキーパーだ。{n}よろしくな。{p}
+EN: I'm Roberto Miura. I play goalkeeper. Nice to meet you.{p}
+
+## MBMST04 g0 s0143
+JP: …そうか、残念だな。{n}気が変わったらまた来てくれ。{p}
+EN: ...I see. Too bad. Come back if you change your mind.{p}
+
+## MBMST04 g0 s0144
+JP: そこのアンタ、{n}バレーボールをやってみる気はない?{n}きっと向いてると思うよ。{p}{end}
+EN: You there, want to try volleyball? I bet you'd be good at it.{p}{end}
+
+## MBMST04 g0 s0145
+JP: バレーボールならおまかせ!{n}バレーボールは苦手{p}
+EN: Leave volleyball to me!{n}I'm bad at volleyball{p}
+
+## MBMST04 g0 s0147
+JP: アタシは『鮎原{sp}夏』よろしくね!{p}{end}
+EN: I'm Natsu Ayuhara, nice to meet you!{p}{end}
+
+## MBMST04 g0 s0148
+JP: {v1}は『バレーボール部』に{n}入部した!{p}{end}
+EN: {v1} joined the "Volleyball Team"!{p}{end}
+
+## MBMST04 g0 s0163
+JP: 教室の前にいくと、{n}ちょうど、ひなたとバツ、恭介の{n}3人が出てくるところだった。{p}{end}
+EN: When I reached the classroom, Hinata, Batsu and Kyosuke were just coming out.{p}{end}
+
+## MBMST04 g0 s0164
+JP: よぉ、{v3:0}。{n}今帰りか?{n}俺達と一緒に帰らないか?{p}
+EN: Hey, {v3:0}. Heading home? Want to walk with us?{p}
+
+## MBMST04 g0 s0165
+JP: 一緒に帰る{n}やめておく{p}
+EN: Go home together{n}Pass{p}
+
+## MBMST04 g0 s0166
+JP: ごめん、今日はいいわ。{n}また今度誘ってよ。{p}
+EN: Sorry, not today. Invite me again sometime.{p}
+
+## MBMST04 g0 s0167
+JP: そうなんだ…{n}それじゃしょうがないね。{n}じゃあね、{v7:1}。お先に～。{p}
+EN: I see... Oh well. Bye, {v7:1}. See you!{p}
+
+## MBMST04 g0 s0168
+JP: ……さてと、{n}どこにいこうか。{p}
+EN: ...Now then, where should I go?{p}
+
+## MBMST04 g0 s0169
+JP: いいぜ、一緒に帰ろう。{p}
+EN: Sure, let's go together.{p}
+
+## MBMST04 g0 s0170
+JP: 美味しいケーキ屋さんがあるんだ!{n}帰りに寄っていこうよ!{p}{end}
+EN: There's this great cake shop! Let's stop by on the way!{p}{end}
+
+## MBMST04 g0 s0171
+JP: ま～た、ケーキか!{n}よくそんな甘いモンばっかり食えるなぁ!{p}
+EN: Cake agaaain! How can you eat so much sweet stuff!{p}
+
+## MBMST04 g0 s0172
+JP: 来た来た!{n}私のショートケーキ{col:5}♥{col:-}{n}あれ?恭介はケーキいらないの?{p}{end}
+EN: Here it comes! My strawberry shortcake{col:5}♥{col:-} Huh? Kyosuke, you don't want cake?{p}{end}
+
+## MBMST04 g0 s0173
+JP: 僕はハーブティだけでいい…。{n}ここのハーブティは、このあたりでは{n}絶品だぞ。{p}{end}
+EN: Just herbal tea for me... The herbal tea here is the best in the area.{p}{end}
+
+## MBMST04 g0 s0174
+JP: オレはチーズケーキおかわりだ!{n}ところで、{v3:0}。{n}お前、強そうにみえるけど、{n}格闘技か何かやってるのか?{p}{end}
+EN: Another cheesecake for me! By the way, {v3:0}, you look strong. Do you do martial arts or something?{p}{end}
+
+## MBMST04 g0 s0175
+JP: 誰かに習ってるわけじゃないけど、{n}一応トレーニングはしてるよ。{n}強くなりたいからね。{p}{end}
+EN: I don't have a teacher, but I do train. I want to get stronger.{p}{end}
+
+## MBMST04 g0 s0176
+JP: そうなんだぁ!{n}ね、今度一緒に練習しようよ!{n}私もネ、格闘技やってるんだけど、{n}練習相手がいなくてさ。{p}
+EN: Really! Hey, let's practice together sometime! I do martial arts too, but I've got no sparring partner.{p}
+
+## MBMST04 g0 s0177
+JP: 強くなりたければ、練習は大事だからな。{n}クラブでも身体は鍛えられるけど、{n}やっぱり自主トレで、自分の好きなところを{n}重点的に鍛えていくのが、一番の近道だゼ。{p}{end}
+EN: If you want to get strong, practice is key. Clubs build your body, but the fastest way is solo training on the parts you choose.{p}{end}
+
+## MBMST04 g0 s0178
+JP: でもさぁ、自主トレも考えてやらないと。{n}同じところばかり鍛えてると、{n}身体壊しちゃうよ。{n}強くなるにはアタマも使わないとネ!{p}{end}
+EN: But you have to think about your training too. If you only train the same thing, you'll wreck your body. You need brains to get strong!{p}{end}
+
+## MBMST04 g0 s0179
+JP: へっ、通信教育で格闘技やってるヤツに{n}そんなこといわれたくないよなぁ!{p}
+EN: Heh, I don't wanna hear that from someone who learns martial arts by mail!{p}
+
+## MBMST04 g0 s0180
+JP: むーっ!!{p}
+EN: Hmmph!!{p}
+
+## MBMST04 g0 s0181
+JP: やれやれ、また格闘バカが一人増えたか…。{n}頼むから校内では問題を起こさないで{n}くれよ。{p}
+EN: Good grief, another fighting nut... Please don't cause any trouble at school.{p}
+
+## MBMST04 g0 s0182
+JP: ちょっと、恭介!{n}格闘バカって誰の事よ!!{p}
+EN: Hey, Kyosuke! Who are you calling a fighting nut!!{p}
+
+## MBMST04 g0 s0183
+JP: キ・ミ・らのことだ。{n}ケンカを止めるとかいって、この前{n}柔道部とラグビー部の主将をのしたのは、{n}誰だったかな!?{p}{end}
+EN: You. Two. Who was it that "broke up a fight" the other day by flattening the judo and rugby club captains!?{p}{end}
+
+## MBMST04 g0 s0184
+JP: …う、う～ん。{p}
+EN: ...U-uhh.{p}
+
+## MBMST04 g0 s0185
+JP: （…自主トレは同じところを鍛えすぎると{n}{sp}よくないのか。覚えておこう…。）{p}
+EN: (...So training the same thing too much is bad. I'll remember that...){p}
+
+## MBMST04 g0 s0186
+JP: よぉ、{v3:3}じゃねえか!{n}今から俺達、軽くジョギング{n}するんだけど、お前もつき合わないか?{p}{end}
+EN: Hey, it's {v3:3}! We're going for a light jog. Wanna come along?{p}{end}
+
+## MBMST04 g0 s0187
+JP: お、将馬に夏、それにロベルトもいる。{n}みんなでジョギングにいくのか。{n}今日はみんなクラブが休みらしいな。{p}{end}
+EN: Oh, Shoma, Natsu and Roberto. They're all going jogging. Looks like their clubs are off today.{p}{end}
+
+## MBMST04 g0 s0188
+JP: 一緒にジョギングする{n}用事あるから…と断る{p}
+EN: Go jogging together{n}Say I have plans{p}
+
+## MBMST04 g0 s0189
+JP: ごめん、今日はいいわ。{n}ちょっと用事もあるし。{p}
+EN: Sorry, not today. I have something to do.{p}
+
+## MBMST04 g0 s0190
+JP: そう…残念ね。{n}じゃ、行くよ!{p}
+EN: Oh... too bad. Well, let's go!{p}
+
+## MBMST04 g0 s0191
+JP: じゃあな。{n}……{n}さてどこに行こうか?{p}
+EN: See you. ...... Now, where should I go?{p}
+
+## MBMST04 g0 s0192
+JP: いいよ、一緒につきあうぜ。{p}
+EN: Sure, I'll come along.{p}
+
+## MBMST04 g0 s0193
+JP: そうか、夏と将馬は幼なじみなんだ…。{p}{end}
+EN: Oh, so Natsu and Shoma are childhood friends...{p}{end}
+
+## MBMST04 g0 s0194
+JP: まったくネ、腐れ縁てヤツよ。{n}高校まで一緒なんて、ねぇ?{p}{end}
+EN: Seriously. We're just stuck with each other. Even in the same high school, can you believe it?{p}{end}
+
+## MBMST04 g0 s0195
+JP: 何言ってやがる、こっちの方が迷惑だぜ!{n}こんなデカ女と一緒なんてな!{p}{end}
+EN: What're you talking about? I'm the one who's stuck! With a giant girl like you!{p}{end}
+
+## MBMST04 g0 s0196
+JP: 何～、ちょっと将馬、{n}もう一度いってみなさいよ!!{p}
+EN: Whaaat? Shoma, say that again!!{p}
+
+## MBMST04 g0 s0197
+JP: やれやれいつもこの調子だ。{n}…ところで{v3:5}、{n}君は何部に入ったんだっけ?{p}{end}
+EN: Good grief, always like this. ...By the way, {v3:5}, what club did you join again?{p}{end}
+
+## MBMST04 g0 s0198
+JP: 野球部だよな。{n}俺と同じだよ。{p}
+EN: Baseball, right? Same as me.{p}
+
+## MBMST04 g0 s0199
+JP: そのとおり。野球部さ。{n}将馬と同じで、まだ補欠だけどね。{p}{end}
+EN: That's right. Baseball. Like Shoma, I'm still a benchwarmer, though.{p}{end}
+
+## MBMST04 g0 s0200
+JP: バレー部だよね。{n}アタシと一緒よ。{p}
+EN: Volleyball, right? Same as me.{p}
+
+## MBMST04 g0 s0201
+JP: うん、バレー部だよ。{n}そんなに身長高くないし、{n}あんまり上手くないんだけどね。{p}
+EN: Yeah, volleyball. I'm not that tall, though, and not very good.{p}
+
+## MBMST04 g0 s0202
+JP: 何いってんだよ、サッカー部だろ。{n}ロベルト、一緒じゃないか。{p}{end}
+EN: What are you talking about? Soccer! You're with Roberto!{p}{end}
+
+## MBMST04 g0 s0203
+JP: そうそう、ゴメンゴメン。{n}うっかりしてたよ。{n}サッカー部だったよな。{p}{end}
+EN: Right, right, sorry. I forgot. It was soccer.{p}{end}
+
+## MBMST04 g0 s0204
+JP: う～んと文科系クラブなんだけど。{p}{end}
+EN: Um, it's a non-sports club.{p}{end}
+
+## MBMST04 g0 s0205
+JP: 文科系か。{n}学生のうちは運動しといた方が{n}いいんじゃないか?{p}{end}
+EN: Non-sports, huh. Don't you think you should exercise while you're a student?{p}{end}
+
+## MBMST04 g0 s0206
+JP: 実は入ってないんだ。{p}{end}
+EN: Actually, I'm not in one.{p}{end}
+
+## MBMST04 g0 s0207
+JP: なんだ、帰宅部なのか?{n}ダメだな、学生のうちは鍛えとかないと。{p}
+EN: What, the Go-Home Club? That's no good. You need to train while you're a student.{p}
+
+## MBMST04 g0 s0208
+JP: クラブはちゃんと考えて入った方がいいぞ。{n}日々のトレーニングで、鍛えられ方が{n}違うからな。{p}
+EN: Think carefully about which club you join. Daily training shapes you differently.{p}
+
+## MBMST04 g0 s0209
+JP: 同じ体育会系クラブでも違うし、{n}文科系だとさらにバラつきがあるしな。{p}{end}
+EN: Even sports clubs differ, and non-sports clubs vary even more.{p}{end}
+
+## MBMST04 g0 s0210
+JP: 野球部が一番だって。{n}身体能力がバランスよく鍛えられるしな。{n}甲子園を目指すのが男の夢ってヤツよ!{p}
+EN: Baseball's the best. It trains your body evenly. And Koshien is every man's dream!{p}
+
+## MBMST04 g0 s0211
+JP: 何いってんの、補欠のクセに!{n}バレー部の方がいいよ。{n}上半身鍛えるならバレー部が一番ね。{p}{end}
+EN: What are you saying, benchwarmer! Volleyball's better. For your upper body, volleyball's the best.{p}{end}
+
+## MBMST04 g0 s0212
+JP: 何にしても、クラブは学期ごとにしか{n}変われないからな。{n}2学期になったら考えてみたらどうだ?{p}{end}
+EN: Anyway, you can only change clubs each term. How about thinking about it in the 2nd term?{p}{end}
+
+## MBMST04 g0 s0213
+JP: （そうか…{n}{sp}考えておこう…）{p}
+EN: (I see... I'll think about it...){p}
+
+## MBMST04 g0 s0214
+JP: あれっ?{n}屋上に人影が見える。{n}誰だろう。{p}
+EN: Huh? I see people on the roof. Who's that?{p}
+
+## MBMST04 g0 s0215
+JP: 岩!{sp}入学早々から{n}教室で問題を起こすんじゃないと{n}あれほど言っただろうが!{p}{end}
+EN: Gan! I told you not to cause trouble in class right after enrolling!{p}{end}
+
+## MBMST04 g0 s0216
+JP: ひゃっひゃっ!{n}またアキラに怒られてやんの。{p}{end}
+EN: Hyah hyah! Akira's chewing you out again.{p}{end}
+
+## MBMST04 g0 s0217
+JP: エッジ!{n}またワシをバカにしとるの!{n}許さんぞい!{p}
+EN: Edge! You makin' fun of me again!? I won't stand for it!{p}
+
+## MBMST04 g0 s0218
+JP: だいたいだな…………ん?{n}誰だ!{sp}そこに隠れているのは?{p}{end}
+EN: Honestly... ...Hm? Who's that hiding there?{p}{end}
+
+## MBMST04 g0 s0219
+JP: 誰だあ?{p}{end}
+EN: Who's there?{p}{end}
+
+## MBMST04 g0 s0220
+JP: どうしよう?{p}{end}
+EN: What should I do?{p}{end}
+
+## MBMST04 g0 s0221
+JP: さりげなく出ていく{n}まずい逃げよう{p}
+EN: Walk out casually{n}Uh oh, run{p}
+
+## MBMST04 g0 s0222
+JP: 何かまずい零囲気がするから逃げよう!{n}どこに行こうか?{p}
+EN: Something feels off, so I'll run! Where should I go?{p}
+
+## MBMST04 g0 s0223
+JP: やあ、みんなで何してるの?{p}
+EN: Hey, what are you all doing?{p}
+
+## MBMST04 g0 s0224
+JP: 実は今日、岩が教室で{n}クラスメイトにからんでな…。{p}
+EN: Actually, today Gan picked on a classmate...{p}
+
+## MBMST04 g0 s0225
+JP: あれは、あいつがワシを{n}バカにするからいかんのじゃ!{p}{end}
+EN: That's 'cause he made fun of me!{p}{end}
+
+## MBMST04 g0 s0226
+JP: まっ、本当の事だから{n}しょうがねえんじゃねえの?{p}{end}
+EN: Well, it was true, so what can ya do?{p}{end}
+
+## MBMST04 g0 s0227
+JP: またワシをバカにしよって。{n}もう許さんぞい!{p}{end}
+EN: Makin' fun of me again! That's it!{p}{end}
+
+## MBMST04 g0 s0228
+JP: 岩もエッジもいいかげんにしろ!{n}なぁ、{v3:10}もそう思うだろ?{p}
+EN: Gan, Edge, knock it off! Hey, {v3:10}, don't you agree?{p}
+
+## MBMST04 g0 s0229
+JP: 2人ともガキだなあ{n}怒るのは当然だよ{p}{end}
+EN: You're both kids{n}Of course you're mad{p}{end}
+
+## MBMST04 g0 s0230
+JP: 2人ともガキだなあ、{n}もう高校生なんだから大人になろうよ。{p}
+EN: You're both such kids. We're in high school now, so grow up.{p}
+
+## MBMST04 g0 s0231
+JP: あ～あ、{n}{v3:9}に言われちゃあ{n}しらけちまうぜ。{n}やめたやめた。{p}
+EN: Aw man, getting told off by {v3:9} kills the mood. Forget it.{p}
+
+## MBMST04 g0 s0232
+JP: ワシもなんだか{n}バカらしゅうなってきたわい。{p}{end}
+EN: Somehow I'm startin' to feel silly too.{p}{end}
+
+## MBMST04 g0 s0233
+JP: すまんな、{n}みっともない所を見せてしまって。{p}{end}
+EN: Sorry you had to see that.{p}{end}
+
+## MBMST04 g0 s0234
+JP: 怒るのは当然だよ!{n}もっと怒れ!怒れ!{p}
+EN: Of course you're mad! Get madder! Madder!{p}
+
+## MBMST04 g0 s0235
+JP: {v3:11}が怒ってるのを見ると{n}なんだか自分がみっともなく{n}見えてきたわい。{p}
+EN: Seein' {v3:11} so mad, I'm startin' to feel embarrassed.{p}
+
+## MBMST04 g0 s0236
+JP: {v3:11}!{n}もっと大人になれよ!{p}{end}
+EN: {v3:11}! Grow up!{p}{end}
+
+## MBMST04 g0 s0237
+JP: 2人の怒りをうまくしずめてくれたな。{n}感謝する。{p}{end}
+EN: You calmed them both down nicely. Thanks.{p}{end}
+
+## MBMST04 g0 s0238
+JP: そうだ、お礼に良い事を教えてやる。{p}
+EN: I know, I'll tell you something useful to thank you.{p}
+
+## MBMST04 g0 s0239
+JP: 何?{p}{end}
+EN: What?{p}{end}
+
+## MBMST04 g0 s0240
+JP: 移動コマンドは1イベント中に{n}2回までしか行動できないんだ。{p}{end}
+EN: You can only use the Move command twice per event.{p}{end}
+
+## MBMST04 g0 s0241
+JP: ふむふむ。{p}
+EN: Uh huh.{p}
+
+## MBMST04 g0 s0242
+JP: だから、2回目に選択した場所からは{n}再び移動し直す事ができない。{n}決定する時は慎重に行うようにな。{p}
+EN: So you can't move again from the second place you pick. Choose carefully.{p}
+
+## MBMST04 g0 s0243
+JP: 移動は1イベントにつき2回までか。{n}よーく覚えとかなきゃ!{p}
+EN: Only two moves per event, huh. I'd better remember that!{p}
+
+## MBMST04 g0 s0244
+JP: （あれっ保健室に響子先生の他にもう一人{n}{sp}いるぞ。チョットのぞいてみよう。{n}{sp}あ!……英雄先生!{n}{sp}また響子先生とおしゃべりしにきてるな）{p}
+EN: (Huh? There's someone besides Kyoko-sensei in the infirmary. Let me peek. Ah!... Hideo-sensei! Chatting with Kyoko-sensei again.){p}
+
+## MBMST04 g0 s0245
+JP: なんとしても阻止しなければ!{n}ちょっとひやかしてやれ{n}ココはそっとしておいてあげよう{n}他の場所にいこう{p}
+EN: I have to stop this!{n}Tease them a little{n}Leave them be{n}Go somewhere else{p}
+
+## MBMST04 g0 s0246
+JP: よし雷蔵校長の声をまねて…。{n}「ウォッホン。島津先生は仕事もしないで{n}{sp}どこに行ったんだ?{sp}見つけたら{n}{sp}一言言ってやらんといかんな…。」{p}
+EN: Okay, I'll imitate Principal Raizo's voice... "Ahem. Where has Shimazu-sensei run off to, skipping his work? I'll have a word with him when I find him..."{p}
+
+## MBMST04 g0 s0247
+JP: あわあわわ…きょ響子先生それでは{n}しっ失礼します!!（ガラガッシャーン）{p}{end}
+EN: Wa-wa-wa... K-Kyoko-sensei, I-I'll excuse myself!! (CRASH){p}{end}
+
+## MBMST04 g0 s0248
+JP: あっ島津先生!{sp}大丈夫ですか?{p}
+EN: Oh, Shimazu-sensei! Are you all right?{p}
+
+## MBMST04 g0 s0249
+JP: だっ大丈夫です!{sp}しっ失礼しますっっ。{p}
+EN: I-I'm fine! Ex-excuse me!{p}
+
+## MBMST04 g0 s0250
+JP: なんか悪いことしちゃったかな…。{n}保健室に入りにくくなってしまった。{n}またにしよう。{p}{end}
+EN: Did I do something bad... Now it's awkward to go into the infirmary. Some other time.{p}{end}
+
+## MBMST04 g0 s0251
+JP: 失礼します!{sp}あれっ英雄先生。{p}
+EN: Excuse me! Oh, Hideo-sensei.{p}
+
+## MBMST04 g0 s0252
+JP: {v0}{col:0}君{col:-}じゃないか。何か{n}響子先生に用かね?{p}{end}
+EN: Why, it's {v0}{col:0}-kun{col:-}. Do you need something from Kyoko-sensei?{p}{end}
+
+## MBMST04 g0 s0253
+JP: いえっ…なんか、オジャマのようだから…{n}また今度にします。{p}
+EN: No... Looks like I'm interrupting... I'll come back another time.{p}
+
+## MBMST04 g0 s0254
+JP: わわ、私と響子先生は別にそんな{n}カッカンケイではない!{n}変なゴカイはよっよしたまえ!{p}{end}
+EN: W-w-we are not in that kind of r-relationship! D-don't get the wrong idea!{p}{end}
+
+## MBMST04 g0 s0255
+JP: 誰もそんなカンケイだなんていってない{n}じゃないですか。それでは失礼しま～す。{p}{end}
+EN: Nobody said anything about a relationship. Well, excuse meee.{p}{end}
+
+## MBMST04 g0 s0256
+JP: ふふっ英雄先生あんなにあわてちゃって。{n}中のようすはどうかな?{p}
+EN: Heh, Hideo-sensei got so flustered. I wonder what's going on in there?{p}
+
+## MBMST04 g0 s0257
+JP: いやぁ生徒にからかわれてこまりますなぁ{n}響子先生!{n}私たちそんなカンケイに見えますかねぇ?{p}
+EN: My, the students do tease us, Kyoko-sensei! Do we look like that kind of couple?{p}
+
+## MBMST04 g0 s0258
+JP: まぁいいじゃありませんか島津センセ。{p}{end}
+EN: Oh, why not, Shimazu-sensei.{p}{end}
+
+## MBMST04 g0 s0259
+JP: 御迷惑ですか?{p}
+EN: Do you mind?{p}
+
+## MBMST04 g0 s0260
+JP: …そんなこと…ないですよ島津センセ{col:5}♥{col:-}{p}{end}
+EN: ...Not at all... Shimazu-sensei{col:5}♥{col:-}{p}{end}
+
+## MBMST04 g0 s0261
+JP: しまった!…この状況を利用されてる!{p}{end}
+EN: Oops!... They're using this to their advantage!{p}{end}
+
+## MBMST04 g0 s0262
+JP: でも、この情報はみんなにさっそくバラし{n}ちゃうもんねー。{n}「みんなーっビッグニュース!響子先生と{n}{sp}英雄先生がね…。」{p}
+EN: But I'm spilling this to everyone right away. "Everyone! Big news! Kyoko-sensei and Hideo-sensei..."{p}
+
+## MBMST04 g0 s0263
+JP: それじゃあどこにいこうか?{p}
+EN: So where should I go?{p}
+
+## MBMST04 g0 s0264
+JP: あそこに3人いるぞ。{n}確か…ロイとティファニーとボーマン{n}だったかな?{p}
+EN: There are three people over there. I think it's... Roy, Tiffany and Boman?{p}
+
+## MBMST04 g0 s0265
+JP: 話しかける{n}他の場所に行く{p}
+EN: Talk to them{n}Go somewhere else{p}
+
+## MBMST04 g0 s0266
+JP: みんなこんにちは!{p}
+EN: Hi, everyone!{p}
+
+## MBMST04 g0 s0267
+JP: やぁ!君は{v3:6}だったよな。{p}
+EN: Hey! You're {v3:6}, right?{p}
+
+## MBMST04 g0 s0268
+JP: そうだロイ。{n}{v3:7}に聞いたらいいネ。{n}多分良く知ってる思うヨ!{p}
+EN: I know, Roy. Let's ask {v3:7}. I think they know well!{p}
+
+## MBMST04 g0 s0269
+JP: 私もそう思っていたところでした。{p}{end}
+EN: I was thinking the same thing.{p}{end}
+
+## MBMST04 g0 s0270
+JP: {v3:6}今3人で話し合っていたんだが{n}日本の『花見』というのは、{n}どんなことをするものなんだ?{n}知っていたら説明してくれないか?{p}{end}
+EN: {v3:6}, we were just discussing something. What does one do at a Japanese "hanami"? Could you explain if you know?{p}{end}
+
+## MBMST04 g0 s0271
+JP: そうだなぁ…。{p}
+EN: Let's see...{p}
+
+## MBMST04 g0 s0272
+JP: チェリーを見るお祭りかな…{n}チェリーブラッサムを見るお祭りかな…{n}チェリーツリーを見るお祭りかな…{p}
+EN: A cherry festival...{n}A cherry blossom festival...{n}A cherry tree festival...{p}
+
+## MBMST04 g0 s0273
+JP: OK!{n}すごくよく分かったよ{n}じゃあ4人でGOだ!{p}
+EN: OK! That makes perfect sense. Then let's all four GO!{p}
+
+## MBMST04 g0 s0274
+JP: ドウモアリガト。{n}{v3:7}とっても近鉄ね!{p}
+EN: Sank you very much. {v3:7} is very kindling!{p}
+
+## MBMST04 g0 s0275
+JP: それを言うなら『親切』ですよ。{n}ティファニー!{p}
+EN: You mean "kind," Tiffany!{p}
+
+## MBMST04 g0 s0276
+JP: このあと4人で花見に行った。{n}3人と、とても仲良くなれた。{p}
+EN: After that, the four of us went flower viewing. I got really close to the three of them.{p}
+
+## MBMST04 g0 s0277
+JP: サクランボを見るフェスティバルですか?{n}あんまりたのしそうじゃないデ～ス。{p}
+EN: A festival for looking at cherries? Doesn't sound like much fun.{p}
+
+## MBMST04 g0 s0278
+JP: さくらの木を見る祭りですか。{n}日本では珍しい祭りがあるのですね。{p}{end}
+EN: A festival for looking at cherry trees. Japan has such unusual festivals.{p}{end}
+
+## MBMST04 g0 s0279
+JP: 今日は親切にありがとう。{n}またあおうゼ!{p}{end}
+EN: Thanks for being so kind today. See ya again!{p}{end}
+
+## MBMST04 g0 s0291
+JP: {face:8}・・・・・・・{face:255}{p}
+EN: {face:8}.......{face:255}{p}
+
+## MBMST04 g0 s0296
+JP: ほう……{n}すまなかった。{n}しかし、そこまではっきりモノがいえる{n}ジャパニーズも珍しいな!!{p}
+EN: Oh... My apologies. But it's rare to meet a Japanese who speaks their mind that clearly!!{p}
+
+## MBMST04 g0 s0326
+JP: （声は聞こえるが、こうなっては{n}{sp}しかたない……{n}{sp}しかし、こいつら人数がドンドン増える。{n}{sp}これじゃキリがないぞ……!!）{p}{end}
+EN: (I hear him, but it's too late now... But more and more of them keep coming. This will never end...!!){p}{end}
+
+## MBMST04 g0 s0342
+JP: {v0}{sp}{v1}ね。{n}こっちは、あのデカイのが『岩』だ。{n}このメットかぶってるのが{n}『アキラ』。{p}
+EN: {v1} {v0}, huh. That big guy's Gan. And the one in the helmet's Akira.{p}
+
+## MBMST04 g1 s0056
+JP: なんだあ、そのざまは?{n}一生は長えが青春は短いんだぜ!{n}まあ、入学は認めてやるが{n}次の試験では結果を出せよ!じゃあな!{p}
+EN: What's with that pathetic showing? Life is long, but youth is short! Fine, I'll let you in, but you'd better get results next exam! Later!{p}
+
+## MBMST04 g1 s0057
+JP: はあ……{n}少し心配になってきたなあ……。{n}でも、まだまだ先は長いんだ!{n}頑張ろうっと!{p}
+EN: Sigh... I'm starting to get a little worried... But there's still a long way to go! I'll do my best!{p}
+
+## MBMST04 g1 s0059
+JP: う、うそっ。{n}もうこんな時間!?{n}遅刻しちゃうわ!{p}
+EN: N-no way. It's already this late!? I'm gonna be late!{p}
+
+## MBMST04 g1 s0060
+JP: 入学式早々遅刻なんて、もぉ最低!!{p}
+EN: Late on the day of the entrance ceremony, that's the worst!!{p}
+
+## MBMST04 g1 s0061
+JP: うん、このペースなら間に合うわ!{n}このまま一気に…{p}
+EN: Okay, at this pace I'll make it! Just keep going...{p}
+
+## MBMST04 g1 s0062
+JP: きゃあ!!{p}
+EN: Kyaaa!!{p}
+
+## MBMST04 g1 s0063
+JP: い、いたたた…いったい何がどうなったの?{p}{end}
+EN: O-ow ow ow... What just happened?{p}{end}
+
+## MBMST04 g1 s0066
+JP: ごめんね。{n}遅刻しそうだったから…{p}
+EN: Sorry. I was about to be late...{p}
+
+## MBMST04 g1 s0067
+JP: なーんてね。実は、私も急いでてあんまり前{n}見てなかったの。{p}
+EN: Just kidding. Actually, I was in a hurry and not looking ahead either.{p}
+
+## MBMST04 g1 s0068
+JP: ふふふ、おあいこだね。{p}
+EN: Hee hee, we're even.{p}
+
+## MBMST04 g1 s0069
+JP: ところで、ケガはない?{p}
+EN: By the way, are you hurt?{p}
+
+## MBMST04 g1 s0070
+JP: …うん、大丈夫みたい。{p}
+EN: ...Yeah, I think I'm fine.{p}
+
+## MBMST04 g1 s0071
+JP: そうだ、いっしょに学校まで走ろうよ!{p}{end}
+EN: I know, let's run to school together!{p}{end}
+
+## MBMST04 g1 s0072
+JP: ハァ…ハァ…ハァ…ハァ…ハァ…{p}
+EN: *pant*... *pant*... *pant*...{p}
+
+## MBMST04 g1 s0076
+JP: 私、{v0}{sp}{v1}。{n}ヨロシクね。{p}
+EN: I'm {v1} {v0}. Nice to meet you.{p}
+
+## MBMST04 g1 s0077
+JP: {v0}{col:0}さん{col:-}かあ。{n}うふふっ、同じクラスになれるといーね{col:5}♥{col:-}{p}{end}
+EN: {v0}{col:0}-san{col:-}, huh. Hee hee, hope we end up in the same class{col:5}♥{col:-}{p}{end}
+
+## MBMST04 g1 s0080
+JP: 私も急がなくっちゃ!{p}{end}
+EN: I'd better hurry too!{p}{end}
+
+## MBMST04 g1 s0082
+JP: ハァ…どこもそうだとは思うけど、{n}校長の話って長いのよね。{p}
+EN: Sigh... I guess it's like this everywhere, but principals' speeches are so long.{p}
+
+## MBMST04 g1 s0084
+JP: よし、ここから脱出するぞ!{n}お前も来るか?{p}
+EN: Alright, I'm breaking out of here! You coming?{p}
+
+## MBMST04 g1 s0085
+JP: ・・・・・・・?{p}{end}
+EN: .......?{p}{end}
+
+## MBMST04 g1 s0096
+JP: オレはバツ。{n}『一文字{sp}バツ』だ。{p}
+EN: I'm Batsu. Batsu Ichimonji.{p}
+
+## MBMST04 g1 s0097
+JP: 私は『{v0}{sp}{v1}』。{n}よろしくね。{p}
+EN: I'm {v1} {v0}. Nice to meet you.{p}
+
+## MBMST04 g1 s0101
+JP: …今度は私の自己紹介の番だ。{p}{end}
+EN: ...Now it's my turn to introduce myself.{p}{end}
+
+## MBMST04 g1 s0103
+JP: 私は{v0}{sp}{v1}!{n}みんな、これからの1年間よろしくね!{p}
+EN: I'm {v1} {v0}! Everyone, let's have a great year together!{p}
+
+## MBMST04 g1 s0108
+JP: へぇ…{p}
+EN: Huh...{p}
+
+## MBMST04 g1 s0115
+JP: {v0}{col:0}さん{col:-}、{v0}{col:0}さん{col:-}!{n}おんなじクラスだったんだねー。{n}びっくりしたよ!!{p}{end}
+EN: {v0}{col:0}-san{col:-}, {v0}{col:0}-san{col:-}! We're in the same class! What a surprise!!{p}{end}
+
+## MBMST04 g1 s0118
+JP: {v0}{col:0}さん{col:-}だったかな?{p}
+EN: It was {v0}{col:0}-san{col:-}, wasn't it?{p}
+
+## MBMST04 g1 s0121
+JP: 廊下では、早くもクラブの勧誘が{n}始まっているみたい。{p}{end}
+EN: Looks like the clubs are already recruiting in the hallway.{p}{end}
+
+## MBMST04 g1 s0129
+JP: どのクラブに入ろうかな?{p}{end}
+EN: Which club should I join?{p}{end}
+
+## MBMST04 g1 s0138
+JP: どうせ行くならワールドカップ!{n}私には無理かな…{p}{end}
+EN: If we're going, it's the World Cup!{n}I don't think I'm up to it...{p}{end}
+
+## MBMST04 g1 s0146
+JP: アタシは『鮎原{sp}夏』。よろしくね!{p}
+EN: I'm Natsu Ayuhara. Nice to meet you!{p}
+
+## MBMST04 g1 s0162
+JP: 教室の前にいくと、{n}ちょうど、ひなたとバツ君、恭介君{n}の3人が出てくるところだった。{p}{end}
+EN: When I reached the classroom, Hinata, Batsu-kun and Kyosuke-kun were just coming out.{p}{end}
+
+## MBMST04 g1 s0166
+JP: そうなんだ…{n}それじゃしょうがないね。{n}じゃあね、{v9:1}。お先に～。{p}
+EN: I see... Oh well. Bye, {v9:1}. See you!{p}
+
+## MBMST04 g1 s0167
+JP: ……さてと、{n}どこにいこうかナ。{p}{end}
+EN: ...Now then, where should I go?{p}{end}
+
+## MBMST04 g1 s0168
+JP: いいよ、一緒に帰ろ!{p}{end}
+EN: Sure, let's go home together!{p}{end}
+
+## MBMST04 g1 s0173
+JP: オレはチーズケーキおかわりだ!{n}ところで、{v3:0}。{n}お前、女の子にしては強そうにみえるけど、{n}格闘技か何かやってるのか?{p}
+EN: Another cheesecake for me! By the way, {v3:0}, you look strong for a girl. Do you do martial arts or something?{p}
+
+## MBMST04 g1 s0174
+JP: 誰かに習ってるわけじゃないけど、{n}一応トレーニングはしてるヨ。{n}強くなりたいんだ!{p}
+EN: I don't have a teacher, but I do train. I want to get stronger!{p}
+
+## MBMST04 g1 s0175
+JP: そうなんだぁ!{sp}私と一緒だね!!{n}ね、今度一緒に練習しようよ!{n}私もネ、格闘技やってるんだけど、{n}女の子の練習相手って、いなくてさ。{p}{end}
+EN: Really! Same as me!! Hey, let's practice together sometime! I do martial arts too, but there are no girl sparring partners.{p}{end}
+
+## MBMST04 g1 s0184
+JP: （……自主トレは同じところを鍛えすぎると{n}{sp}よくないのね。覚えとこ……。）{p}
+EN: (...So training the same thing too much is bad. I'll remember that...){p}
+
+## MBMST04 g1 s0185
+JP: よぉ、{v3:3}じゃねえか!{n}今からオイラ達、軽くジョギング{n}するんだけど、お前もつき合わないか?{p}{end}
+EN: Hey, it's {v3:3}! We're going for a light jog. Wanna come along?{p}{end}
+
+## MBMST04 g1 s0186
+JP: あ、将馬君に夏、それにロベルト君も{n}いるワ。{n}今日はみんなクラブが休みなのね。{p}
+EN: Oh, Shoma-kun, Natsu and Roberto-kun too. Looks like all their clubs are off today.{p}
+
+## MBMST04 g1 s0190
+JP: じゃあネ。{n}……{n}さてどこに行こうかナ?{p}{end}
+EN: Bye. ...... Now, where should I go?{p}{end}
+
+## MBMST04 g1 s0191
+JP: いいわよ、一緒につきあうわ。{p}{end}
+EN: Sure, I'll come along.{p}{end}
+
+## MBMST04 g1 s0192
+JP: へぇ、夏と将馬君て幼なじみなんだ…。{p}{end}
+EN: Huh, so Natsu and Shoma-kun are childhood friends...{p}{end}
+
+## MBMST04 g1 s0196
+JP: やれやれいつもこの調子だ。{n}…ところで{v8:5}、{n}君は何部に入ったんだっけ?{p}{end}
+EN: Good grief, always like this. ...By the way, {v8:5}, what club did you join again?{p}{end}
+
+## MBMST04 g1 s0197
+JP: 野球部だよな。{n}女子野球部の期待の新人だぜ。{p}{end}
+EN: Baseball, right? The girls' baseball team's rising star.{p}{end}
+
+## MBMST04 g1 s0198
+JP: そう。野球部よ。{n}将馬君と同じで、まだ補欠だけどネ。{p}{end}
+EN: That's right. Baseball. Like Shoma-kun, I'm still a benchwarmer, though.{p}{end}
+
+## MBMST04 g1 s0200
+JP: うん、バレー部ヨ。{n}そんなに身長高くないし、{n}あんまり上手くないんだけどね。{p}{end}
+EN: Yeah, volleyball. I'm not that tall, though, and not very good.{p}{end}
+
+## MBMST04 g1 s0201
+JP: 何いってんのよ、サッカー部でしょ。{n}ロベルト君、一緒じゃない。{p}
+EN: What are you saying? Soccer! You're with Roberto-kun!{p}
+
+## MBMST04 g1 s0202
+JP: そうそう、ゴメンゴメン。{n}うっかりしてたよ。{n}女子サッカー部だったよな。{p}{end}
+EN: Right, right, sorry. I forgot. It was girls' soccer.{p}{end}
+
+## MBMST04 g1 s0203
+JP: う～んと文科系クラブなんだけどネ。{p}
+EN: Um, it's a non-sports club.{p}
+
+## MBMST04 g1 s0205
+JP: 実は入ってないんダ。{p}{end}
+EN: Actually, I'm not in one.{p}{end}
+
+## MBMST04 g1 s0212
+JP: （そうなんだ…{n}{sp}考えておこうかナ…）{p}
+EN: (I see... Maybe I'll think about it...){p}
+
+## MBMST04 g1 s0230
+JP: （あれっ保健室に響子先生の他にもう一人{n}{sp}いるわ?チョットのぞいてみようっと。{n}{sp}あーっ英雄先生!{sp}またなにか理由つけて{n}{sp}響子先生とおしゃべりしにきてるわ。）{p}{end}
+EN: (Huh? There's someone besides Kyoko-sensei in the infirmary? Let me peek. Ah! Hideo-sensei! He found another excuse to chat with Kyoko-sensei.){p}{end}
+
+## MBMST04 g1 s0231
+JP: なんとしても阻止しなきゃ!{n}ちょっとひやかしてやれ{n}ココはそっとしておいてあげよう{n}他の場所にいこう{p}{end}
+EN: I have to stop this!{n}Tease them a little{n}Leave them be{n}Go somewhere else{p}{end}
+
+## MBMST04 g1 s0232
+JP: よし学園長の声をまねて…。{n}「ウォッホン。島津先生は仕事もしないで{n}{sp}どこに行ったんだ?{sp}見つけたら{n}{sp}一言言ってやらんといかんな…。」{p}{end}
+EN: Okay, I'll imitate the principal's voice... "Ahem. Where has Shimazu-sensei run off to, skipping his work? I'll have a word with him when I find him..."{p}{end}
+
+## MBMST04 g1 s0236
+JP: なんか悪いことしちゃったかな…。{n}保健室に入りにくくなっちゃった。{n}またにしよう。{p}
+EN: Did I do something bad... Now it's awkward to go into the infirmary. Some other time.{p}
+
+## MBMST04 g1 s0244
+JP: まぁいいじゃありませんか、島津センセ。{p}
+EN: Oh, why not, Shimazu-sensei.{p}
+
+## MBMST04 g1 s0253
+JP: エッジ!{n}また、ワシをバカにしとるの!{n}許さんぞい!{p}{end}
+EN: Edge! You makin' fun of me again!? I won't stand for it!{p}{end}
+
+## MBMST04 g1 s0254
+JP: だいたいだなあ…ん?{n}誰だ!{sp}そこに隠れているのは?{p}{end}
+EN: Honestly... Hm? Who's that hiding there?{p}{end}
+
+## MBMST04 g1 s0258
+JP: 何かまずい零囲気がするから逃げよう!{n}どこに行こう?{p}{end}
+EN: Something feels off, so I'll run! Where should I go?{p}{end}
+
+## MBMST04 g1 s0259
+JP: ねえ、みんなで何してるの?{p}
+EN: Hey, what are you all doing?{p}
+
+## MBMST04 g1 s0272
+JP: {v3:10}!{n}もっと大人になれよ!{p}{end}
+EN: {v3:10}! Grow up!{p}{end}
+
+## MBMST04 g1 s0322
+JP: （いきなり殴りかかられた!!{n}{sp}このっ……!!）{p}{end}
+EN: (She just punched me!! Why you...!!){p}{end}
+

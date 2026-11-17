@@ -1,0 +1,68 @@
+# Event banners in DAT2/MA_BETA.BIZ, built by tools/build_banners.py.
+# ID: EN text. Rectangles: data/banners.tsv.
+beta011.date: April 6
+beta011.title: Entrance Ceremony
+beta012.title: 1st Term Midterm Exam
+beta013.date: June 12
+beta013.title: Taiyo-Pacific Match
+beta014.title: 1st Term Final Exam
+beta015.date: August 14-15
+beta015.title: Seaside Camp
+beta016.date: September 26
+beta016.title: School Festival
+beta017.title: 2nd Term Midterm Exam
+beta018.date: November 28
+beta018.title: Gorin Festival
+beta019.title: 2nd Term Final Exam
+beta020.date: December 24
+beta020.title: Christmas
+beta021.date: January 1
+beta021.title: New Year's Visit
+beta022.date: February 14
+beta022.title: Valentine's Day
+beta023.title: Promotion Test
+beta024.title: Year-End Exam
+beta025.date: March 24
+beta025.title: Closing Ceremony
+
+# Month cards (entries 000-010): month name, then dayK / evK per schedule
+# line (rectangles and colours in data/banners.tsv).
+beta000.month: May
+beta000.day1: 25th
+beta000.ev1: 1st Term Midterm Exam
+beta001.month: June
+beta001.day1: 12th
+beta001.ev1: Taiyo-Pacific Match
+beta002.month: July
+beta002.day1: 6th
+beta002.ev1: 1st Term Final Exam
+beta003.month: August
+beta003.day1: 14th-15th
+beta003.ev1: Seaside Camp
+beta004.month: September
+beta004.day1: 26th
+beta004.ev1: School Festival
+beta005.month: October
+beta005.day1: 26th
+beta005.ev1: 2nd Term Midterm Exam
+beta006.month: November
+beta006.day1: 28th
+beta006.ev1: Gorin Festival
+beta007.month: December
+beta007.day1: 14th
+beta007.ev1: 2nd Term Final Exam
+beta007.day2: 24th
+beta007.ev2: Christmas
+beta008.month: January
+beta008.day1: 1st
+beta008.ev1: New Year
+beta009.month: February
+beta009.day1: 14th
+beta009.ev1: Valentine's Day
+beta010.month: March
+beta010.day1: 8th
+beta010.ev1: Year-End Exam
+beta010.day2: 20th
+beta010.ev2: Promotion Test
+beta010.day3: 24th
+beta010.ev3: Closing Ceremony

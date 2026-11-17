@@ -1,0 +1,191 @@
+# Diary-mode staff roll (STAFF.BIN + DAT2/MGSTAFF1.BIZ), read by
+# tools/build_staff.py. One line per credit piece: ID: JP | EN.
+# ID = piece (rect) index in STAFF.BIN; blocks are the pages of the roll in
+# the order they appear (L = left half of the screen, R = right half).
+# Pieces on one screen line are joined with "+" in the comments.
+# EN "=" keeps the original piece (already Latin).
+# Escapes in EN: {dot} middle dot, {star} white star.
+
+# --- page 0, centred
+000: ジャスティス学園制作委員会 | Rival Schools Production Committee
+
+# --- page 1, R
+001: 企画 | Planner
+002: 伊津野英昭 | Hideaki Itsuno
+003: 中江竜也 | Tatsuya Nakae
+004: 松本裕司 | Yuji Matsumoto
+005: 寺田隆良 | Takayoshi Terada
+006: 江口勝博 | Katsuhiro Eguchi
+007: 呑田純子 | Junko Nomita
+008: アシスタント | Assistant
+009: ササキ ダイスケ | Daisuke Sasaki
+010: いちのせ やすのり | Yasunori Ichinose
+011: キャラクターイラスト | Character Illustration
+012: 黒修 | Osamu Kuro
+013: えだやん | Edayan
+014: スミトモ | Sumitomo
+
+# --- page 2, L
+015: プログラム | Programmer
+016: 染谷勝彦 | Katsuhiko Sometani
+# Sometani per the USA arcade credits (K.SOMETANI)
+017: こぶたちゃん | Kobuta-chan
+018: 香川雄一 | Yuichi Kagawa
+019: SAILOR | =
+020: 熱血青春日記プログラム | Youth Diary Programmer
+021: MOTSU | =
+022: KAW・TLD | =
+# KAW-TLD is Manabu Kawase (ja.wikipedia); the nickname is kept
+023: 廣門輝明 | Teruaki Hirokado
+024: プログラム協力 | Program Support
+025: SENOR | =
+026: 河明義 | Akiyoshi Kawa
+027: 稲葉博 | Hiroshi Inaba
+028: KADONTZ | =
+029: YOU! | =
+
+# --- page 3, L
+030: モーションデザイン | Motion Design
+031: YU-SUKE | =
+032: 藤沢直紀(EFA) | Naoki Fujisawa (EFA)
+033: TATEISHI.m | =
+034: KAKO | =
+035: 高坂隆之 | Takayuki Kosaka
+036: 谷田☆仁子 | Yoshiko {star} Tanida
+# Yoshiko Tanida per the USA arcade credits
+037: 山根陽子 | Yoko Yamane
+038: 渡辺江美子 | Emiko Watanabe
+
+# --- page 4, R
+039: 3Dモデルデザイン | 3D Model Design
+040: DEKAO | =
+041: こうき | Koki
+042: 音響効果 | Sound Effects
+043: 鉢迫渉 | Wataru Hachisako
+044: 伊勢聡 | Satoshi Ise
+# 043 + 044 on one line
+045: 作曲・編曲 | Composer & Arranger
+046: 山本節生 | Setsuo Yamamoto
+047: インストデザイン | Manual Design
+048: M.NAGAOKA | =
+
+# --- page 5, L
+049: スクロールデザイン | Background Design
+050: ZIGGY | =
+051: たまちゃん | Tama-chan
+052: 山本こうじ | Koji Yamamoto
+053: TOKIO NODA | =
+054: いしかわ たかのり | Takanori Ishikawa
+055: きさどん | Kisadon
+
+# --- page 6, R (two names per line)
+056: プロジェクトスタッフ | Project Staff
+057: 佐野孝行 | Takayuki Sano
+058: 山田希男 | Mareo Yamada
+059: 田中徳良 | Noriyoshi Tanaka
+060: 川野毅 | Takeshi Kawano
+061: 寺田歩未 | Ayumi Terada
+062: 阿部尚希 | Naoki Abe
+063: スペシャルサンクス | Special Thanks
+064: BAMBOO | =
+065: 瀧本和也 | Kazuya Takimoto
+066: 白岩卓也 | Takuya Shiraiwa
+067: 久堀啓次 | Keiji Kubori
+068: 松本広明 | Hiroaki Matsumoto
+069: 須藤克洋 | Katsuhiro Sudo
+
+# --- page 7, R
+070: 声の出演 | Voice Cast
+071: 檜山修之 | Nobuyuki Hiyama
+072: 半場友恵 | Tomoe Hanba
+073: 千葉一伸 | Isshin Chiba
+074: 上田祐司 | Yuji Ueda
+075: 津野田なるみ | Narumi Tsunoda
+076: 森川智之 | Toshiyuki Morikawa
+077: 置鮎龍太郎 | Ryotaro Okiayu
+078: ならはしみき | Miki Narahashi
+079: 山田義暒 | Yoshiharu Yamada
+080: 手塚ちはる | Chiharu Tezuka
+081: 長嶝高士 | Takashi Nagasako
+082: 水鳥鉄夫 | Tetsuo Mizutori
+083: 三石琴乃 | Kotono Mitsuishi
+084: 西村知道 | Tomomichi Nishimura
+085: 塩沢兼人 | Kaneto Shiozawa
+086: 笹本優子 | Yuko Sasamoto
+087: 山寺宏一 | Koichi Yamadera
+088: 山崎たくみ | Takumi Yamazaki
+
+# --- page 8, L (job title + name on one line where noted)
+089: アニメーション制作 | Animation Production
+090: 葦プロダクション | Ashi Productions
+091: 監督 | Director
+092: 川筋豊 | Yutaka Kawasuji
+093: 絵コンテ | Storyboard
+094: うえだひでひと | Hidehito Ueda
+095: アニメーションキャラクター | Animation Characters
+096: 福世孝明 | Takaaki Fukuyo
+097: 美術 | Art
+098: 中村豪希 | Goki Nakamura
+099: (小林プロダクション) | (Kobayashi Production)
+100: 音響監督 | Sound Director
+101: 藤山房伸 | Fusanobu Fujiyama
+102: オープニング原画 | Opening Key Animation
+103: 平田かほる | Kahoru Hirata
+104: 山田雅樹 | Masaki Yamada
+105: 高乗陽子 | Yoko Takanori
+106: 岡辰也 | Tatsuya Oka
+107: 田中孝弘 | Takahiro Tanaka
+108: エンディング原画A | Ending Key Animation A
+109: 川原智弘 | Tomohiro Kawahara
+110: 福世孝明 | Takaaki Fukuyo
+111: 川田剛 | Tsuyoshi Kawata
+112: エンディング原画B | Ending Key Animation B
+113: 近藤高光 | Takamitsu Kondo
+
+# --- page 9, L (starts with 089 again)
+115: デジタルワーク | Digital Work
+116: 矢口民雄 | Tamio Yaguchi
+117: (レアトリック) | (Rare Trick)
+118: デジタルペイント | Digital Paint
+119: ビジュアルワークショップ | Visual Workshop
+120: 音響効果 | Sound Effects
+121: 加藤昭二 | Shoji Kato
+122: 製作協力 | Production Support
+123: 馬場健 | Ken Baba
+
+# --- page 10, R (theme songs; song titles in orange)
+124: 主題歌 | Theme Songs
+125: 「熱き鼓動」 | "Atsuki Kodo"
+126: 「未来(あした)の行方」 | "Ashita no Yukue"
+127: 作詞作曲 | Lyrics & Music
+128: 尾澤拓実 | Takumi Ozawa
+129: 編曲 | Arrangement
+130: 安達隆之 | Takayuki Adachi
+131: 唄 | Vocals
+132: 尾藤イサオ | Isao Bito
+133: 「ジャスティス学園校歌」 | "Justice High School Song"
+134: 作詞 | Lyrics
+135: A.K | =
+136: 作曲 | Music
+137: 山本節生 | Setsuo Yamamoto
+138: 唄 | Vocals
+139: 山本亮治 | Ryoji Yamamoto
+
+# --- page 11, L
+140: 熱血隼人デザイン協力 | Hayato Nekketsu Design Support
+141: 島本和彦 | Kazuhiko Shimamoto
+142: SHINSEISHA | =
+143: プロデューサー | Producer
+144: 船水紀孝 | Noritaka Funamizu
+145: 中嶋浩二 | Koji Nakajima
+
+# --- page 12, R
+146: ゼネラルプロデューサー | General Producer
+147: 岡本吉起 | Yoshiki Okamoto
+148: & | =
+149: CAPCOM | =
+150: ALL STAFF | =
+
+# --- page 13, centred, TIM at VRAM 640,0 (already English, not redrawn)
+151: PRESENTED | =
+152: BY | =

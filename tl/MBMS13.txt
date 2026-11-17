@@ -1,0 +1,36 @@
+## MBMS13 g0 s0000
+JP: おつかれさま!{n}これで{col:0}『熱血青春日記』{col:-}は終了よ。{n}一年間、ご苦労さま。{p}
+EN: Well done! That's the end of the {col:0}"Hot-Blooded Youth Diary"{col:-}. Thanks for all your hard work this year.{p}
+
+## MBMS13 g0 s0001
+JP: 最後に、あなたの{n}{col:0}『愛と友情のツープラトン』{col:-}を選んでね。{p}{end}
+EN: Finally, choose your {col:0}Team Up Technique{col:-}.{p}{end}
+
+## MBMS13 g0 s0002
+JP: おめでとう、{n}これであなたの{n}{col:0}EDITキャラクター{col:-}は完成よ。{p}{end}
+EN: Congratulations! Your {col:0}EDIT character{col:-} is now complete.{p}{end}
+
+## MBMS13 g0 s0003
+JP: {col:0}『EDITキャラクターの登録』{col:-}で{n}登録すれば、他のモードでも{n}使用できるようになるわ。{p}
+EN: Register it with {col:0}"Register EDIT Character"{col:-} and you can use it in the other modes too.{p}
+
+## MBMS13 g0 s0004
+JP: きっと、1学期や2学期のデータで{n}登録したキャラクターより、{n}納得できるモノになってるはずよ。{p}
+EN: I'm sure it'll turn out better than any character you registered with 1st or 2nd term data.{p}
+
+## MBMS13 g0 s0005
+JP: 最後にキャラクターの性能と、{n}技のコマンドが確認できます。{n}せっかくつくったキャラクターだから{n}大事にしてあげてネ。{p}{end}
+EN: Lastly, you can check your character's stats and move commands. You made this character yourself, so take good care of it.{p}{end}
+
+## MBMS13 g1 s0000
+JP: {col:1}『愛と友情のツープラトン』{col:3}を選択してください{p}{end}
+EN: {col:1}Team Up Technique{col:3} - Select{p}{end}
+
+## MBMS13 g1 s0001
+JP: W気合弾{n}ファイト百倍{n}ラブ&ピース{n}血”獄{n}連撃連舞{n}活火山{n}究極の矯正術{n}人間大砲{n}ダイブ&プレス{n}究極の愛の波動{n}男の中の男{p}
+EN: Dbl. Guts Bullet{n}Praise & Spirit{n}Love & Peace{n}Bloody Nightmare{n}Barrage Dance{n}Active Volcano{n}Final Correction{n}Ningen-Taihou{n}Bridge Drop{n}Heart Attack{n}Man Among Men{p}
+
+## MBMS13 g1 s0002
+JP: ガッツ百倍{n}ラストシンフォニー{n}Wライジングトルネード{n}Wパワーバスター{n}トラップWシュート{n}島津流真正波拳{n}春獄殺{n}協奏連撃蹴{n}クロスファイヤーキック{n}Wスカイアタック{p}
+EN: Guts & Power{n}Last Symphony{n}Dbl. Rising Tornado{n}Double Power Buster{n}Double Shot{n}Shin Seihaken{n}Shungokusatsu{n}Concerto Combo Kick{n}Crossfire Kick{n}Final Spike{p}
+

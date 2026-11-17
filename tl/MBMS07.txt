@@ -1,0 +1,884 @@
+## MBMS07 g0 s0000
+JP: 勉強もしてないし、気が重いなぁ……。{p}{end}
+EN: I haven't studied at all... I'm dreading this...{p}{end}
+
+## MBMS07 g0 s0001
+JP: きたぜ、きたぜえ。{n}一学期をしめくくる試験がよお!{n}夏の太陽のように熱い結果を{n}見せてくれよ!{sp}ビシっと始めるぜ!{p}
+EN: Here it comes, here it comes! The exam that wraps up first term! Show me results as hot as the summer sun! Let's start this off right!{p}
+
+## MBMS07 g0 s0002
+JP: 熱いぜえ!{n}やっぱりお前は{n}やればできる奴じゃねえか!{p}
+EN: Now that's hot! I knew you could do it if you tried!{p}
+
+## MBMS07 g0 s0003
+JP: よーし!{sp}次は俺の体で試してやる。{n}グラウンドに出ろ!{n}遠慮はいらねえから{n}全力でぶつかってきな!{p}
+EN: All right! Next, I'll test you with my own body. Out to the field! Don't hold back, come at me with everything you've got!{p}
+
+## MBMS07 g0 s0004
+JP: なんだあ?{n}そんなざまじゃあ{n}この熱い夏は乗り切れねえぜ!{p}
+EN: What's that? In that state, you'll never make it through this hot summer!{p}
+
+## MBMS07 g0 s0005
+JP: 俺が相手してやるからグラウンドへ出な!{n}自分の持ってるものを全部ぶつけてこい!{n}決して手を抜くんじゃねえぜ、{n}遠慮はいらねえから全力でぶつかってきな!{p}
+EN: I'll take you on myself, so get out to the field! Throw everything you've got at me! Don't you dare slack off. No holding back, come at me full force!{p}
+
+## MBMS07 g0 s0006
+JP: そうだ!{n}その意気さえあれば何も心配いらねえな!{n}高校生活最初の夏休みをエンジョイしな!{n}じゃあな!{p}{end}
+EN: That's it! With that spirit, you've got nothing to worry about! Enjoy your first summer vacation of high school! See ya!{p}{end}
+
+## MBMS07 g0 s0007
+JP: 高校生活最初の夏休みかあ…。{p}{end}
+EN: My first summer vacation of high school...{p}{end}
+
+## MBMS07 g0 s0008
+JP: それが全力か?{n}勝負の勝ちが全てという訳じゃねえが、{n}男なら、勝たなきゃならねー時も{n}あるんだぜ!{p}
+EN: Is that all you've got? Winning a fight isn't everything, but there are times a man's gotta win!{p}
+
+## MBMS07 g0 s0009
+JP: 二学期末にまた相手してやるから、{n}それまでに鍛えときな!{n}じゃあな!{p}{end}
+EN: I'll take you on again at the end of second term, so toughen up till then! See ya!{p}{end}
+
+## MBMS07 g0 s0010
+JP: つ、次は勝つぞ～。{p}
+EN: N-next time I'll win...{p}
+
+## MBMS07 g0 s0011
+JP: やぁ、{v5:2}。{n}今帰りか?{sp}どうだ、たまには一緒に{n}帰らないか?{p}
+EN: Hey, {v5:2}. Heading home? How about walking home together for once?{p}
+
+## MBMS07 g0 s0013
+JP: ごめん、今日はちょっと遠慮しとくよ。{n}悪りいな、また誘ってくれ。{p}{end}
+EN: Sorry, I'll pass today. My bad, ask me again sometime.{p}{end}
+
+## MBMS07 g0 s0014
+JP: …恭介は帰っていった。{n}さて俺はどこへ行こうかな。{p}
+EN: ...Kyosuke went home. Now, where should I go?{p}
+
+## MBMS07 g0 s0016
+JP: そういえば、恭介は{n}一人暮らしだったな。{n}生活、大変じゃないか?{p}{end}
+EN: Come to think of it, you live alone, right, Kyosuke? Isn't that tough?{p}{end}
+
+## MBMS07 g0 s0017
+JP: 家事は一通りできるからな…。{n}なんとかなるものだよ…。{n}あ、{n}ちょっと待ってくれるか。{p}
+EN: I can handle most housework... You manage somehow... Ah, could you wait a moment?{p}
+
+## MBMS07 g0 s0018
+JP: （土手に降りて何するんだろう…{n}{sp}手刀を構えて…???）{p}{end}
+EN: (What's he going down the riverbank for... Is he raising a knife-hand...???){p}{end}
+
+## MBMS07 g0 s0019
+JP: （あ、上がってきた。{n}{sp}手には花をいっぱい抱えている。{n}{sp}手刀で花をつんでいたのか。{n}{sp}さすが恭介……。）{p}
+EN: (Oh, he's coming back up. His arms are full of flowers. He was picking them with knife-hand strikes. That's Kyosuke for you......){p}
+
+## MBMS07 g0 s0020
+JP: 最近は花屋に行けば、いつでも{n}どんな花でも手にはいるが、{n}やはり野の花を生けるのが一番美しい。{n}そう思わないか?{p}{end}
+EN: These days a florist has any flower you want, any time. But wildflowers are still the most beautiful to arrange. Don't you think?{p}{end}
+
+## MBMS07 g0 s0021
+JP: 恭介、花を生けたりするんだ…。{p}
+EN: You arrange flowers, Kyosuke...{p}
+
+## MBMS07 g0 s0022
+JP: 華道は僕の趣味の一つさ。{n}花があれば、一人暮らしも淋しくはない。{n}君はどんな花が好きだ?{p}{end}
+EN: Ikebana is one of my hobbies. With flowers around, living alone isn't lonely. What kind of flowers do you like?{p}{end}
+
+## MBMS07 g0 s0023
+JP: バラ{n}ひまわり{n}さくら{n}かすみ草{p}{end}
+EN: Roses{n}Sunflowers{n}Cherry blossoms{n}Baby's breath{p}{end}
+
+## MBMS07 g0 s0024
+JP: バラかな…。{n}トゲはあるけど、きれいだからね。{p}
+EN: Roses, I guess... They have thorns, but they're pretty.{p}
+
+## MBMS07 g0 s0025
+JP: バラか。あんまりキザすぎて僕はあまり{n}好きじゃないな……それに、{n}白ランに赤いバラなんて、僕の美意識が{n}許さない。{p}
+EN: Roses? Too showy for my taste... Besides, a red rose on a white uniform? My sense of beauty won't allow it.{p}
+
+## MBMS07 g0 s0026
+JP: ひまわり…かな。{n}夏の青い空には、ひまわりの黄色が{n}よく似合うからね。{p}
+EN: Sunflowers... I guess. Their yellow really suits a blue summer sky.{p}
+
+## MBMS07 g0 s0027
+JP: ひまわりか…。{n}君らしいな。{n}たしか花言葉は『輝き・敬愛』だったな。{n}ひまわりは僕もキライじゃない。{p}{end}
+EN: Sunflowers... That's very like you. If I recall, they mean "radiance and adoration." I don't dislike sunflowers myself.{p}{end}
+
+## MBMS07 g0 s0028
+JP: さくら…かな。{n}日本人ならみんな好きかもしれないけど。{p}
+EN: Cherry blossoms... I guess. Though maybe every Japanese person likes them.{p}
+
+## MBMS07 g0 s0029
+JP: さくらか…。{n}確かにさくらはいいな。{n}生け花には使えないが…。{p}
+EN: Cherry blossoms... They are nice. Though you can't use them in ikebana...{p}
+
+## MBMS07 g0 s0030
+JP: かすみ草かな。{n}地味で目立たないけど、{n}他の花の美しさを引き立てる、{n}けなげなカンジが好きだ。{p}
+EN: Baby's breath, I guess. It's plain and doesn't stand out, but I like how it quietly brings out the beauty of other flowers.{p}
+
+## MBMS07 g0 s0031
+JP: かすみ草か。{n}僕も好きだな。{n}かすみ草の花言葉は『喜び・感動・清い心』{n}なるほど、君によく似合うな。{p}{end}
+EN: Baby's breath. I like it too. It means "joy, wonder and a pure heart." I see, it suits you well.{p}{end}
+
+## MBMS07 g0 s0032
+JP: 僕の好きな花は……{n}…水仙とかは、結構好きだな。{p}{end}
+EN: My favorite flower...... I'm rather fond of the narcissus.{p}{end}
+
+## MBMS07 g0 s0033
+JP: 今年の夏は暑くなりそうだな……。{p}{end}
+EN: Looks like this summer's going to be a hot one......{p}{end}
+
+## MBMS07 g0 s0034
+JP: （……水仙の花言葉って確か…{n}{sp}『プライド・高潔』…あと『ナルシスト』{n}{sp}だったかな…?{n}{sp}なるほど、納得…）{p}
+EN: (......If I remember right, the narcissus means... "pride, nobility"... and also "narcissist"? Yep, that figures...){p}
+
+## MBMS07 g0 s0035
+JP: 「ブンッッ!{sp}ブンッッ!!」{p}{end}
+EN: "Swish! Swish!!"{p}{end}
+
+## MBMS07 g0 s0036
+JP: 屋上に上ると、風を切る音が聞こえてきた。{n}見ると、将馬が熱心に素振りをしている。{n}かなり熱心にやってるみたいだ。{n}もう汗だくになっている。{p}
+EN: On the roof, I hear something cutting through the air. It's Shoma, practicing his swing. He's really going at it. He's already drenched in sweat.{p}
+
+## MBMS07 g0 s0037
+JP: よぉ!{v3:3}じゃないか。{n}どうだ?{n}お前もやらないか?{p}{end}
+EN: Yo! If it ain't {v3:3}. How about it? Wanna join in?{p}{end}
+
+## MBMS07 g0 s0038
+JP: 練習につき合う{n}あたたかく見守る{n}用事あるから、と立ち去る{p}
+EN: Practice with him{n}Watch him warmly{n}Say I'm busy and leave{p}
+
+## MBMS07 g0 s0039
+JP: 練習につき合う{n}あたたかく見守る{p}{end}
+EN: Practice with him{n}Watch him warmly{p}{end}
+
+## MBMS07 g0 s0040
+JP: う～ん、悪いけど、やめとくよ。{n}今日はちょっと他に用事があるんだ。{p}
+EN: Hmm, sorry, I'll pass. I've got other stuff to do today.{p}
+
+## MBMS07 g0 s0041
+JP: それじゃあ、しょうがねぇな。{n}おう、じゃあ気をつけて帰れよ!!{p}
+EN: Well, can't be helped. Okay then, get home safe!!{p}
+
+## MBMS07 g0 s0042
+JP: 将馬には悪いけど、つきあってられ{n}ないなぁ。{n}時間もあるし、他のトコロに{n}いってみようか?{p}
+EN: Sorry, Shoma, but I can't keep up with that. I've got time, so maybe I'll try somewhere else?{p}
+
+## MBMS07 g0 s0043
+JP: いいぜ、俺もつき合おう。{n}バット、他にもあるか?{p}{end}
+EN: Sure, I'll join you. Got another bat?{p}{end}
+
+## MBMS07 g0 s0044
+JP: オイラの予備のバットを使いなよ。{n}よっしゃあ!{n}まずは素振り1000回、3セットだぁ!!{p}{end}
+EN: Use my spare bat. All right! First up, 1000 swings, three sets!!{p}{end}
+
+## MBMS07 g0 s0045
+JP: 今日はちょっと体調が悪いから、{n}見てるだけにしておくよ。{n}終わったら一緒に帰ろうぜ。{p}{end}
+EN: I'm not feeling great today, so I'll just watch. Let's head home together when you're done.{p}{end}
+
+## MBMS07 g0 s0046
+JP: なんだよ、元気ねぇなぁ!{n}ま、いいけどよ。{n}それじゃ、そこで待ってろよ!{n}あと、素振り1000回で終わるから。{p}
+EN: What, you're outta gas? Well, whatever. Wait there, then! I'm done after 1000 more swings.{p}
+
+## MBMS07 g0 s0048
+JP: ふぅー、今日もいい汗かいたなぁ!!{n}やっぱり身体動かすのは気持ちいいゼ!!{p}
+EN: Whew, worked up a good sweat again today!! Moving your body sure feels great!!{p}
+
+## MBMS07 g0 s0049
+JP: 将馬、クラブがない日は、いつもあんなに{n}トレーニングしてんのか?{p}{end}
+EN: Shoma, do you always train like that on days without club?{p}{end}
+
+## MBMS07 g0 s0050
+JP: あれぐらい、ウォーミングアップだぜ?{n}帰ったら、ランニングに、ダッシュに、{n}ピッチング練習に、腕立て、腹筋と…{p}
+EN: That? That's just a warm-up! When I get home, there's running, sprints, pitching practice, push-ups, sit-ups...{p}
+
+## MBMS07 g0 s0051
+JP: 今年の夏はレギュラーになれなかった{n}からな!{n}春に向けてまだまだがんばらないと…{n}これぐらいじゃ全然たりねぇよ!!{p}
+EN: I didn't make the starting lineup this summer! Gotta keep pushing for spring... This ain't nearly enough!!{p}
+
+## MBMS07 g0 s0052
+JP: （それに比べると、俺なんかまだまだ{n}{sp}だな。{n}{sp}もっとがんばらないと…）{p}{end}
+EN: (Compared to him, I've still got a long way to go. I need to try harder...){p}{end}
+
+## MBMS07 g0 s0053
+JP: そうだ、さっきのオイラのバットやるよ。{n}普通のよりちょっと重くしてある、{n}素振り用なんだ。{n}いいトレーニングになるぜ!{p}
+EN: Oh yeah, you can have that bat from before. It's a little heavier than normal, made for swing practice. It's great training!{p}
+
+## MBMS07 g0 s0054
+JP: {col:0}『将馬のバット』{col:-}をもらった!!{p}
+EN: Got {col:0}"Shoma's Bat"{col:-}!!{p}
+
+## MBMS07 g0 s0055
+JP: 保健室に来たものの、響子先生は{n}いないようだ。{n}ひきかえすか…。{p}{end}
+EN: I came to the infirmary, but Kyoko-sensei doesn't seem to be here. Should I head back...{p}{end}
+
+## MBMS07 g0 s0056
+JP: 「誰?{n}{sp}響子先生なら、今出かけてるけど?」{p}{end}
+EN: "Who's there? If you're looking for Kyoko-sensei, she's out right now."{p}{end}
+
+## MBMS07 g0 s0057
+JP: （声がした方をみると、{n}{sp}夏がベッドで休んでいた。{n}{sp}ジャージ姿のトコロをみると、{n}{sp}練習中にケガでもしたのだろうか?）{p}{end}
+EN: (I look toward the voice and see Natsu resting on a bed. She's in her tracksuit, so maybe she got hurt at practice?){p}{end}
+
+## MBMS07 g0 s0058
+JP: あら、{v7:4}じゃない。{n}何?{sp}響子先生に会いに来たの?{p}{end}
+EN: Oh, it's {v7:4}. What? Came to see Kyoko-sensei?{p}{end}
+
+## MBMS07 g0 s0059
+JP: 夏と話し込む{n}ここは退散する{p}{end}
+EN: Talk with Natsu{n}Leave for now{p}{end}
+
+## MBMS07 g0 s0060
+JP: まぁちょっと用があったんだけど…{n}いないんじゃしょうがないな。{n}また出直すよ、じゃな。{p}
+EN: Well, I needed her for something... but if she's out, oh well. I'll come back later. See ya.{p}
+
+## MBMS07 g0 s0061
+JP: ふぅ……。{n}さてとどこへ行こうかな。{p}{end}
+EN: Phew...... Now, where should I go?{p}{end}
+
+## MBMS07 g0 s0062
+JP: イヤ、そういうワケじゃないけど…{n}夏こそどうしたの?{n}ケガ?{p}{end}
+EN: No, not really... What about you, Natsu? Are you hurt?{p}{end}
+
+## MBMS07 g0 s0063
+JP: ああ、ちょっとね。{n}練習中にアタマうっちゃって。{n}たいしたケガじゃないんだけど、{n}先生が大事をとってしばらく休めって。{p}
+EN: Yeah, a little. I hit my head at practice. It's nothing serious, but Sensei told me to rest a while just to be safe.{p}
+
+## MBMS07 g0 s0064
+JP: 大丈夫か?{n}ドジだなぁ{p}
+EN: Are you okay?{n}What a klutz{p}
+
+## MBMS07 g0 s0065
+JP: 大丈夫か?{sp}夏のバレーの大会が{n}近いんじゃないのか?{n}気をつけないと、この時期にケガなんか{n}しちゃ大変だぞ。{p}{end}
+EN: Are you okay? Isn't your summer volleyball tournament coming up? You've gotta be careful. Getting hurt right now would be bad.{p}{end}
+
+## MBMS07 g0 s0066
+JP: うん……心配してくれてアリガト…。{n}でもホントに大丈夫だよ。{n}もうちょっと休めば練習に戻れるよ。{p}{end}
+EN: Yeah...... thanks for worrying about me... But I'm really fine. A little more rest and I can go back to practice.{p}{end}
+
+## MBMS07 g0 s0067
+JP: できれば、もうちょっと一緒にいてくれる?{n}一人で退屈だったんだ。{n}話し相手になってくれるだけでいいから…。{p}
+EN: If you can, would you stay with me a bit longer? I was bored all alone. Just having someone to talk to is enough...{p}
+
+## MBMS07 g0 s0068
+JP: （そんなワケで、そのまましばらく夏と{n}{sp}つまらない雑談をして過ごした……）{p}
+EN: (And so I spent a while with Natsu, just chatting about nothing......){p}
+
+## MBMS07 g0 s0069
+JP: {v7:4}……。{n}今日はアリガト……ね。{p}
+EN: {v7:4}...... Thanks for today...... okay?{p}
+
+## MBMS07 g0 s0070
+JP: ドジだなぁ。{n}アタマうったって、ボール{n}よけれなかったのか?{n}そんなことで大丈夫かよ。{p}
+EN: What a klutz. You hit your head? Couldn't you dodge the ball? Are you gonna be okay like that?{p}
+
+## MBMS07 g0 s0071
+JP: そんな言い方ないじゃない。{n}たしかに不注意だったけど…。{n}練習中に横から飛んできたんだから…。{p}
+EN: You don't have to put it like that. Sure, I wasn't careful... but it came flying from the side during practice...{p}
+
+## MBMS07 g0 s0072
+JP: もういいでしょ{n}アタシもう少し休むから、{n}じゃましないでね!{n}じゃあね!{p}{end}
+EN: That's enough, okay? I'm gonna rest some more, so don't bother me! Bye!{p}{end}
+
+## MBMS07 g0 s0073
+JP: （寝ちゃった…。{n}{sp}ちょっと怒らせちゃったかな…{n}{sp}今日はこのへんで退散するか……。）{p}
+EN: (She went to sleep... Guess I made her a little mad... I'd better leave it here for today......){p}
+
+## MBMS07 g0 s0074
+JP: 誰もいない放課後の教室は{n}いつも怪しい零囲気がするなあ…。{p}
+EN: An empty classroom after school always has such a creepy vibe...{p}
+
+## MBMS07 g0 s0075
+JP: あれ、エッジがまだ教室にいるぞ{n}一生懸命鏡を見てるけど、{n}何してるんだろう?{p}{end}
+EN: Huh, Edge is still in the classroom. He's staring hard into a mirror. What's he doing?{p}{end}
+
+## MBMS07 g0 s0076
+JP: なんだ?{n}{v3:9}じゃねえか!{p}
+EN: What? If it ain't {v3:9}!{p}
+
+## MBMS07 g0 s0077
+JP: あっ!{n}エッジ。{p}{end}
+EN: Ah! Edge.{p}{end}
+
+## MBMS07 g0 s0078
+JP: おめえ今の見てただろ?{p}
+EN: You saw that just now, didn'tcha?{p}
+
+## MBMS07 g0 s0079
+JP: 見てたよ{n}何にも見てないよ{p}
+EN: I saw{n}I didn't see anything{p}
+
+## MBMS07 g0 s0080
+JP: な、何にも見てないよ。{n}あっ、もう帰んなきゃ。{n}じゃ、またね!{p}
+EN: I-I didn't see anything. Oh, I gotta get home. See ya!{p}
+
+## MBMS07 g0 s0081
+JP: ふう、なんか危ない零囲気だったなあ{n}さて、どこに行こうかな?{p}{end}
+EN: Phew, that felt dangerous. Now, where should I go?{p}{end}
+
+## MBMS07 g0 s0082
+JP: 見てたよ。{n}一生懸命鏡を見てたけど{n}何をしてたの?{p}
+EN: I saw. You were staring hard into the mirror. What were you doing?{p}
+
+## MBMS07 g0 s0083
+JP: ああ，これか?{n}ちょっと鏡見ながら{n}新しいヘアスタイルを考えてたのさ。{p}
+EN: Oh, this? I was just lookin' in the mirror, thinkin' up a new hairstyle.{p}
+
+## MBMS07 g0 s0084
+JP: 新しいヘアスタイル?{p}{end}
+EN: A new hairstyle?{p}{end}
+
+## MBMS07 g0 s0085
+JP: そうさ、{n}そろそろこの髪型にもあきてきたんでな。{p}{end}
+EN: Yeah. I'm gettin' sick of this one.{p}{end}
+
+## MBMS07 g0 s0086
+JP: そうだ!{n}おめえの意見も聞かせてくれよ。{p}{end}
+EN: I know! Lemme hear what you think.{p}{end}
+
+## MBMS07 g0 s0087
+JP: 怒らない?{p}
+EN: You won't get mad?{p}
+
+## MBMS07 g0 s0088
+JP: 怒んねえから，{n}正直に答えてくれよな。{n}じゃあ聞くぜ!{p}
+EN: I won't, so answer me straight. Here goes!{p}
+
+## MBMS07 g0 s0089
+JP: 今の髪型を変えるならどれだと思う?{p}
+EN: If I changed my hair, which one should I go with?{p}
+
+## MBMS07 g0 s0090
+JP: 丸刈り{n}リーゼント{n}アフロ{p}
+EN: Buzz cut{n}Pompadour{n}Afro{p}
+
+## MBMS07 g0 s0091
+JP: う～ん、{n}ま、丸刈りかな。{p}
+EN: Hmm... m-maybe a buzz cut.{p}
+
+## MBMS07 g0 s0092
+JP: なにぃ丸刈りだとう!{n}坊さんにでもなれってのか?{n}なめてんじゃねえぞ!{p}
+EN: Whaddaya mean, buzz cut!? You tellin' me to go be a monk? Don't mess with me!{p}
+
+## MBMS07 g0 s0093
+JP: リーゼントなんか似合うんじゃないかな。{p}
+EN: I think a pompadour would suit you.{p}
+
+## MBMS07 g0 s0094
+JP: リ、リーゼント?{n}一体おめえは何年生まれなんだ?{n}おめえがやりゃあいいんじゃねえか?{p}{end}
+EN: A p-pompadour? What year were you born, anyway? Why don'tcha get one yourself?{p}{end}
+
+## MBMS07 g0 s0095
+JP: アフロなんか注目をあびて{n}いいんじゃないかな。{p}
+EN: An afro would get you noticed. Could be good.{p}
+
+## MBMS07 g0 s0096
+JP: アフロねえ。{n}結構いいじゃねえか!!{n}……なんて、言うと思ってやがんのか?{n}良い度胸じゃねえか!おっ!{p}
+EN: An afro, huh. Not bad at all!! ...You think I'd say that? You got some nerve! Huh!?{p}
+
+## MBMS07 g0 s0097
+JP: ちっ!{sp}おめえの考えは{n}よ～く分かったぜ!{n}あ～あ聞くんじゃなかったよ。{n}じゃあな!{p}{end}
+EN: Tch! I get what you think, loud and clear! Man, I shouldn't've asked. Later!{p}{end}
+
+## MBMS07 g0 s0098
+JP: ちぇっ、怒らないって言ったくせに。{p}
+EN: Jeez, he said he wouldn't get mad.{p}
+
+## MBMS07 g0 s0099
+JP: あぁ、暑い。こんな暑いのに練習やってる{n}人がいるよ。あのサンバイザーは…{n}やっぱりロベルトだ!{p}
+EN: Man, it's hot. Someone's practicing in this heat. That sun visor... It's Roberto, all right!{p}
+
+## MBMS07 g0 s0101
+JP: おーいっ!{p}
+EN: Heyyy!{p}
+
+## MBMS07 g0 s0102
+JP: やぁ!{v3:5}じゃないか。{p}
+EN: Hey! If it isn't {v3:5}.{p}
+
+## MBMS07 g0 s0103
+JP: Wカップに影響されて練習か?{n}Wカップ決勝戦すごかったな!{n}アイスでも差し入れするか…{n}この季節に『爆裂Vゴール』は暑くないか?{p}{end}
+EN: Inspired by the World Cup?{n}That World Cup final was amazing!{n}Maybe I'll bring you some ice cream...{n}Victory Goal? Isn't it too hot?{p}{end}
+
+## MBMS07 g0 s0104
+JP: 失敬な!俺はいつでも練習してるぜ!{p}
+EN: How rude! I'm always practicing!{p}
+
+## MBMS07 g0 s0105
+JP: （怒らせちゃったかも…。）{p}
+EN: (Maybe I made him mad...){p}
+
+## MBMS07 g0 s0106
+JP: あれが…、あれこそが俺の夢だ～!!{n}休んでる暇はない!もう16歳だゼ!{n}はっ!{sp}時間がない。練習再開だ!{n}「いくぜ!!{sp}爆裂!Vゴーーーール!!」{p}
+EN: That... that right there is my dream!! No time to rest! I'm already 16! Ah! I'm running out of time. Back to practice! "Here goes!! Victory Goaaaal!!"{p}
+
+## MBMS07 g0 s0107
+JP: 普段はけっこうクールなのに{n}サッカーがからむとあつい人だなぁ…。{p}{end}
+EN: He's usually pretty cool, but when soccer's involved he gets so fired up...{p}{end}
+
+## MBMS07 g0 s0108
+JP: ありがとう。気持ちだけ受け取っておくよ。{n}しかし、本番の試合のペースは{n}こんなものじゃない。コレに耐えてこそ{n}未来のJリーガー……いや日本代表だ!!{p}{end}
+EN: Thanks, but the thought is enough. A real match is way tougher than this. Endure this, and I'll be a future J.League pro... no, play for Japan!!{p}{end}
+
+## MBMS07 g0 s0109
+JP: じゃあコレ私がもらってもいいよね!{n}アリガトッ{v7:1}!{p}{end}
+EN: Then I can have this, right? Thanks, {v7:1}!{p}{end}
+
+## MBMS07 g0 s0110
+JP: あっロベルトが残念そうな顔してる…。{n}欲しかったのか、本当は…。{p}{end}
+EN: Ah, Roberto looks disappointed... So he really did want it...{p}{end}
+
+## MBMS07 g0 s0111
+JP: 確かに暑い……{n}しかし、暑いときにこそ練習だ!{n}……そうだ、チョット受けてくれないか?{p}
+EN: It sure is hot... but hot days are when you practice! ...I know, could you take a shot for me?{p}
+
+## MBMS07 g0 s0112
+JP: 受けてくれって爆裂Vゴールを??{n}カンベンしてくれ…。{p}
+EN: Take your Victory Goal?? Gimme a break...{p}
+
+## MBMS07 g0 s0113
+JP: いくぜーっ爆裂っ……{p}{end}
+EN: Here goes! Victory...{p}{end}
+
+## MBMS07 g0 s0114
+JP: わぁーっ!たすけてぇ～!{p}{end}
+EN: Waaah! Heeelp!{p}{end}
+
+## MBMS07 g0 s0116
+JP: あれっ、あそこにいるのは…ロイかな?{p}{end}
+EN: Huh, is that... Roy over there?{p}{end}
+
+## MBMS07 g0 s0118
+JP: ロイ!{n}今日も暑いねぇ～。{p}
+EN: Roy! Hot again today, huh?{p}
+
+## MBMS07 g0 s0119
+JP: なんで日本のサマーはこんなに暑いんだ!?{n}こんなところで暮らしてるなんて{n}どうかしてるぜ!{sp}まったく…。{n}{v3:6}もそう思わないか!{p}{end}
+EN: Why is Japanese summer so hot!? Anyone who lives here must be crazy! Honestly... Don't you think so, {v3:6}!{p}{end}
+
+## MBMS07 g0 s0120
+JP: 全くその通りだ!{n}そうでもないと思うけど…{n}コレぐらいで暑いっていってるようじゃ…{p}
+EN: You said it!{n}It's not that bad, I think...{n}If you call this hot...{p}
+
+## MBMS07 g0 s0121
+JP: そうだろう。{n}こう暑いとクラブなんかやってられないぜ!{n}いっしょに喫茶店にでもいかないか?{p}
+EN: Right? It's way too hot for club activities! Want to go to a cafe with me?{p}
+
+## MBMS07 g0 s0122
+JP: いく{n}いかない{p}
+EN: Go{n}Don't go{p}
+
+## MBMS07 g0 s0123
+JP: そうと決まればとっとといこうぜ!{p}{end}
+EN: Then let's get going!{p}{end}
+
+## MBMS07 g0 s0124
+JP: ロ～イ!{n}どこいくですか?{n}ミーもつれてってほしいデスねぇ。{p}{end}
+EN: Royyy! Where are you going? Take me with you too!{p}{end}
+
+## MBMS07 g0 s0125
+JP: OK!{n}じゃあ3人でGOだ!{p}{end}
+EN: OK! Then let's go, all three of us!{p}{end}
+
+## MBMS07 g0 s0126
+JP: 今日は遅くまで{n}3人で楽しくおしゃべりをした。{p}
+EN: The three of us chatted happily until late.{p}
+
+## MBMS07 g0 s0127
+JP: オー!{sp}信じられないぜ!{n}君はこの暑さでもガマンするってことだな。{n}コレが「ヤマトダマシイ」っていうヤツか。{p}{end}
+EN: Oh! Unbelievable! So you'll just put up with this heat. Is this that "Yamato spirit" thing?{p}{end}
+
+## MBMS07 g0 s0128
+JP: こんな暑さをガマンするヤツもバカだが、{n}それを聞いて感心しているボクもバカだな。{n}アーッハッハッハッハ!{p}{end}
+EN: Anyone who puts up with this heat is an idiot, but I'm an idiot too for being impressed. Ahahahaha!{p}{end}
+
+## MBMS07 g0 s0129
+JP: （一人で突っ込んで一人で{n}{sp}盛り上がってるよ。{n}{sp}変わったアメリカ人だ…。）{p}{end}
+EN: (He makes his own jokes and laughs at them. What a strange American...){p}{end}
+
+## MBMS07 g0 s0130
+JP: 今日は言うほど暑くないよ、ロイ。{p}{end}
+EN: It's not as hot as you say today, Roy.{p}{end}
+
+## MBMS07 g0 s0131
+JP: このくらいで暑いってさわいでるようじゃ{n}エリートアメリカ人もたいしたことないね!{p}{end}
+EN: If a little heat like this gets you complaining, the elite American isn't so tough after all!{p}{end}
+
+## MBMS07 g0 s0132
+JP: 何だって!?{n}このクレイジージャパニーズ!{p}
+EN: What did you say!? You crazy Japanese!{p}
+
+## MBMS07 g0 s0133
+JP: （わぁー、おこらせちゃった。{n}{sp}今まともにやったら死んじゃうよ…。{n}{sp}とりあえず逃げよう。）{p}{end}
+EN: (Whoa, I made him mad. If we fight for real now, I'm dead... Better run for it.){p}{end}
+
+## MBMS07 g0 s0135
+JP: 今日もあついなぁ。{n}あそこにいるのは…ボーマンかな?{p}{end}
+EN: Hot again today. Is that... Boman over there?{p}{end}
+
+## MBMS07 g0 s0137
+JP: ボーマン!{sp}こんなところで{n}裸になっていったい何やってんの?{p}{end}
+EN: Boman! What are you doing out here with your shirt off?{p}{end}
+
+## MBMS07 g0 s0138
+JP: 見て分からないですか?{n}夏を前に日焼けしようと{n}思っているのですが…。{n}{v5:8}もいっしょにどうですか?{p}{end}
+EN: Can you not tell? I want to get a tan before summer... Would you like to join me, {v5:8}?{p}{end}
+
+## MBMS07 g0 s0139
+JP: そうだね。いっしょに焼こうか{n}ボーマンはもう充分黒いじゃない!{n}今日のところはやめておくよ{p}
+EN: Sure, let's tan together{n}Boman, you're plenty dark already!{n}I'll pass for today{p}
+
+## MBMS07 g0 s0140
+JP: そうですか。実は、もうすぐ{n}ティファニーも来るんですよ。{n}こういうコトはみんなでした方が{n}楽しいですからね。{p}{end}
+EN: I see. Actually, Tiffany is coming soon too. Things like this are more fun with everyone.{p}{end}
+
+## MBMS07 g0 s0141
+JP: ハ～イ!ボーマン。{n}あらっ{v3:7}もいたデスか!{n}あんまり天気がいいから響子センセーも{n}よんでキタよ!{p}
+EN: Hiii, Boman! Oh, {v3:7}, you are here too! The weather is so nice, I brought Kyoko-sensei too!{p}
+
+## MBMS07 g0 s0142
+JP: ティファニーったら強引につれて{n}いくんですモノ…恥ずかしいワ!{sp}もう…。{p}{end}
+EN: Tiffany dragged me along... How embarrassing! Honestly...{p}{end}
+
+## MBMS07 g0 s0143
+JP: なんてラッキーな!!{n}ボーマン、誘ってくれてありがとう!!{p}
+EN: How lucky!! Boman, thanks for inviting me!!{p}
+
+## MBMS07 g0 s0144
+JP: その後、みんなでおしゃべりしながら{n}日が沈むまでじっくりと肌を焼いた。{p}
+EN: After that, we all chatted and tanned until the sun went down.{p}
+
+## MBMS07 g0 s0145
+JP: ハ～イ!ボーマン。{n}あらっ{v3:7}もいたデスか!{n}今日はミーもじっくり肌を焼きま～す!{p}
+EN: Hiii, Boman! Oh, {v3:7}, you are here too! Today I will get a good tan too!{p}
+
+## MBMS07 g0 s0146
+JP: なんてラッキーな!!{n}（ティファニーはさすがにアメリカ～ン{col:5}♥{col:-}{n}{sp}ボーマンさそってくれてありがとう!!）{p}
+EN: How lucky!! (Tiffany really is so American{col:5}♥{col:-} Thanks for inviting me, Boman!!){p}
+
+## MBMS07 g0 s0147
+JP: その後、みんなでおしゃべりしながら{n}日が沈むまでじっくり肌を焼いた。{p}{end}
+EN: After that, we all chatted and tanned until the sun went down.{p}{end}
+
+## MBMS07 g0 s0148
+JP: {v5:8}それはチョット聞き捨て{n}ならないですよ…………。{p}{end}
+EN: {v5:8}, I cannot let that pass............{p}{end}
+
+## MBMS07 g0 s0149
+JP: （わっ!かなりやばいこといっちゃった{n}{sp}みたい……すごく怒ってる。）{p}{end}
+EN: (Whoa! Looks like I said something really bad... He's furious.){p}{end}
+
+## MBMS07 g0 s0150
+JP: 「アッパー!」{n}「フック!」{n}「ストレェイトォ～!!!!!!」{p}
+EN: "Uppercut!"{n}"Hook!"{n}"Straaaight!!!!!!"{p}
+
+## MBMS07 g0 s0151
+JP: 神よお許し下さい…。{p}{end}
+EN: Lord, forgive me...{p}{end}
+
+## MBMS07 g0 s0152
+JP: （しっ…死んでしまう…。）{p}
+EN: (I-I'm gonna die...){p}
+
+## MBMS07 g0 s0153
+JP: そうですか…チョットザンネンですが{n}しかたないですね。{p}
+EN: I see... That is a little disappointing, but it cannot be helped.{p}
+
+## MBMS07 g0 s0154
+JP: じゃあねボーマン!{p}
+EN: See ya, Boman!{p}
+
+## MBMS07 g0 s0155
+JP: でも少し気になるな…。{n}聞き耳立ててみよう…。{p}
+EN: But I'm a little curious... I'll eavesdrop...{p}
+
+## MBMS07 g0 s0156
+JP: 「ハ～イ!ボーマン。{n}{sp}あんまり天気がいいから響子センセーも{n}{sp}よんでキタよ!」{p}{end}
+EN: "Hiii, Boman! The weather is so nice, I brought Kyoko-sensei too!"{p}{end}
+
+## MBMS07 g0 s0157
+JP: （しまったー!{n}{sp}いっしょに日焼け{n}{sp}しとくんだったーっ!!）{p}
+EN: (Dang it!! I should've tanned with them!!){p}
+
+## MBMS07 g0 s0159
+JP: あれっ?{n}ベッドで気持ちよさそうに{n}寝ているのはだれだ?{n}ティファニーかな?{p}{end}
+EN: Huh? Who's that sleeping so comfortably in the bed? Tiffany?{p}{end}
+
+## MBMS07 g0 s0161
+JP: はあぁ～……アレ?{n}そこにいるのはダレですか?{p}
+EN: Haaah... Huh? Who is there?{p}
+
+## MBMS07 g0 s0162
+JP: どうしたんだい、気分でも悪いの?{n}気持ちよさそうに寝てたね{n}あわてて隠れる{p}
+EN: What's wrong, feeling sick?{n}You looked so comfy sleeping{n}Hide in a hurry{p}
+
+## MBMS07 g0 s0163
+JP: そうじゃないでぇ～す。{n}あまりにアツいから{n}ココでスズンデたんでぇす。{p}
+EN: Nooo. It is so hot, so I am cooling off here.{p}
+
+## MBMS07 g0 s0164
+JP: {v3:7}もスズみにキタのか?{n}この部屋すごくスズしいです。{n}イッショにスズんでいくとイイでぇ～す。{p}
+EN: {v3:7}, you came to cool off too? This room is very cool. Stay and cool off with me.{p}
+
+## MBMS07 g0 s0165
+JP: じゃあお言葉に甘えて…。{p}{end}
+EN: Then I'll take you up on that...{p}{end}
+
+## MBMS07 g0 s0166
+JP: あなた達!{sp}ここで何やってるの?{p}{end}
+EN: You two! What are you doing in here?{p}{end}
+
+## MBMS07 g0 s0167
+JP: 響子先生に怒られた…。{p}
+EN: Kyoko-sensei scolded us...{p}
+
+## MBMS07 g0 s0168
+JP: ダレもいないねぇ…。グゥ…。{p}{end}
+EN: Nobody is here... Zzz...{p}{end}
+
+## MBMS07 g0 s0169
+JP: しばらくティファニーのかわいい寝顔を{n}ながめていた…。{p}
+EN: I watched Tiffany's cute sleeping face for a while...{p}
+
+## MBMS07 g1 s0004
+JP: なんだあ?{n}そのざまじゃあ{n}この熱い夏は乗り切れねえぜ!{p}{end}
+EN: What's that? In that state, you'll never make it through this hot summer!{p}{end}
+
+## MBMS07 g1 s0008
+JP: それが全力か?{n}勝負の勝ちが全てという訳じゃねえが、{n}勝たなきゃなんねー時もあるんだぜ!{n}たとえ女でもな!{p}
+EN: Is that all you've got? Winning a fight isn't everything, but there are times you've gotta win! Even if you're a girl!{p}
+
+## MBMS07 g1 s0011
+JP: やぁ、{v8:2}。{n}今帰りか?{sp}どうだ、たまには一緒に{n}帰らないか?{p}
+EN: Hey, {v8:2}. Heading home? How about walking home together for once?{p}
+
+## MBMS07 g1 s0013
+JP: ごめん、今日はちょっと遠慮しとくわ。{n}悪いわね、また誘ってネ。{p}
+EN: Sorry, I'll pass today. My bad, ask me again sometime.{p}
+
+## MBMS07 g1 s0014
+JP: …恭介君は帰っちゃった。{n}さて私はどこへ行こうかな。{p}{end}
+EN: ...Kyosuke-kun went home. Now, where should I go?{p}{end}
+
+## MBMS07 g1 s0015
+JP: いいヨ、一緒に帰ろ。{p}{end}
+EN: Sure, let's walk home together.{p}{end}
+
+## MBMS07 g1 s0016
+JP: そういえば、恭介君は{n}一人暮らしだったよネ。{n}生活、大変じゃない?{p}
+EN: Come to think of it, you live alone, right, Kyosuke-kun? Isn't that tough?{p}
+
+## MBMS07 g1 s0017
+JP: 家事は一通りできるからな。{n}なんとかなるものだよ…。{n}あ、{n}ちょっと待ってくれるか。{p}{end}
+EN: I can handle most housework. You manage somehow... Ah, could you wait a moment?{p}{end}
+
+## MBMS07 g1 s0018
+JP: （土手に降りて何するのかな…{n}{sp}手刀を構えて…???）{p}
+EN: (What's he going down the riverbank for... Is he raising a knife-hand...???){p}
+
+## MBMS07 g1 s0019
+JP: （あ、上がってきた。{n}{sp}手には花をいっぱい抱えているわ。{n}{sp}手刀で花をつんでいたみたい……{n}{sp}さすが恭介君……。）{p}
+EN: (Oh, he's coming back up. His arms are full of flowers. Looks like he picked them with knife-hand strikes...... That's Kyosuke-kun for you......){p}
+
+## MBMS07 g1 s0021
+JP: 恭介君、花を生けたりするんだ…。{p}{end}
+EN: You arrange flowers, Kyosuke-kun...{p}{end}
+
+## MBMS07 g1 s0024
+JP: バラかな…。{n}赤いのも好きだけど、うすいピンクのバラ{n}キレイよね……。{p}
+EN: Roses, I guess... I like red ones too, but pale pink roses are so pretty......{p}
+
+## MBMS07 g1 s0026
+JP: ひまわり…かな。{n}夏の青い空には、ひまわりの黄色が{n}よく似合うわよネ。{p}
+EN: Sunflowers... I guess. Their yellow really suits a blue summer sky, right?{p}
+
+## MBMS07 g1 s0028
+JP: さくら…かな。{n}やっぱり日本人ならさくらでしょう?{p}
+EN: Cherry blossoms... I guess. If you're Japanese, it's gotta be cherry blossoms, right?{p}
+
+## MBMS07 g1 s0030
+JP: かすみ草ネ。{n}地味で目立たないけど、{n}他の花の美しさを引き立てる、{n}けなげなカンジがステキよね。{p}{end}
+EN: Baby's breath. It's plain and doesn't stand out, but the way it quietly brings out the beauty of other flowers is lovely.{p}{end}
+
+## MBMS07 g1 s0034
+JP: （……水仙の花言葉って確か…{n}{sp}『プライド・高潔』…あと『ナルシスト』{n}{sp}だったわね…?{n}{sp}なるほど、納得…）{p}
+EN: (......If I remember right, the narcissus means... "pride, nobility"... and also "narcissist"? Yep, that figures...){p}
+
+## MBMS07 g1 s0036
+JP: 屋上に上ると、風を切る音が聞こえてきた。{n}見ると、将馬君が熱心に素振りをしている。{n}かなり熱心にやってるみたいね。{n}もう汗だくになってる。{p}
+EN: On the roof, I hear something cutting through the air. It's Shoma-kun, practicing his swing. He's really going at it. He's already drenched in sweat.{p}
+
+## MBMS07 g1 s0040
+JP: う～ん、悪いけど、やめとくワ。{n}今日はちょっと他に用事があるのよ。{p}
+EN: Hmm, sorry, I'll pass. I've got other stuff to do today.{p}
+
+## MBMS07 g1 s0042
+JP: 将馬君には悪いけど、つきあってられ{n}ないよね……。{n}時間もあるし、他のトコロに{n}いってみようかナ?{p}
+EN: Sorry, Shoma-kun, but I can't keep up with that... I've got time, so maybe I'll try somewhere else?{p}
+
+## MBMS07 g1 s0043
+JP: いいヨ、私もつき合うワ。{n}バット、他にもある?{p}
+EN: Sure, I'll join you. Got another bat?{p}
+
+## MBMS07 g1 s0045
+JP: 今日はちょっと体調が悪いから、{n}見てるだけにしておくワ。{n}終わったら一緒に帰らない?{p}{end}
+EN: I'm not feeling great today, so I'll just watch. Want to head home together when you're done?{p}{end}
+
+## MBMS07 g1 s0049
+JP: 将馬君、クラブがない日は、いつもあんなに{n}トレーニングしてるの?{p}{end}
+EN: Shoma-kun, do you always train like that on days without club?{p}{end}
+
+## MBMS07 g1 s0052
+JP: （それに比べると、私なんてまだまだ{n}{sp}ね……。{n}{sp}もっとがんばらないと…）{p}
+EN: (Compared to him, I've still got a long way to go... I need to try harder...){p}
+
+## MBMS07 g1 s0055
+JP: 保健室に来たものの、響子先生は{n}いないみたいね…。{n}ひきかえそ…。{p}
+EN: I came to the infirmary, but Kyoko-sensei doesn't seem to be here... I'll head back...{p}
+
+## MBMS07 g1 s0057
+JP: （声がした方をみると、{n}{sp}夏がベッドで休んでる。{n}{sp}ジャージ姿のトコロをみると、{n}{sp}練習中にケガでもしたのかな?）{p}
+EN: (I look toward the voice and see Natsu resting on a bed. She's in her tracksuit, so maybe she got hurt at practice?){p}
+
+## MBMS07 g1 s0058
+JP: あら、{v8:4}じゃない。{n}何?{sp}響子先生に会いに来たの?{p}{end}
+EN: Oh, it's {v8:4}. What? Came to see Kyoko-sensei?{p}{end}
+
+## MBMS07 g1 s0060
+JP: うん、ちょっと用があったんだけど…{n}いないんじゃしょうがないネ。{n}また出直すワ、じゃネ。{p}{end}
+EN: Yeah, I needed her for something... but if she's out, oh well. I'll come back later. See ya.{p}{end}
+
+## MBMS07 g1 s0064
+JP: 大丈夫?{n}ドジねぇ{p}
+EN: Are you okay?{n}What a klutz{p}
+
+## MBMS07 g1 s0065
+JP: 大丈夫?{sp}夏のバレーの大会が{n}近いんじゃないの?{n}気をつけないと、この時期にケガなんか{n}したら大変だヨ。{p}{end}
+EN: Are you okay? Isn't your summer volleyball tournament coming up? You've gotta be careful. Getting hurt right now would be bad.{p}{end}
+
+## MBMS07 g1 s0068
+JP: （そのあとは、そのまましばらく夏と{n}{sp}つまらない雑談をして過ごした……）{p}{end}
+EN: (After that, I spent a while with Natsu, just chatting about nothing......){p}{end}
+
+## MBMS07 g1 s0069
+JP: {v8:4}……。{n}今日はアリガト……ね。{p}
+EN: {v8:4}...... Thanks for today...... okay?{p}
+
+## MBMS07 g1 s0070
+JP: ドジねぇ。{n}アタマうったって、ボール{n}よけられなかったの?{n}そんなことでホント大丈夫なの?{p}
+EN: What a klutz. You hit your head? Couldn't you dodge the ball? Are you really gonna be okay like that?{p}
+
+## MBMS07 g1 s0073
+JP: （寝ちゃった…。{n}{sp}ちょっと怒らせちゃったかナ…{n}{sp}今日はこのへんで退散しよ……。）{p}{end}
+EN: (She went to sleep... Guess I made her a little mad... I'll leave it here for today......){p}{end}
+
+## MBMS07 g1 s0075
+JP: あれ、エッジ君がまだ教室にいるぞ{n}一生懸命鏡を見てるけど、{n}何してるんだろう?{p}
+EN: Huh, Edge-kun is still in the classroom. He's staring hard into a mirror. What's he doing?{p}
+
+## MBMS07 g1 s0079
+JP: 見てたよ{n}何にも見てないわよ{p}{end}
+EN: I saw{n}I didn't see anything{p}{end}
+
+## MBMS07 g1 s0080
+JP: な、何にも見てないわよ。{n}あっ、もう帰んなきゃ。{n}じゃ、またね!{p}{end}
+EN: I-I didn't see anything. Oh, I gotta get home. See ya!{p}{end}
+
+## MBMS07 g1 s0081
+JP: ふう、なんか危ない零囲気だったわ{n}さて、どこに行こうかな?{p}
+EN: Phew, that felt dangerous. Now, where should I go?{p}
+
+## MBMS07 g1 s0083
+JP: ああ、これか?{n}ちょっと鏡見ながら{n}新しいヘアスタイルを考えてたのさ。{p}
+EN: Oh, this? I was just lookin' in the mirror, thinkin' up a new hairstyle.{p}
+
+## MBMS07 g1 s0093
+JP: リーゼントなんか似合うんじゃないかしら。{p}{end}
+EN: I think a pompadour would suit you.{p}{end}
+
+## MBMS07 g1 s0097
+JP: ちっ!{sp}おめえの考えは{n}よ～く分かったぜ!{n}あ～あ、聞くんじゃなかったよ。{n}じゃあな!{p}
+EN: Tch! I get what you think, loud and clear! Man, I shouldn't've asked. Later!{p}
+
+## MBMS07 g1 s0098
+JP: 怒らないって言ったくせに{n}…うそつき!{p}
+EN: You said you wouldn't get mad... Liar!{p}
+
+## MBMS07 g1 s0099
+JP: あぁ、暑い。こんな暑いのに練習やってる{n}人がいるわ。あのサンバイザーは…{n}やっぱりロベルト君ね!{p}{end}
+EN: Man, it's hot. Someone's practicing in this heat. That sun visor... It's Roberto-kun, all right!{p}{end}
+
+## MBMS07 g1 s0102
+JP: やぁ!{v8:5}じゃないか。{p}
+EN: Hey! If it isn't {v8:5}.{p}
+
+## MBMS07 g1 s0103
+JP: Wカップに影響されて練習?{n}Wカップ決勝戦すごかったねぇ!{n}アイスでも差し入れしようか…{n}爆裂Vゴールはこの季節暑すぎないカナ?{p}{end}
+EN: Inspired by the World Cup?{n}That World Cup final was amazing!{n}Maybe I'll bring you some ice cream...{n}Victory Goal? Isn't it too hot?{p}{end}
+
+## MBMS07 g1 s0106
+JP: あれが…、あれこそが俺の夢ダァ!{n}休んでる暇はない。もう16歳だゼ!{n}はっ!{sp}時間がない。練習再開だ!{n}「いくぜ!!{sp}爆裂!Vゴーーーール!!」{p}{end}
+EN: That... that right there is my dream!! No time to rest! I'm already 16! Ah! I'm running out of time. Back to practice! "Here goes!! Victory Goaaaal!!"{p}{end}
+
+## MBMS07 g1 s0109
+JP: じゃあコレ私がもらってもいいよね!{n}アリガトッ{v9:1}!{p}{end}
+EN: Then I can have this, right? Thanks, {v9:1}!{p}{end}
+
+## MBMS07 g1 s0110
+JP: あっロベルト君が残念そうな顔してる…。{n}欲しかったのかな、本当は…。{p}{end}
+EN: Ah, Roberto-kun looks disappointed... I guess he really did want it...{p}{end}
+
+## MBMS07 g1 s0112
+JP: 受けてくれって爆裂Vゴールを??{n}カンベンしてよ…。{p}{end}
+EN: Take your Victory Goal?? Gimme a break...{p}{end}
+
+## MBMS07 g1 s0119
+JP: なんで日本のサマーはこんなに暑いんだ!?{n}こんなところで暮らしてるなんて{n}どうかしてるぜ!{sp}まったく…。{n}{v3:6}もそうおもわないか!{p}
+EN: Why is Japanese summer so hot!? Anyone who lives here must be crazy! Honestly... Don't you think so, {v3:6}!{p}
+
+## MBMS07 g1 s0120
+JP: 全くその通りね!{n}そうでもないと思うナ…{n}コレぐらいで暑いっていってるようじゃ…{p}{end}
+EN: You said it!{n}It's not that bad, I think...{n}If you call this hot...{p}{end}
+
+## MBMS07 g1 s0129
+JP: （一人で突っ込んで一人で{n}{sp}盛り上がってるわ{n}{sp}変わったアメリカ人よね…。）{p}{end}
+EN: (He makes his own jokes and laughs at them. What a strange American...){p}{end}
+
+## MBMS07 g1 s0132
+JP: 何だって?!このクレイジージャパニーズ!{p}{end}
+EN: What did you say!? You crazy Japanese!{p}{end}
+
+## MBMS07 g1 s0133
+JP: （わぁー、おこらせちゃった。{n}{sp}今まともにやったら死んじゃうよ…。）{n}{sp}とりあえず逃げよう。）{p}
+EN: (Whoa, I made him mad. If we fight for real now, I'm dead... Better run for it.){p}
+
+## MBMS07 g1 s0139
+JP: そうね。いっしょに焼こう{n}ボーマンはもう充分黒いじゃない!{n}今日のところはやめておくわ{p}
+EN: Sure, let's tan together{n}Boman, you're plenty dark already!{n}I'll pass for today{p}
+
+## MBMS07 g1 s0140
+JP: そーですか。実は、もうすぐ{n}ティファニーも来るんですよ。{n}こういうコトはみんなでした方が{n}楽しいですからね。{p}{end}
+EN: I see. Actually, Tiffany is coming soon too. Things like this are more fun with everyone.{p}{end}
+
+## MBMS07 g1 s0143
+JP: みんなの水着姿なんてめずらしいわ!!{n}ボーマン誘ってくれてありがとう!!{p}{end}
+EN: It's rare to see everyone in swimsuits!! Boman, thanks for inviting me!!{p}{end}
+
+## MBMS07 g1 s0146
+JP: きわどい水着ねぇ～!!{n}（ティファニーはさすがにアメリカ～ン{col:5}♥{col:-}{n}{sp}ボーマンさそってくれてありがとう!!）{p}{end}
+EN: What a daring swimsuit!! (Tiffany really is so American{col:5}♥{col:-} Thanks for inviting me, Boman!!){p}{end}
+
+## MBMS07 g1 s0152
+JP: （しっ…死んじゃうよ…。）{p}
+EN: (I-I'm gonna die...){p}
+
+## MBMS07 g1 s0157
+JP: （しまったー!{n}{sp}みんなと仲良くなる{n}{sp}チャンスだったのに!!）{p}{end}
+EN: (Dang it!! That was my chance to get closer to everyone!!){p}{end}
+
+## MBMS07 g1 s0159
+JP: あれっ?{n}ベッドで気持ちよさそうに{n}寝ているのはだれ?{n}ティファニーかな?{p}
+EN: Huh? Who's that sleeping so comfortably in the bed? Tiffany?{p}
+
+## MBMS07 g1 s0162
+JP: どうしたの、気分でも悪いの?{n}気持ちよさそうに寝てたね{n}あわてて隠れる{p}
+EN: What's wrong, feeling sick?{n}You looked so comfy sleeping{n}Hide in a hurry{p}
+

@@ -1,0 +1,3292 @@
+## MBMS20 g0 s0000
+JP: 放課後。{n}たまの買い物。{n}欲しいモノも買ったし、{n}もうちょっとブラブラしてみよっかな。{p}
+EN: After school. A rare shopping trip. I got what I wanted, so maybe I'll wander around a bit more.{p}
+
+## MBMS20 g0 s0001
+JP: あれ?{n}向こうから、聞き覚えのある声がするぞ。{n}ちょっといってみるか。{p}
+EN: Huh? I hear a familiar voice over there. Let's go take a look.{p}
+
+## MBMS20 g0 s0002
+JP: 誰かがケンカしてるみたいだ。{n}お、アレはバツじゃないか。{p}{end}
+EN: Sounds like someone's fighting. Oh, isn't that Batsu?{p}{end}
+
+## MBMS20 g0 s0003
+JP: てめぇら!!{n}その子から手を放せっていってるのが{n}わからねぇのか!!{p}{end}
+EN: You punks!! Didn't you hear me? I said let go of that kid!!{p}{end}
+
+## MBMS20 g0 s0004
+JP: （見ると、中学生二人が{n}{sp}高校生4、5人に囲まれている。{n}{sp}零囲気からすると{n}{sp}カツアゲの真っ最中ってトコロか?）{p}
+EN: (Two middle schoolers are surrounded by four or five high schoolers. From the looks of it, it's a shakedown in progress.){p}
+
+## MBMS20 g0 s0005
+JP: （高校生が何か文句を言ってるようだが、{n}{sp}ここからではよく聞きとれない。{n}{sp}バツはツカツカと近寄ると……。）{p}{end}
+EN: (The high schoolers are griping about something, but I can't make it out from here. Batsu marches right up to them and...){p}{end}
+
+## MBMS20 g0 s0006
+JP: ガツッ!!{n}（一発パンチをいれた!!{n}{sp}そのまま、残りの連中にもすばやく{n}{sp}パンチをかます!!）{p}{end}
+EN: WHAM!! (He landed a punch!! Then he quickly lays into the rest of them too!!){p}{end}
+
+## MBMS20 g0 s0007
+JP: {col:3}不良学生{col:-}{n}「チクショーーっ!!{n}{sp}覚えてろ!!」{p}{end}
+EN: {col:3}Delinquent{col:-}{n}"Damn it!! You'll pay for this!!"{p}{end}
+
+## MBMS20 g0 s0008
+JP: （あっという間に片づけてしまった……。{n}{sp}中学生二人は、礼をいって去っていった。{n}{sp}加勢しようかとも思ったが、{n}{sp}その必要もなかったな。）{p}
+EN: (He took care of them in no time... The two middle schoolers thanked him and left. I thought about helping, but there was no need.){p}
+
+## MBMS20 g0 s0009
+JP: {v3:0}。……見てたのか?{n}ついやっちまったよ。{n}オレはあーゆーカツアゲとかみると{n}ムカつくんだ。{p}
+EN: {v3:0}... You saw that? I couldn't help it. Seeing shakedowns like that just ticks me off.{p}
+
+## MBMS20 g0 s0010
+JP: おまえもあーゆーのキライだろ?{p}
+EN: You hate that kind of thing too, right?{p}
+
+## MBMS20 g0 s0011
+JP: 大キライだ!!{n}別に気にならないけど{p}{end}
+EN: I hate it!!{n}Doesn't bother me{p}{end}
+
+## MBMS20 g0 s0012
+JP: キライだな、俺も。{n}弱い連中に限って、{n}ああやって徒党組んで弱いモノ相手に{n}カツアゲとかするんだ。{p}
+EN: Yeah, I hate it too. It's always the weak ones who gang up like that and shake down people even weaker.{p}
+
+## MBMS20 g0 s0013
+JP: まったくな。{n}男なら、正々堂々と!!{n}男らしく勝負だ!!{p}{end}
+EN: Damn right. A real man fights fair and square!! Like a man!!{p}{end}
+
+## MBMS20 g0 s0014
+JP: （ふふっ、バツらしいな……。）{p}
+EN: (Heh, that's so Batsu...){p}
+
+## MBMS20 g0 s0015
+JP: 別に気にならないけどな。{n}カツアゲされる方にも{n}スキがあるだろ?{p}{end}
+EN: Doesn't really bother me. The ones getting shaken down are leaving themselves open, right?{p}{end}
+
+## MBMS20 g0 s0016
+JP: ……おまえ、そんなこというんだな。{p}
+EN: ...So that's how you think, huh.{p}
+
+## MBMS20 g0 s0017
+JP: （ちょっと怒らせちゃったかな……。）{p}{end}
+EN: (Guess I made him a little mad...){p}{end}
+
+## MBMS20 g0 s0018
+JP: さてと買い物もすんだことだし、{n}もう少しブラブラするか。{n}お、あそこで走ってるのはバツだな。{n}何やってるんだろう?{p}
+EN: Well, shopping's done, so I'll wander around a bit more. Oh, that's Batsu running over there. What's he up to?{p}
+
+## MBMS20 g0 s0019
+JP: よぉ、バツ!!{n}何やってるんだ?{n}またケンカか?{p}{end}
+EN: Hey, Batsu!! What're you doing? Another fight?{p}{end}
+
+## MBMS20 g0 s0020
+JP: よぉ{v3:0}じゃねぇか。{n}ちょっと新聞配達のバイトをな。{n}ちょうど終わったトコロなんだ。{p}{end}
+EN: Hey, if it ain't {v3:0}. Just my paper route job. I just finished.{p}{end}
+
+## MBMS20 g0 s0021
+JP: バツ、走って配達してるのか?{n}自転車は?{p}{end}
+EN: Batsu, you deliver papers on foot? What about a bike?{p}{end}
+
+## MBMS20 g0 s0022
+JP: ああ、これもトレーニングさ。{n}さすがに朝刊は量が多いからムリだけどな。{n}夕刊くらいなら、持って走れるぜ。{p}{end}
+EN: Yeah, it's training too. The morning paper's way too much to carry, but I can run with the evening one, no problem.{p}{end}
+
+## MBMS20 g0 s0023
+JP: そういえばバツ、{n}この前ここでケンカしてたよな。{n}あいつらこのあたりでよく見るけど、{n}仕返しとかされないのか?{p}
+EN: Hey Batsu, you got in a fight here the other day, right? I see those guys around here a lot. Won't they try to get back at you?{p}
+
+## MBMS20 g0 s0024
+JP: あんなヤツら、何人かかってこようと{n}目じゃないぜ。{n}返りうちにしてやるよ。{p}
+EN: Guys like that? Doesn't matter how many come at me. I'll send 'em all packing.{p}
+
+## MBMS20 g0 s0025
+JP: ま、このへんはオレのなわばりだからな。{n}おまえもカラまれたりしたら、{n}オレにいえよ。{n}すぐぶっ飛ばしてやるから。{p}{end}
+EN: Anyway, this area's my turf. If anybody gives you trouble, tell me. I'll go pound 'em right away.{p}{end}
+
+## MBMS20 g0 s0026
+JP: 頼むよ{n}遠慮しとくよ{p}{end}
+EN: Please do{n}I'll pass{p}{end}
+
+## MBMS20 g0 s0027
+JP: そうだな、ぜひ頼むよ。{n}頼りにしてるぜ。{p}{end}
+EN: Yeah, I'll definitely take you up on that. I'm counting on you.{p}{end}
+
+## MBMS20 g0 s0028
+JP: 任せとけって。{n}オレがバッチリ守ってやるよ。{p}{end}
+EN: Leave it to me. I'll keep you safe, no sweat.{p}{end}
+
+## MBMS20 g0 s0029
+JP: そうだ、これやるよ。{n}夕刊、一部いらねーっていわれてよ。{n}持って帰ってもしかたないしな。{p}{end}
+EN: Oh yeah, take this. Someone said they didn't want their evening paper. No point taking it home.{p}{end}
+
+## MBMS20 g0 s0030
+JP: あ、ああ、サンキュ。{n}もらっとくよ。{p}{end}
+EN: Oh, uh, thanks. I'll take it.{p}{end}
+
+## MBMS20 g0 s0031
+JP: {col:0}『あまった夕刊』{col:-}を手に入れた!!{p}{end}
+EN: Got {col:0}"Leftover Evening Paper"{col:-}!!{p}{end}
+
+## MBMS20 g0 s0032
+JP: 遠慮しとくよ。{n}バツに任せたら、話がおおごとに{n}なりそうだ。{p}{end}
+EN: I'll pass. If I leave it to you, Batsu, it'll turn into a huge mess.{p}{end}
+
+## MBMS20 g0 s0033
+JP: そういうなって。{n}オレってそんなに{n}もめごと好きにみえるか?{p}{end}
+EN: Don't say that. Do I really look like I love picking fights?{p}{end}
+
+## MBMS20 g0 s0034
+JP: 見えるなぁ。{p}{end}
+EN: Yeah, you do.{p}{end}
+
+## MBMS20 g0 s0035
+JP: ガクッ……{n}ひどいなぁ。{n}オレがせっかく守ってやるって{n}いってるのによォ。{p}
+EN: Ugh... Harsh. And here I am offering to protect you.{p}
+
+## MBMS20 g0 s0036
+JP: （ん?{sp}むこうの角に{n}{sp}この前の騒ぎで見たような{n}{sp}不良学生らしい連中がいたが……{n}{sp}気のせいだろうか?）{p}
+EN: (Hm? Around that corner... were those the delinquents from the fight the other day? Or am I imagining it?){p}
+
+## MBMS20 g0 s0037
+JP: 放課後。今日も買いたいモノがあって、{n}商店街によってみたんだけど、{n}あいにく欲しいモノがみつからない。{n}今日はついてないな。{p}{end}
+EN: After school. I came to the shopping district to buy something again, but I couldn't find what I wanted. Not my lucky day.{p}{end}
+
+## MBMS20 g0 s0038
+JP: {col:3}不良学生{col:-}{n}「ちょっといいかい、兄ちゃん。」{p}
+EN: {col:3}Delinquent{col:-}{n}"Got a minute, pal?"{p}
+
+## MBMS20 g0 s0039
+JP: （どうも、今日は本当にツイてないらしい…{n}{sp}この前のバツと騒いでた{n}{sp}不良学生の一人だ……。）{p}
+EN: (Looks like today really isn't my day... It's one of the delinquents from that fight with Batsu...){p}
+
+## MBMS20 g0 s0040
+JP: {col:3}不良学生{col:-}{n}「おまえ、あのバツとかいう野郎の{n}{sp}トモダチだろ?{n}{sp}ちょっとツラ貸せや」{p}{end}
+EN: {col:3}Delinquent{col:-}{n}"You're a friend of that Batsu guy, right? Come with us for a sec."{p}{end}
+
+## MBMS20 g0 s0041
+JP: （周りをみると、仲間らしき高校生が{n}{sp}10人近くいる。{n}{sp}どいつも強そうだ……うかつに手を{n}{sp}出さない方がいいか……?）{p}{end}
+EN: (Looking around, there are nearly ten of his buddies. They all look tough... Maybe I'd better not try anything rash...?){p}{end}
+
+## MBMS20 g0 s0042
+JP: 「おい!!{n}{sp}その手を放せ!!」{p}{end}
+EN: "Hey!! Let go of him!!"{p}{end}
+
+## MBMS20 g0 s0043
+JP: バツだ!{p}{end}
+EN: It's Batsu!{p}{end}
+
+## MBMS20 g0 s0044
+JP: {col:3}リーダーらしき男{col:-}{n}「てめぇがバツか!?{n}{sp}この前はよくも俺の子分達をイジメてくれ{n}{sp}たな!{sp}たっぷり仕返ししてやるぜ!」{p}{end}
+EN: {col:3}Gang Leader{col:-}{n}"So you're Batsu!? You beat up my boys the other day! Now you're gonna pay big time!"{p}{end}
+
+## MBMS20 g0 s0045
+JP: 何いってやがる!{n}オレはてめぇらが、カツアゲなんて{n}チンケなマネしてるから、{n}ちょっと痛めつけてやっただけだ!!{p}{end}
+EN: What're you talking about! You were pulling some cheap shakedown, so I roughed you up a little, that's all!!{p}{end}
+
+## MBMS20 g0 s0046
+JP: いいからその手を放せ!!{n}そいつにケガでもさせてみろ、{n}てめえら全員ぶっ飛ばしてやるぞ!!{p}
+EN: Just let go of him!! You so much as scratch him, and I'll pound every last one of you!!{p}
+
+## MBMS20 g0 s0047
+JP: {col:3}リーダーらしき男{col:-}{n}「この野郎、ちょっと強いからって{n}{sp}いい気になりやがって!!{n}{sp}おまえら、やっちまえ!!」{p}{end}
+EN: {col:3}Gang Leader{col:-}{n}"You punk, getting cocky just 'cause you're a little tough!! Get him, boys!!"{p}{end}
+
+## MBMS20 g0 s0048
+JP: ……ガスッ!……ボコォッ!!{n}「ガッツアッパー!!」{n}ガツッガツッ!!……ドスッ!!{p}{end}
+EN: ...Thud!... Pow!! "Guts Upper!!" Wham, wham!!... Thump!!{p}{end}
+
+## MBMS20 g0 s0049
+JP: （俺も少しは手伝った方がいいか。{n}{sp}ガスッ!!{n}{sp}俺は手を押さえている男の鼻に、{n}{sp}恵拳をくらわせる!）{p}{end}
+EN: (Guess I should help a little too. Whack!! I give the guy holding my arm a backfist to the nose!){p}{end}
+
+## MBMS20 g0 s0050
+JP: ふぅ…片づいたか。{n}あれ…なんだ{v3:0}、{n}自由になってるじゃねぇか。{n}心配して損しちまったぜ。{p}{end}
+EN: Phew... that's done. Huh... what, {v3:0}, you got loose on your own? Guess I worried for nothing.{p}{end}
+
+## MBMS20 g0 s0051
+JP: なんか騒ぎが大きくなっちまったな。{n}ここにいちゃ、ヤバイかもしれねえ。{n}ちょっと場所をかえようぜ。{p}
+EN: This got way out of hand. Might be bad news if we stick around. Let's go somewhere else.{p}
+
+## MBMS20 g0 s0052
+JP: そうか、やっぱりヤツら{n}オレに仕返しするつもりだったんだな。{n}チッ、一人相手に10人がかりとは卑怯な{n}連中だぜ。{p}{end}
+EN: So they really were out to get back at me. Tch, ten guys against one. What a bunch of cowards.{p}{end}
+
+## MBMS20 g0 s0053
+JP: ゴメンな、ヘンなことに巻きこんじまって。{n}オレ、おまえがつかまってるの見て{n}カッとなっちまってよ……。{p}
+EN: Sorry for dragging you into this mess. When I saw they'd grabbed you, I just lost it...{p}
+
+## MBMS20 g0 s0054
+JP: ま、なにしろケガがなくてよかったよ。{n}おまえにケガなんかあったら、オレ……。{p}{end}
+EN: Well, anyway, I'm glad you didn't get hurt. If anything happened to you, I'd...{p}{end}
+
+## MBMS20 g0 s0055
+JP: 気にするなよ…{n}ヘンなことにまきこむな!{p}{end}
+EN: Don't worry about it...{n}Don't drag me into this!{p}{end}
+
+## MBMS20 g0 s0056
+JP: まぁそう気にするなよ。バツのおかげで{n}この通り、ケガもなかったわけだしさ。{n}それよりバツ、{n}バツはなんで商店街に来てたの?{p}
+EN: Hey, don't worry about it. Thanks to you, I didn't get hurt at all. More importantly, Batsu, why were you at the shopping district?{p}
+
+## MBMS20 g0 s0057
+JP: いや、その……。{n}おまえがこっちに寄るって聞いたからよ。{n}一緒に帰ろうと思ってな……。{p}
+EN: Well, uh... I heard you were stopping by here. Thought we could walk home together...{p}
+
+## MBMS20 g0 s0058
+JP: バツ……。{n}ありがとう……。{p}{end}
+EN: Batsu... Thanks...{p}{end}
+
+## MBMS20 g0 s0059
+JP: バ、バァカ!{n}お、おまえ、そんな照れるじゃないか!{n}そんなことよりとっとと帰ろうぜ!{p}{end}
+EN: D-don't be stupid! Y-you're making me all embarrassed! Never mind that, let's just head home!{p}{end}
+
+## MBMS20 g0 s0060
+JP: まったくよぉ、ヘンなことに{n}まきこむなよ!{n}いい迷惑だぜ。{p}
+EN: Seriously, don't drag me into your messes! What a pain.{p}
+
+## MBMS20 g0 s0061
+JP: 悪かったよ。{n}ゴメンな。{n}もう、おまえには迷惑かけねぇよ……。{p}
+EN: My bad. Sorry. I won't cause you any more trouble...{p}
+
+## MBMS20 g0 s0062
+JP: 放課後。{n}今日の授業も終わったし、家に帰ろう。{p}
+EN: After school. Classes are over for today. Time to head home.{p}
+
+## MBMS20 g0 s0063
+JP: 「いっち、にの、さーーーん!!」{p}{end}
+EN: "One, two, THREEEE!!"{p}{end}
+
+## MBMS20 g0 s0064
+JP: お、あそこで練習してるのは、{n}ひなただな。{n}子供に何か教えてるみたいだけど?{p}{end}
+EN: Oh, that's Hinata practicing over there. Looks like she's teaching some kids something?{p}{end}
+
+## MBMS20 g0 s0065
+JP: 違う違う、もっとこう、{n}いっち、にの、さーーーん!!{sp}だって。{p}
+EN: No, no, more like this. One, two, THREEEE!! See?{p}
+
+## MBMS20 g0 s0066
+JP: よぉ、ひなた。{n}子供相手に何やってんの?{p}{end}
+EN: Hey, Hinata. What're you doing with those kids?{p}{end}
+
+## MBMS20 g0 s0067
+JP: あ、{v7:1}。{n}ちょっとね、子供たちに格闘技{n}教えてるんだ。{n}あ、君たち今日はもういいよ、じゃね!!{p}{end}
+EN: Oh, {v7:1}. I'm teaching the kids some martial arts. Okay, guys, that's it for today. Bye!!{p}{end}
+
+## MBMS20 g0 s0068
+JP: {col:3}子供達{col:-}{n}「おねえちゃん、またねー」{p}
+EN: {col:3}Kids{col:-}{n}"Bye, big sis!"{p}
+
+## MBMS20 g0 s0069
+JP: ふふっ、子供ってかわいいよねー。{n}ところで、{v7:1}、{n}今から帰り?{sp}一緒に帰らない?{p}
+EN: Hehe, kids are so cute. By the way, {v7:1}, are you heading home? Wanna walk together?{p}
+
+## MBMS20 g0 s0070
+JP: ひなたって通信教育で、格闘技{n}やってるんだって?{n}なんかかわってるね。{p}
+EN: Hinata, I heard you learn martial arts by correspondence course? That's kinda unusual.{p}
+
+## MBMS20 g0 s0071
+JP: よくいわれる～、それ。{n}やっぱり私ってヘンかなァ?{p}
+EN: I get that a lot~. Am I weird after all?{p}
+
+## MBMS20 g0 s0072
+JP: 別にヘンじゃない{n}ちょっとヘンかな{p}
+EN: You're not weird{n}You're a little weird{p}
+
+## MBMS20 g0 s0073
+JP: たしかにちょっとヘンかな。{n}通信教育で格闘技ってのはちょっと。{n}普通の女の子はしないよね。{p}
+EN: Yeah, maybe a little weird. Martial arts by correspondence course is kinda... Normal girls don't do that.{p}
+
+## MBMS20 g0 s0074
+JP: う～ん、やっぱりそうかな…。{n}そんなこといわれると、{n}落ち込んじゃうよ～。{p}
+EN: Hmm~, I guess you're right... Hearing that kinda bums me out~.{p}
+
+## MBMS20 g0 s0075
+JP: 別にヘンじゃないよ。{n}ま、たしかに普通の子はしないと思うけど。{n}ひなたらしいっていうか、いいと思うよ。{p}
+EN: You're not weird. Sure, normal girls probably don't do it. But it's very you. I think it's great.{p}
+
+## MBMS20 g0 s0076
+JP: そうだよね。{n}そういってもらえると、うれしいな。{n}私、格闘技って好きなんだ。{n}やってるとすごく楽しいし。{p}{end}
+EN: Right? I'm glad you think so. I love martial arts. It's so much fun.{p}{end}
+
+## MBMS20 g0 s0077
+JP: ところで通信教育の格闘技って{n}どういう風に習うの?{p}
+EN: So how do you learn martial arts by correspondence?{p}
+
+## MBMS20 g0 s0078
+JP: 格闘技のテキストと、{n}ビデオがとどくんだよ。{n}今持ってるけど、見せてあげようか?{p}{end}
+EN: They send you a textbook and a video. I've got it with me. Wanna see?{p}{end}
+
+## MBMS20 g0 s0079
+JP: （見ると、ちょっと厚めのテキストに{n}{sp}イラスト入りで技の解説が入っている。）{p}{end}
+EN: (It's a fairly thick textbook, with illustrations explaining each move.){p}{end}
+
+## MBMS20 g0 s0080
+JP: （なになに?{sp}『炎舞脚』…左足でふみ切り{n}{sp}空中で体を反転させて勢いをつけそのまま{n}{sp}左脚で蹴りをはなつ、跳び回し蹴り…。{n}{sp}連続で蹴りを出せればより効果的。）{p}{end}
+EN: (Let's see... "Enbukyaku": Jump off the left foot, spin in midair and kick with the left leg. Even better if you can chain kicks.){p}{end}
+
+## MBMS20 g0 s0081
+JP: ………?{n}この説明で、どうやったら火が出せたり{n}空中で3回転もできるようになるんだ?{p}{end}
+EN: ......? How does this explanation get you shooting fire and spinning three times in midair?{p}{end}
+
+## MBMS20 g0 s0082
+JP: え～、だって『連続で蹴りをだせれば』って{n}書いてあるじゃん。{n}2回より3回の方がいいでしょ?{n}それに技名も『炎』舞脚だし。{p}
+EN: Huh~? But it says "if you can chain kicks." Three's better than two, right? Besides, it's called the "Flame" Dance Kick.{p}
+
+## MBMS20 g0 s0083
+JP: （なんとなく、ひなたがなんで強いのか、{n}{sp}わかったような気がする……{n}{sp}別に通信教育がすごいワケじゃないんだ。{n}{sp}彼女、ナチュラルに強いんだろう……。）{p}{end}
+EN: (I think I kinda get why Hinata's so strong... It's not that the course is amazing. She's just a natural...){p}{end}
+
+## MBMS20 g0 s0084
+JP: それ、あげようか?{n}きっと参考になるよ。{n}{v7:1}も{n}格闘技してるんでしょ?{p}{end}
+EN: Want it? It'll help, for sure. You do martial arts too, right, {v7:1}?{p}{end}
+
+## MBMS20 g0 s0085
+JP: ありがとう。もらっとくよ。{n}サンキュ。{p}
+EN: Thanks. I'll take it. Appreciate it.{p}
+
+## MBMS20 g0 s0086
+JP: {col:0}『通信教育空手セット』{col:-}をもらった!!{p}{end}
+EN: Got {col:0}"Mail-Order Karate Set"{col:-}!!{p}{end}
+
+## MBMS20 g0 s0087
+JP: 放課後。{n}さて、今日も帰るか。{n}お、あそこにいるのはひなたじゃないか。{p}
+EN: After school. Okay, time to head home. Oh, isn't that Hinata over there?{p}
+
+## MBMS20 g0 s0088
+JP: ヤッホー、{v7:1}。{n}ね、一緒に帰らない?{n}通信教育の新しいテキストが来たから、{n}ちょっと練習つきあって欲しいんだ!{p}{end}
+EN: Yoo-hoo, {v7:1}. Hey, wanna walk home together? My new correspondence textbook came, so I want you to practice with me!{p}{end}
+
+## MBMS20 g0 s0089
+JP: いくよ!!{n}えいっ!!{sp}やぁ!!{n}いっち、にの、さーーーん!!{p}
+EN: Here I come!! Hyah!! Yaah!! One, two, THREEEE!!{p}
+
+## MBMS20 g0 s0090
+JP: ……はぁはぁ、ちょっと待った。{n}一休みしよう。{n}もう1時間も組み手やりっぱなしだよ。{p}{end}
+EN: ...Huff, huff, hold on. Let's take a break. We've been sparring for a whole hour.{p}{end}
+
+## MBMS20 g0 s0091
+JP: えっもうそんなにたつかな……、{n}あ、ホントだ!!{n}ゴメンね疲れたでしょ?{p}{end}
+EN: Huh, has it been that long...? Oh, it really has!! Sorry, you must be tired!{p}{end}
+
+## MBMS20 g0 s0092
+JP: 私、通信教育で格闘技やってるから、{n}あんまり組み手とかやったことないの。{n}だから、こうしてたまに人と{n}トレーニングできるとうれしくって……。{p}{end}
+EN: I learn martial arts by correspondence, so I haven't sparred much. That's why I get so happy when I get to train with someone...{p}{end}
+
+## MBMS20 g0 s0093
+JP: 今回のテキストは、{n}『攻撃の組み立てについて』って内容だから{n}一人じゃやりづらくって。{p}
+EN: This textbook is all about "Building Your Attacks," so it's hard to do alone.{p}
+
+## MBMS20 g0 s0094
+JP: なになに……{n}「たしかにローキックは、攻撃の起点として{n}{sp}最適だが、それに頼った攻めをしてはいけ{n}{sp}ない。特にエボDISCでは調整が……」{p}
+EN: Let's see... "The low kick is ideal for starting an attack, but do not rely on it. Especially on the Evo Disc, the balance was..."{p}
+
+## MBMS20 g0 s0095
+JP: （なんかえらく説明的な内容だな……。）{p}
+EN: (This reads a lot like a strategy guide...){p}
+
+## MBMS20 g0 s0096
+JP: さ、もういいかな。{n}練習、再開しよっ!{p}
+EN: Okay, ready? Let's get back to practice!{p}
+
+## MBMS20 g0 s0097
+JP: もう少し休む{n}再開する{p}
+EN: Rest a bit more{n}Get back to it{p}
+
+## MBMS20 g0 s0098
+JP: もう少し休もう。{n}さっきのでかなり疲れちゃって。{p}{end}
+EN: Let's rest a little longer. That last round wore me out.{p}{end}
+
+## MBMS20 g0 s0099
+JP: もう……、しっかりしてよっ!!{n}がんばってっ!!{p}{end}
+EN: Come on... pull yourself together!! You can do it!!{p}{end}
+
+## MBMS20 g0 s0100
+JP: （う、なんかひなたにはげまされると、{n}{sp}身体から元気が出てくるから不思議だ…）{p}
+EN: (Weird how Hinata cheering me on gives me a burst of energy...){p}
+
+## MBMS20 g0 s0101
+JP: さ、練習しよっ!!{p}
+EN: Okay, let's practice!!{p}
+
+## MBMS20 g0 s0102
+JP: よしっ、やろうか!!{p}{end}
+EN: Alright, let's do this!!{p}{end}
+
+## MBMS20 g0 s0103
+JP: うんっ!!{p}
+EN: Yeah!!{p}
+
+## MBMS20 g0 s0104
+JP: {face:8}・・・・・・・・・{face:255}{p}
+EN: {face:8}.........{face:255}{p}
+
+## MBMS20 g0 s0105
+JP: {v7:1}……。{n}今日はアリガトね。{n}こんな時間までつきあってくれて。{n}ホントにうれしかった。{p}{end}
+EN: {v7:1}... Thanks for today. For sticking with me this late. It made me really happy.{p}{end}
+
+## MBMS20 g0 s0106
+JP: ひなた……。{p}{end}
+EN: Hinata...{p}{end}
+
+## MBMS20 g0 s0107
+JP: さてと、今日も帰るか。{n}あれ、あの正門のトコロにいるのは、{n}ひなただな。{n}誰か待ってるのかな?{p}
+EN: Okay, time to head home. Huh, that's Hinata by the main gate. Waiting for someone?{p}
+
+## MBMS20 g0 s0108
+JP: ヤッホー、{v7:1}!{n}一緒に帰ろ!!{p}{end}
+EN: Yoo-hoo, {v7:1}! Let's walk home together!!{p}{end}
+
+## MBMS20 g0 s0109
+JP: 俺を待っててくれたんだ……。{n}アリガト、一緒に帰ろう。{p}
+EN: You waited for me... Thanks. Let's go.{p}
+
+## MBMS20 g0 s0110
+JP: やったーっ{col:5}♥{col:-}{n}ね、ケーキ食べにいこうよ!!{p}
+EN: Yaaay{col:5}♥{col:-} Hey, let's go get some cake!!{p}
+
+## MBMS20 g0 s0111
+JP: あ、おネエさ～ん!!{n}このフルーツケーキ、もう一つ～!!{p}{end}
+EN: Oh, miss~!! One more of this fruit cake, please~!!{p}{end}
+
+## MBMS20 g0 s0112
+JP: ひなたはホントに、ケーキが好きだなぁ。{n}……それにしても今日はやけに{n}楽しそうだね。{n}何かいいことあった?{p}
+EN: You really love cake, Hinata. ...You seem awfully happy today, though. Something good happen?{p}
+
+## MBMS20 g0 s0113
+JP: 別に～。{n}最近ね、私楽しくてしかたないの!!{n}格闘技やってるのがこんなに楽しいとは{n}思わなかったな!{p}{end}
+EN: Not really~. Lately I'm just having so much fun!! I never knew martial arts could be this fun!{p}{end}
+
+## MBMS20 g0 s0114
+JP: ねぇ{v7:1}はさ、{n}格闘技やってる女の子ってどう思う?{p}
+EN: Hey, {v7:1}, what do you think about girls who do martial arts?{p}
+
+## MBMS20 g0 s0115
+JP: ひなたらしくていいと思う{n}乱暴な女の子は好きじゃない{p}{end}
+EN: It suits you, Hinata{n}I don't like rough girls{p}{end}
+
+## MBMS20 g0 s0116
+JP: 乱暴な女の子はあんまり好きじゃないな。{n}やっぱり女の子はおしとやかじゃないとね。{p}{end}
+EN: I don't really like rough girls. Girls should be ladylike.{p}{end}
+
+## MBMS20 g0 s0117
+JP: ふ～ん、そうなんだ。{n}じゃ、私はダメだね～。{n}………………。{p}{end}
+EN: Hmm~, I see. Then I'm no good, huh~. ..................{p}{end}
+
+## MBMS20 g0 s0118
+JP: ごちそうさま!!{n}さ、そろそろ帰ろっか!!{p}
+EN: That was yummy!! Okay, let's head home!!{p}
+
+## MBMS20 g0 s0119
+JP: またその質問?{sp}よほど気にしてるんだな。{n}ええとな、俺は……いいと思うよ。{n}ひなたらしくてさ。{p}
+EN: That question again? You must really worry about it. Well, I... think it's great. It's so you.{p}
+
+## MBMS20 g0 s0120
+JP: それ、私が乱暴者って意味?{p}
+EN: You mean I'm a brute?{p}
+
+## MBMS20 g0 s0121
+JP: まさか!!{n}元気いっぱいで、ひなたに{n}似合ってるってコト!!{p}{end}
+EN: No way!! I mean it suits you, 'cause you're so full of energy!!{p}{end}
+
+## MBMS20 g0 s0122
+JP: ふふ～ん。{n}私ね、今ホントに格闘技やっててよかった、{n}って思ってるんだ{col:5}♥{col:-}{p}{end}
+EN: Hehe~. You know, right now I'm really glad I do martial arts{col:5}♥{col:-}{p}{end}
+
+## MBMS20 g0 s0123
+JP: こんなに{v7:1}と{n}仲良くなれたし……ネ。{p}
+EN: 'Cause it got me this close to you, {v7:1}... Y'know?{p}
+
+## MBMS20 g0 s0124
+JP: 前はね、ただ格闘していることが{n}楽しかったんだけど、{n}最近は……なんていうのかな、{n}前と違った楽しさがあるの。{p}
+EN: Before, just fighting was fun. But lately... how do I put it, it's fun in a different way.{p}
+
+## MBMS20 g0 s0125
+JP: バツや恭介ともね、一緒に練習したことは{n}あるの。その時も楽しかったんだけど、{n}やっぱり{v7:1}とやるのが{n}一番楽しいナ!!{p}
+EN: I've practiced with Batsu and Kyosuke too. That was fun, but training with you is the most fun, {v7:1}!!{p}
+
+## MBMS20 g0 s0126
+JP: へへへ、このケーキ美味しいね!!{p}{end}
+EN: Hehehe, this cake is yummy!!{p}{end}
+
+## MBMS20 g0 s0127
+JP: ね、今日も{n}私とトレーニングしてくれる?{p}{end}
+EN: Hey, will you train with me today too?{p}{end}
+
+## MBMS20 g0 s0128
+JP: もちろん、いいよ。{p}
+EN: Sure, of course.{p}
+
+## MBMS20 g0 s0129
+JP: ふふ～ん、今日はネ、{n}試したい攻撃があるんだ!!{n}五体満足じゃ帰れないかもよ……???{p}
+EN: Hehe~, today there's an attack I wanna try!! You might not go home in one piece...???{p}
+
+## MBMS20 g0 s0130
+JP: なんて{col:5}♥{col:-}{sp}冗談よ、冗談!!{n}さ、行こうか!!{n}今日もがんばるわよ～!!{p}
+EN: Just{col:5}♥{col:-} kidding, kidding!! Okay, let's go!! I'm gonna give it my all today too~!!{p}
+
+## MBMS20 g0 s0131
+JP: 今朝は寝坊してしまった!{n}急がないと、遅刻してしまう!!{p}{end}
+EN: I overslept this morning! If I don't hurry, I'll be late!!{p}{end}
+
+## MBMS20 g0 s0132
+JP: この時間だと、全力で飛ばしても{n}間に合うかどうか……{n}って考えててもしょうがない、{n}走ろう!!{p}
+EN: At this hour, even running flat out I might not make it... No use thinking about it. Run!!{p}
+
+## MBMS20 g0 s0133
+JP: やっと正門が見えてきた!!{n}あと少し、間に合うか?{p}
+EN: Finally, the main gate! Just a little more. Will I make it?{p}
+
+## MBMS20 g0 s0134
+JP: キーンコーンカーンコーン…{p}
+EN: *Ding dong ding dong*...{p}
+
+## MBMS20 g0 s0135
+JP: ゲッ!{sp}チャイムが鳴ってしまった!!{n}あと少しなのに……!!{p}{end}
+EN: Crap! The bell rang!! I was so close...!!{p}{end}
+
+## MBMS20 g0 s0136
+JP: タイムリミットだな。{n}1年A組、{v0}遅刻……と。{p}
+EN: Time's up. Class 1-A, {v0}, late... there.{p}
+
+## MBMS20 g0 s0137
+JP: 恭介～～。{n}あとほんの十秒じゃないか!?{n}見逃してくれぇ!!{p}{end}
+EN: Kyosukeee... It was only ten seconds!? Let it slide!!{p}{end}
+
+## MBMS20 g0 s0138
+JP: なんだ、{v5:2}。{n}そんな不正が通用すると思ってるのか?{p}{end}
+EN: What's this, {v5:2}? You think I'd bend the rules for you?{p}{end}
+
+## MBMS20 g0 s0139
+JP: 俺とおまえの仲じゃないか{n}昼飯おごるから許してくれ{n}いいよ、遅刻で{p}
+EN: Come on, we're buddies{n}I'll buy you lunch{n}Fine, mark me late{p}
+
+## MBMS20 g0 s0140
+JP: 俺とおまえの仲じゃないか、{n}ちょっとくらい見逃してくれよ!!{p}{end}
+EN: Come on, we're buddies, aren't we? Just let it slide this once!!{p}{end}
+
+## MBMS20 g0 s0141
+JP: ダメだな。{n}風紀委員は常に厳格でないといけない。{n}情で風紀を乱しては、風紀委員たる意味が{n}ない。{p}{end}
+EN: No. The disciplinary committee must always be strict. If we bend the rules out of sympathy, there's no point to the committee.{p}{end}
+
+## MBMS20 g0 s0142
+JP: 昼飯おごるから、許してくれよ。{n}な?{sp}おまえの好きなモン{n}食っていいからさ!{p}{end}
+EN: I'll buy you lunch, so let me off. Okay? You can have whatever you want!{p}{end}
+
+## MBMS20 g0 s0143
+JP: ふんふん、それくらいで僕が不正をすると{n}思ってるんだな、君は。{n}風紀委員侮辱罪に、贈賄の現行犯だ。{p}
+EN: Hmm, hmm. So you think I'd break the rules for that. Insulting the disciplinary committee, and bribery caught in the act.{p}
+
+## MBMS20 g0 s0144
+JP: いいよ、遅刻で。{n}しかたないな……。{p}{end}
+EN: Fine, mark me late. Can't be helped...{p}{end}
+
+## MBMS20 g0 s0145
+JP: ふふっ、今日はやけに素直だな。{n}何かヘンなものでも食べたのか?{p}
+EN: Heh, you're awfully obedient today. Eat something funny?{p}
+
+## MBMS20 g0 s0146
+JP: ま、どちらにしても遅刻したことは{n}かわらないからな。{n}ハイ、これ。{n}今週の罰だ。{p}{end}
+EN: Either way, you're still late. Here. This week's punishment.{p}{end}
+
+## MBMS20 g0 s0147
+JP: 何……コレ?{p}{end}
+EN: What... is this?{p}{end}
+
+## MBMS20 g0 s0148
+JP: 見ればわかるだろ?{n}{col:0}『はげヅラ』{col:-}だよ。{n}遅刻の罰としてこのカツラをかぶって{n}もらう。2限目までだけどな。{p}{end}
+EN: Isn't it obvious? A {col:0}"Bald Wig"{col:-}. As punishment for being late, you'll wear this wig. Just until 2nd period.{p}{end}
+
+## MBMS20 g0 s0149
+JP: （みると、ハゲの後頭部に、{n}{sp}「もう遅刻はしません」と書いてある。{n}{sp}これを2限目までかぶるのか?）{p}{end}
+EN: (On the back of the bald head it says "I won't be late again." I have to wear this until 2nd period?){p}{end}
+
+## MBMS20 g0 s0150
+JP: ふふっ、君は運がいいよ。{n}先週の罰は『着ぐるみ』だったんだ。{n}あの時はひなたが遅刻してたかな。{n}それよりは、マシだろ?{p}
+EN: Heh, you're lucky. Last week's punishment was a mascot costume. I think Hinata was late that time. This is better, right?{p}
+
+## MBMS20 g0 s0151
+JP: ……{col:0}『はげヅラ』{col:-}を手に入れた……。{p}
+EN: ...Got a {col:0}"Bald Wig"{col:-}...{p}
+
+## MBMS20 g0 s0152
+JP: 今朝もいつもどおり目覚めた。{n}ちょっと眠いが気持ちいい朝だ。{n}お、あそこにいるのは恭介だな。{n}今から登校かな。{p}
+EN: Woke up as usual this morning. A little sleepy, but it's a nice morning. Oh, that's Kyosuke over there. Heading to school?{p}
+
+## MBMS20 g0 s0153
+JP: おはよう!{sp}恭介。{n}今日は校門の番はいいのか?{p}
+EN: Morning, Kyosuke! You're not on gate duty today?{p}
+
+## MBMS20 g0 s0154
+JP: ああ、{v5:2}か。{n}おはよう。{n}校門の番?{sp}ああ、今日は僕の担当じゃ{n}ないんでね。{p}
+EN: Oh, {v5:2}. Good morning. Gate duty? Ah, I'm not on it today.{p}
+
+## MBMS20 g0 s0155
+JP: しかし、君は校門の番とかいうが、{n}別にあれはいやがらせでやってるわけ{n}じゃないんだ。むしろ君ら生徒のためだと{n}いうことを理解してほしいな。{p}
+EN: You call it "gate duty," but I'm not doing it to harass anyone. I'd like you to understand it's actually for you students' sake.{p}
+
+## MBMS20 g0 s0156
+JP: ん?{sp}あれは……。{p}
+EN: Hm? Is that...{p}
+
+## MBMS20 g0 s0157
+JP: （恭介の複線の先を見ると、道路のわきに{n}{sp}何か転がっている……アレは……{n}{sp}子犬の死体だ。{n}{sp}車にはねられたのだろう。）{p}{end}
+EN: (Following Kyosuke's gaze, I see something lying by the road... It's... a dead puppy. It must have been hit by a car.){p}{end}
+
+## MBMS20 g0 s0158
+JP: かわいそうに……。{n}まだ子犬なのにな。{n}…………。{n}さ、行こう。遅れるぞ。{p}
+EN: Poor thing... It was just a puppy. ...... Come on, let's go. We'll be late.{p}
+
+## MBMS20 g0 s0159
+JP: 待てよ、恭介。{n}あんなトコロに放っておいたら{n}かわいそうだ。{n}埋めてやろう。{p}{end}
+EN: Wait, Kyosuke. It's too sad to just leave it there. Let's bury it.{p}{end}
+
+## MBMS20 g0 s0160
+JP: 何をいってる。{n}今からそんなことをしていたら、{n}遅刻してしまうだろ。風紀委員として、{n}僕が遅刻するわけにはいかない。{p}{end}
+EN: What are you saying? If we do that now, we'll be late. As a disciplinary committee member, I can't be late.{p}{end}
+
+## MBMS20 g0 s0161
+JP: 埋めてやる{n}放っておく{p}
+EN: Bury it{n}Leave it{p}
+
+## MBMS20 g0 s0162
+JP: じゃ、先に行ってくれよ。{n}俺はこの子を埋めてからいく。{p}
+EN: Then go on ahead. I'll come after I bury this little guy.{p}
+
+## MBMS20 g0 s0163
+JP: …………。{n}じゃ、僕は先に行く。{p}{end}
+EN: ...... Then I'll go on ahead.{p}{end}
+
+## MBMS20 g0 s0164
+JP: そうだな……遅刻しちゃうからな。{n}（しかし……あのまま放置されるんだ{n}{sp}ろうな、あの子……。）{p}
+EN: Yeah... we'll be late. (But... that little guy's just gonna be left there, isn't he...){p}
+
+## MBMS20 g0 s0165
+JP: ゴメン、俺やっぱり放っておけないわ。{p}{end}
+EN: Sorry, I can't just leave it after all.{p}{end}
+
+## MBMS20 g0 s0166
+JP: あ、{v5:2}……。{p}
+EN: Ah, {v5:2}...{p}
+
+## MBMS20 g0 s0167
+JP: 子犬の死体を{n}埋められそうなトコロに来たが…{n}埋めるにしても、土を盛るにしても{n}道具なしでは大変だな。{p}
+EN: I found a spot where I can bury the puppy... but digging and piling up dirt will be tough without tools.{p}
+
+## MBMS20 g0 s0168
+JP: これがあった方がいいんじゃないのか?{p}{end}
+EN: Wouldn't this help?{p}{end}
+
+## MBMS20 g0 s0169
+JP: （恭介……{n}{sp}見ると片手にスコップを持っている。{n}{sp}わざわざ探してきてくれたのか?）{p}{end}
+EN: (Kyosuke... He's holding a shovel. Did he go find one for me?){p}{end}
+
+## MBMS20 g0 s0170
+JP: 2人でやった方が効率的だ。{n}時間も半分ですむ、だろ?{p}{end}
+EN: It's more efficient with two people. Takes half the time, right?{p}{end}
+
+## MBMS20 g0 s0171
+JP: 恭介……。{p}
+EN: Kyosuke...{p}
+
+## MBMS20 g0 s0172
+JP: 何をボーっとしている。{n}さっさとやるぞ。{p}{end}
+EN: Why are you just standing there? Let's get it done.{p}{end}
+
+## MBMS20 g0 s0173
+JP: 遅刻……いいのか?{p}
+EN: Being late... is that okay?{p}
+
+## MBMS20 g0 s0174
+JP: よくない。{n}だが……、でも僕は遅刻する自分より、{n}子犬の死体を見捨てる自分がイヤに{n}なっただけだ。{p}
+EN: It's not. But... I'd hate myself more for abandoning that puppy than for being late. That's all.{p}
+
+## MBMS20 g0 s0175
+JP: それに……君に、冷たい人間だと{n}思われたくないしな。{p}{end}
+EN: Besides... I don't want you thinking I'm a cold person.{p}{end}
+
+## MBMS20 g0 s0177
+JP: {v5:2}……。{n}君は優しいな。{p}
+EN: {v5:2}... You're kind.{p}
+
+## MBMS20 g0 s0178
+JP: 今朝も寝坊してしまった!{n}このままでは、また遅刻してしまう!!{p}
+EN: Overslept again this morning! At this rate I'll be late again!!{p}
+
+## MBMS20 g0 s0179
+JP: この前と同じパターンだな。{n}時間的にもほぼ同じ!!{n}なら、急がないと!!{p}{end}
+EN: Same pattern as last time. Almost the same time, too!! Then I'd better hurry!!{p}{end}
+
+## MBMS20 g0 s0180
+JP: よしっ!{sp}正門が見えてきた!!{n}あと少し、間に合うか?{p}
+EN: Alright! I can see the main gate!! Just a little more. Will I make it?{p}
+
+## MBMS20 g0 s0182
+JP: ゲッ!{sp}また同じトコロでチャイムが{n}鳴ってしまった!!{n}あと少しだったのに……!!{p}
+EN: Crap! The bell rang at the same spot again!! I was so close...!!{p}
+
+## MBMS20 g0 s0183
+JP: お疲れさま。残念だったな。{n}1年A組、{v0}遅刻……と。{p}{end}
+EN: Nice try. Too bad. Class 1-A, {v0}, late... there.{p}{end}
+
+## MBMS20 g0 s0184
+JP: 恭介～～。{n}たまにはいいじゃないか、{n}俺にまたあのかぶりモノを{n}つけさせる気かぁ?{p}
+EN: Kyosukeee... Cut me some slack once in a while! You gonna make me wear that thing again?{p}
+
+## MBMS20 g0 s0185
+JP: あのルールは、もうなしだ。{n}自分でやってみてわかったが……{n}あんまりいい罰じゃない。{p}{end}
+EN: That rule's gone. When I tried it myself, I found out... it's not a very good punishment.{p}{end}
+
+## MBMS20 g0 s0186
+JP: この前の子犬のときか……。{n}結構似合ってたのにな。{n}アフロのカツラ。{p}{end}
+EN: That was from the puppy thing, huh... It looked pretty good on you, too. That afro wig.{p}{end}
+
+## MBMS20 g0 s0187
+JP: ゴ、ゴホン!!{n}とにかくだ!{sp}遅刻はつける。{n}いいな!?{p}{end}
+EN: Ahem, ahem!! Anyway! You're marked late. Got it!?{p}{end}
+
+## MBMS20 g0 s0188
+JP: いいよ{n}たまには許してくれ{p}
+EN: Fine{n}Let me off this once{p}
+
+## MBMS20 g0 s0189
+JP: いいよ。{n}こうして校門の番してくれてるのも{n}俺達のため、だろ?{p}
+EN: Fine. You do gate duty for our sake, right?{p}
+
+## MBMS20 g0 s0190
+JP: {v5:2}……。{n}そうだ。{n}この規則は君たち、いや僕たち生徒の{n}ためのモノだ。{p}{end}
+EN: {v5:2}... That's right. These rules exist for you... no, for all of us students.{p}{end}
+
+## MBMS20 g0 s0191
+JP: たまには許してくれよ。{n}な?{n}恭介{col:5}♥{col:-}{p}{end}
+EN: Let me off this once. Okay? Kyosuke{col:5}♥{col:-}{p}{end}
+
+## MBMS20 g0 s0192
+JP: そんな声出したってダメだ。{n}規則は規則だからな……。{p}{end}
+EN: Using that voice won't work. Rules are rules...{p}{end}
+
+## MBMS20 g0 s0193
+JP: しかしまぁたしかに、時として{n}どうしようもない事情もあるよな。{n}ふふっ、{n}今日のトコロは目をつぶってやろう。{p}{end}
+EN: Still, it's true there are times when things can't be helped. Heh, I'll look the other way today.{p}{end}
+
+## MBMS20 g0 s0194
+JP: あの子犬に免じて、な。{p}
+EN: For that puppy's sake.{p}
+
+## MBMS20 g0 s0195
+JP: さ、もう授業が始まる。{n}教室に入ろう。{n}授業に遅れたら、今度こそ遅刻をつけるぞ。{p}{end}
+EN: Now, class is about to start. Let's get inside. If you're late for class, I really will mark you late.{p}{end}
+
+## MBMS20 g0 s0196
+JP: 恭介……アリガトな。{p}{end}
+EN: Kyosuke... Thanks.{p}{end}
+
+## MBMS20 g0 s0197
+JP: ……このことは内緒だぞ。{p}{end}
+EN: ...Keep this between us.{p}{end}
+
+## MBMS20 g0 s0198
+JP: 朝。{n}最近朝が眠くて仕方がない…。{n}一日河原で寝ていられたらどんなに{n}気持ちいいだろう……。{p}{end}
+EN: Morning. I've been so sleepy in the mornings lately... How nice would it be to nap on the riverbank all day...{p}{end}
+
+## MBMS20 g0 s0199
+JP: 「うおおおりゃあああぁぁぁ～～～!!」{p}
+EN: "Hrrraaaaaahhhh~~~!!"{p}
+
+## MBMS20 g0 s0200
+JP: ドーーーン!!{p}
+EN: WHAM!!{p}
+
+## MBMS20 g0 s0201
+JP: いってぇ……{n}なんだなんだ、いきなり人が{n}ぶつかってきたぞ。{p}{end}
+EN: Owww... What the heck, someone just slammed right into me.{p}{end}
+
+## MBMS20 g0 s0202
+JP: 大丈夫か、{v3:3}!{n}悪りい、悪りい。{n}前よく見てなかったもんでよ。{n}ケガ、ないか?{p}{end}
+EN: You okay, {v3:3}! Sorry, sorry. Wasn't watchin' where I was goin'. Ya hurt?{p}{end}
+
+## MBMS20 g0 s0203
+JP: 将馬か。こんな朝早くから{n}どうしたんだ、いったい……?{p}
+EN: Shoma. What are you doing out this early...?{p}
+
+## MBMS20 g0 s0204
+JP: いや、ちょっと朝練をよ。{n}今度、練習試合があるんだけど、{n}それにむけて、今から特訓しとこうと{n}思ってな!{p}{end}
+EN: Just some mornin' practice. We got a practice game comin' up, so I figured I'd start some special trainin' now!{p}{end}
+
+## MBMS20 g0 s0205
+JP: 今度こそ、スタメンに選ばれてぇよな…。{n}だからさ、こうして朝から{n}トレーニングしてんだ。{n}試合、学校でやるから見に来てくれよ!!{p}{end}
+EN: I really wanna make the starting lineup this time... That's why I'm trainin' in the mornin'. The game's at school, so come watch!!{p}{end}
+
+## MBMS20 g0 s0206
+JP: おっと、もうこんな時間か。{n}そろそろ学校行かないとな。{n}どうだ、学校まで競争しないか?{n}負けた方が今日の昼飯、おごりでどうだ!?{p}{end}
+EN: Whoa, look at the time. Better get to school. Hey, wanna race there? Loser buys lunch today. Whaddaya say!?{p}{end}
+
+## MBMS20 g0 s0207
+JP: よし、いいぜ。{n}じゃ、正門までだな。{n}よ～～い、スタート!!{p}{end}
+EN: Alright, you're on. To the main gate, then. Ready... GO!!{p}{end}
+
+## MBMS20 g0 s0208
+JP: 初めから全速力で勝負!!{n}序盤は温存してラストの直線勝負!!{p}{end}
+EN: Full speed from the start!!{n}Save it for the final stretch!!{p}{end}
+
+## MBMS20 g0 s0209
+JP: ダッ!!{n}（一気にダッシュし、全速力で勝負!!{n}{sp}将馬も不意をつかれたか、{n}{sp}少しリードしたぞ。）{p}
+EN: Dash!! (I take off flat out!! Shoma must've been caught off guard. I've got a small lead.){p}
+
+## MBMS20 g0 s0210
+JP: ぬおおお～～～!!{n}負けるかぁ!!{p}
+EN: Nuohhh~~~!! I ain't losin'!!{p}
+
+## MBMS20 g0 s0212
+JP: （正門が見えてきた!!{n}{sp}リードは奪ったままだし、{n}{sp}ちょっと俺のペースも落ちてきたが…{n}{sp}ここはスタミナ勝負だ!!）{p}
+EN: (The main gate's in sight!! I've still got the lead, but my pace is dropping... It's all about stamina now!!){p}
+
+## MBMS20 g0 s0213
+JP: ダッ!{n}（学校までは距離がある。序盤は押さえて{n}{sp}終盤勝負だ!!{sp}将馬にはリードを{n}{sp}許したが、このくらいの差ならイケる!）{p}{end}
+EN: Dash! (It's a long way to school. I'll hold back early and make my move at the end!! Shoma's ahead, but I can close a gap like this!){p}{end}
+
+## MBMS20 g0 s0214
+JP: 先に行くぜ!!{n}うりゃあああーーーっ!!{p}{end}
+EN: See ya at the finish!! Hrraaahhh!!{p}{end}
+
+## MBMS20 g0 s0216
+JP: （正門が見えてきた!!{n}{sp}将馬のペースも落ちてきたし、{n}{sp}スタミナは十分あるし、ここから先は{n}{sp}根性で勝負だ!!）{p}
+EN: (The main gate's in sight!! Shoma's slowing down, and I've got plenty of stamina left. From here on it's all guts!!){p}
+
+## MBMS20 g0 s0217
+JP: うおおおぉぉぉーーーっ!!{p}
+EN: Hraaaaaahhh!!{p}
+
+## MBMS20 g0 s0218
+JP: はぁ…はぁ……{n}やるな、{v3:3}……。{n}おまえの勝ちだ……。{n}今日の昼飯、おごるよ。{p}{end}
+EN: Huff... huff... Not bad, {v3:3}... You win... I'll buy lunch today.{p}{end}
+
+## MBMS20 g0 s0219
+JP: {col:0}『おごりの昼飯』{col:-}を手に入れた!!{p}{end}
+EN: Got {col:0}"Free Lunch"{col:-}!!{p}{end}
+
+## MBMS20 g0 s0220
+JP: へっへぇ～ん!!{n}オイラの勝ちだな!!{n}はぁ…はぁ…しかし{v3:3}、{n}おまえホントに速いな…。{p}
+EN: Heh heh!! I win!! Huff... huff... But {v3:3}, you're real fast...{p}
+
+## MBMS20 g0 s0221
+JP: 痛っ……。{p}
+EN: Ow...{p}
+
+## MBMS20 g0 s0222
+JP: ん?{n}どうかしたのか?将馬。{p}{end}
+EN: Hm? What's wrong, Shoma?{p}{end}
+
+## MBMS20 g0 s0223
+JP: いや、ちょっとな…。{n}最後のスパートでちょっと{n}足ヒネっちゃったみたいだ…。{p}{end}
+EN: Nah, it's nothin'... Guess I twisted my ankle a bit on that last sprint...{p}{end}
+
+## MBMS20 g0 s0224
+JP: 大丈夫か!?{n}練習試合があるんだろ!?{p}
+EN: You okay!? You've got a practice game, right!?{p}
+
+## MBMS20 g0 s0225
+JP: これくらい大丈夫だって!!{n}一晩寝たら直るさ!!{p}{end}
+EN: This is nothin'!! It'll be fine after a night's sleep!!{p}{end}
+
+## MBMS20 g0 s0226
+JP: そういえば、今日は将馬の練習試合の日{n}だって言ってたな。{p}{end}
+EN: Come to think of it, Shoma said his practice game was today.{p}{end}
+
+## MBMS20 g0 s0227
+JP: グラウンドに行くと…{n}お、やってるやってる。{n}相手は『常勝学院』か…甲子園の常連だな。{n}得点は……2―1…負けてるのか?{p}{end}
+EN: I head to the field... Oh, they're at it. Their opponent is Josho Academy... a Koshien regular. The score is... 2-1... they're losing?{p}{end}
+
+## MBMS20 g0 s0228
+JP: ちょっと来るのが遅すぎたな。{n}試合は9回恵に入ったところだ。{n}スコアボードに将馬の名前は見えない。{n}メンバーには選ばれなかったのか?{p}{end}
+EN: I got here way too late. It's already the bottom of the 9th. I don't see Shoma's name on the scoreboard. Didn't he make the lineup?{p}{end}
+
+## MBMS20 g0 s0229
+JP: 打順は6番からか。{n}あまりいい打順じゃないな。{n}このままでは負けてしまう。{p}
+EN: The 6th batter's up. Not a great spot in the order. At this rate they'll lose.{p}
+
+## MBMS20 g0 s0231
+JP: 6番はヒットで塁に出て、7番はバントで{n}進めたものの、8番はあっさり三振。{n}2アウト2塁……。{n}一打同点、一発出れば逆転か…。{p}
+EN: The 6th batter gets on with a hit, the 7th bunts him over, but the 8th strikes out. Two outs, runner on 2nd... A hit ties it, a homer wins it...{p}
+
+## MBMS20 g0 s0232
+JP: 「代打!{sp}沢村将馬!!」{p}{end}
+EN: "Pinch hitter! Shoma Sawamura!!"{p}{end}
+
+## MBMS20 g0 s0233
+JP: ベンチから声があがった!!{n}将馬だ!!{p}
+EN: That was the call from the bench!! It's Shoma!!{p}
+
+## MBMS20 g0 s0234
+JP: 赤いバットを振り回し、{n}意気揚々と将馬が出てくる。{n}おいしい見せ場だ。{n}ここで打てば一気に株が上がるだろう。{p}{end}
+EN: Swinging his red bat, Shoma steps up proudly. Perfect chance to shine. A hit here would make his stock soar.{p}{end}
+
+## MBMS20 g0 s0236
+JP: スイングがぎこちない……。{n}この前、足を痛めたとかいってたけど……。{n}ホントに大丈夫なのか?{n}あっという間にフルカウントだ……。{p}{end}
+EN: His swing looks stiff... He said he hurt his foot the other day... Is he really okay? The count's full in no time...{p}{end}
+
+## MBMS20 g0 s0237
+JP: ここは一発声援を!!{n}神に祈る…{p}{end}
+EN: Cheer him on!!{n}Pray to God...{p}{end}
+
+## MBMS20 g0 s0238
+JP: 将馬ーーーーーっ!!{n}がんばれ!!{n}俺がついてるぞ!!{p}
+EN: Shomaaaaa!! Go for it!! I'm right here with you!!{p}
+
+## MBMS20 g0 s0239
+JP: （神様……将馬が活躍できますように!!{n}{sp}ここで一発打って逆転できますように……{n}{sp}お願いします……。）{p}{end}
+EN: (God... please let Shoma come through!! Let him get a hit and turn this around... Please...){p}{end}
+
+## MBMS20 g0 s0240
+JP: カキーーーン!!{p}{end}
+EN: CRACK!!{p}{end}
+
+## MBMS20 g0 s0241
+JP: 打った!!{n}センター前のいいトコロだ!!{n}これならランナーは戻れる!!{p}
+EN: He hit it!! Nice spot, right up the middle!! The runner can make it home!!{p}
+
+## MBMS20 g0 s0242
+JP: 2塁ランナーが3塁をまわった!!{n}センターからボールが帰る!!{n}クロスプレーだ!!{n}判定は……{p}
+EN: The runner on 2nd rounds 3rd!! The throw's coming in from center!! It's a close play!! The call is...{p}
+
+## MBMS20 g0 s0243
+JP: 「セーフ!!」{p}
+EN: "Safe!!"{p}
+
+## MBMS20 g0 s0244
+JP: よし!{sp}同点!!{n}やったな将馬!!{n}アレ……将馬は?{p}{end}
+EN: Yes! Tie game!! You did it, Shoma!! Huh... where's Shoma?{p}{end}
+
+## MBMS20 g0 s0245
+JP: いた……。{n}将馬は1・2塁間でうずくまっている……。{n}どうも様子がおかしい……{n}やはりあの時のケガか……?{p}
+EN: There... Shoma is crouched between 1st and 2nd... Something's wrong... Is it that injury after all...?{p}
+
+## MBMS20 g0 s0247
+JP: 試合は結局延長に入って{n}逆転されてしまった。{n}将馬はそのまま交代。{n}残念だ……。{p}{end}
+EN: The game went into extra innings and they lost in the end. Shoma was taken out. Too bad...{p}{end}
+
+## MBMS20 g0 s0248
+JP: 放課後。{n}今日も疲れたな……。{n}お、あそこで素振りをしているのは、{n}将馬だ……。{p}{end}
+EN: After school. Another tiring day... Oh, that's Shoma doing practice swings over there...{p}{end}
+
+## MBMS20 g0 s0249
+JP: {v3:3}か……。{n}…………。{n}この前の試合、応援に来てくれてたんだな。{n}サンキュ。{p}
+EN: {v3:3}... ...... Ya came to cheer me on at that game. Thanks.{p}
+
+## MBMS20 g0 s0250
+JP: ……あの試合……、残念だったな……。{n}足さえ痛めてなけりゃ……。{p}{end}
+EN: ...That game... Too bad... If only you hadn't hurt your foot...{p}{end}
+
+## MBMS20 g0 s0251
+JP: 関係ねぇよ。{n}オイラの実力が{n}まだまだ足りてねぇってことさ。{p}{end}
+EN: Got nothin' to do with it. Just means I ain't good enough yet.{p}{end}
+
+## MBMS20 g0 s0252
+JP: 足はもう大丈夫なのか?{p}
+EN: Is your foot okay now?{p}
+
+## MBMS20 g0 s0253
+JP: もう全然大丈夫だって!{n}でもちょっと休んでたからな、{n}今のウチに取り返さないとな!!{p}{end}
+EN: It's totally fine now! But I sat out for a while, so I gotta make up for it now!!{p}{end}
+
+## MBMS20 g0 s0254
+JP: ホントはさ{n}あの時、足が痛くて{n}バット振るのもつらかったんだ。{p}
+EN: Truth is, back then my foot hurt so bad, it was hard just to swing the bat.{p}
+
+## MBMS20 g0 s0255
+JP: でも、せっかくめぐってきた{n}チャンスだし……。{n}おまえが見に来てくれてたから…{n}いいトコ見せたくてよ……。{p}
+EN: But it was a chance I finally got... And you came to watch... I wanted to look good...{p}
+
+## MBMS20 g0 s0256
+JP: ホントはあそこで逆転ホームラン打って、{n}監督にもおまえにもいいトコロ見せる{n}予定だったのによ……。{p}
+EN: I was plannin' to hit a game-winnin' homer there and show off for the coach and for you...{p}
+
+## MBMS20 g0 s0257
+JP: 監督には怒られちまったよ。{n}ちゃんと自己管理しろって。{n}せっかく代打で使ってもらえたのにな……。{n}オイラまた2軍からやり直しだよ。{p}
+EN: Coach chewed me out. Said to take better care of myself. After he finally used me as a pinch hitter, too... Now I'm back to the second string.{p}
+
+## MBMS20 g0 s0258
+JP: ………………{n}{v3:3}……。{n}オイラのこと、見損なったか?{p}
+EN: ......... {v3:3}... You think less of me now?{p}
+
+## MBMS20 g0 s0259
+JP: いや、カッコよかったよ{n}見損なったよ{p}{end}
+EN: No, you looked cool{n}Yeah, I'm disappointed{p}{end}
+
+## MBMS20 g0 s0260
+JP: 見損なうなんて……{n}カッコよかったよ、将馬。{n}何しろ同点タイムリーだからな。{n}足のケガさえなけりゃ、今頃ヒーローだよ。{p}
+EN: Think less of you...? You looked cool, Shoma. That was a game-tying hit! If not for your foot, you'd be a hero.{p}
+
+## MBMS20 g0 s0261
+JP: {v3:3}……。{n}アリガトな。{n}おまえにそういってもらえると……、{n}うれしいぜ。{p}
+EN: {v3:3}... Thanks. Hearin' that from you... makes me happy.{p}
+
+## MBMS20 g0 s0262
+JP: よかった。{n}おまえに嫌われたら、どうしようかと{n}思ってたんだ。……これからも、{n}オイラのこと応援してくれよな……。{p}
+EN: Phew. I was worried what I'd do if you hated me. ...Keep cheerin' for me from now on, 'kay...?{p}
+
+## MBMS20 g0 s0263
+JP: もちろんだよ……、将馬……。{p}{end}
+EN: Of course... Shoma...{p}{end}
+
+## MBMS20 g0 s0264
+JP: さてと、オイラはもう少し練習したら、{n}終わるからよ、一緒に帰ろうぜ!!{p}
+EN: Alright, I'm gonna practice a bit more and then I'm done, so let's head home together!!{p}
+
+## MBMS20 g0 s0265
+JP: 見損なったよ。{n}だいたい、1塁でおとなしくとまってりゃ{n}代走出してもらえたじゃないか。{n}カッコ悪いって、あれじゃ。{p}
+EN: Yeah, I'm disappointed. You should've just stayed on 1st and let them send in a pinch runner. That was not a good look.{p}
+
+## MBMS20 g0 s0266
+JP: う……、{v3:3}、{n}おまえ、そんなこというなよォ。{n}ちぇっ、こんなことならちゃんと{n}休めばよかったぜ!{p}
+EN: Ugh... {v3:3}, don't say that... Tch, if I knew this'd happen, I shoulda just rested!{p}
+
+## MBMS20 g0 s0267
+JP: 夏なら……こんなとき、{n}はげましてくれるのにな……。{p}{end}
+EN: Natsu would've... cheered me up at a time like this...{p}{end}
+
+## MBMS20 g0 s0268
+JP: 将馬……。{p}
+EN: Shoma...{p}
+
+## MBMS20 g0 s0269
+JP: う、なんでもねぇよ。{n}さ、オイラはもう少し練習するよ。{n}じゃあな、{v3:3}。{p}{end}
+EN: Ah, it's nothin'. I'm gonna practice some more. See ya, {v3:3}.{p}{end}
+
+## MBMS20 g0 s0270
+JP: 昼休み。{n}珍しく、大人気のヤキソバパンと{n}ハムカツサンドをゲットできた。{n}今日はついてる。{p}
+EN: Lunch break. For once I managed to snag the super-popular yakisoba bread and a ham cutlet sandwich. Lucky day.{p}
+
+## MBMS20 g0 s0271
+JP: 「{v7:4}じゃない。{n}{sp}これからお昼?」{p}{end}
+EN: "Oh, it's {v7:4}. Having lunch now?"{p}{end}
+
+## MBMS20 g0 s0272
+JP: これから屋上で、お弁当食べるんだけど、{n}一緒にどう?{n}他に人がいなくて淋しかったんだ。{p}
+EN: I'm about to eat my bento on the roof. Wanna join me? There's nobody else around and I was lonely.{p}
+
+## MBMS20 g0 s0273
+JP: ああ、いいよ。{n}一緒に食べよう。{p}{end}
+EN: Yeah, sure. Let's eat together.{p}{end}
+
+## MBMS20 g0 s0274
+JP: {v7:4}さ、昼は{n}いつもそんな食事なの?{p}{end}
+EN: {v7:4}, is that what you always eat for lunch?{p}{end}
+
+## MBMS20 g0 s0275
+JP: そうだな、弁当のときもあるけど、{n}購買部でパンを買ったり{n}食堂で食べることが多いかな。{p}
+EN: Let's see. Sometimes I bring a bento, but usually I buy bread at the school store or eat in the cafeteria.{p}
+
+## MBMS20 g0 s0276
+JP: ふ～ん…。{n}あんまりカラダに良くないよね。{n}……。{n}今度作って来てあげようか?{sp}お弁当。{p}{end}
+EN: Hmm... That's not very healthy. ...... Want me to make you a bento sometime?{p}{end}
+
+## MBMS20 g0 s0277
+JP: …え?{n}いいの?{p}{end}
+EN: ...Huh? Really?{p}{end}
+
+## MBMS20 g0 s0278
+JP: ああいいよ。{n}アタシはいつも自分の作ってるし、{n}一つくらい増えたってどうってことないさ。{p}{end}
+EN: Yeah, sure. I always make my own, so one more is no big deal.{p}{end}
+
+## MBMS20 g0 s0279
+JP: そういえば夏は料理がうまいんだっけ。{n}作ってもらっちゃっていいかな?{p}{end}
+EN: Oh right, you're a good cook, Natsu. Is it really okay if you make me one?{p}{end}
+
+## MBMS20 g0 s0280
+JP: ふふ、味が不安なら試しに食べてみる?{n}美味しいよ、この出し巻き玉子。{p}{end}
+EN: Heh, if you're worried about the taste, wanna try some? This rolled omelet is good.{p}{end}
+
+## MBMS20 g0 s0281
+JP: （どれどれ…{n}{sp}パクッ……モグモグ……{n}{sp}たしかに。これはうまい!!）{p}
+EN: (Let's see... Chomp... munch munch... She's right. This is great!!){p}
+
+## MBMS20 g0 s0282
+JP: どう?{sp}おいしいでしょ?{n}そうだな、明日ってワケにはいかないけど、{n}今度作ってきてあげるよ。{n}キライなモノ、ある?{p}
+EN: Well? Good, right? Okay, maybe not tomorrow, but I'll make you one sometime. Anything you don't like?{p}
+
+## MBMS20 g0 s0283
+JP: 別にない{n}いっぱいある{p}
+EN: Nothing really{n}Lots of things{p}
+
+## MBMS20 g0 s0284
+JP: いや、別に…{n}たいていのモノなら食べれるよ。{p}{end}
+EN: Nah, not really... I can eat most things.{p}{end}
+
+## MBMS20 g0 s0285
+JP: よかった。{n}そういう人好きよ。{n}好きキライが多い人って、ちょっとね。{n}じゃ、今度作ってきてあげるよ。{p}{end}
+EN: Good. I like people like that. Picky eaters are kinda... Okay, I'll make you one sometime.{p}{end}
+
+## MBMS20 g0 s0286
+JP: そうだな……、まずエビカニ類はダメだな。{n}キノコもあんまり好きじゃない。{n}セロリもあのにおいがイヤだな。{p}{end}
+EN: Let's see... First, no shrimp or crab. I'm not big on mushrooms either. And I hate the smell of celery.{p}{end}
+
+## MBMS20 g0 s0287
+JP: ふ～ん、好きキライ、多いんだね……。{n}ま、いいわ、覚えとくよ。{n}じゃ、今度作ってきてあげるね。{p}
+EN: Hmm, you're pretty picky... Oh well, I'll remember. I'll make you one sometime, okay?{p}
+
+## MBMS20 g0 s0288
+JP: ……あ、もうこんな時間!{n}いかなきゃ、じゃあね!!{p}
+EN: ...Oh, look at the time! Gotta go, see ya!!{p}
+
+## MBMS20 g0 s0289
+JP: 夏のお弁当かぁ。{n}楽しみだなぁ。{p}{end}
+EN: Natsu's bento, huh. Can't wait.{p}{end}
+
+## MBMS20 g0 s0290
+JP: 昼休み。{n}昼飯の時間だ。{n}今日は食堂に行くか、それとも購買部に{n}行こうか。{p}
+EN: Lunch break. Time to eat. Should I go to the cafeteria today, or the school store?{p}
+
+## MBMS20 g0 s0291
+JP: 「{v7:4}…」{p}
+EN: "{v7:4}..."{p}
+
+## MBMS20 g0 s0292
+JP: やぁ、夏。{n}これから昼飯か?{p}{end}
+EN: Hey, Natsu. Having lunch now?{p}{end}
+
+## MBMS20 g0 s0293
+JP: {v7:4}、{n}この前の約束覚えてる?{n}あの、お弁当作って来るっていったの…。{p}
+EN: {v7:4}, remember what I promised the other day? That I'd make you a bento...{p}
+
+## MBMS20 g0 s0294
+JP: あ……、ひょっとしてお弁当{n}作ってきてくれたんだ。{n}ありがとー。{p}{end}
+EN: Oh... Did you actually make me one? Thanks!{p}{end}
+
+## MBMS20 g0 s0295
+JP: うん……。{n}でね、ココじゃなんだから、{n}屋上で食べない?{p}{end}
+EN: Yeah... Um, it's kinda awkward here, so wanna eat on the roof?{p}{end}
+
+## MBMS20 g0 s0296
+JP: おお、豪華だね。{n}いろどりもキレイだし。{n}美味しそうだ、いただきまーす!!{p}
+EN: Whoa, fancy. Colorful, too. Looks delicious. Let's dig in!!{p}
+
+## MBMS20 g0 s0297
+JP: もぐもぐもぐ……おいしー。{n}すごく美味しいよ、夏。{p}
+EN: Munch munch munch... So good. This is really delicious, Natsu.{p}
+
+## MBMS20 g0 s0298
+JP: うん……。{n}今日はちょっといつもより{n}気合入れたかな……。{p}
+EN: Yeah... I guess I put in a little more effort than usual today...{p}
+
+## MBMS20 g0 s0299
+JP: このシューマイも手作り?{n}へー。すごいな!{n}パクッ……モグモグ……。{p}{end}
+EN: Is this shumai homemade too? Wow, amazing! Chomp... munch munch...{p}{end}
+
+## MBMS20 g0 s0300
+JP: ごちそうさま!{n}すごく美味しかったよ。{n}ありがとな!!{p}
+EN: That hit the spot! It was really delicious. Thanks!!{p}
+
+## MBMS20 g0 s0301
+JP: 夏ってホントに料理うまいな。{n}普段から料理してるんだ。{p}
+EN: You're a really good cook, Natsu. You must cook all the time.{p}
+
+## MBMS20 g0 s0302
+JP: 普段はケーキとか、お菓子作ってる方が{n}多いかな……。{n}私のケーキね、ひなとか友達に{n}評判いいんだよ。{p}{end}
+EN: Usually I make cakes and sweets more often... My cakes are a hit with Hina and my friends.{p}{end}
+
+## MBMS20 g0 s0303
+JP: へぇ、それはぜひ一度食べてみたいな。{p}{end}
+EN: Wow, I'd love to try one sometime.{p}{end}
+
+## MBMS20 g0 s0304
+JP: 今度作ってきてあげるよ、ケーキ。{p}{end}
+EN: I'll bake you one sometime, then. A cake.{p}{end}
+
+## MBMS20 g0 s0305
+JP: こんなお弁当、毎日食べれたら幸せだろうな{n}将馬がうらやましいな{p}
+EN: I'd be happy eating this every day{n}I envy Shoma{p}
+
+## MBMS20 g0 s0306
+JP: こんな美味しいお弁当、毎日食べれたら{n}幸せだろうな。{n}夏はいいお嫁さんになれるよ{col:5}♥{col:-}{p}
+EN: I'd be so happy if I could eat a lunch this good every day. You'll make a great wife someday, Natsu{col:5}♥{col:-}{p}
+
+## MBMS20 g0 s0307
+JP: そ、そうかな……。{n}そんなにほめられると、{n}なんか照れちゃうね。{p}{end}
+EN: R-really...? All that praise is kinda embarrassing.{p}{end}
+
+## MBMS20 g0 s0308
+JP: 夏、またお弁当作ってきてくれるかな?{p}{end}
+EN: Natsu, would you make me lunch again sometime?{p}{end}
+
+## MBMS20 g0 s0309
+JP: もちろん!!{n}いいよ、まかせといて!!{p}
+EN: Of course!! Sure, leave it to me!!{p}
+
+## MBMS20 g0 s0310
+JP: {col:0}『手作り弁当』{col:-}を手に入れた!!{p}
+EN: Got {col:0}"Homemade Lunch"{col:-}!!{p}
+
+## MBMS20 g0 s0311
+JP: 将馬がうらやましいなぁ。{n}好きなときに、夏の料理が{n}食べれるんだもんな。{p}{end}
+EN: I envy Shoma. He gets to eat your cooking whenever he wants.{p}{end}
+
+## MBMS20 g0 s0312
+JP: {v7:4}……。{n}なんでそういうコトいうの?{n}将馬にだってこんなお弁当作ったこと{n}ないよ!{sp}アナタだからアタシ……。{p}
+EN: {v7:4}... Why would you say that? I've never made a lunch like this even for Shoma! I made it because it's you...{p}
+
+## MBMS20 g0 s0313
+JP: もう、いいよ。{n}じゃあね!!{p}{end}
+EN: Forget it. See ya!!{p}{end}
+
+## MBMS20 g0 s0314
+JP: う……怒らせちゃったな……。{p}{end}
+EN: Ugh... I made her mad...{p}{end}
+
+## MBMS20 g0 s0315
+JP: ……{col:0}『手作り弁当』{col:-}を手に入れた。{p}{end}
+EN: ...Got {col:0}"Homemade Lunch"{col:-}.{p}{end}
+
+## MBMS20 g0 s0316
+JP: さて授業も終わったし、帰るか……。{n}……お、あの正門のトコロにいるのは、{n}将馬じゃないか。{p}
+EN: Classes are over, so time to head home... ...Oh, isn't that Shoma by the main gate?{p}
+
+## MBMS20 g0 s0317
+JP: よぉ、将馬。{n}こんなトコロでどうしたんだ?{n}人待ちか?{p}
+EN: Hey, Shoma. What're you doing here? Waiting for someone?{p}
+
+## MBMS20 g0 s0318
+JP: …………{v3:3}か。{n}おまえを待ってたんだ。{n}ちょっといいか。{p}
+EN: ......{v3:3}. I was waitin' for you. Got a minute?{p}
+
+## MBMS20 g0 s0320
+JP: どうしたんだ、将馬。{n}こんなトコロまで来て。何の話だ?{p}
+EN: What's up, Shoma? Bringing me all the way out here. What's this about?{p}
+
+## MBMS20 g0 s0321
+JP: {v3:3}…………。{n}おまえさ、夏のことどう思ってる?{p}{end}
+EN: {v3:3}...... What do you think of Natsu?{p}{end}
+
+## MBMS20 g0 s0322
+JP: どうって……。{n}どうしたんだ急にそんな話持ち出して。{p}{end}
+EN: What do I think...? Where's this coming from all of a sudden?{p}{end}
+
+## MBMS20 g0 s0323
+JP: ……夏がさ……、最近おまえの話しか{n}しないんだ。{n}それもすごく楽しそうに……。{p}
+EN: ...Natsu... lately all she talks about is you. And she looks so happy about it...{p}
+
+## MBMS20 g0 s0324
+JP: 正直に言えよ。{n}おまえ夏のことをどう思ってるんだ?{p}
+EN: Be honest. What do you think of Natsu?{p}
+
+## MBMS20 g0 s0325
+JP: 好きだ{n}どうって…友達だ{n}別にどうも思ってないよ{p}{end}
+EN: I like her{n}What do I... She's a friend{n}Nothing in particular{p}{end}
+
+## MBMS20 g0 s0326
+JP: どうって……友達だよ。{n}彼女、ちょっと男っぽいところあるから、{n}普通女の子に話せないようなことでも、{n}なんでも相談できるしな。{p}
+EN: What do I... She's a friend. She's kinda boyish, so I can talk to her about stuff I couldn't tell most girls.{p}
+
+## MBMS20 g0 s0327
+JP: そうか……。{n}友達……か。{n}ごめんな、ヘンなこと聞いちまって。{n}今のことは忘れてくれ。{p}
+EN: I see... A friend... huh. Sorry for askin' somethin' weird. Forget I said anything.{p}
+
+## MBMS20 g0 s0328
+JP: 行っちゃった……。{n}そうか……、やっぱり将馬、夏のこと……。{p}{end}
+EN: He left... I see... So Shoma does have feelings for Natsu...{p}{end}
+
+## MBMS20 g0 s0329
+JP: どうって……、別にどうも思ってないよ。{n}男っぽいし、ちょっとおもしろい子{n}だけどな。{n}それがどうかしたの?{p}
+EN: What do I think...? Nothing in particular. She's boyish and kinda funny, though. Why?{p}
+
+## MBMS20 g0 s0330
+JP: っおまえ………!!{n}～～～～ッ!!{p}
+EN: Why you.........!! Grrrr!!{p}
+
+## MBMS20 g0 s0331
+JP: ガスッッ!!{p}{end}
+EN: WHAM!!{p}{end}
+
+## MBMS20 g0 s0332
+JP: な、何すんだよ!!{n}急に殴るなんて……{n}おぉ痛てぇ………、ん、{n}おまえ血が出たじゃねぇか!!{p}{end}
+EN: Wh-what was that for!! Punching me out of nowhere... Oww... Hey, you made me bleed!!{p}{end}
+
+## MBMS20 g0 s0333
+JP: こんなヤツのこと……!!{n}夏はあんなに真剣なのに………!!{p}
+EN: A guy like this...!! When Natsu's so serious about him...!!{p}
+
+## MBMS20 g0 s0334
+JP: 見そこなったぜ!{n}{v3:3}!!{n}お前がそんなヤツだったとはな!!{p}{end}
+EN: I'm disappointed in you! {v3:3}!! Never thought you were that kind of guy!!{p}{end}
+
+## MBMS20 g0 s0335
+JP: 行っちゃった……。{n}そんなに怒るようなこと言ったかなぁ?{p}{end}
+EN: He left... Did I say something to make him that mad?{p}{end}
+
+## MBMS20 g0 s0336
+JP: 俺、夏のこと、………好きだ。{n}俺は本気だよ。{n}まだ夏にはいってないけど……。{n}大切にしたいと思っている。{p}{end}
+EN: I... like Natsu. I'm serious. I haven't told her yet... but I want to treasure her.{p}{end}
+
+## MBMS20 g0 s0337
+JP: !!………そうか。{n}わかった。{n}………………。{n}悪かったな、ヘンなこと聞いて。{p}
+EN: !!...... I see. Got it. ........ Sorry for askin' somethin' weird.{p}
+
+## MBMS20 g0 s0338
+JP: 夏はさ、普段は男みたいだけど、{n}ホントいいヤツなんだ。{n}女っぽいところもあるし……。{p}{end}
+EN: Natsu acts like a guy most of the time, but she's a real good person. She's got a girly side too...{p}{end}
+
+## MBMS20 g0 s0339
+JP: だから………、{n}夏を泣かせるようなこと、{n}絶対にするなよ。{p}
+EN: So...... don't you ever make Natsu cry.{p}
+
+## MBMS20 g0 s0340
+JP: 行っちゃった……。{n}やっぱり将馬も夏のこと……。{p}{end}
+EN: He left... So Shoma does have feelings for Natsu...{p}{end}
+
+## MBMS20 g0 s0341
+JP: 「{v7:4}、ここにいたのネ」{p}{end}
+EN: "{v7:4}, there you are."{p}{end}
+
+## MBMS20 g0 s0342
+JP: 夏!!{n}………………。{n}どうしてココに……?{p}{end}
+EN: Natsu!! ........ What are you doing here...?{p}{end}
+
+## MBMS20 g0 s0343
+JP: 校門のところでこっちに行ったって{n}聞いて、一緒に帰ろうと思って…………。{n}どうしたの?{n}将馬も一緒みたいだったけど?{p}{end}
+EN: At the gate they said you went this way, so I thought we could walk home together...... What's up? Was Shoma here with you?{p}{end}
+
+## MBMS20 g0 s0344
+JP: いや……別に。{n}夏こそわざわざ、ここまで追っかけてきて{n}くれたの?{p}
+EN: No... nothing. Did you really chase me all the way out here, Natsu?{p}
+
+## MBMS20 g0 s0345
+JP: うん、ちょっとね。{n}ね、これあげるよ。{n}この前いったでしょ?{n}ケーキ、焼いてきてあげるって。{p}{end}
+EN: Yeah, kind of. Here, this is for you. Remember? I said I'd bake you a cake.{p}{end}
+
+## MBMS20 g0 s0346
+JP: 今日どうしても一緒に帰りたかったのはね、{n}これ、あげたかったからなの。{n}昨日ケーキ焼いたから……。{p}
+EN: The reason I really wanted to walk home with you today was to give you this. I baked a cake yesterday...{p}
+
+## MBMS20 g0 s0347
+JP: {col:0}『手作りケーキ』{col:-}を手に入れた!!{p}{end}
+EN: Got {col:0}"Homemade Cake"{col:-}!!{p}{end}
+
+## MBMS20 g0 s0348
+JP: {face:8}・・・・・・・・・・{face:255}{n}なぁ、夏。{p}{end}
+EN: {face:8}..........{face:255} Hey, Natsu.{p}{end}
+
+## MBMS20 g0 s0349
+JP: …………なに?{p}
+EN: ......What?{p}
+
+## MBMS20 g0 s0350
+JP: おまえさ、将馬のことどう思ってる?{p}
+EN: What do you think of Shoma?{p}
+
+## MBMS20 g0 s0351
+JP: どうって……、幼なじみよ。{n}あなたも知ってるじゃない。{p}
+EN: What do I think...? He's my childhood friend. You know that.{p}
+
+## MBMS20 g0 s0352
+JP: そうじゃなくて……。{n}{face:8}・・・・・・・・・・{face:255}{n}好きなのかってこと!{p}{end}
+EN: That's not what I mean... {face:8}..........{face:255} I mean, do you like him?{p}{end}
+
+## MBMS20 g0 s0353
+JP: !!……………{n}そうね、正直にいうと、{n}好きなのかな、って思ったことも{n}あったわ………。{p}{end}
+EN: !!...... Well, to be honest, there were times I wondered if I did...{p}{end}
+
+## MBMS20 g0 s0354
+JP: ……でもね、{n}それは違うってわかったの。{n}その感情は、『好き』とは違うって……。{n}アナタにあってから……。{p}
+EN: ...But you know, I realized it wasn't that. That feeling isn't the same as "love"... Not since I met you...{p}
+
+## MBMS20 g0 s0355
+JP: 夏……。{p}{end}
+EN: Natsu...{p}{end}
+
+## MBMS20 g0 s0356
+JP: 今日は遅くなっちゃったなぁ。{n}あれっ、こんなに遅くまで{n}サッカーの練習しているヤツが居るぞ。{n}ちょっと見に行こう。{p}
+EN: It got late today. Huh, someone's still at soccer practice this late. Let's go take a look.{p}
+
+## MBMS20 g0 s0357
+JP: 「くっそーこんなコトじゃ……。{n}{sp}まだまだぁ!{n}{sp}世界はこんなモンじゃないんだ!」{p}
+EN: "Damn it, at this rate... I'm not done yet! The world's way tougher than this!"{p}
+
+## MBMS20 g0 s0358
+JP: すっすごい気迫だ!{n}真剣にサッカーしているときの{n}ロベルトってすごくカッコイイなぁ。{p}{end}
+EN: Wow, what intensity! Roberto looks so cool when he's serious about soccer.{p}{end}
+
+## MBMS20 g0 s0359
+JP: 「爆裂!{sp}Vゴォ～ル!{n}{sp}燃える!{sp}Vゴォ～ル!{n}{sp}消える!{sp}Vゴォ～ル!{n}{sp}だっだめだっ!」{p}
+EN: "Victory Goal! Burning V Goal! Vanishing V Goal! Argh, no good!"{p}
+
+## MBMS20 g0 s0360
+JP: ちょっと声かけてみようかな。{p}{end}
+EN: Maybe I'll call out to him.{p}{end}
+
+## MBMS20 g0 s0361
+JP: なにやってるのー{n}練習がんばってー{n}カッコイイー{p}{end}
+EN: What're you doing?{n}Good luck with practice!{n}You look cool!{p}{end}
+
+## MBMS20 g0 s0362
+JP: ロベルトーっ、{n}なにやってるのー?{p}
+EN: Robertooo, what're you doing?{p}
+
+## MBMS20 g0 s0363
+JP: ………。{p}{end}
+EN: ......{p}{end}
+
+## MBMS20 g0 s0364
+JP: あれっ、きこえないのかな?{n}ロベルトーっ、{n}なにやってるのー?{p}
+EN: Huh, can't he hear me? Robertooo, what're you doing?{p}
+
+## MBMS20 g0 s0365
+JP: すまないが、今は集中したいんだ!{n}話しかけないでくれないか!{p}{end}
+EN: Sorry, but I need to focus right now! Could you not talk to me?{p}{end}
+
+## MBMS20 g0 s0366
+JP: 練習のジャマしちゃったみたいだ。{n}（ごめんねロベルト。）{p}{end}
+EN: Looks like I got in the way of his practice. (Sorry, Roberto.){p}{end}
+
+## MBMS20 g0 s0367
+JP: ロベルトー、{n}練習がんばってねー!{p}
+EN: Robertooo, good luck with practice!{p}
+
+## MBMS20 g0 s0368
+JP: ありがとう!{sp}がんばるよっ!{p}{end}
+EN: Thanks! I'll do my best!{p}{end}
+
+## MBMS20 g0 s0369
+JP: 結構きげんよく返事をくれたぞ!{n}よーし、俺もガンバルぞ!{p}{end}
+EN: He answered in a pretty good mood! Alright, I'll do my best too!{p}{end}
+
+## MBMS20 g0 s0370
+JP: ロベルトー、{n}カッコイー!{p}
+EN: Robertooo, you look so cool!{p}
+
+## MBMS20 g0 s0371
+JP: 冷やかすのはやめてくれよ。{n}恥ずかしいじゃないかっ!{p}{end}
+EN: Quit teasing me. It's embarrassing!{p}{end}
+
+## MBMS20 g0 s0372
+JP: ロベルト照れちゃって。{n}かわいいところもあるな……。{p}{end}
+EN: Roberto's all flustered. He's got a cute side...{p}{end}
+
+## MBMS20 g0 s0373
+JP: 今日は遅くなったな…。{p}
+EN: It got late today...{p}
+
+## MBMS20 g0 s0374
+JP: よう!{v3:5}。{n}今、帰りか?{p}
+EN: Hey! {v3:5}. Heading home now?{p}
+
+## MBMS20 g0 s0375
+JP: あっ、ロベルトも今帰り?{p}{end}
+EN: Oh, are you heading home too, Roberto?{p}{end}
+
+## MBMS20 g0 s0376
+JP: そうなんだ。{n}今日も遅くまで{n}新完全燃焼アタックの{n}練習をしちゃったよ。{p}{end}
+EN: Yeah. I was practicing my new Burning Vigor Attack late again today.{p}{end}
+
+## MBMS20 g0 s0377
+JP: えっ、新しい技の練習!{n}ロベルトは研究熱心だネェ{p}{end}
+EN: Whoa, practicing a new move! You're really dedicated, Roberto.{p}{end}
+
+## MBMS20 g0 s0378
+JP: へへっ、まあね。{n}それより{v3:5}さえよければ{n}今日、これからいっしょに帰らないか?{p}{end}
+EN: Heh, I guess. Anyway, {v3:5}, if you're up for it, want to walk home together today?{p}{end}
+
+## MBMS20 g0 s0379
+JP: いいよ。一緒に帰ろう{n}今日はちょっと、これから用事があるんだ{p}{end}
+EN: Sure, let's go home together{n}Sorry, I've got plans today{p}{end}
+
+## MBMS20 g0 s0380
+JP: いいよ。{n}俺もロベルトに話したいことが{n}いっぱいあったんだ。{p}{end}
+EN: Sure. There's a bunch of stuff I wanted to talk to you about, Roberto.{p}{end}
+
+## MBMS20 g0 s0381
+JP: そう?{sp}じゃあ帰ろうか!{p}{end}
+EN: Yeah? Then let's go!{p}{end}
+
+## MBMS20 g0 s0382
+JP: （ロベルトと今度サッカーの試合でも{n}{sp}見に行きたいな、などと{n}{sp}楽しくおしゃべりしながら帰った。）{p}
+EN: (We chatted happily on the way home, about maybe going to see a soccer match together sometime.){p}
+
+## MBMS20 g0 s0383
+JP: そっ、そうか……。{n}それだったら仕方がない。{n}またの機会にしよう。{p}
+EN: O-oh, I see... Well, if that's the case, it can't be helped. Some other time.{p}
+
+## MBMS20 g0 s0384
+JP: ごめんね。{p}
+EN: Sorry.{p}
+
+## MBMS20 g0 s0385
+JP: じゃあ、お先にしつれいっ!{p}
+EN: Well, I'm off. See ya!{p}
+
+## MBMS20 g0 s0386
+JP: せっかくさそってくれたのに{n}悪いコトしちゃったかな……。{p}{end}
+EN: He went to the trouble of asking me... Guess I was kinda mean...{p}{end}
+
+## MBMS20 g0 s0387
+JP: 今日は前から約束していた{n}サッカーの試合を見に行く日だ。{n}ロベルトはこの試合を{n}楽しみにしてたっけ…。{p}
+EN: Today's the day we promised to go see a soccer match. Roberto was really looking forward to this game...{p}
+
+## MBMS20 g0 s0388
+JP: {v3:5}、やぁ、待ったかい?{p}{end}
+EN: {v3:5}, hey, did I keep you waiting?{p}{end}
+
+## MBMS20 g0 s0389
+JP: じゃあ、さっそくいこうよ!{p}
+EN: Then let's get going!{p}
+
+## MBMS20 g0 s0390
+JP: おう!{n}楽しみだなー。{p}
+EN: Yeah! I can't wait.{p}
+
+## MBMS20 g0 s0391
+JP: この試合かなり楽しみにしてるんだ。{n}今日もシュート決めてくれれば{n}いいんだけど、どうかなぁ。{p}{end}
+EN: I've been really looking forward to this match. I hope he scores again today, but who knows.{p}{end}
+
+## MBMS20 g0 s0392
+JP: 決めてくれるといいね!{n}（とかなんとか話しているうちに{n}{sp}スタジアムに着いた。）{p}{end}
+EN: I hope he does! (While we were chatting, we arrived at the stadium.){p}{end}
+
+## MBMS20 g0 s0393
+JP: （試合は延長戦にもつれ込んで、{n}{sp}俺達は帰る時間になってしまい、{n}{sp}結果は{n}{sp}帰り道のラジオできくことになった。）{p}
+EN: (The match went into extra time, and we had to head home, so we heard the result on the radio on the way back.){p}
+
+## MBMS20 g0 s0394
+JP: 「よーしそこだ!いけーっ!{n}{sp}ヤッター!ゴォ～～ル!!」{p}{end}
+EN: "Alright, there! Go! Yes! GOOOAL!!"{p}{end}
+
+## MBMS20 g0 s0395
+JP: {v3:5}、やったぜー!!{p}{end}
+EN: {v3:5}, he did it!!{p}{end}
+
+## MBMS20 g0 s0396
+JP: 思わず抱きついて喜ぶ{n}よかったね。と声をかける{n}バンザーイと大声でさけぶ{p}{end}
+EN: Hug him in joy{n}Say "That's great."{n}Shout "Banzai!"{p}{end}
+
+## MBMS20 g0 s0397
+JP: やったー!{n}（2人は思わず抱きあって喜んだ。）{p}
+EN: Yaaay! (Without thinking, we hugged each other in joy.){p}
+
+## MBMS20 g0 s0398
+JP: ごっ、ごめん{n}思わず抱きついてしまった……。{p}{end}
+EN: S-sorry, I hugged you without thinking...{p}{end}
+
+## MBMS20 g0 s0399
+JP: べっ、べつにいいよ。ロベルト{col:5}♥{col:-}{n}（そのあとしばらく{n}{sp}見つめ合う2人でした。）{p}
+EN: I-it's fine. Roberto{col:5}♥{col:-} (After that, the two of us gazed at each other for a while.){p}
+
+## MBMS20 g0 s0400
+JP: よかったネェ、ホントに。{n}ゴール決めたの応援してた選手でしょ!{p}
+EN: That's really great. The one who scored was the player you were rooting for, right?{p}
+
+## MBMS20 g0 s0401
+JP: いやぁ、最後を自分の目で見れなかったのは{n}ザンネンだったけど、ホントよかったよ。{p}{end}
+EN: Yeah, too bad I didn't see the ending with my own eyes, but I'm really glad.{p}{end}
+
+## MBMS20 g0 s0402
+JP: 今日はホントに行ってよかったよ。{n}また、いっしょに見に行こうな!{p}{end}
+EN: I'm really glad we went today. Let's go watch again sometime!{p}{end}
+
+## MBMS20 g0 s0403
+JP: そうだね。また、いこう!{p}{end}
+EN: Yeah. Let's go again!{p}{end}
+
+## MBMS20 g0 s0404
+JP: バンザーイ!バンザーイ!バンザーイ!{n}（2人で大声で何度もさけんだ。）{p}
+EN: Banzai! Banzai! Banzai! (We both shouted it at the top of our lungs, over and over.){p}
+
+## MBMS20 g0 s0405
+JP: 「うるせーぞ!{n}{sp}いったい何時だと思ってやがるんだ!」{p}
+EN: "Shut up! Do you know what time it is!?"{p}
+
+## MBMS20 g0 s0406
+JP: 「バシャッ!!」{n}（み、水をかけられてしまった。）{p}
+EN: "Splash!!" (W-we got water dumped on us.){p}
+
+## MBMS20 g0 s0407
+JP: ロベルト…、びしょびしょだ。{p}{end}
+EN: Roberto... You're soaked.{p}{end}
+
+## MBMS20 g0 s0408
+JP: おまえもなっ!{p}
+EN: So are you!{p}
+
+## MBMS20 g0 s0409
+JP: ……ハッハッハッハッハッ!!{n}（2人で大笑いした。）{p}{end}
+EN: ......Hahahahaha!! (We both burst out laughing.){p}{end}
+
+## MBMS20 g0 s0410
+JP: やぁ!{sp}{v3:6}今帰りかい?{p}{end}
+EN: Hey! {v3:6}, heading home now?{p}{end}
+
+## MBMS20 g0 s0411
+JP: ロイじゃないか。{n}今日はちょっと遅くなっちゃったよ。{n}君と帰りにあうのは珍しいね。{p}
+EN: Roy! I ended up staying a bit late today. It's rare to run into you on the way home.{p}
+
+## MBMS20 g0 s0412
+JP: 今日は迎えが来てるんだ。{n}よかったら、いっしょに乗ってかないか?{p}{end}
+EN: My ride came for me today. Want a lift?{p}{end}
+
+## MBMS20 g0 s0413
+JP: いっしょに乗っていく{n}ことわる{p}
+EN: Ride with him{n}Decline{p}
+
+## MBMS20 g0 s0414
+JP: じゃあ、お言葉に甘えて{n}乗せてってもらうね。{p}{end}
+EN: Then I'll take you up on that and ride along.{p}{end}
+
+## MBMS20 g0 s0415
+JP: どういたしまして。{n}じゃあ行こうか。{p}{end}
+EN: No problem. Let's go, then.{p}{end}
+
+## MBMS20 g0 s0416
+JP: ロイと車の中で学校のことなどを{n}楽しくおしゃべりした。{p}
+EN: Roy and I chatted happily about school and stuff in the car.{p}
+
+## MBMS20 g0 s0417
+JP: 今日はどうもありがとう。{n}わざわざ家まで送ってもらっちゃって。{p}
+EN: Thanks so much for today. You even drove me all the way home.{p}
+
+## MBMS20 g0 s0418
+JP: なにいってんだよ。{n}こんなの友達としては当然のことだろ?{n}また、こんなことがあったら{n}いつでも送ってくよ。{p}
+EN: What are you talking about? That's just what friends do, right? If this happens again, I'll give you a ride anytime.{p}
+
+## MBMS20 g0 s0419
+JP: ホントに!?{n}悪いなぁ……。{n}でも、また、お願いするね!{p}{end}
+EN: Really!? I feel bad... But I'll take you up on it again!{p}{end}
+
+## MBMS20 g0 s0420
+JP: OK!{n}じゃあバーイ!{p}
+EN: OK! Bye now!{p}
+
+## MBMS20 g0 s0421
+JP: ごめん、今日は用事があるんだ。{n}せっかくさそってくれたのに悪いんだけど。{p}{end}
+EN: Sorry, I've got plans today. Thanks for asking, though.{p}{end}
+
+## MBMS20 g0 s0422
+JP: そうか、それならザンネンだけど{n}またの機会にしよう。{n}それじゃお先にっ!{p}{end}
+EN: I see. That's too bad, but there's always next time. Well, see ya!{p}{end}
+
+## MBMS20 g0 s0423
+JP: やっぱり、いっしょに帰ったら{n}よかったかな……。{p}{end}
+EN: Maybe I should've gone home with him after all...{p}{end}
+
+## MBMS20 g0 s0424
+JP: {v3:6}、今ちょっといいかい?{p}
+EN: {v3:6}, got a minute?{p}
+
+## MBMS20 g0 s0425
+JP: ロイ、どうしたの。{n}俺なら全然かまわないけど。{p}
+EN: What's up, Roy? Sure, I don't mind at all.{p}
+
+## MBMS20 g0 s0426
+JP: 今度の休みの日あいてるかな?{p}{end}
+EN: Are you free on our next day off?{p}{end}
+
+## MBMS20 g0 s0427
+JP: あいてるけど…{n}ちょっと忙しいんだ…{p}{end}
+EN: I'm free, but...{n}I'm kinda busy...{p}{end}
+
+## MBMS20 g0 s0428
+JP: あいてるけど何かあるの?{p}{end}
+EN: I'm free. Why, what's up?{p}{end}
+
+## MBMS20 g0 s0429
+JP: よかったら、{n}ボクとデートに行かないか?{p}{end}
+EN: If you'd like, how about going on a date with me?{p}{end}
+
+## MBMS20 g0 s0430
+JP: デ、デート!!{n}そんな急に言われても……。{p}
+EN: A-a date!! That's so sudden...{p}
+
+## MBMS20 g0 s0431
+JP: こまります{n}光栄です{n}ちょっと考えさせて{p}{end}
+EN: Sorry, I can't{n}I'd be honored{n}Let me think it over{p}{end}
+
+## MBMS20 g0 s0432
+JP: ごめんごめん、驚かせちゃったな。{n}ボクとしたことが{n}ちょっとアセり過ぎたかもしれないな…。{p}
+EN: Sorry, sorry, I surprised you. That's not like me. Maybe I rushed things a little...{p}
+
+## MBMS20 g0 s0433
+JP: OK!{n}誘うのはまたの機会にするよ。{n}驚かせてすまなかった。{n}じゃあ、ボクはクラブがあるから。{p}
+EN: OK! I'll ask you another time. Sorry for startling you. Well, I've got club, so I'll see you.{p}
+
+## MBMS20 g0 s0434
+JP: ロイにさそってもらえるなんて{n}すごくうれしいよ{col:5}♥{col:-}{n}俺ならいつでもOKだよ。{p}
+EN: I'm so happy you asked me, Roy{col:5}♥{col:-} I'm free anytime!{p}
+
+## MBMS20 g0 s0435
+JP: そう、よころんでもらえてボクも光栄だよ。{n}じゃあ、また詳しいことは電話するから!{n}ボクはクラブがあるんでまたなっ{col:5}♥{col:-}{p}
+EN: Great, I'm honored you're so happy about it. I'll call you with the details! I've got club, so see ya{col:5}♥{col:-}{p}
+
+## MBMS20 g0 s0436
+JP: ついにロイにデートに誘われちゃった{col:5}♥{col:-}{p}{end}
+EN: Roy finally asked me out{col:5}♥{col:-}{p}{end}
+
+## MBMS20 g0 s0437
+JP: ごめんその日はちょっと用事があるんだ。{p}
+EN: Sorry, I've got something that day.{p}
+
+## MBMS20 g0 s0438
+JP: そうか……。{n}OK!{sp}忙しいならしかたないな。{n}誘うのはまたの機会にするよ。{n}じゃあボクはクラブがあるから。{p}{end}
+EN: I see... OK! If you're busy, it can't be helped. I'll ask another time. Well, I've got club.{p}{end}
+
+## MBMS20 g0 s0439
+JP: ロイ本気なのかなぁ……。{p}{end}
+EN: Was Roy serious, I wonder...{p}{end}
+
+## MBMS20 g0 s0440
+JP: {v3:6}!{n}{v3:6}、お～い!!{p}{end}
+EN: {v3:6}! Hey, {v3:6}!!{p}{end}
+
+## MBMS20 g0 s0441
+JP: ロイ、どうしたんだ?{n}こんな朝っぱらから。{p}
+EN: Roy, what's up? This early in the morning?{p}
+
+## MBMS20 g0 s0442
+JP: 今からボクの車で{n}海に遊びに行こうゼ!{p}
+EN: Let's take my car and go to the beach right now!{p}
+
+## MBMS20 g0 s0443
+JP: 今からって学校はどうするの?{n}今日は熱血隼人の体育があるから{n}サボるとこわいよっ!{p}
+EN: Right now? What about school? We've got Hayato Nekketsu's gym class today. He'll be scary if we skip!{p}
+
+## MBMS20 g0 s0444
+JP: 今から{v3:6}と{n}海に行きたいから行くんだよ。{n}おかしいかい?{p}
+EN: I want to go to the beach with you, {v3:6}, so I'm going right now. Is that so strange?{p}
+
+## MBMS20 g0 s0445
+JP: 全然おかしくない{n}やっぱりサボるのはダメだ{p}
+EN: Not strange at all{n}Skipping is still wrong{p}
+
+## MBMS20 g0 s0446
+JP: 全然おかしくないよ。{n}俺だって今からロイと{n}海に行きたい{col:5}♥{col:-}{p}
+EN: Not strange at all. I want to go to the beach with you right now too, Roy{col:5}♥{col:-}{p}
+
+## MBMS20 g0 s0447
+JP: じゃあ決まりだ!{n}さぁボクの車はあっちサ。{n}さあ行こう。{p}{end}
+EN: Then it's settled! My car's over there. Let's go.{p}{end}
+
+## MBMS20 g0 s0448
+JP: やっぱり思った通りだ。{n}今日はこっちも天気は最高だろ?{n}{v3:6}といっしょに{n}来れてよかったよ{p}
+EN: Just like I thought. The weather's perfect out here too, huh? I'm glad I came with you, {v3:6}.{p}
+
+## MBMS20 g0 s0449
+JP: ロイ{col:5}♥{col:-}{n}今日はホントにありがとう。{p}
+EN: Roy{col:5}♥{col:-} Thanks so much for today.{p}
+
+## MBMS20 g0 s0450
+JP: 今日は、暗くなるまで{n}ロイと海辺で語り合った。{n}ロイって、以外と{n}ロマンチックな所がある{col:5}♥{col:-}{p}
+EN: We talked on the beach until it got dark. Roy has a surprisingly romantic side{col:5}♥{col:-}{p}
+
+## MBMS20 g0 s0451
+JP: そうだ、これをあげるよ。{n}ロイから{n}{col:0}『指輪』{col:-}のプレゼントをもらった。{p}{end}
+EN: "Oh, right, this is for you." Got a {col:0}"Ring"{col:-} from Roy.{p}{end}
+
+## MBMS20 g0 s0452
+JP: やっぱりサボるのはダメだよ。{n}ほらさっきから隼人先生がにらんでるよっ!{p}
+EN: Skipping's still wrong. Look, Hayato-sensei's been glaring at us this whole time!{p}
+
+## MBMS20 g0 s0453
+JP: ロイ!{n}オマエ朝っぱらから何やってるんだ?{n}それに車で学校に来てどうするつもりだ、{n}アァーッ!{p}
+EN: Roy! What're you doing this early in the morning? And what's the big idea, driving a car to school, huh?!{p}
+
+## MBMS20 g0 s0454
+JP: ハッ!{sp}ミスター隼人、{n}ボクとやるってのかい?{n}こいよっ!{sp}バーニングティーチャー!{p}{end}
+EN: Ha! Mister Hayato, you wanna go with me? Bring it on, Burning Teacher!{p}{end}
+
+## MBMS20 g0 s0455
+JP: ココは逃げた方が良さそうだ……。{p}{end}
+EN: I'd better get out of here...{p}{end}
+
+## MBMS20 g0 s0456
+JP: {v3:7}、オッハヨーゴザイマ～ス!{p}
+EN: {v3:7}, good morniiing!{p}
+
+## MBMS20 g0 s0457
+JP: ティファニーおはよう!{n}今日も朝から元気い～ね～。{p}
+EN: Morning, Tiffany! You're full of energy as usual.{p}
+
+## MBMS20 g0 s0458
+JP: せっかく朝いっしょになったんだから{n}学校までいっしょにいかないデスカ?{p}
+EN: Since we ran into each other this morning, why don't we walk to school together?{p}
+
+## MBMS20 g0 s0459
+JP: いいよ、いっしょに行こう。{p}
+EN: Sure, let's go together.{p}
+
+## MBMS20 g0 s0460
+JP: それじゃあ、{n}いっしょにいきまショー!{p}
+EN: Then let's go!{p}
+
+## MBMS20 g0 s0461
+JP: ミーは{v3:7}といっしょにいるの{n}けっこう楽しいデ～ス。{p}{end}
+EN: I really have fun being with you, {v3:7}.{p}{end}
+
+## MBMS20 g0 s0462
+JP: {v3:7}はどうデスか?{p}
+EN: How about you, {v3:7}?{p}
+
+## MBMS20 g0 s0463
+JP: すごく楽しいよ{n}まだわかんないよ{n}そうでもないかな{p}
+EN: I have a lot of fun{n}I don't know yet{n}Not really{p}
+
+## MBMS20 g0 s0464
+JP: ティファニーといるとすごく楽しいよ。{n}なんだか俺まで元気になっちゃうって{n}感じがするし…。{p}
+EN: I have a lot of fun with you, Tiffany. Somehow you make me feel full of energy too...{p}
+
+## MBMS20 g0 s0465
+JP: そうですか!{n}とっても、{n}うれしいデ～ス{col:5}♥{col:-}{p}
+EN: Really! That makes me so happy{col:5}♥{col:-}{p}
+
+## MBMS20 g0 s0466
+JP: そうこうしているうちに学校に着いた。{p}{end}
+EN: Before long, we arrived at school.{p}{end}
+
+## MBMS20 g0 s0467
+JP: {v3:7}、それじゃあね!{n}また、いっしょに学校いきまショ～。{p}{end}
+EN: Bye, {v3:7}! Let's walk to school together again.{p}{end}
+
+## MBMS20 g0 s0468
+JP: じゃあ、またねティファニー。{p}{end}
+EN: See you, Tiffany.{p}{end}
+
+## MBMS20 g0 s0469
+JP: まだわかんないよ。{n}ティファニーのこと{n}まだそんなに知らないしね……。{p}
+EN: I don't know yet. I don't know you that well yet, Tiffany...{p}
+
+## MBMS20 g0 s0470
+JP: だいじょーぶデ～ス!{n}これからキッと楽しくなりマ～ス。{p}
+EN: Don't worry! It's sure to get fun from now on.{p}
+
+## MBMS20 g0 s0471
+JP: そうだね!{n}これから楽しくなりそうだね。{p}{end}
+EN: You're right! Looks like things are gonna get fun.{p}{end}
+
+## MBMS20 g0 s0472
+JP: そうでもないかな今日は。{p}{end}
+EN: Not so much today.{p}{end}
+
+## MBMS20 g0 s0473
+JP: そうですか……。{n}ミーといても{n}{v3:7}あまり楽しくないんですネ。{p}
+EN: I see... So you don't have much fun with me, {v3:7}.{p}
+
+## MBMS20 g0 s0474
+JP: ごめんなさいデス。{n}先に行きマス。{p}
+EN: I'm sorry. I'll go on ahead.{p}
+
+## MBMS20 g0 s0475
+JP: あっティファニー……。{n}いってしまった。{n}ひどいこといっちゃったかな……。{p}
+EN: Ah, Tiffany... She's gone. Was that a mean thing to say...?{p}
+
+## MBMS20 g0 s0476
+JP: {v3:7}オッハヨーゴザイマ～ス!{n}今日も元気デスか～。{p}
+EN: {v3:7}, good morniiing! Are you feeling good today?{p}
+
+## MBMS20 g0 s0477
+JP: ティファニーおはよう!{n}俺も元気だよ。{p}
+EN: Morning, Tiffany! I'm feeling great too.{p}
+
+## MBMS20 g0 s0478
+JP: 今日も学校まで、{n}いっしょにいきまショー!{p}
+EN: Let's walk to school together again today!{p}
+
+## MBMS20 g0 s0479
+JP: そうだね、行こうか。{p}{end}
+EN: Sure, let's go.{p}{end}
+
+## MBMS20 g0 s0480
+JP: 今日はすごくいい天気ですネ～。{n}なんだかとても気持ちイイデス。{p}
+EN: The weather's so nice today. It feels really good.{p}
+
+## MBMS20 g0 s0481
+JP: ホントに気持ちいいね。{n}学校に行くのがもったいないくらいだ。{p}{end}
+EN: It really does. It's almost a waste to go to school.{p}{end}
+
+## MBMS20 g0 s0482
+JP: そうだ!{sp}1時間目サボっちゃって{n}このままどこかいきまショー!{p}
+EN: I know! Let's skip first period and go somewhere!{p}
+
+## MBMS20 g0 s0483
+JP: そうだね、河原にでもいこうか{n}そうだね、ショッピングにでもいこうか{n}それはやばいよ{p}
+EN: Sure, let's go to the riverbank{n}Sure, let's go shopping{n}That's a bad idea{p}
+
+## MBMS20 g0 s0484
+JP: 今日は思いきってサボって{n}河原にでも、いこうか!{p}{end}
+EN: Let's just go for it and skip. How about the riverbank?{p}{end}
+
+## MBMS20 g0 s0485
+JP: ヤッホーッ!{n}じゃあいきまショー!{p}
+EN: Yahoo! Let's go then!{p}
+
+## MBMS20 g0 s0486
+JP: こうしているとホントに{n}気持ちイイデスネェ。{p}{end}
+EN: Just being here like this feels so nice.{p}{end}
+
+## MBMS20 g0 s0487
+JP: いろいろ話しているうちに{n}アッという間に時間が過ぎた。{p}
+EN: We talked about all sorts of things, and the time flew by.{p}
+
+## MBMS20 g0 s0488
+JP: じゃあ学校に戻りまショー。{n}今日はアリガト、つきあってくれて。{n}「チュッ{col:5}♥{col:-}」{p}{end}
+EN: Let's go back to school. Thanks for keeping me company today. "Smooch{col:5}♥{col:-}"{p}{end}
+
+## MBMS20 g0 s0489
+JP: （なっなにっ!!キスされた?{n}{sp}まあアメリカではあいさつ代わりだって{n}{sp}いうしな、深い意味はないかもネ。）{n}{col:0}『挨拶代わりのキッス』{col:-}をもらった。{p}
+EN: (Wh-what?! She kissed me? Well, they say it's just a greeting in America. It probably doesn't mean much.) Got a {col:0}"Greeting Kiss"{col:-}.{p}
+
+## MBMS20 g0 s0490
+JP: そうだね。{n}デパートにショッピングでも{n}行こうか?{p}
+EN: Sure. How about shopping at the department store?{p}
+
+## MBMS20 g0 s0491
+JP: こんなに天気いいのに屋根のある所は{n}イヤデ～ス。{p}{end}
+EN: With weather this nice, I don't wanna be anywhere with a roof.{p}{end}
+
+## MBMS20 g0 s0492
+JP: そっ、そうなの?{p}{end}
+EN: R-really?{p}{end}
+
+## MBMS20 g0 s0493
+JP: じゃあ、ミーはちょっと一人で、{n}河原にいってマ～ス!{p}{end}
+EN: Then I'll just go to the riverbank by myself!{p}{end}
+
+## MBMS20 g0 s0494
+JP: あっ、ちょっと待ってよぉ～。{n}あ～あ、いってしまった。{p}
+EN: Hey, wait a sec! ...Aw, she's gone.{p}
+
+## MBMS20 g0 s0495
+JP: サボりはちょっとやばいよ、ティファニー。{n}学校終わってからでもいいじゃない。{p}{end}
+EN: Skipping's kind of risky, Tiffany. Can't we go after school?{p}{end}
+
+## MBMS20 g0 s0496
+JP: {v3:7}、結構コンジョウないネェ。{n}アメリカではもっと生徒の自由ネ!{p}{end}
+EN: {v3:7}, you don't have much guts, huh. In America, students have more freedom!{p}{end}
+
+## MBMS20 g0 s0497
+JP: 今日はホントはどっか行きたかったネ。{n}ちょっとザンネンデ～ス。{p}
+EN: I really wanted to go somewhere today. That's a little disappointing.{p}
+
+## MBMS20 g0 s0498
+JP: 無理してでも{n}行ってあげれば良かったかな…。{p}{end}
+EN: Maybe I should've just gone with her anyway...{p}{end}
+
+## MBMS20 g0 s0499
+JP: {v3:7}、オハヨウゴザイマ～ス!{p}{end}
+EN: {v3:7}, good morniiing!{p}{end}
+
+## MBMS20 g0 s0500
+JP: やあティファニー!{n}最近よくいっしょになるね。{p}
+EN: Hey, Tiffany! We keep running into each other lately.{p}
+
+## MBMS20 g0 s0501
+JP: {v3:7}、今日放課後あいてマスか?{n}あいてたら帰りいっしょに{n}ショッピング行きまショー。{p}{end}
+EN: {v3:7}, are you free after school today? If you are, let's go shopping on the way home.{p}{end}
+
+## MBMS20 g0 s0502
+JP: OK!{n}ごめん今日は忙しいよ{p}{end}
+EN: OK!{n}Sorry, I'm busy today{p}{end}
+
+## MBMS20 g0 s0503
+JP: OK!{n}じゃあ放課後いっしょに行こう。{p}
+EN: OK! Let's go after school, then.{p}
+
+## MBMS20 g0 s0504
+JP: じゃあ楽しみにしてマ～ス!{p}
+EN: I'll be looking forward to it!{p}
+
+## MBMS20 g0 s0505
+JP: あれもコレもほしいデ～ス。{n}日本のデパートも{n}たくさんモノがありますネェ。{n}あっ、あれもカワイイデ～ス!{p}{end}
+EN: I want this and that and everything! Japanese department stores have so much stuff. Oh, that's cute too!{p}{end}
+
+## MBMS20 g0 s0506
+JP: なんだか今日のティファニーは特に{n}かわいく見えるなぁ……{col:5}♥{col:-}{n}ねぇティファニー。{p}
+EN: Tiffany looks especially cute today...{col:5}♥{col:-} Hey, Tiffany.{p}
+
+## MBMS20 g0 s0507
+JP: なんデスか{v3:7}?{p}{end}
+EN: What is it, {v3:7}?{p}{end}
+
+## MBMS20 g0 s0508
+JP: 今日はすごくかわいいね{n}その制服、よくにあってるね{n}その髪型、すごくいいね{p}
+EN: You look really cute today{n}That uniform really suits you{n}I love your hair like that{p}
+
+## MBMS20 g0 s0509
+JP: 今日はすごくかわいいね!{p}{end}
+EN: You look really cute today!{p}{end}
+
+## MBMS20 g0 s0510
+JP: 『今日は』ってなんデスか!{n}じゃあ昨日はカワイくないデスか?{p}{end}
+EN: What do you mean, "today"?! So I wasn't cute yesterday?{p}{end}
+
+## MBMS20 g0 s0511
+JP: いやあ…そういう意味じゃないんだ。{n}ごめんティファニー。{p}{end}
+EN: N-no... That's not what I meant. Sorry, Tiffany.{p}{end}
+
+## MBMS20 g0 s0512
+JP: まぁ今日はゆるしてあげマス。{p}{end}
+EN: Well, I'll forgive you this time.{p}{end}
+
+## MBMS20 g0 s0513
+JP: ティファニー。制服もよくにあってるよ。{p}
+EN: Tiffany, that uniform really suits you.{p}
+
+## MBMS20 g0 s0514
+JP: アリガト!{sp}{v3:7}{col:5}♥{col:-}。{n}ミーはあまり制服きないから{n}にあうかなってちょっと心配でした。{n}すごくうれしーデス。{p}
+EN: Thank you, {v3:7}{col:5}♥{col:-}! I don't wear uniforms much, so I was a little worried it wouldn't suit me. I'm so happy.{p}
+
+## MBMS20 g0 s0515
+JP: 髪をさわったの?{n}何か朝よりすごくかわいく見えるんだけど。{p}
+EN: Did you do something to your hair? You look way cuter than this morning.{p}
+
+## MBMS20 g0 s0516
+JP: 今日のデートのために学校でもいっかい{n}セットしました。{n}{v3:7}が気付いてくれてすごく{n}うれしーデス{col:5}♥{col:-}{p}
+EN: I redid it at school for our date today. I'm so happy you noticed, {v3:7}{col:5}♥{col:-}{p}
+
+## MBMS20 g0 s0517
+JP: 今日はとっても楽しかったデス。{n}{v3:7}といっしょにいれたから……。{n}ドウモアリガト!『チュッ{col:5}♥{col:-}』{p}
+EN: Today was so much fun. Because I got to be with you, {v3:7}... Thank you! "Smooch{col:5}♥{col:-}"{p}
+
+## MBMS20 g0 s0518
+JP: こっこちらこそ……{col:5}♥{col:-}。{n}（かなりマジだったような……。）{n}ティファニーの{col:0}『本気キッス』{col:-}をもらった。{p}
+EN: Th-thank you too...{col:5}♥{col:-} (That felt pretty serious...) Got Tiffany's {col:0}"Real Kiss"{col:-}.{p}
+
+## MBMS20 g0 s0519
+JP: ごめん今日は忙しいんだ。{p}{end}
+EN: Sorry, I'm busy today.{p}{end}
+
+## MBMS20 g0 s0520
+JP: そうデスか～。{n}すごくざんねんデス。{n}{v3:7}ミーのことあまりスキじゃない{n}デスネェ……。{p}
+EN: I see... That's really too bad. {v3:7}, you don't like me very much, do you...{p}
+
+## MBMS20 g0 s0521
+JP: （傷つけてしまったかも……。）{p}
+EN: (I might have hurt her feelings...){p}
+
+## MBMS20 g0 s0522
+JP: 今日はとっても楽しかったデス!{n}またいきましょーネ{col:5}♥{col:-}{p}{end}
+EN: Today was so much fun! Let's go again{col:5}♥{col:-}{p}{end}
+
+## MBMS20 g0 s0523
+JP: {v5:8}ちょっといいですか?{p}{end}
+EN: {v5:8}, may I have a moment?{p}{end}
+
+## MBMS20 g0 s0524
+JP: ボーマンか。{n}なんか宗教の勧誘みたいな{n}声のかけ方やめてよ。{n}（そのままだったりして……。）{p}{end}
+EN: Oh, Boman. Can you not call out to me like you're recruiting for a religion? (Maybe he actually is...){p}{end}
+
+## MBMS20 g0 s0525
+JP: 今日これから愛の募金活動があるんですが、{n}一緒にやってくれませんか?{n}私と仲良くしてくれている{v5:8}{n}ならと思ったのですが…。{p}{end}
+EN: There's a Love Fund charity drive today. Would you help me with it? I thought you might, {v5:8}, since we've become such good friends...{p}{end}
+
+## MBMS20 g0 s0526
+JP: いいよ、いっしょに行くよ。{n}（そういう頼みかたされると{n}{sp}ことわれないよねやっぱり。）{p}
+EN: Sure, I'll go with you. (When he asks like that, how could I say no?){p}
+
+## MBMS20 g0 s0527
+JP: ありがとう。{n}それでは、さっそく行きましょうか。{p}{end}
+EN: Thank you. Then let's get going right away.{p}{end}
+
+## MBMS20 g0 s0528
+JP: えっ、もう行くの……。{p}
+EN: Huh, we're going now...?{p}
+
+## MBMS20 g0 s0529
+JP: それでは、始めましょう。{n}「愛の募金に、ご協力お願いしまーす。」{p}{end}
+EN: Now, let's begin. "Please donate to the Love Fund!"{p}{end}
+
+## MBMS20 g0 s0530
+JP: 「お願いしまーす。」{p}{end}
+EN: "Please donate!"{p}{end}
+
+## MBMS20 g0 s0531
+JP: 夕方遅くまで、募金は続いた……。{p}{end}
+EN: The fundraising went on until late in the evening...{p}{end}
+
+## MBMS20 g0 s0532
+JP: {v5:8}、今日はどうもありがとう。{n}コレで恵まれない人たちも救われます。{p}{end}
+EN: {v5:8}, thank you so much for today. This will help those less fortunate.{p}{end}
+
+## MBMS20 g0 s0533
+JP: ホントによかったね{n}コレぐらいどーってことないよ{n}もうすごくつかれちゃったよ{n}ボーマンの頼みだからね{p}{end}
+EN: I'm really glad{n}This is no big deal{n}I'm totally worn out{n}Anything for you, Boman{p}{end}
+
+## MBMS20 g0 s0534
+JP: {v5:8}って、{n}ホントにいい人ですね。{n}今日は見直してしまいました。{p}{end}
+EN: {v5:8}, you truly are a good person. I see you in a new light after today.{p}{end}
+
+## MBMS20 g0 s0535
+JP: そうですか、タフなんですね。{n}それでは、また今度も{n}ぜひ、お願いします。{p}{end}
+EN: I see, you're quite tough. In that case, please help me again next time.{p}{end}
+
+## MBMS20 g0 s0536
+JP: そうですか…。{n}それはすみませんでした。{n}なんか無理矢理連れてきてしまって…。{n}もう募金にさそったりしませんから。{p}
+EN: I see... I'm very sorry. I practically dragged you here... I won't ask you to fundraise anymore.{p}
+
+## MBMS20 g0 s0537
+JP: ボーマン、{n}そんなにあやまらないでくれよ。{n}（悪いこといっちゃったかも……。）{p}
+EN: Boman, you don't have to apologize so much. (Maybe I said something bad...){p}
+
+## MBMS20 g0 s0538
+JP: そうですか!ありがとう{n}コレも神様のおかげです{p}
+EN: Is that so! Thank you. This too is by God's grace.{p}
+
+## MBMS20 g0 s0539
+JP: コレは今日のお礼です。{n}受け取って下さい。{p}
+EN: This is my thanks for today. Please accept it.{p}
+
+## MBMS20 g0 s0540
+JP: ありがとう!{n}{col:0}『募金の羽根』{col:-}をもらった。{n}（なんかいい気分だ。{n}{sp}ボーマンも喜んでくれたみたいだし。）{p}
+EN: Thanks! Got a {col:0}"Charity Feather"{col:-}. (I feel kinda good. And Boman seemed happy too.){p}
+
+## MBMS20 g0 s0541
+JP: {v5:8}、ちょっといいですか?{p}
+EN: {v5:8}, may I have a moment?{p}
+
+## MBMS20 g0 s0542
+JP: ボーマン!{n}今日は、どうしたの?{p}{end}
+EN: Boman! What's up today?{p}{end}
+
+## MBMS20 g0 s0543
+JP: {v5:8}は、今、帰るところですか?{n}もしよかったら、{n}今から私につきあっていただけませんか?{p}{end}
+EN: {v5:8}, are you on your way home? If you don't mind, would you come somewhere with me now?{p}{end}
+
+## MBMS20 g0 s0544
+JP: いいよ{n}今日はこれから用事があるんだけど{n}募金ならイヤだよ{p}
+EN: Sure{n}I've got plans after this{n}Not if it's fundraising{p}
+
+## MBMS20 g0 s0545
+JP: そうですか。{n}それは、よかったです。{n}それでは、さっそく行きましょうか。{n}今日は、ちょっと教会に行きましょう。{p}
+EN: I see. That's good to hear. Then let's go right away. Today, let's visit the church.{p}
+
+## MBMS20 g0 s0546
+JP: 今度は教会か……。{p}
+EN: A church this time...{p}
+
+## MBMS20 g0 s0547
+JP: この家の向こうに教会があります。{n}今日は{v5:8}といっしょに{n}神にお祈りしようと思ったのです。{p}
+EN: There's a church past this house. Today I thought I'd pray to God together with you, {v5:8}.{p}
+
+## MBMS20 g0 s0548
+JP: ボーマンの頼みなら、どこでも行くよ。{n}ボーマンといっしょにいると楽しいしね。{p}{end}
+EN: If you're asking, Boman, I'll go anywhere. I have fun with you, after all.{p}{end}
+
+## MBMS20 g0 s0549
+JP: 私も楽しいです。{p}{end}
+EN: I enjoy it too.{p}{end}
+
+## MBMS20 g0 s0550
+JP: （こうして、{n}{sp}ボーマンと色々しゃべりながら{n}{sp}教会にむかった。）{p}
+EN: (And so, Boman and I headed to the church, chatting about all sorts of things.){p}
+
+## MBMS20 g0 s0551
+JP: ごめん、{n}今日は、これから用事があるんだ。{n}ちょっと、いっしょには行けないよ。{p}
+EN: Sorry, I've got plans after this. I can't go with you.{p}
+
+## MBMS20 g0 s0552
+JP: そうですか。{n}それでは仕方ありません。{n}今日は、コレで失礼することにします。{p}{end}
+EN: I see. Then it can't be helped. I'll take my leave for today.{p}{end}
+
+## MBMS20 g0 s0553
+JP: 今日は募金では、なかったのですが……。{n}何か気にさわるようなことをいいましたか?{n}まだ私は人の心を理解できないようですね。{n}もっと修練をつまなければ……。{p}
+EN: It wasn't fundraising today, though... Did I say something to upset you? I still don't seem to understand people's hearts. I must train harder...{p}
+
+## MBMS20 g0 s0554
+JP: （ちょっと、きつくいいすぎたかなぁ。）{p}
+EN: (Maybe I was a little too harsh.){p}
+
+## MBMS20 g0 s0555
+JP: {v5:8}こんな所にいましたか。{n}探してしまいましたよ。{p}
+EN: {v5:8}, there you are. I've been looking for you.{p}
+
+## MBMS20 g0 s0556
+JP: やあ、ボーマン!{n}ここにいるって、よくわかったね。{p}
+EN: Hey, Boman! How'd you know I was here?{p}
+
+## MBMS20 g0 s0557
+JP: 学校中、探しましたよ。{n}私にとって、{n}こんなに大事な用事があるのですから。{p}
+EN: I searched the whole school. After all, this is a very important matter to me.{p}
+
+## MBMS20 g0 s0558
+JP: で、その大事な用事って?{p}{end}
+EN: So, what's this important matter?{p}{end}
+
+## MBMS20 g0 s0559
+JP: 実は、神につかえる身としては{n}非常に、いいづらいことなんですが……。{n}今度、私といっしょにデートに行って{n}いただきたいんですが{col:5}♥{col:-}{p}{end}
+EN: Truth be told, this is very hard to say for one who serves God... but would you go on a date with me sometime{col:5}♥{col:-}{p}{end}
+
+## MBMS20 g0 s0560
+JP: もちろん、OKだよ{n}それは、ちょっと……{p}{end}
+EN: Of course, OK{n}Well, that's a bit...{p}{end}
+
+## MBMS20 g0 s0561
+JP: ごめん!{sp}ボーマン。{n}俺はボーマンとデートなんて、{n}できないよ。{n}他に好きな人がいるんだ!{p}
+EN: Sorry, Boman! I can't go on a date with you. There's someone else I like!{p}
+
+## MBMS20 g0 s0562
+JP: そうですか………………。{n}そういうことなら仕方ないですね。{n}私も神につかえる身。{n}こういうコトは、すっぱりあきらめます。{p}{end}
+EN: I see.......... If that's how it is, it can't be helped. I am one who serves God. I'll give up on this cleanly.{p}{end}
+
+## MBMS20 g0 s0563
+JP: ボーマン、ホントにごめんね。{n}（悪いコトしちゃったなぁ……。）{p}
+EN: Boman, I'm really sorry. (I feel bad about that...){p}
+
+## MBMS20 g0 s0564
+JP: もちろん、OKだよ!{sp}ボーマン{col:5}♥{col:-}{n}それを言うために{n}わざわざ俺をさがしてくれたんだね。{p}
+EN: Of course it's OK, Boman{col:5}♥{col:-} You came all the way looking for me just to say that, huh?{p}
+
+## MBMS20 g0 s0565
+JP: それでは、{n}私とデートしてくれるのですね!{n}神に感謝します……。{p}{end}
+EN: Then you'll go on a date with me! Thanks be to God...{p}{end}
+
+## MBMS20 g0 s0566
+JP: {v5:8}といっしょに、{n}こうして、デートできるなんて……。{n}私は、本当に神に感謝します。{p}{end}
+EN: To be able to go on a date with you like this, {v5:8}... I truly thank God.{p}{end}
+
+## MBMS20 g0 s0567
+JP: 大げさだなあ、{n}ボーマンは{col:5}♥{col:-}{n}こんなコトいつでもできるよ。{p}
+EN: You're so dramatic, Boman{col:5}♥{col:-} We can do this anytime.{p}
+
+## MBMS20 g0 s0568
+JP: コレ、今日のために{n}教会の花だんから取ってきました。{n}私が育てた花です。{p}{end}
+EN: I picked these from the church flower bed for today. They're flowers I grew myself.{p}{end}
+
+## MBMS20 g0 s0569
+JP: ありがとう、ボーマン!{n}{col:0}『ボーマンの育てた花』{col:-}をもらった。{p}
+EN: Thanks, Boman! Got {col:0}"Boman's Flowers"{col:-}.{p}
+
+## MBMS20 g0 s0570
+JP: こうして、ボーマンと楽しくデートした。{p}
+EN: And so, Boman and I had a fun date.{p}
+
+## MBMS20 g1 s0001
+JP: あれ?{n}向こうから聞き覚えのある声がする。{n}ちょっと行ってみようか。{p}{end}
+EN: Huh? I hear a familiar voice over there. Let's go see.{p}{end}
+
+## MBMS20 g1 s0002
+JP: 誰かがケンカしてるみたい……。{n}あ、アレはバツ君ね。{p}{end}
+EN: Looks like someone's fighting... Oh, that's Batsu-kun.{p}{end}
+
+## MBMS20 g1 s0004
+JP: （見ると、中学生二人が{n}{sp}高校生4、5人に囲まれている。{n}{sp}零囲気からすると{n}{sp}カツアゲの真っ最中ってカンジ?）{p}{end}
+EN: (Two middle schoolers are surrounded by four or five high schoolers. From the mood, looks like they're being shaken down?){p}{end}
+
+## MBMS20 g1 s0005
+JP: （高校生が何か文句を言ってるようだけど、{n}{sp}ここからではよく聞こえないな。{n}{sp}バツ君はツカツカと近寄ると……。）{p}{end}
+EN: (The high schoolers seem to be complaining about something, but I can't hear from here. Batsu-kun strides right up and...){p}{end}
+
+## MBMS20 g1 s0006
+JP: ガツッ!!{n}（一発パンチをいれちゃった!!{n}{sp}そのまま、残りの連中にもすばやく{n}{sp}パンチを!!）{p}{end}
+EN: WHAM!! (He threw a punch!! Then he quickly lays into the rest of them too!!){p}{end}
+
+## MBMS20 g1 s0008
+JP: （あっという間に片づけちゃった……。{n}{sp}中学生二人は、礼をいって去っていく。{n}{sp}止めようかとも思ったけど、{n}{sp}その必要もなかったかナ。）{p}{end}
+EN: (He finished them off in no time... The two middle schoolers thank him and leave. I thought about stopping him, but there was no need.){p}{end}
+
+## MBMS20 g1 s0011
+JP: キライね!!{n}別に気にならないけど{p}
+EN: I hate it!!{n}It doesn't bother me{p}
+
+## MBMS20 g1 s0012
+JP: キライね、私も!{n}弱い連中に限って、{n}ああやって徒党を組んで弱いモノ相手に{n}カツアゲとかするのよね。{p}{end}
+EN: I hate it too! It's always the weak ones who gang up and shake down people weaker than them.{p}{end}
+
+## MBMS20 g1 s0014
+JP: （あははっ、バツらしいな……。）{p}{end}
+EN: (Ahaha, that's so Batsu...){p}{end}
+
+## MBMS20 g1 s0015
+JP: 別に気にならないけどネ。{n}カツアゲされる方にも{n}スキがあるんじゃない?{p}
+EN: It doesn't really bother me. Don't the victims leave themselves open too?{p}
+
+## MBMS20 g1 s0017
+JP: （ちょっと怒らせちゃったかナ……。）{p}{end}
+EN: (Maybe I made him a little mad...){p}{end}
+
+## MBMS20 g1 s0018
+JP: さてと買い物もすんだことだし、{n}もう少しブラブラしてみようかな。{n}あ、あそこで走ってるのはバツだ。{n}何やってるのかナ?{p}
+EN: Well, I'm done shopping, so maybe I'll wander around a bit more. Oh, that's Batsu running over there. What's he up to?{p}
+
+## MBMS20 g1 s0019
+JP: やっほー、バツ!!{n}何やってるの?{n}またケンカァ?{p}
+EN: Hiya, Batsu!! What're you doing? Another fight?{p}
+
+## MBMS20 g1 s0021
+JP: バツ、走って配達してるの?{n}自転車は?{p}
+EN: Batsu, you're running your deliveries? What about a bike?{p}
+
+## MBMS20 g1 s0023
+JP: そういえばバツ、{n}この前ここでケンカしてたよね。{n}あの人たち、このあたりでよく見るけど、{n}仕返しとかされない?{p}
+EN: Hey Batsu, you got in a fight here the other day, right? I see those guys around here a lot. Won't they come after you?{p}
+
+## MBMS20 g1 s0024
+JP: あんなヤツら、何人かかってこようと{n}目じゃないぜ。{n}返り討ちにしてやるよ。{p}
+EN: Doesn't matter how many of those guys come at me. They're nothin'. I'll send 'em packing.{p}
+
+## MBMS20 g1 s0025
+JP: ま、このへんはオレのなわばりだからな。{n}おまえもカラまれたりしたら、{n}オレに言えよ。{n}すぐぶっ飛ばしてやるから。{p}{end}
+EN: Besides, this is my turf. If anybody gives you trouble, just tell me. I'll knock 'em flying.{p}{end}
+
+## MBMS20 g1 s0026
+JP: お願いね{col:5}♥{col:-}{n}遠慮しとくわ{p}{end}
+EN: Please do{col:5}♥{col:-}{n}I'll pass{p}{end}
+
+## MBMS20 g1 s0027
+JP: お願いね{col:5}♥{col:-}、バツ。{n}頼りにしてるよ。{p}{end}
+EN: Please do{col:5}♥{col:-}, Batsu. I'm counting on you.{p}{end}
+
+## MBMS20 g1 s0029
+JP: そうだ、これやるよ。{n}夕刊、一軒いらねーっていわれてよ。{n}持って帰ってもしかたないしな。{p}{end}
+EN: Oh yeah, take this. One house said they didn't want their evening paper. No point takin' it back.{p}{end}
+
+## MBMS20 g1 s0030
+JP: あ、ああ、アリガト。{n}もらっとくわ。{p}{end}
+EN: Oh, uh, thanks. I'll take it.{p}{end}
+
+## MBMS20 g1 s0032
+JP: 遠慮しとくわ。{n}バツに任せたら、もめ事が大きく{n}なりそう……。{p}
+EN: I'll pass. If I leave it to you, Batsu, the trouble would just get bigger...{p}
+
+## MBMS20 g1 s0034
+JP: 見える見える{col:5}♥{col:-}{p}
+EN: Yep, you sure do{col:5}♥{col:-}{p}
+
+## MBMS20 g1 s0035
+JP: ガクッ……{n}ひどいなぁ。{n}オレがせっかく守ってやるって{n}言ってるのによォ。{p}
+EN: Ugh... That's harsh. Here I am offerin' to protect you and all.{p}
+
+## MBMS20 g1 s0036
+JP: （あれ?{sp}むこうの角に{n}{sp}この前の騒ぎで見たような{n}{sp}不良学生の連中がいたけど……、{n}{sp}気のせいかな?）{p}{end}
+EN: (Huh? Over at that corner... weren't those the delinquents from the other day? Maybe I just imagined it.){p}{end}
+
+## MBMS20 g1 s0037
+JP: 放課後。今日も買いたいモノがあって、{n}商店街によってみたけど、{n}あいにく欲しいモノがなかったな……。{n}今日はついてないな～。{p}{end}
+EN: After school. I had something to buy again today, so I stopped by the shopping district, but they didn't have it... Today's not my day.{p}{end}
+
+## MBMS20 g1 s0038
+JP: {col:3}不良学生{col:-}{n}「ちょっといいかい、ネェちゃん。」{p}{end}
+EN: {col:3}Delinquent{col:-}{n}"Got a minute, missy?"{p}{end}
+
+## MBMS20 g1 s0039
+JP: （う～ん、今日は本当にツイてないみたい…{n}{sp}この前のバツと騒いでた{n}{sp}不良学生の一人ね……。）{p}
+EN: (Ugh, today really isn't my day... It's one of the delinquents who was fighting Batsu the other day...){p}
+
+## MBMS20 g1 s0040
+JP: {col:3}不良学生{col:-}{n}「おまえ、あのバツとかいう野郎の{n}{sp}トモダチだろ?{n}{sp}ちょっとツラ貸せや。」{p}
+EN: {col:3}Delinquent{col:-}{n}"You're a friend of that Batsu guy, ain't ya? Come with us."{p}
+
+## MBMS20 g1 s0041
+JP: （周りをみると、仲間らしき高校生が{n}{sp}10人近くいる。{n}{sp}どの人もコワそう……。{n}{sp}おとなしくしてよう……。）{p}
+EN: (Looking around, there are almost ten of their buddies. They all look scary... I'd better stay quiet...){p}
+
+## MBMS20 g1 s0043
+JP: バツ{col:5}♥{col:-}{p}
+EN: Batsu{col:5}♥{col:-}{p}
+
+## MBMS20 g1 s0046
+JP: いいからその手を放せ!!{n}その子にちょっとでもケガさせてみろ、{n}てめえら全員ぶっ飛ばしてやるぞ!!{p}
+EN: Just let go of her!! Lay one finger on her, and I'll knock every last one of ya flying!!{p}
+
+## MBMS20 g1 s0049
+JP: （私も少しは手伝った方がいいかナ……。{n}{sp}ガスッ!!{n}{sp}ちょっと足をふりあげて、そのまま{n}{sp}後ろむきに足を股間にたたき込む!）{p}
+EN: (Maybe I should help out a little... WHAM!! I swing my leg up and kick backward, right into his crotch!){p}
+
+## MBMS20 g1 s0050
+JP: ふぅ…片づいたか……。{n}あれ…なんだ{v3:0}、{n}自由になってるじゃねぇか。{n}心配して損しちまったぜ。{p}{end}
+EN: Phew... That takes care of that... Huh... {v3:0}, you got loose on your own. Guess I worried for nothin'.{p}{end}
+
+## MBMS20 g1 s0052
+JP: そうか、やっぱりヤツら{n}オレに仕返しするつもりだったんだな。{n}チッ、一人相手に10人がかりとは{n}卑怯な連中だぜ。{p}{end}
+EN: So those guys really were out for payback, huh. Tch, ten against one. What a bunch of cowards.{p}{end}
+
+## MBMS20 g1 s0055
+JP: 気にしないで…{n}ヘンなことにまきこまないで!{p}{end}
+EN: Don't worry about it...{n}Don't drag me into this!{p}{end}
+
+## MBMS20 g1 s0056
+JP: そんな、気にしないで。バツのおかげで{n}この通り、ケガもなかったわけだし、ネ。{n}それよりバツ、{n}なんで商店街に来てたの?{p}
+EN: Don't worry about it. Thanks to you, Batsu, I didn't get hurt at all, see? More importantly, why were you in the shopping district?{p}
+
+## MBMS20 g1 s0058
+JP: バツ……。{n}アリガト……。{p}
+EN: Batsu... Thanks...{p}
+
+## MBMS20 g1 s0059
+JP: バ、バァカ!{n}お、おまえ、そんな照れるじゃねぇか!{n}そんなことよりとっとと帰ろうぜ!{p}{end}
+EN: Y-you idiot! D-don't say stuff like that, it's embarrassin'! Forget that, let's just get outta here!{p}{end}
+
+## MBMS20 g1 s0060
+JP: ホントにもォ、ヘンなことに{n}まきこまないで!{n}いい迷惑だわ!{p}{end}
+EN: Seriously, don't drag me into weird stuff! What a pain!{p}{end}
+
+## MBMS20 g1 s0061
+JP: ……そうか。{n}悪かった。{n}ゴメンな。{n}もう、おまえには迷惑かけねぇよ……。{p}
+EN: ...I see. My bad. Sorry. I won't cause you any more trouble...{p}
+
+## MBMS20 g1 s0062
+JP: 放課後。{n}今日の授業も終わったし、家に帰ろっと。{p}{end}
+EN: After school. Classes are over for today, so I'll head home.{p}{end}
+
+## MBMS20 g1 s0064
+JP: あ、あそこで練習してるのは、{n}ひなたね。{n}子供に何か教えてるみたいだけど?{p}
+EN: Oh, that's Hinata practicing over there. Looks like she's teaching some kids something?{p}
+
+## MBMS20 g1 s0066
+JP: ハァイ、ひなた。{n}子供相手に何やってるの?{p}
+EN: Hiya, Hinata. What're you doing with those kids?{p}
+
+## MBMS20 g1 s0067
+JP: あ、{v9:1}。{n}ちょっとね、子供たちに格闘技{n}教えてるんだ。{n}あ、君たち今日はもういいよ、じゃね!!{p}{end}
+EN: Oh, {v9:1}. I'm teaching the kids some martial arts. Okay, guys, that's it for today, bye!!{p}{end}
+
+## MBMS20 g1 s0068
+JP: {col:3}子供達{col:-}{n}「おねえちゃん、またねー。」{p}{end}
+EN: {col:3}Kids{col:-}{n}"Bye, big sis!"{p}{end}
+
+## MBMS20 g1 s0069
+JP: ふふっ、子供ってかわいいよねー。{n}ところで、{v9:1}、{n}今から帰り?{sp}一緒に帰らない?{p}
+EN: Hehe, kids are so cute. By the way, {v9:1}, heading home now? Wanna walk home together?{p}
+
+## MBMS20 g1 s0073
+JP: たしかにちょっとヘンかナ。{n}格闘技は私もすこししてるけど、{n}通信教育で格闘技っていうのはちょっと、{n}珍しいんじゃない?{p}
+EN: It is a little weird. I do a bit of martial arts too, but learning it by correspondence course is kind of unusual, isn't it?{p}
+
+## MBMS20 g1 s0074
+JP: う～ん、やっぱりそうかな……。{n}そんなこといわれると、{n}落ち込んじゃうよ～。{p}{end}
+EN: Hmm, I guess so... Hearing that kinda gets me down.{p}{end}
+
+## MBMS20 g1 s0077
+JP: ところでさ、通信教育の格闘技って{n}どういう風に習うの?{p}
+EN: So how do you learn martial arts by correspondence?{p}
+
+## MBMS20 g1 s0080
+JP: （なになに?{sp}『炎舞脚』…左足で踏み切り{n}{sp}空中で体を反転させて勢いをつけそのまま{n}{sp}左脚で蹴りをはなつ、跳び回し蹴り…。{n}{sp}連続で蹴りを出せればより効果的。）{p}{end}
+EN: (Let's see... "Enbukyaku": Push off the left foot, spin in midair, then deliver a jumping spin kick with the left leg. Chain kicks for more effect.){p}{end}
+
+## MBMS20 g1 s0081
+JP: ………?{n}この説明で、どうやったら火が出せたり{n}空中で3回転もできるようになるの?{p}
+EN: ......? How is anyone supposed to shoot fire or spin three times in midair from this explanation?{p}
+
+## MBMS20 g1 s0083
+JP: （なんとなく、ひなたがなんで強いのか、{n}{sp}わかったような気がするナ……。{n}{sp}別に通信教育がすごいワケじゃないんだ。{n}{sp}彼女、ナチュラルに強いんだナ……。）{p}
+EN: (I think I kinda get why Hinata's so strong... It's not that the course is amazing. She's just naturally strong...){p}
+
+## MBMS20 g1 s0084
+JP: それ、あげようか?{n}きっと参考になるよ。{n}{v9:1}も{n}格闘技してるんでしょ?{p}{end}
+EN: Want it? I bet it'll help. You do martial arts too, right, {v9:1}?{p}{end}
+
+## MBMS20 g1 s0085
+JP: ありがとう。もらっとくわ。{n}サンキュ{col:5}♥{col:-}{p}
+EN: Thanks, I'll take it. You're the best{col:5}♥{col:-}{p}
+
+## MBMS20 g1 s0087
+JP: 放課後。{n}さて、今日も帰ろっかな。{n}あ、あそこにいるのはひなたネ。{p}
+EN: After school. Guess I'll head home again today. Oh, there's Hinata.{p}
+
+## MBMS20 g1 s0088
+JP: ヤッホー、{v9:1}。{n}ね、一緒に帰らない?{n}通信教育の新しいテキストが来たから、{n}ちょっと練習つきあって欲しいんだ!{p}{end}
+EN: Hiya, {v9:1}. Hey, wanna walk home together? My new correspondence textbook came, so I want you to practice with me a little!{p}{end}
+
+## MBMS20 g1 s0090
+JP: ……はぁはぁ、ちょっとゴメン。{n}一休みしよ?{n}もう1時間も組み手やりっぱなしだヨ。{p}
+EN: ...*pant pant*... Sorry, wait. Can we take a break? We've been sparring for a whole hour.{p}
+
+## MBMS20 g1 s0094
+JP: なになに……{n}「たしかにローキックは、攻撃の起点として{n}{sp}最適だが、それに頼った攻めをしてはいけ{n}{sp}ない。特にエボDISCでは調整が…。」{p}
+EN: Let's see... "The low kick is an ideal starting point for an attack, but you must not rely on it. Especially on the Evo Disc, the tuning..."{p}
+
+## MBMS20 g1 s0095
+JP: （なんだかえらく説明的な内容ね……。）{p}
+EN: (That's awfully explanatory...){p}
+
+## MBMS20 g1 s0098
+JP: もう少し休まない?{n}さっきのでかなり疲れちゃって。{p}
+EN: Can we rest a little longer? I'm pretty worn out from earlier.{p}
+
+## MBMS20 g1 s0100
+JP: （う～ん、なんかひなたにはげまされると、{n}{sp}身体から元気が出てくるから不思議…。）{p}
+EN: (Hmm, it's weird how Hinata cheering me on fills me with energy...){p}
+
+## MBMS20 g1 s0102
+JP: よしっ、やろっか!!{p}{end}
+EN: Okay, let's do it!!{p}{end}
+
+## MBMS20 g1 s0105
+JP: {v9:1}……。{n}今日はアリガトね。{n}こんな時間までつきあってくれて。{n}ホントにうれしかった。{p}{end}
+EN: {v9:1}... Thanks for today. For sticking with me this late. I was really happy.{p}{end}
+
+## MBMS20 g1 s0107
+JP: さてと、今日も帰ろうかな。{n}あれ、あの正門のトコロにいるのは、{n}ひなたね。{n}誰か待ってるのかな?{p}{end}
+EN: Well, guess I'll head home today too. Huh, that's Hinata at the main gate. Is she waiting for someone?{p}{end}
+
+## MBMS20 g1 s0108
+JP: ヤッホー、{v9:1}!{n}一緒に帰ろ!!{p}{end}
+EN: Hiya, {v9:1}! Let's go home together!!{p}{end}
+
+## MBMS20 g1 s0109
+JP: 私を待っててくれたんだ……。{n}アリガト、一緒に帰ろ!{p}{end}
+EN: You were waiting for me... Thanks, let's go together!{p}{end}
+
+## MBMS20 g1 s0112
+JP: ひなたはホントに、ケーキが好きだねぇ。{n}……それにしても今日はやけに{n}楽しそうだね。{n}何かいいことあった?{p}
+EN: You really love cake, Hinata. ...But you seem awfully happy today. Did something good happen?{p}
+
+## MBMS20 g1 s0114
+JP: ねぇ{v9:1}はさ、{n}格闘技やってる時って楽しい?{p}{end}
+EN: Hey, {v9:1}, do you have fun when you're doing martial arts?{p}{end}
+
+## MBMS20 g1 s0115
+JP: 楽しい{n}そうでもない{p}{end}
+EN: It's fun{n}Not really{p}{end}
+
+## MBMS20 g1 s0116
+JP: そうでもないかな。{n}時々ツライ時があるわ。{p}
+EN: Not really. Sometimes it's tough.{p}
+
+## MBMS20 g1 s0117
+JP: ふ～ん、そうなんだ。{n}じゃ、大変だネェ……。{n}………………。{p}{end}
+EN: Hmm, I see. Sounds rough, then... ..........{p}{end}
+
+## MBMS20 g1 s0119
+JP: 私は楽しいな。{n}強くなってるって実感があるしね。{p}{end}
+EN: I have fun. I can feel myself getting stronger.{p}{end}
+
+## MBMS20 g1 s0120
+JP: ふふ、{v9:1}って{n}乱暴者だからね!!{p}
+EN: Hehe, 'cause you're a roughneck, {v9:1}!!{p}
+
+## MBMS20 g1 s0121
+JP: 何いってんの!{n}ひなたほどじゃないって{col:5}♥{col:-}{p}{end}
+EN: What're you talking about! Not as much as you, Hinata{col:5}♥{col:-}{p}{end}
+
+## MBMS20 g1 s0123
+JP: こんなに{v9:1}と{n}仲良くなれたし……ネ。{p}
+EN: And I got to be such good friends with you, {v9:1}... y'know?{p}
+
+## MBMS20 g1 s0125
+JP: バツや恭介ともね、一緒に練習したことは{n}あるの。その時も楽しかったんだけど、{n}やっぱり{v9:1}とやるのが{n}一番楽しいナ!!{p}
+EN: I've practiced with Batsu and Kyosuke too. That was fun, but training with you is the most fun, {v9:1}!!{p}
+
+## MBMS20 g1 s0131
+JP: 今朝は寝坊しちゃった!{n}急がないと、遅刻しちゃう!!{p}{end}
+EN: I overslept this morning! If I don't hurry, I'll be late!!{p}{end}
+
+## MBMS20 g1 s0132
+JP: この時間だと、全力で走っても{n}間に合うかナ……{n}って考えててもしょうがない、{n}走ろう!!{p}{end}
+EN: At this hour, can I make it even at full speed...? No use thinking about it, just run!!{p}{end}
+
+## MBMS20 g1 s0133
+JP: やっと正門が見えてきた!!{n}あと少し、間に合うかナ?{p}{end}
+EN: Finally, the main gate's in sight!! Almost there, will I make it?{p}{end}
+
+## MBMS20 g1 s0135
+JP: あっ!{sp}チャイムが鳴っちゃった!!{n}あと少しなのに……!!{p}
+EN: Ah! The bell rang!! I was so close...!!{p}
+
+## MBMS20 g1 s0137
+JP: 恭介君～～。{n}あとほんの十秒じゃない!?{n}見逃してよぉ～!!{p}{end}
+EN: Kyosuke-kuuun. It was only ten seconds, wasn't it?! Let it slide!!{p}{end}
+
+## MBMS20 g1 s0138
+JP: なんだ、{v8:2}。{n}そんな不正が通用すると思ってるのか?{p}{end}
+EN: What's this, {v8:2}? You think cheating like that will work?{p}{end}
+
+## MBMS20 g1 s0139
+JP: 私とアナタの仲じゃない{n}お昼をおごるから許して{col:5}♥{col:-}{n}いいよ、遅刻で{p}{end}
+EN: Come on, we're friends!{n}I'll buy you lunch{col:5}♥{col:-}{n}Fine, mark me late{p}{end}
+
+## MBMS20 g1 s0140
+JP: 私とアナタの仲じゃない、{n}ちょっとくらい見逃してよ!!{p}
+EN: Come on, we're friends, aren't we? Just let it slide this once!!{p}
+
+## MBMS20 g1 s0142
+JP: お昼をおごるから許して{col:5}♥{col:-}{n}ネ?{sp}恭介君の好きなモノ{n}なんでも食べていいから!{p}{end}
+EN: I'll buy you lunch, so forgive me{col:5}♥{col:-} Okay? You can have whatever you like, Kyosuke-kun!{p}{end}
+
+## MBMS20 g1 s0144
+JP: いいよ、遅刻で。{n}しかたないよね……。{p}
+EN: Fine, mark me late. Can't be helped...{p}
+
+## MBMS20 g1 s0149
+JP: （みると、ハゲの後頭部に、{n}{sp}「もう遅刻はしません」と書いてある。{n}{sp}これを2限目までかぶるの～～?）{p}
+EN: (The back of the bald head says "I won't be late again." I have to wear this until second period?!){p}
+
+## MBMS20 g1 s0152
+JP: 今朝もいつもどおり目覚めた。{n}ちょっと眠いけど気持ちいい朝だナ。{n}あ、あそこにいるのは恭介君ネ。{n}今から登校かな。{p}
+EN: I woke up as usual this morning. A little sleepy, but it's a nice morning. Oh, that's Kyosuke-kun over there. Heading to school now, I guess.{p}
+
+## MBMS20 g1 s0153
+JP: おはよう!{sp}恭介。{n}今日は校門の番はいいの?{p}{end}
+EN: Morning, Kyosuke! No gate duty today?{p}{end}
+
+## MBMS20 g1 s0154
+JP: ああ、{v8:2}か。{n}おはよう。{n}校門の番?{n}ああ今日は僕の担当じゃないんでね。{p}
+EN: Ah, {v8:2}. Good morning. Gate duty? Ah, today isn't my shift.{p}
+
+## MBMS20 g1 s0157
+JP: （恭介の複線の先を見ると、道路のわきに{n}{sp}何か転がっている……アレは……{n}{sp}子犬の死骸だ。{n}{sp}車にはねられたのだろう。）{p}{end}
+EN: (Following Kyosuke's gaze, something's lying by the side of the road... It's... a dead puppy. It must have been hit by a car.){p}{end}
+
+## MBMS20 g1 s0159
+JP: 待ってよ、恭介。{n}あの子、かわいそうだよ。{n}あんなトコロに放っておいたら……{n}埋めてあげよ?{p}{end}
+EN: Wait, Kyosuke. That poor thing. If we just leave it there... Let's bury it, okay?{p}{end}
+
+## MBMS20 g1 s0162
+JP: じゃ、先に行ってて。{n}私はこの子を埋めてからいくわ。{p}{end}
+EN: Then go on ahead. I'll come after I bury it.{p}{end}
+
+## MBMS20 g1 s0164
+JP: そうだネ……遅刻しちゃうよね。{n}（でも……あのまま放置されるんだろうナ、{n}{sp}あの子……。）{p}
+EN: You're right... we'll be late. (But... it'll just be left there like that, won't it...){p}
+
+## MBMS20 g1 s0165
+JP: ゴメン、私やっぱり放っておけない。{p}
+EN: Sorry, I just can't leave it.{p}
+
+## MBMS20 g1 s0166
+JP: あ、{v8:2}……。{p}
+EN: Ah, {v8:2}...{p}
+
+## MBMS20 g1 s0167
+JP: 子犬の死体を{n}埋められそうなトコロに来たけど…{n}埋めるにしても、土を盛るにしても{n}道具なしでは大変だわ。{p}{end}
+EN: I found a spot where I could bury the puppy... but without tools, digging or piling dirt is going to be tough.{p}{end}
+
+## MBMS20 g1 s0169
+JP: （恭介……{n}{sp}見ると片手にスコップを持っている。{n}{sp}わざわざ探してきてくれたの?）{p}
+EN: (Kyosuke... He's holding a shovel. Did he go find one just for this?){p}
+
+## MBMS20 g1 s0170
+JP: 2人でやった方が効率的だ。{n}時間も半分ですむだろ?{p}
+EN: It's more efficient with two people. It'll take half the time, right?{p}
+
+## MBMS20 g1 s0173
+JP: 遅刻……いいの?{p}{end}
+EN: But being late... is that okay?{p}{end}
+
+## MBMS20 g1 s0174
+JP: よくない。{n}だが……、でも僕は遅刻する自分より、{n}子犬の死体を見捨てる自分が{n}イヤになっただけだ。{p}
+EN: It's not. But... I'd rather be late than be someone who abandons a dead puppy. That's all.{p}
+
+## MBMS20 g1 s0175
+JP: それに……。{n}君に、冷たい人間だと{n}思われたくないしな。{p}{end}
+EN: Besides... I don't want you to think I'm a cold person.{p}{end}
+
+## MBMS20 g1 s0177
+JP: {v8:2}……。{n}君は優しいな。{p}
+EN: {v8:2}... You're kind.{p}
+
+## MBMS20 g1 s0178
+JP: 今朝も寝坊しちゃった!{n}このままでは、また遅刻しちゃう!!{p}
+EN: Overslept again this morning! At this rate I'll be late again!!{p}
+
+## MBMS20 g1 s0179
+JP: この前と同じパターンだわ。{n}時間的にもほぼ同じ!!{n}なら、急がないと!!{p}{end}
+EN: Same pattern as last time. Even the timing's almost the same!! Then I'd better hurry!!{p}{end}
+
+## MBMS20 g1 s0180
+JP: よしっ!{sp}正門が見えてきた!!{n}あと少し、間に合うかナ?{p}{end}
+EN: Alright! The main gate's in sight!! Almost there, will I make it?{p}{end}
+
+## MBMS20 g1 s0182
+JP: あぁん!{sp}また同じトコロでチャイムが{n}鳴っちゃった!!{n}あと少しだったのに～～!!{p}
+EN: Nooo! The bell rang at the same spot again!! I was so close!!{p}
+
+## MBMS20 g1 s0184
+JP: 恭介～～。{n}たまにはいいじゃない、{n}私にまたあのかぶりモノを{n}つけさせる気ぃ～～?{p}
+EN: Kyosuke! Just this once, okay? You're not gonna make me wear that thing again, are you?{p}
+
+## MBMS20 g1 s0185
+JP: あのルールは、もうなしだ。{n}自分でやってみてわかったが……、{n}あんまりいい罰じゃない。{p}
+EN: That rule's been scrapped. I found out when I tried it myself... it's not a very good punishment.{p}
+
+## MBMS20 g1 s0186
+JP: この前の子犬のときネ……。{n}結構似合ってたのに。{n}アフロのカツラ{col:5}♥{col:-}{p}
+EN: Oh, from that time with the puppy... It looked pretty good on you, though. That afro wig{col:5}♥{col:-}{p}
+
+## MBMS20 g1 s0188
+JP: いいよ{n}たまには許してよ{p}{end}
+EN: That's fine{n}Let it slide this once{p}{end}
+
+## MBMS20 g1 s0189
+JP: いいよ。{n}こうして校門の番してくれてるのも{n}私達のため、でしょ?{p}{end}
+EN: That's fine. You do gate duty for our sake, right?{p}{end}
+
+## MBMS20 g1 s0190
+JP: {v8:2}……。{n}そうだ。{n}この規則は君たち…{n}いや、僕たち生徒のためのモノだ。{p}
+EN: {v8:2}... That's right. These rules are for you... no, for all of us students.{p}
+
+## MBMS20 g1 s0191
+JP: たまには許してよ。{n}ネ?{n}恭介{col:5}♥{col:-}{p}{end}
+EN: Let it slide just this once. Okay? Kyosuke{col:5}♥{col:-}{p}{end}
+
+## MBMS20 g1 s0196
+JP: 恭介……アリガト。{p}
+EN: Kyosuke... Thanks.{p}
+
+## MBMS20 g1 s0198
+JP: 朝。{n}最近朝が眠くて仕方がないわ……。{n}一日河原で寝ていられたらどんなに{n}気持ちいいかな～～。{p}
+EN: Morning. I've been so sleepy in the mornings lately... How nice would it be to sleep by the riverbank all day.{p}
+
+## MBMS20 g1 s0201
+JP: いったぁ……{n}なになに、いきなり人が{n}ぶつかってきたわ。{p}{end}
+EN: Owww... What the? Someone just crashed into me.{p}{end}
+
+## MBMS20 g1 s0203
+JP: 将馬君。こんな朝早くから{n}どうしたの、いったい……?{p}{end}
+EN: Shoma-kun. What are you doing up so early...?{p}{end}
+
+## MBMS20 g1 s0207
+JP: うん、いいよ。{n}女だからってなめてると、痛い目みるよ～。{n}正門までね。{n}よ～～い、スタート!!{p}
+EN: Sure, you're on. Underestimate me 'cause I'm a girl and you'll regret it. To the main gate. Ready... go!!{p}
+
+## MBMS20 g1 s0209
+JP: ダッ!!{n}（一気にダッシュし、全速力で勝負!!{n}{sp}将馬君も不意をつかれたみたい、{n}{sp}少しリードできたわ!）{p}
+EN: DASH!! (I take off at full speed!! Shoma-kun seems caught off guard, and I've got a little lead!){p}
+
+## MBMS20 g1 s0210
+JP: げっ!!{n}ぬおおお～～～!!{n}負けるかぁ!!{p}{end}
+EN: Geh!! Nuooooh!! I ain't losin'!!{p}{end}
+
+## MBMS20 g1 s0212
+JP: （正門が見えてきた!!{n}{sp}リードは奪ったままだし、{n}{sp}ちょっと私のペースも落ちてきたけど……{n}{sp}ここはスタミナ勝負ネ!!）{p}
+EN: (The main gate's in sight!! I've still got the lead, but I'm slowing down a little... This comes down to stamina!!){p}
+
+## MBMS20 g1 s0213
+JP: ダッ!{n}（学校までは距離があるし、序盤は押さえて{n}{sp}終盤勝負ネ!!{sp}最初は将馬君に{n}{sp}リードを許すけど、この差ならイケる!）{p}{end}
+EN: DASH! (It's a long way to school, so I'll hold back and make my move at the end!! Shoma-kun pulls ahead, but I can close this gap!){p}{end}
+
+## MBMS20 g1 s0216
+JP: （正門が見えてきた!!{n}{sp}将馬のペースも落ちてきたし、{n}{sp}スタミナは十分あるし、ここから先は{n}{sp}根性で勝負ネ!!）{p}
+EN: (The main gate's in sight!! Shoma's slowing down, and I've got plenty of stamina left. From here on, it's all guts!!){p}
+
+## MBMS20 g1 s0217
+JP: いくよ～～～～っ!!{p}{end}
+EN: Here I goooo!!{p}{end}
+
+## MBMS20 g1 s0222
+JP: ん?{n}どうかしたの?{sp}将馬君。{p}
+EN: Hm? What's wrong, Shoma-kun?{p}
+
+## MBMS20 g1 s0224
+JP: 大丈夫!?{n}練習試合があるんでしょ!?{p}
+EN: Are you okay?! You've got a practice game, don't you?!{p}
+
+## MBMS20 g1 s0226
+JP: そういえば、今日は将馬の練習試合の日{n}だっていってたよね。{p}
+EN: Come to think of it, Shoma said his practice game was today.{p}
+
+## MBMS20 g1 s0227
+JP: グラウンドに行くと…{n}あ、やってるやってる。{n}相手は『常勝学院』……甲子園の常連ネ。{n}得点は……2―1…負けてるみたい……。{p}{end}
+EN: At the field... Oh, they're playing. The opponent is Josho Academy, Koshien regulars. The score is... 2-1... looks like we're losing...{p}{end}
+
+## MBMS20 g1 s0228
+JP: ちょっと来るのが遅すぎたかな。{n}試合はもう9回恵に入ってる。{n}スコアボードに将馬の名前は見えない。{n}メンバーには選ばれなかったのかな?{p}
+EN: Maybe I came too late. It's already the bottom of the 9th. I don't see Shoma's name on the scoreboard. Didn't he make the lineup?{p}
+
+## MBMS20 g1 s0229
+JP: 打順は6番からネ。{n}あまりいい打順じゃないわ。{n}このままでは負けちゃう。{p}{end}
+EN: The inning starts with the 6th batter. Not a great spot in the order. At this rate, we'll lose.{p}{end}
+
+## MBMS20 g1 s0231
+JP: 6番はヒットで塁に出て、7番はバントで{n}進めたけど、8番はあっさり三振。{n}2アウト2塁……。{n}一打同点、一発出れば逆転ネ……。{p}
+EN: The 6th batter gets a hit, the 7th bunts him over, but the 8th strikes out. Two outs, runner on second... A hit ties it, a homer wins it...{p}
+
+## MBMS20 g1 s0234
+JP: 赤いバットを振り回し、{n}意気揚々と将馬が出てきた。{n}おいしい見せ場ネ。{n}ここで打てば一気に株が上がるよ!{p}{end}
+EN: Swinging a red bat, Shoma comes out in high spirits. What a chance to shine. If he gets a hit here, his stock will shoot up!{p}{end}
+
+## MBMS20 g1 s0236
+JP: スイングがぎこちないみたい……。{n}この前、足を痛めたとかいってたけど……。{n}ホントに大丈夫なの?{n}あっという間にフルカウント……。{p}
+EN: His swing looks stiff... He said he hurt his leg the other day... Is he really okay? Before I know it, it's a full count...{p}
+
+## MBMS20 g1 s0238
+JP: 将馬ーーーーーっ!!{n}がんばって～～!!{n}私がついてるよ!!{p}{end}
+EN: Shomaaaaa!! Go for it!! I'm right here for you!!{p}{end}
+
+## MBMS20 g1 s0241
+JP: 打った!!{n}センター前のいいトコロね!!{n}これならランナーは戻れる!!{p}
+EN: He hit it!! A nice one into center!! The runner can make it home!!{p}
+
+## MBMS20 g1 s0242
+JP: 2塁ランナーが3塁をまわった!!{n}センターからボールが帰る!!{n}クロスプレー!!{n}判定は……{p}{end}
+EN: The runner on second rounds third!! The ball's coming back from center!! It's a close play!! The call is...{p}{end}
+
+## MBMS20 g1 s0244
+JP: よし!{sp}同点!!{n}やったぁ将馬!!{n}アレ……将馬は?{p}{end}
+EN: Yes! Tied!! You did it, Shoma!! Huh... Where's Shoma?{p}{end}
+
+## MBMS20 g1 s0245
+JP: いた……。{n}将馬は1・2塁間でうずくまってる……。{n}どうも様子がおかしいわ……。{n}やはりあの時のケガ……?{p}
+EN: There he is... Shoma's crouched down between first and second... Something's not right... Is it that injury after all...?{p}
+
+## MBMS20 g1 s0247
+JP: 試合は結局延長に入って{n}逆転されちゃった。{n}将馬はそのまま交代。{n}残念……。{p}{end}
+EN: In the end, the game went into extra innings and we lost. Shoma was subbed out. Too bad...{p}{end}
+
+## MBMS20 g1 s0248
+JP: 放課後。{n}今日も疲れたわ……。{n}あ、あそこで素振りをしているのは、{n}将馬ね……。{p}{end}
+EN: After school. Another tiring day... Oh, that's Shoma doing practice swings over there...{p}{end}
+
+## MBMS20 g1 s0250
+JP: ……あの試合……、残念だったね……。{n}足さえ痛めてなかったら……。{p}
+EN: ...That game... it was too bad... If only you hadn't hurt your leg...{p}
+
+## MBMS20 g1 s0252
+JP: 足はもう大丈夫なの?{p}{end}
+EN: Is your leg okay now?{p}{end}
+
+## MBMS20 g1 s0253
+JP: もう全然大丈夫だって!{n}でも、ちょっと休んでたからな{n}今のウチに取り返さないとな!!{p}{end}
+EN: It's totally fine now! But I sat out for a bit, so I gotta make up for it now!!{p}{end}
+
+## MBMS20 g1 s0260
+JP: 見損なうなんて……。{n}カッコよかったよ、将馬。{n}だって同点タイムリーでしょ?{n}足のケガさえなかったら、今頃ヒーローよ。{p}
+EN: Let you down...? You looked cool, Shoma. That was a game-tying hit, wasn't it? If not for your leg, you'd be a hero right now.{p}
+
+## MBMS20 g1 s0263
+JP: もちろんよ……、将馬……。{p}
+EN: Of course... Shoma...{p}
+
+## MBMS20 g1 s0265
+JP: 見損なったわよ。{n}だいたい1塁でおとなしくとまってれば{n}代走出してもらえたじゃない。{n}カッコ悪いよ、あれじゃ。{p}
+EN: Yeah, you let me down. If you'd just stayed put on first, they'd have sent in a pinch runner. That wasn't cool at all.{p}
+
+## MBMS20 g1 s0270
+JP: 昼休み。{n}珍しく、大人気のメロンパンが{n}買えたわ。{n}今日はついてる♪{p}{end}
+EN: Lunch break. For once, I managed to buy one of the super-popular melon pans. Lucky day♪{p}{end}
+
+## MBMS20 g1 s0271
+JP: 「{v8:4}じゃない。{n}{sp}これからお昼?」{p}{end}
+EN: "Hey, it's {v8:4}. Having lunch now?"{p}{end}
+
+## MBMS20 g1 s0273
+JP: うん、いいよ。{n}一緒に食べよっ。{p}{end}
+EN: Sure, sounds good. Let's eat together.{p}{end}
+
+## MBMS20 g1 s0274
+JP: {v8:4}さ、昼は{n}いつもそんな食事なの?{p}{end}
+EN: {v8:4}, is that what you always eat for lunch?{p}{end}
+
+## MBMS20 g1 s0275
+JP: う～ん、お弁当のときもあるけど、{n}購買部でパンを買ったり{n}食堂で食べることが多いかな。{p}
+EN: Hmm, sometimes I bring a bento, but I usually buy bread at the school store or eat in the cafeteria.{p}
+
+## MBMS20 g1 s0279
+JP: そういえば夏は料理がうまいのよね。{n}作ってもらっちゃっていいかな?{p}
+EN: Come to think of it, you're a great cook, Natsu. Is it really okay if you make me one?{p}
+
+## MBMS20 g1 s0281
+JP: （どれどれ…。{n}{sp}パクッ……モグモグ……。{n}{sp}たしかに。これはおいしい!!）{p}{end}
+EN: (Let's see... *nom*... *munch munch*... It really is delicious!!){p}{end}
+
+## MBMS20 g1 s0286
+JP: そうだな……、まずエビカニ類はダメね。{n}キノコもあんまり好きじゃないわ。{n}セロリもあのにおいがイヤかな。{p}{end}
+EN: Let's see... First off, no shrimp or crab. I'm not big on mushrooms either. And I hate the smell of celery.{p}{end}
+
+## MBMS20 g1 s0290
+JP: 昼休み。{n}昼飯の時間だ。{n}今日は食堂に行こうか、それとも購買部に{n}行こうかナ。{p}
+EN: Lunch break. Time to eat. Should I go to the cafeteria today, or the school store?{p}
+
+## MBMS20 g1 s0291
+JP: 「{v8:4}…。」{p}{end}
+EN: "{v8:4}..."{p}{end}
+
+## MBMS20 g1 s0292
+JP: やぁ、夏。{n}これから昼ごはん?{p}
+EN: Hey, Natsu. Having lunch now?{p}
+
+## MBMS20 g1 s0293
+JP: {v8:4}、{n}この前の約束覚えてる?{n}あの、お弁当作って来るっていったの…。{p}
+EN: {v8:4}, remember what I promised the other day? That I'd make you a bento...{p}
+
+## MBMS20 g1 s0296
+JP: わぁ、豪華だねぇ。{n}いろどりもキレイだし。{n}美味しそう……、いただきまーす!!{p}
+EN: Wow, that's fancy. The colors are so pretty too. Looks delicious... Let's eat!!{p}
+
+## MBMS20 g1 s0299
+JP: このシューマイも手作り?{n}へー。すごい!{n}パクッ……モグモグ……。{p}
+EN: Is this shumai homemade too? Wow. Amazing! *nom*... *munch munch*...{p}
+
+## MBMS20 g1 s0300
+JP: ごちそうさま!{n}すごく美味しかったよ。{n}アリガト!!{p}{end}
+EN: Thanks for the meal! It was really delicious. Thank you!!{p}{end}
+
+## MBMS20 g1 s0301
+JP: 夏ってホントに料理上手だよね。{n}普段から料理してるんだ。{p}{end}
+EN: You're a really good cook, Natsu. You must cook all the time.{p}{end}
+
+## MBMS20 g1 s0302
+JP: 普段はケーキとか、お菓子作ってる方が{n}多いかな……。{n}アタシのケーキね、ひなとか友達に{n}評判いいんだよ。{p}{end}
+EN: Mostly I make cakes and sweets... My cakes are a big hit with Hina and my other friends.{p}{end}
+
+## MBMS20 g1 s0303
+JP: ふぅん、それはぜひ一度食べてみたいな。{p}
+EN: Hmm, I'd love to try one sometime.{p}
+
+## MBMS20 g1 s0305
+JP: こんなお弁当、毎日食べれたら幸せだよ{n}将馬がうらやましいな{p}
+EN: I'd be happy eating this every day{n}I'm jealous of Shoma{p}
+
+## MBMS20 g1 s0306
+JP: こんな美味しいお弁当、{n}毎日食べれたら幸せだよ～～。{n}夏はいいお嫁さんになれるよ{col:5}♥{col:-}{p}
+EN: If I could eat a delicious bento like this every day, I'd be so happy. You'll make a great wife someday, Natsu{col:5}♥{col:-}{p}
+
+## MBMS20 g1 s0311
+JP: 将馬がうらやましいなぁ。{n}好きなときに、夏の料理が{n}食べれるんだもん。{p}
+EN: I'm so jealous of Shoma. He gets to eat your cooking whenever he wants.{p}
+
+## MBMS20 g1 s0312
+JP: {v8:4}……。{n}なんでそういうコトいうの?{n}将馬にだってこんなお弁当{n}作ったことないよ!{p}{end}
+EN: {v8:4}... Why would you say that? I've never made a bento like this even for Shoma!{p}{end}
+
+## MBMS20 g1 s0314
+JP: う……怒らせちゃったかな……。{p}
+EN: Uh-oh... I made her mad...{p}
+
+## MBMS20 g1 s0316
+JP: さて授業も終わったし、帰ろっか……。{n}……あ、あの正門のトコロにいるのは、{n}将馬ね。{p}{end}
+EN: Classes are over, guess I'll head home... Oh, that's Shoma at the main gate.{p}{end}
+
+## MBMS20 g1 s0317
+JP: はぁい、将馬。{n}こんなトコロでどうしたの?{n}人待ち?{p}{end}
+EN: Hi, Shoma. What're you doing here? Waiting for someone?{p}{end}
+
+## MBMS20 g1 s0320
+JP: どうしたの、将馬。{n}こんなトコロまで来て。何の話?{p}
+EN: What's up, Shoma? Bringing me all the way out here. What's this about?{p}
+
+## MBMS20 g1 s0322
+JP: どうって……。{n}どうしたの急にそんな話持ち出して。{p}
+EN: What do I think...? Why are you bringing that up all of a sudden?{p}
+
+## MBMS20 g1 s0325
+JP: 好きよ{n}どうって…仲良しだよ{n}別にどうも思ってないよ{p}{end}
+EN: I love her{n}We're just good friends{n}Nothing in particular{p}{end}
+
+## MBMS20 g1 s0326
+JP: どうって……ただの仲良しだよ。{n}夏って、すっごくしっかりしてるから、{n}普通の女の子には相談できないようなこと{n}でもなんでも相談できるし……。{p}{end}
+EN: What do I think...? We're just good friends. Natsu's really mature, so I can talk to her about anything, even stuff I couldn't tell other girls...{p}{end}
+
+## MBMS20 g1 s0327
+JP: そうか……。{n}仲良し……か。{n}ごめんな、ヘンなこと聞いちまって。{n}今のことは忘れてくれ。{p}{end}
+EN: I see... Good friends... huh. Sorry for askin' something weird. Forget I said anything.{p}{end}
+
+## MBMS20 g1 s0328
+JP: 行っちゃった……。{n}ふぅん……、やっぱり将馬、夏のこと…。{p}
+EN: He's gone... Hmm... So Shoma does feel that way about Natsu...{p}
+
+## MBMS20 g1 s0329
+JP: どうって……、別にどうも思ってないよ。{n}男の子っぽいし、変わってるから、{n}からかうとおもしろいけどね。{n}それがどうかしたの?{p}{end}
+EN: What do I think...? Nothing in particular. She's boyish and kinda odd, so she's fun to tease. Why, what about it?{p}{end}
+
+## MBMS20 g1 s0331
+JP: パンッッ!!{p}{end}
+EN: SLAP!!{p}{end}
+
+## MBMS20 g1 s0332
+JP: な、何するのよ!!{n}急にたたくなんて……{n}痛っ………、ん、{n}ちょっと!{sp}血が出たじゃない!!{p}{end}
+EN: Wh-what was that for?! Hitting me out of nowhere... Ow... hey! You made me bleed!!{p}{end}
+
+## MBMS20 g1 s0334
+JP: 見そこなったぜ!{n}{v3:3}!!{n}おまえがそんなヤツだったとはな!!{p}
+EN: I misjudged you, {v3:3}!! I never thought you were that kind of person!!{p}
+
+## MBMS20 g1 s0336
+JP: 私、夏のこと、………好きだよ。{n}他の、ファンレターとか出して喜んでる{n}女の子とは違う、本気だよ、私。{p}{end}
+EN: I... like Natsu. I'm not like those other girls who send her fan letters and get all giddy. I'm serious.{p}{end}
+
+## MBMS20 g1 s0338
+JP: 夏はさ、今までいろんな女の子にいろいろ{n}いわれてけっこう迷惑してたんだ。{n}その夏が、さ……おまえのこと……。{p}{end}
+EN: Y'know, Natsu's had all kinds of girls sayin' stuff to her, and it's been a real pain for her. And now Natsu... about you...{p}{end}
+
+## MBMS20 g1 s0341
+JP: 「{v8:4}、ここにいたのネ。」{p}
+EN: "{v8:4}, so this is where you were."{p}
+
+## MBMS20 g1 s0344
+JP: いや……別に。{n}夏こそわざわざ、ここまで追いかけてきて{n}くれたの?{p}
+EN: No... nothing. Did you come all the way after me, Natsu?{p}
+
+## MBMS20 g1 s0348
+JP: {face:8}・・・・・・・・・・{face:255}{n}ねぇ、夏。{p}{end}
+EN: {face:8}..........{face:255} Hey, Natsu.{p}{end}
+
+## MBMS20 g1 s0350
+JP: 夏はさ、将馬のことどう思ってるの?{p}
+EN: Natsu, how do you feel about Shoma?{p}
+
+## MBMS20 g1 s0352
+JP: そうじゃなくて{face:8}・・・・・・・・・・{face:255}{n}好きなのかってこと!{p}{end}
+EN: That's not what I mean{face:8}..........{face:255} I mean, do you like him?!{p}{end}
+
+## MBMS20 g1 s0354
+JP: ……でもね、{n}それは違うってわかったの。{n}その感情は、『好き』とは違うって……。{n}アナタに逢ってから……。{p}
+EN: ...But you know, I realized that wasn't it. That feeling wasn't really "love"... Not after I met you...{p}
+
+## MBMS20 g1 s0356
+JP: 今日は遅くなっちゃったなぁ。{n}あれっ、こんなに遅くまで{n}サッカーの練習している人がいるわ。{n}ちょっと見に行こう。{p}{end}
+EN: I'm late today. Huh, someone's still practicing soccer this late. Let's go take a look.{p}{end}
+
+## MBMS20 g1 s0358
+JP: すっ、すごい気迫ね!{n}真剣にサッカーしているときの{n}ロベルト君ってすごくカッコイイなぁ。{p}{end}
+EN: Wow, what intensity! Roberto-kun looks so cool when he's serious about soccer.{p}{end}
+
+## MBMS20 g1 s0362
+JP: ロベルトくーん、{n}なにやってるのー?{p}{end}
+EN: Roberto-kuuun, what're you doing?{p}{end}
+
+## MBMS20 g1 s0364
+JP: あれっ、きこえないのかな?{n}ロベルトくーん、{n}なにやってるのー?{p}{end}
+EN: Huh, can't he hear me? Roberto-kuuun, what're you doing?{p}{end}
+
+## MBMS20 g1 s0366
+JP: 練習のジャマしちゃったみたい。{n}（ごめんねロベルト君。）{p}{end}
+EN: Looks like I got in the way of his practice. (Sorry, Roberto-kun.){p}{end}
+
+## MBMS20 g1 s0367
+JP: ロベルト君、{n}練習がんばってねー!{p}
+EN: Roberto-kun, good luck with practice!{p}
+
+## MBMS20 g1 s0369
+JP: 結構きげんよく返事をくれたわ!{n}よーし、私もガンバルぞ!{p}{end}
+EN: He answered me in a pretty good mood! Alright, I'll do my best too!{p}{end}
+
+## MBMS20 g1 s0370
+JP: ロベルトくーん、{n}カッコイー!{p}
+EN: Roberto-kuuun, you're so cool!{p}
+
+## MBMS20 g1 s0372
+JP: ロベルト君照れちゃって。{n}かわいいところもあるわね……。{p}{end}
+EN: Roberto-kun's all embarrassed. He's got a cute side too...{p}{end}
+
+## MBMS20 g1 s0373
+JP: 今日は遅くなっちゃったな…。{p}{end}
+EN: I'm late today...{p}{end}
+
+## MBMS20 g1 s0374
+JP: よう!{v8:5}。{n}今、帰りか?{p}
+EN: Hey, {v8:5}! Heading home now?{p}
+
+## MBMS20 g1 s0378
+JP: へへっ、まあね。{n}それより{v8:5}さえよければ{n}今日、これから一緒に帰らないか?{p}{end}
+EN: Heh heh, kinda. Anyway, {v8:5}, if you're up for it, wanna walk home together today?{p}{end}
+
+## MBMS20 g1 s0379
+JP: いいよ。一緒に帰ろう{n}今日はちょっと、これから用事があるの{p}
+EN: Sure. Let's go home together{n}Sorry, I've got plans after this{p}
+
+## MBMS20 g1 s0380
+JP: いいよ。{n}私もロベルトに話したいことが{n}いっぱいあったんだ。{p}{end}
+EN: Sure. I had lots of stuff I wanted to talk to you about too, Roberto.{p}{end}
+
+## MBMS20 g1 s0382
+JP: （ロベルトと今度サッカーの試合でも{n}{sp}見に行きたいね、などと{n}{sp}楽しくおしゃべりしながら帰った。）{p}
+EN: (We had a fun chat on the way home, saying we should go see a soccer game together sometime.){p}
+
+## MBMS20 g1 s0387
+JP: 今日は前から約束していた{n}サッカーの試合を見に行く日。{n}ロベルトはこの試合を{n}楽しみにしてたっけ。{p}
+EN: Today's the day we promised to go see the soccer game. Roberto's been looking forward to this one.{p}
+
+## MBMS20 g1 s0388
+JP: {v8:5}、やぁ、待ったかい?{p}{end}
+EN: {v8:5}, hey, did I keep you waiting?{p}{end}
+
+## MBMS20 g1 s0389
+JP: じゃあ、さっそくいきましょう!{p}
+EN: Then let's get going!{p}
+
+## MBMS20 g1 s0391
+JP: この試合かなり楽しみにしてるんだ。{n}今日もシュートを決めてくれれば{n}いいんだけど、どうかなぁ。{p}
+EN: I've really been looking forward to this game. Hope he scores again today, but who knows.{p}
+
+## MBMS20 g1 s0393
+JP: （試合は延長戦にもつれ込んで、{n}{sp}私達は帰る時間になってしまい{n}{sp}結果は{n}{sp}帰り道のラジオで聴くことになった。）{p}{end}
+EN: (The game went into overtime, but we had to head home, so we heard the result on the radio on the way back.){p}{end}
+
+## MBMS20 g1 s0394
+JP: 「よーしそこだ!いけーっ!」{n}「ヤッター!ゴォ～～ル!!」{p}
+EN: "Yes, right there! Go!" "Yay! GOOOAL!!"{p}
+
+## MBMS20 g1 s0395
+JP: {v8:5}、やったぜー!!{p}{end}
+EN: {v8:5}, we did it!!{p}{end}
+
+## MBMS20 g1 s0400
+JP: よかったネェ、ホントに。{n}ゴール決めたの、{n}応援してた選手なんでしょ!{p}
+EN: That's so great. The guy who scored was the one you were rooting for, right?{p}
+
+## MBMS20 g1 s0403
+JP: そうだね。また、いこう{col:5}♥{col:-}{p}{end}
+EN: Yeah. Let's go again{col:5}♥{col:-}{p}{end}
+
+## MBMS20 g1 s0406
+JP: 「バシャッ!!」{n}（み、水をかけられちゃった……）{p}
+EN: "SPLASH!!" (W-we got doused with water...){p}
+
+## MBMS20 g1 s0411
+JP: ロイじゃない。{n}今日はちょっと遅くなっちゃったよ。{n}君と帰りにあうのは珍しいね。{p}{end}
+EN: Oh, Roy. I'm a bit late today. It's rare to run into you on the way home.{p}{end}
+
+## MBMS20 g1 s0412
+JP: 今日は迎えが来てるんだ。{n}よかったら、一緒に乗っていかないか?{p}
+EN: My ride's here today. If you'd like, why not come along?{p}
+
+## MBMS20 g1 s0421
+JP: ごめん、今日は用事があるの。{n}せっかくさそってくれたのに悪いんだけど。{p}
+EN: Sorry, I've got plans today. Thanks for asking, though.{p}
+
+## MBMS20 g1 s0425
+JP: ロイ、どうしたの。{n}私なら全然かまわないけど。{p}
+EN: What's up, Roy? Sure, I don't mind at all.{p}
+
+## MBMS20 g1 s0426
+JP: 今度の休みの日、あいてるかな?{p}
+EN: Are you free on our next day off?{p}
+
+## MBMS20 g1 s0427
+JP: あいてるけど…{n}ちょっと忙しいの…{p}
+EN: I'm free, but...{n}I'm kinda busy...{p}
+
+## MBMS20 g1 s0434
+JP: ロイにさそってもらえるなんて{n}すごくうれしいわ{col:5}♥{col:-}{n}私ならいつでもOKよ。{p}{end}
+EN: I'm so happy you asked me, Roy{col:5}♥{col:-} I'm free anytime!{p}{end}
+
+## MBMS20 g1 s0437
+JP: ごめんその日はちょっと用事があるの。{p}{end}
+EN: Sorry, I've got something that day.{p}{end}
+
+## MBMS20 g1 s0439
+JP: ロイ、本気なのかなぁ……。{p}
+EN: Was Roy serious, I wonder...{p}
+
+## MBMS20 g1 s0441
+JP: ロイ、こんなに朝早くどうしたの?{p}{end}
+EN: Roy, what's up this early in the morning?{p}{end}
+
+## MBMS20 g1 s0443
+JP: 今からって学校はどうするの?{n}今日は隼人先生の体育があるから{n}サボるとこわいわよっ!{p}{end}
+EN: Right now? What about school? We've got Hayato-sensei's gym class today. He'll be scary if we skip!{p}{end}
+
+## MBMS20 g1 s0445
+JP: 全然おかしくない{n}やっぱりサボるのはダメだよ{p}{end}
+EN: Not strange at all{n}Skipping is still wrong{p}{end}
+
+## MBMS20 g1 s0446
+JP: 全然おかしくないわ。{n}私だって今からロイと{n}海に行きたい{col:5}♥{col:-}{p}
+EN: Not strange at all. I want to go to the beach with you right now too, Roy{col:5}♥{col:-}{p}
+
+## MBMS20 g1 s0448
+JP: やっぱり思った通りだ。{n}今日はこっちも天気は最高だろ?{n}{v3:6}といっしょに{n}来れてよかったよ。{p}{end}
+EN: Just like I thought. The weather's perfect out here too, huh? I'm glad I came with you, {v3:6}.{p}{end}
+
+## MBMS20 g1 s0450
+JP: 今日は暗くなるまで{n}ロイと海辺で語り合った。{n}ロイって意外と{n}ロマンチックな所がある…{col:5}♥{col:-}{p}{end}
+EN: We talked on the beach until it got dark. Roy has a surprisingly romantic side...{col:5}♥{col:-}{p}{end}
+
+## MBMS20 g1 s0455
+JP: ココは逃げた方が良さそうだわ……。{p}
+EN: I'd better get out of here...{p}
+
+## MBMS20 g1 s0459
+JP: いいわよ、いっしょに行こう。{p}{end}
+EN: Sure, let's go together.{p}{end}
+
+## MBMS20 g1 s0464
+JP: ティファニーといるとすごく楽しいよ。{n}なんだか私まで元気になっちゃうって{n}感じがするし…。{p}
+EN: I have a lot of fun with you, Tiffany. Somehow you make me feel full of energy too...{p}
+
+## MBMS20 g1 s0477
+JP: ティファニーおはよう!{n}私も元気だよ。{p}
+EN: Morning, Tiffany! I'm feeling great too.{p}
+
+## MBMS20 g1 s0481
+JP: ホントに気持ちいいね。{n}学校に行くのがもったいないくらいね。{p}{end}
+EN: It really does. It's almost a waste to go to school.{p}{end}
+
+## MBMS20 g1 s0485
+JP: ヤッホーッ!{n}じゃあ、行きまショー!{p}{end}
+EN: Yahoo! Let's go then!{p}{end}
+
+## MBMS20 g1 s0486
+JP: こうしていると、ホントに{n}気持ちイイデスネェ。{p}
+EN: Just being here like this feels so nice.{p}
+
+## MBMS20 g1 s0488
+JP: じゃあ学校に戻りまショー。{n}今日は、つきあってくれてアリガト。{n}「チュッ{col:5}♥{col:-}」{p}{end}
+EN: Let's go back to school. Thanks for keeping me company today. "Smooch{col:5}♥{col:-}"{p}{end}
+
+## MBMS20 g1 s0489
+JP: （えっ!?{sp}キスされた?{n}{sp}まあアメリカではあいさつ代わりだって{n}{sp}いうからね、深い意味はないかもネ。）{n}{col:0}『挨拶代わりのキッス』{col:-}をもらった。{p}{end}
+EN: (Huh?! She kissed me? Well, they say it's just a greeting in America. It probably doesn't mean much.) Got a {col:0}"Greeting Kiss"{col:-}.{p}{end}
+
+## MBMS20 g1 s0493
+JP: じゃあ、ミーはちょっと一人で、{n}河原にいってきマ～ス!{p}
+EN: Then I'll just go to the riverbank by myself!{p}
+
+## MBMS20 g1 s0498
+JP: 多少なら{n}無理して行ってあげれば{n}良かったかな…。{p}
+EN: Maybe I should've pushed myself a little and gone with her...{p}
+
+## MBMS20 g1 s0500
+JP: おはようティファニー!{n}最近よくいっしょになるね。{p}
+EN: Morning, Tiffany! We keep running into each other lately.{p}
+
+## MBMS20 g1 s0501
+JP: {v3:7}、今日放課後あいてマスか?{n}あいてたら帰りいっしょに{n}ショッピングへ行きまショー。{p}
+EN: {v3:7}, are you free after school today? If you are, let's go shopping on the way home.{p}
+
+## MBMS20 g1 s0511
+JP: いやあ…そういう意味じゃないのよ。{n}ごめんティファニー。{p}{end}
+EN: N-no... That's not what I meant. Sorry, Tiffany.{p}{end}
+
+## MBMS20 g1 s0513
+JP: ティファニー、{n}その制服、よくにあってるよ。{p}{end}
+EN: Tiffany, that uniform really suits you.{p}{end}
+
+## MBMS20 g1 s0514
+JP: アリガト!{sp}{v3:7}{col:5}♥{col:-}。{n}ミーはあまり制服きないから{n}にあうかなって、ちょっと心配でした。{n}すごくうれしーデス。{p}{end}
+EN: Thank you, {v3:7}{col:5}♥{col:-}! I don't wear uniforms much, so I was a little worried it wouldn't suit me. I'm so happy.{p}{end}
+
+## MBMS20 g1 s0519
+JP: ごめん今日は忙しいの。{p}
+EN: Sorry, I'm busy today.{p}
+
+## MBMS20 g1 s0524
+JP: ボーマン!{n}その、宗教の勧誘みたいな{n}声のかけ方やめてよ。{n}（…でも、案外本当だったりして……。）{p}
+EN: Boman! Can you not call out to me like you're recruiting for a religion? (...Though maybe he actually is...){p}
+
+## MBMS20 g1 s0526
+JP: いいわよ、一緒に行くよ。{n}（そういう頼みかたされると{n}{sp}ことわれないよねやっぱり。）{p}{end}
+EN: Sure, I'll go with you. (When he asks like that, how could I say no?){p}{end}
+
+## MBMS20 g1 s0537
+JP: ボーマン、{n}そんなにあやまらないでよ。{n}（悪いこといっちゃったかも……。）{p}
+EN: Boman, you don't have to apologize so much. (Maybe I said something bad...){p}
+
+## MBMS20 g1 s0544
+JP: いいわよ{n}今日はこれから用事があるんだけど{n}募金ならイヤよ{p}
+EN: Sure{n}I've got plans after this{n}Not if it's fundraising{p}
+
+## MBMS20 g1 s0546
+JP: 今度は、教会か……。{p}{end}
+EN: A church this time...{p}{end}
+
+## MBMS20 g1 s0551
+JP: ごめん、{n}今日は、これから用事があるのよ。{n}ちょっと、いっしょには行けないよ。{p}
+EN: Sorry, I've got plans after this. I can't go with you.{p}
+
+## MBMS20 g1 s0556
+JP: こんにちは、ボーマン!{n}ここにいるって、よくわかったね。{p}{end}
+EN: Hi, Boman! How'd you know I was here?{p}{end}
+
+## MBMS20 g1 s0560
+JP: もちろん、OKよ{n}それは、ちょっと……{p}
+EN: Of course, OK{n}Well, that's a bit...{p}
+
+## MBMS20 g1 s0561
+JP: ごめん!{sp}ボーマン。{n}私はボーマンとデートなんて、{n}できないよ。{n}他に好きな人がいるの!{p}{end}
+EN: Sorry, Boman! I can't go on a date with you. There's someone else I like!{p}{end}
+
+## MBMS20 g1 s0564
+JP: もちろんOKよ!{sp}ボーマン{col:5}♥{col:-}{n}それを言うために{n}わざわざ私をさがしてくれたんだね。{p}
+EN: Of course it's OK, Boman{col:5}♥{col:-} You came all the way looking for me just to say that, huh?{p}
+
+## MBMS20 g1 s0567
+JP: 大げさだなあ、ボーマンは{col:5}♥{col:-}{n}こんなコトでよかったら{n}いつだってできるよ{col:5}♥{col:-}{p}{end}
+EN: You're so dramatic, Boman{col:5}♥{col:-} If this is all it takes, we can do it anytime{col:5}♥{col:-}{p}{end}
+
+## MBMS20 g1 s0568
+JP: コレ、今日のために{n}教会の花壇から取ってきました。{n}私が育てた花です。{p}
+EN: I picked these from the church flower bed for today. They're flowers I grew myself.{p}
+

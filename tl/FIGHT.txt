@@ -1,0 +1,42 @@
+# Fight callouts in DAT2/CEFT1.BIZ (diary Hayato fights and arcade modes).
+# ID: EN. '|' = next piece (stacked vertically on screen).
+# Big zoom-in callouts (exe message lists 0-17).
+round: ROUND
+final: FINAL
+fight: FIGHT!
+ko: K.O.
+draw: DRAW
+timeup: TIME|UP
+win_dominate: TOTAL|DOMINATION!
+win_crush: CRUSHING|WIN!
+win_victory: VICTORY!
+win_close: CLOSE|WIN!
+# Banners (two lines, drawn squashed to 127x24) and small labels.
+burning: BURNING VIGOR|ATTACK
+tardy: TARDY|COUNTER
+teamup: TEAM UP|TECHNIQUE
+finish: FINISH
+first: FIRST|ATTACK
+ready: READY!!
+swap_lead: SWAP LEAD?
+swap_partner: SWAP PARTNER?
+# Vertical fighter names (P1 at x 8, P2 at x 478, from y 48 down).
+name_kyosuke: KYOSUKE
+name_batsu: BATSU
+name_hinata: HINATA
+name_shoma: SHOMA
+name_natsu: NATSU
+name_roberto: ROBERTO
+name_roy: ROY
+name_tiffany: TIFFANY
+name_boman: BOMAN
+name_edge: EDGE
+name_akira: AKIRA
+name_gan: GAN
+name_hideo: HIDEO
+name_kyoko: KYOKO
+name_raizo: RAIZO
+name_hyo: HYO
+name_sakura: SAKURA
+name_daigo: DAIGO
+name_hayato: HAYATO

@@ -1,0 +1,232 @@
+## MBMSG04 g0 s0055
+JP: ……よし!{n}高校生活も{n}何とかやっていけそうな感じがするぞ。{n}がんばるぜ!{p}
+EN: ...Alright! I think I can handle high school life somehow. Let's do this!{p}
+
+## MBMSG04 g0 s0056
+JP: なんだあ、そのざまは?{n}一生は長えが青春は短いんだぜ!{n}まあ、入学は認めてやるが{n}次の試験では結果を出せよ。じゃあな!{p}
+EN: What's with that pathetic showing? Life is long, but youth is short! Fine, I'll let you in, but you'd better get results next exam. Later!{p}
+
+## MBMSG04 g0 s0058
+JP: 確か今日は外道高校の{n}入学式の日だったな。{p}
+EN: Today's the Gedo High entrance ceremony, right?{p}
+
+## MBMSG04 g0 s0059
+JP: 入学式なんかかったるいけど、{n}『出席しない者は入学を認めない』{n}とかいう通知が来たんだよな。{p}{end}
+EN: Entrance ceremonies are a drag, but I got a notice saying "Those who don't attend will not be admitted."{p}{end}
+
+## MBMSG04 g0 s0060
+JP: まあ脅しだとは思うけど{n}一応、出席してやるか。{n}………ん?{p}
+EN: It's probably a bluff, but I'll show up anyway. ......Hm?{p}
+
+## MBMSG04 g0 s0061
+JP: うわっ!!危ない!{p}
+EN: Whoa!! Look out!{p}
+
+## MBMSG04 g0 s0062
+JP: 貴様、死ぬつもりか!?{n}突然車道に飛び出すなんて{n}どういうつもりだ?{p}{end}
+EN: You trying to get killed!? What are you doing, jumping into the road like that?{p}{end}
+
+## MBMSG04 g0 s0063
+JP: お前こそ、そんなスピード出して{n}子供でも飛び出したらどうするんだ!{p}
+EN: What about you, going that fast? What if a kid ran out!{p}
+
+## MBMSG04 g0 s0064
+JP: …フン、まあいい。以後気をつけろ。{n}それよりお前、外道の生徒か?{p}{end}
+EN: ...Hmph, fine. Be careful from now on. More importantly, are you a Gedo student?{p}{end}
+
+## MBMSG04 g0 s0065
+JP: ああ、今日からだけどね。{p}{end}
+EN: Yeah, starting today.{p}{end}
+
+## MBMSG04 g0 s0066
+JP: 道理で知らない顔のはずだ。{n}乗れ。ぼやぼやしていると{n}入学式に間に合わんぞ。{p}{end}
+EN: No wonder I didn't know your face. Get on. Dawdle and you'll miss the ceremony.{p}{end}
+
+## MBMSG04 g0 s0067
+JP: （あっという間に着いてしまった。）{n}ありがとう、助かったよ。{p}{end}
+EN: (We got there in no time.) Thanks, you saved me.{p}{end}
+
+## MBMSG04 g0 s0068
+JP: 待て、俺は『風間{sp}アキラ』だ。{n}お前の名は?{p}{end}
+EN: Wait. I'm Akira Kazama. What's your name?{p}{end}
+
+## MBMSG04 g0 s0069
+JP: 俺か?{sp}{v0}{sp}{v1}だよ。{n}悪いけど、お前とダベってる暇はないんだ。{n}もう行くぜ?{p}{end}
+EN: Me? {v1} {v0}. Sorry, but I don't have time to chat. I'm going, okay?{p}{end}
+
+## MBMSG04 g0 s0070
+JP: {v0}、縁があったらまた会おう。{p}{end}
+EN: {v0}, if fate allows, we'll meet again.{p}{end}
+
+## MBMSG04 g0 s0072
+JP: まったく、だるい校長の話なんて{n}聞いてられないぜ。{p}
+EN: Geez, I can't sit through some boring principal's speech.{p}
+
+## MBMSG04 g0 s0073
+JP: へへへ。サボリと言えばやっぱり{n}屋上が定番だな。{p}{end}
+EN: Heh heh. When it comes to skipping, the roof is the classic.{p}{end}
+
+## MBMSG04 g0 s0074
+JP: ……どうやら先客がいるみたいだ。{p}{end}
+EN: ......Looks like someone beat me here.{p}{end}
+
+## MBMSG04 g0 s0075
+JP: なあんだ?てめえはよぉ。{p}{end}
+EN: Whaddaya want, huh?{p}{end}
+
+## MBMSG04 g0 s0076
+JP: 確かに、この辺では見かけんヤツじゃのう。{p}{end}
+EN: True, haven't seen this one around here.{p}{end}
+
+## MBMSG04 g0 s0077
+JP: 自己紹介をする{n}メンチをきる{n}無複して寝る{p}
+EN: Introduce yourself{n}Stare them down{n}Ignore them and sleep{p}
+
+## MBMSG04 g0 s0078
+JP: 俺は{v0}{sp}{v1}だ。{n}今日から、この外道高校の世話になるぜ。{p}
+EN: I'm {v1} {v0}. I'll be at Gedo High from today.{p}
+
+## MBMSG04 g0 s0079
+JP: オレらと同じ新入りってわけか。{n}オレは『エッジ』。{n}こっちのゴツイのは…{p}{end}
+EN: So you're new like us. I'm Edge. This big lug is...{p}{end}
+
+## MBMSG04 g0 s0080
+JP: 『石動{sp}岩』じゃ。{n}エッジ、おぬしは本名を名乗らんのか?{p}{end}
+EN: Gan Isurugi. Edge, ain't you gonna give your real name?{p}{end}
+
+## MBMSG04 g0 s0081
+JP: 岩!{n}オレの本名を口にしやがったら{n}お前でもタダじゃおかねぇぞ!{p}{end}
+EN: Gan! Say my real name and even you won't get off easy!{p}{end}
+
+## MBMSG04 g0 s0082
+JP: エッジは本名で呼ばれるのを{n}極度に嫌っているからな。{p}{end}
+EN: Edge really hates being called by his real name.{p}{end}
+
+## MBMSG04 g0 s0083
+JP: 今まで、一体何人が{n}半殺しになったことか…。{n}{v0}もせいぜい気をつけるんだな。{p}{end}
+EN: I've lost count of how many people he's half-killed... {v0}, you'd better be careful.{p}{end}
+
+## MBMSG04 g0 s0084
+JP: おう、アキラ。{n}お前、そいつと知り合いだったのか?{p}
+EN: Hey, Akira. You know this guy?{p}
+
+## MBMSG04 g0 s0085
+JP: まあ、そんなところだ。{n}{v0}、あらためてよろしく。{p}{end}
+EN: Something like that. {v0}, good to see you again.{p}{end}
+
+## MBMSG04 g0 s0086
+JP: …………{p}{end}
+EN: ............{p}{end}
+
+## MBMSG04 g0 s0087
+JP: へぇ?やる気満々じゃん?{n}おもしれぇ、このエッジ様が相手になんぜ。{n}いいだろ?岩。{p}
+EN: Huh? You itchin' for a fight? Interesting. The great Edge'll take you on. Okay, Gan?{p}
+
+## MBMSG04 g0 s0088
+JP: こりゃあ見ものじゃのう。{n}新入りがどこまでやるのか{n}楽しみじゃわい。{p}{end}
+EN: This oughta be good. Let's see how far the new guy can go.{p}{end}
+
+## MBMSG04 g0 s0089
+JP: {v0}、エッジ、やめろ!{n}入学早々、停学にでもなるつもりか?{p}{end}
+EN: {v0}, Edge, stop! Want to get suspended on your first day?{p}{end}
+
+## MBMSG04 g0 s0090
+JP: アキラじゃんか。{n}なあーんで止めるんだよ?{p}
+EN: Akira? Why're you stoppin' us?{p}
+
+## MBMSG04 g0 s0091
+JP: {v0}とはちょっとした{n}顔見知りでな。{n}すまんが、ここは大目に見てやって{n}くれないか?{p}
+EN: I know {v0} a little. Sorry, but could you let this one slide?{p}
+
+## MBMSG04 g0 s0092
+JP: チッ、アキラの頼みじゃしょうがねぇな。{n}おい、{v0}っての。命拾いしたな。{p}
+EN: Tch, if Akira asks, fine. Hey, {v0}. Lucky you.{p}
+
+## MBMSG04 g0 s0093
+JP: ・・・・・・・{p}
+EN: .......{p}
+
+## MBMSG04 g0 s0094
+JP: こ、こいつ…無複しやがった。{n}しかも、もう爆睡してやがる。{p}
+EN: Th-this guy... ignored me. And he's already out cold.{p}
+
+## MBMSG04 g0 s0095
+JP: ガッハッハッハッハ!{n}エッジ、こやついい根性しとるのお。{n}気に入ったわい!{p}
+EN: Gahahahaha! Edge, this one's got real guts. I like him!{p}
+
+## MBMSG04 g0 s0096
+JP: ワシは『石動{sp}岩』じゃ。{n}おい、おぬしは?{p}
+EN: I'm Gan Isurugi. Hey, who're you?{p}
+
+## MBMSG04 g0 s0097
+JP: こいつの名は{v0}{sp}{v1}。{p}{end}
+EN: His name's {v1} {v0}.{p}{end}
+
+## MBMSG04 g0 s0098
+JP: おい、アキラ。{n}こいつ、お前の知り合いか?{p}
+EN: Hey, Akira. You know this guy?{p}
+
+## MBMSG04 g0 s0099
+JP: まあ、そんなところだ。{n}ここはオレに免じて{n}大目に見てやってくれ。{p}
+EN: Something like that. Let it slide, for my sake.{p}
+
+## MBMSG04 g0 s0101
+JP: 廊下では、早くもクラブの勧誘が{n}始まっているみたいだな。{p}{end}
+EN: Looks like the clubs are already recruiting in the hallway.{p}{end}
+
+## MBMSG04 g0 s0102
+JP: やっぱり、不良でもクラブに入らないと{n}高校生活は始まらないよな。{p}{end}
+EN: Yeah, even for a delinquent, high school doesn't start until you join a club.{p}{end}
+
+## MBMSG04 g0 s0104
+JP: こいつと同じ部に入るのは{n}やめたほうがいいと思うわよ。{n}バカがうつっちゃうから。{p}{end}
+EN: I wouldn't join the same club as this guy. His stupidity is contagious.{p}{end}
+
+## MBMSG04 g0 s0105
+JP: それよりも、バレーボールをやらない?{n}歓迎するわよ。{p}{end}
+EN: How about volleyball instead? You'd be welcome.{p}{end}
+
+## MBMSG04 g0 s0111
+JP: お前、入部希望者か?{n}言っとくけど、根性のない奴は{n}ゴメンだぜ!{p}{end}
+EN: You here to join? Just so you know, I don't want anyone without guts!{p}{end}
+
+## MBMSG04 g0 s0112
+JP: 根性なら人一倍!{n}興味ないね{p}{end}
+EN: I've got more guts than anyone!{n}Not interested{p}{end}
+
+## MBMSG04 g0 s0118
+JP: どうせならワールドカップだろ!{n}俺には無理だぜ…。{p}
+EN: If we're going, it's the World Cup!{n}I'm not up to it...{p}
+
+## MBMSG04 g0 s0124
+JP: バレーボールならまかせろ!{n}バレーボールは苦手{p}
+EN: Leave volleyball to me!{n}I'm bad at volleyball{p}
+
+## MBMSG04 g0 s0146
+JP: （女の子がいきなりぶつかってきた!!{n}{sp}ゲッ!!{sp}しかもその子の持っていた、{n}{sp}アイスがべっちょり胸に{n}{sp}ついてしまった……。）{p}{end}
+EN: (A girl ran right into me!! Ugh!! And the ice cream she was holding is smeared all over my chest...){p}{end}
+
+## MBMSG04 g0 s0153
+JP: （な、なんだコイツ、{n}{sp}いきなりつっかかってきたぞ!!{n}{sp}…待てよ!?{sp}デルフォンヌといえば{n}{sp}確か、俺がさがしている店だ……）{p}{end}
+EN: (Wh-what's with this guy, picking a fight all of a sudden!! ...Wait!? Delphonne is the shop I was looking for...){p}{end}
+
+## MBMSG04 g0 s0155
+JP: それは早めにクリーニングに{n}出した方がいいな。{n}スミマセン、ちゃんとクリーニング代{n}出させてもらいますから。{p}{end}
+EN: You'd better get that cleaned soon. Sorry, please let us pay for the cleaning.{p}{end}
+
+## MBMSG04 g0 s0156
+JP: （今度は白ランにメガネの男だ。{n}{sp}クリーニング代くらいもらっておいても{n}{sp}いいかもしれないな……）{p}
+EN: (Now a guy in a white uniform and glasses... Maybe I should just take the cleaning money...){p}
+
+## MBMSG04 g0 s0171
+JP: 放課後。{n}今日も早く帰るか。{n}……お、なんか外国人が3人で{n}もめてるみたいだ。{p}
+EN: After school. Guess I'll head home early again. ...Oh, looks like three foreigners are arguing.{p}
+
+## MBMSG04 g0 s0186
+JP: ほう……{n}すまなかった。{n}しかし、そこまではっきりモノがいえる{n}ジャパニーズは珍しいな!!{p}
+EN: Oh... My apologies. But it's rare to meet a Japanese who speaks his mind that clearly!!{p}
+
+## MBMSG04 g0 s0197
+JP: 君のような日本人は珍しいな。{n}ぜひまた会おう、{v3:6}!{p}{end}
+EN: A Japanese like you is rare. Let's meet again, {v3:6}!{p}{end}
+
