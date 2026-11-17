@@ -9,6 +9,8 @@ The patch applies to the Japanese Evolution Disc (Disc 1, SLPS-01240).
 This repository holds no game data. You will have to get a dump and patch it
 yourself!
 
+Machine translated, but edited, playtested, and verified.
+
 ## Screenshots
 
 <p>
@@ -48,7 +50,10 @@ The loading-screen art is not translated, to keep the original art.
 
 ## What is tested
 
-I did a complete run-through of the diary mode twice.
+Two complete manual run-throughs as Gorin and Taiyo with all mini-games
+and several character routes.
+Multiple automated runs.
+
 Not every route/school has been manually checked, so any corrections are
 welcome.
 
