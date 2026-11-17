@@ -9,7 +9,8 @@ The patch applies to the Japanese Evolution Disc (Disc 1, SLPS-01240).
 This repository holds no game data. You will have to get a dump and patch it
 yourself!
 
-Machine translated, but edited, playtested, and verified.
+Note: The project is LLM-assisted, but with many human hours spent into editing, playtesting,
+and design work.
 
 ## Screenshots
 
