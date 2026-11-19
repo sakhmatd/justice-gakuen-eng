@@ -16,11 +16,11 @@ EN: All right! I'll keep training so I can use this in real fights!{p}
 
 ## MBMS03 g0 s0004
 JP: 一年間何をやってきたんだ?{n}もう一回一年生をやりたいのか?{n}進級試験が心配になってきたぜ。{p}
-EN: What have you been doing all year? Want to do first year all over again? I'm getting worried about your promotion test.{p}
+EN: What have you been doing all year? Want to do first year all over again? I'm getting worried about your promotion exam.{p}
 
 ## MBMS03 g0 s0005
 JP: 進級試験か…{n}進級できなかったらどうしよう…{p}{end}
-EN: The promotion test... What if I don't get promoted...{p}{end}
+EN: The promotion exam... What if I don't get promoted...{p}{end}
 
 ## MBMS03 g0 s0006
 JP: いよいよ最後の試験『進級テスト』を行う!{n}最後のテスト課題は{n}『この俺と戦って俺を越えること!』{n}これだけだ!{p}
@@ -456,7 +456,7 @@ EN: Well, I'm off.{p}
 
 ## MBMS03 g0 s0120
 JP: せいぜい仲良くやれよ、夏。{n}お前みたいなのを好きだなんて{n}いうヤツは、もう2度と現れないかも{n}しれねーんだからな。{p}
-EN: You two get along, Natsu. A guy who'd say he likes someone like you might never show up again.{p}
+EN: You two get along, Natsu. Nobody else might ever say they like someone like you.{p}
 
 ## MBMS03 g0 s0121
 JP: しょ、将馬、アンタねぇ!{n}…まったく、逃げ足だけは速いんだから。{p}{end}
@@ -1232,11 +1232,11 @@ EN: Mm, this should do.{p}
 
 ## MBMS03 g0 s0317
 JP: {v0}{col:0}君{col:-}、{n}話というのは他でもない…{n}わしの養子になる気はないかね?{p}{end}
-EN: {v0}{col:0}-kun{col:-}, what I want to discuss is none other than... would you consider becoming my adopted son?{p}{end}
+EN: {v0}{col:0}-kun{col:-}, what I want to discuss is none other than... would you consider letting me adopt you?{p}{end}
 
 ## MBMS03 g0 s0318
 JP: よ、養子!?{n}学園長、突然何を?{p}{end}
-EN: A-adopted son!? Principal, what are you saying all of a sudden?{p}{end}
+EN: A-adopt me!? Principal, what are you saying all of a sudden?{p}{end}
 
 ## MBMS03 g0 s0319
 JP: うむ、君が驚くのも無理はない事だ。{n}では、説明しよう…。{p}{end}
@@ -1508,11 +1508,11 @@ EN: N-no way... M-my spring break!{p}{end}
 
 ## MBMS03 g1 s0004
 JP: 一年間何をやってきたんだ!?{n}もう一回一年生をやりたいのか?{n}進級試験が心配になってきたぜ。{p}{end}
-EN: What have you been doing all year!? Want to do first year all over again? I'm getting worried about your promotion test.{p}{end}
+EN: What have you been doing all year!? Want to do first year all over again? I'm getting worried about your promotion exam.{p}{end}
 
 ## MBMS03 g1 s0005
 JP: 進級試験かあ…{n}進級できなかったらどうしよう…{p}
-EN: The promotion test... What if I don't get promoted...{p}
+EN: The promotion exam... What if I don't get promoted...{p}
 
 ## MBMS03 g1 s0021
 JP: …はい。{n}…隼人先生、{n}一年間どうもありがとうございました!{p}{end}

@@ -28,7 +28,10 @@ sprites in code, so the weekday pieces must stay in tpage 512.
 
 Club results banner: MZPANEL entry 0, 8bpp TIM at 0x46800, 256x104 = two
 256x52 strips drawn side by side as one 512x52 line (visible x 16-495).
-The text is painted out and redrawn with build_banners.py methods.
+The JP is masked (script ink mask plus a 5 px tools/inpaint.py rim) and
+filled row by row, because the background is horizontal streaks that LaMa
+smudges. The fill goes back into the CLUT with capped dither. The EN is
+redrawn with build_banners.py methods.
 
 Continue screen: MA_TIT TIM0 (4bpp 80x120, palette 5), five 80x24 labels
 at v 0 Taiyo, 24 Gorin, 48 Gedo, 72 Pacific, 96 Justice. The 太陽学園
@@ -382,10 +385,37 @@ CLUB_FILL = ((248, 200, 40), (248, 136, 24))    # top -> bottom
 CLUB_LINE = (232, 44, 0)
 CLUB_FONT = '/usr/share/fonts/TTF/ariblk.ttf'
 
+CLUB_RING = 5                           # text_mask rim around the JP ink (px)
+CLUB_ISLAND = 30                        # unmasked islands under this size are filled
+CLUB_METHOD = 'rows'                    # 'rows' or an inpaint.fill() method
+DITHER_MAX = 24                         # max sum |RGB| error of a dithered fill pixel
+
+def club_mask(img):
+    """JP lettering mask: orange fill and red outline in CLUB_RECT, plus a
+    CLUB_RING px rim of pixels that differ from the background (soft
+    shadow and anti-aliasing), with small unmasked islands closed."""
+    import inpaint as IP
+    x0, y0, x1, y1 = CLUB_RECT
+    mk = np.zeros(img.shape[:2], bool)
+    sub = img[y0:y1, x0:x1]
+    mk[y0:y1, x0:x1] = (sub[..., 0] > 110) & (sub[..., 2] < 160)
+    mk = ndimage.binary_dilation(ndimage.binary_closing(mk), iterations=1)
+    m = IP.text_mask(img, IP._bbox(mk, CLUB_RING + 1, img.shape), pred=lambda _: mk,
+                     ring=CLUB_RING, min_px=1)
+    hole = ndimage.binary_fill_holes(m) & ~m
+    lab, n = ndimage.label(hole)
+    if n:
+        sz = ndimage.sum(hole, lab, np.arange(1, n + 1))
+        m |= np.isin(lab, 1 + np.nonzero(sz < CLUB_ISLAND)[0])
+    return m
+
 def row_inpaint(img, mk):
     """Fill masked runs of each row by linear interpolation between the
-    unmasked pixels left and right of them (the background is a set of
-    horizontal streaks), then smooth the filled pixels a little."""
+    unmasked pixels left and right of them, then smooth the filled pixels
+    a little. The banner background is horizontal streaks, and the mask
+    covers the whole light streak over ~350 px. LaMa, lama_ctx and auto
+    (inpaint.py) all replace the streak there with a dark smudge (review
+    sheet private/re/phase1/lama/), so this fill overrides 'best'."""
     out = img.copy()
     for y in range(img.shape[0]):
         m = mk[y]
@@ -396,6 +426,19 @@ def row_inpaint(img, mk):
     sm = ndimage.uniform_filter(out, size=(3, 3, 1))
     out[mk] = sm[mk]
     return out
+
+def club_erase(img, can, clut, pal):
+    """Paint the JP lettering out. Returns (fill mask, CLUT indices): the
+    fill is written back into the banner's own CLUT with Floyd-Steinberg
+    dither inside the mask, nearest colour where the dithered pick is
+    more than DITHER_MAX from the fill."""
+    import inpaint as IP
+    m = club_mask(img)
+    out = row_inpaint(img, m) if CLUB_METHOD == 'rows' else IP.fill(img, m, CLUB_METHOD)
+    fs = IP.to_clut(out, can, clut, m, pal=pal)
+    nr = IP.to_clut(out, can, clut, m, pal=pal, dither='none')
+    stray = np.abs(pal[fs] - out).sum(-1) > DITHER_MAX
+    return m, np.where(stray, nr, fs)
 
 def club_text(img, text, cy, cap, maxw, outline=2, ss=4):
     size = 10
@@ -434,16 +477,12 @@ def paint_club(d, tl, png, tag):
     can = np.concatenate([idx[:52], idx[52:]], 1).copy()        # 52 x 512
     pal = np.array([bb.rgb15(v) for v in clut])
     img = pal[can]
-    x0, y0, x1, y1 = CLUB_RECT
-    mk = np.zeros(can.shape, bool)
-    sub = img[y0:y1, x0:x1]
-    mk[y0:y1, x0:x1] = (sub[..., 0] > 110) & (sub[..., 2] < 160)
-    mk = ndimage.binary_dilation(ndimage.binary_closing(mk), iterations=1)
-    img = row_inpaint(img, mk)
+    _, filled = club_erase(img, can, clut, pal)
+    img = pal[filled].astype(float)
     text = tl['club_banner'].replace('|', ' ')
     sx = club_text(img, text, 29.5, 22, bb.VIS[1] - bb.VIS[0] - 40)
     if sx < 0.8: print(f'club banner: squeezed to {sx:.2f}')
-    new = bb.quantize(np.clip(img, 0, 255), pal, can)
+    new = bb.quantize(np.clip(img, 0, 255), pal, filled)      # EN: nearest colour
     idx2 = np.concatenate([new[:, :256], new[:, 256:]], 0)
     d[pix:pix + 256 * 104] = idx2.astype(np.uint8).tobytes()
     if png:

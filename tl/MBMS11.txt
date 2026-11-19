@@ -128,7 +128,7 @@ EN: Well, let's both loosen up out there!{p}{end}
 
 ## MBMS11 g0 s0034
 JP: おいおい、いきなり気合負けしてて{n}どうするんだよ。{n}頼むぜ、ほんとに。{p}
-EN: Whoa, whoa, losing your nerve already? C'mon, man, I'm counting on you.{p}
+EN: Whoa, whoa, losing your nerve already? C'mon, I'm counting on you.{p}
 
 ## MBMS11 g0 s0035
 JP: へぇー、やるじゃんか。{n}予告どおりの結果を出してくるなんて、{n}正直驚きだぜ。{p}{end}

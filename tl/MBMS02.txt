@@ -1072,7 +1072,7 @@ EN: When I think that once we're in different years you'll all forget about me..
 
 ## MBMS02 g0 s0328
 JP: ・・・そんな時、{n}{v3:9}だけは違うって思ったのさ。{n}おまえだけはいつまでも{n}ダチの関係でいてくれるって…。{p}{end}
-EN: ...And then I thought, {v3:9}'s different. You're the one who'll always stay my buddy...{p}{end}
+EN: ...And then I thought, {v3:9}'s different. You're the one who'll always stay my pal...{p}{end}
 
 ## MBMS02 g0 s0329
 JP: 聞いていいか?{p}
@@ -1080,7 +1080,7 @@ EN: Can I ask you somethin'?{p}
 
 ## MBMS02 g0 s0331
 JP: オレ達はたとえ学年が違ってもダチだよな?{p}{end}
-EN: We're still buddies even if we're in different years, right?{p}{end}
+EN: We're still pals even if we're in different years, right?{p}{end}
 
 ## MBMS02 g0 s0332
 JP: そうだよ{n}どうかなあ{p}{end}
@@ -1092,7 +1092,7 @@ EN: Of course. That goes without saying!{p}
 
 ## MBMS02 g0 s0334
 JP: 卒業してもダチだよな?{p}
-EN: Buddies even after graduation, right?{p}
+EN: Pals even after graduation, right?{p}
 
 ## MBMS02 g0 s0336
 JP: 当たり前だろ!{p}
@@ -1100,19 +1100,19 @@ EN: Obviously!{p}
 
 ## MBMS02 g0 s0337
 JP: 社会人になってもダチだよな?{p}{end}
-EN: Buddies even when we're grown-ups, right?{p}{end}
+EN: Pals even when we're grown-ups, right?{p}{end}
 
 ## MBMS02 g0 s0339
 JP: ずっと、ずう～っとダチだよ!{p}{end}
-EN: Buddies forever and ever!{p}{end}
+EN: Pals forever and ever!{p}{end}
 
 ## MBMS02 g0 s0340
 JP: へへっ、そうだよな。{n}オレ達ずう～っとダチだよな。{n}これで、もやもやが吹っ飛んだぜ!{n}サンキュ!{p}{end}
-EN: Heh, yeah. We're buddies forever and ever. That cleared my head right up! Thanks!{p}{end}
+EN: Heh, yeah. We're pals forever and ever. That cleared my head right up! Thanks!{p}{end}
 
 ## MBMS02 g0 s0341
 JP: 『ずう～っとダチ』か…。{n}いい言葉だなあ…。{p}{end}
-EN: "Buddies forever and ever," huh... That's a nice thing to say...{p}{end}
+EN: "Pals forever and ever," huh... That's a nice thing to say...{p}{end}
 
 ## MBMS02 g0 s0342
 JP: それはどうかなあ。{n}先の事は分かんないよ。{p}
@@ -1120,7 +1120,7 @@ EN: I wonder about that. Nobody knows the future.{p}
 
 ## MBMS02 g0 s0343
 JP: へっ、そうかい!{n}あんがいてめえも冷てえなあ!{n}もう、この世にダチはいらねえぜ!{n}あばよ!{p}
-EN: Heh, is that so! You're colder than I thought! I don't need any buddies in this world! Later!{p}
+EN: Heh, is that so! You're colder than I thought! I don't need any pals in this world! Later!{p}
 
 ## MBMS02 g0 s0344
 JP: ゴメン!{n}自分の心にウソはつけないよ。{p}
@@ -1188,7 +1188,7 @@ EN: ...I see. "Defeating evil." Though sometimes strength alone solves nothing..
 
 ## MBMS02 g0 s0363
 JP: …そうか、{n}『自分の意志を貫くこと』か。{n}強い意志は本当の意味で{n}自分を強くしていくかもな…。{p}
-EN: ...I see. "Following your will." A strong will may make a man truly stronger...{p}
+EN: ...I see. "Following your will." A strong will may make you truly stronger...{p}
 
 ## MBMS02 g0 s0365
 JP: 俺も、いい勉強になりました。{n}（それにしても{n}{sp}醍醐先輩はいつ見ても{n}{sp}カッコ良いなあ。）{p}
@@ -1768,7 +1768,7 @@ EN: She left... I guess Natsu is self-conscious about her height after all...{p}
 
 ## MBMS02 g0 s0525
 JP: 別に意味もなく{n}また保健室に来てしまった。{p}
-EN: For no real reason, I came to the nurse's office again.{p}
+EN: For no real reason, I came to the infirmary again.{p}
 
 ## MBMS02 g0 s0529
 JP: なんか怪しい行動に見られたかなあ。{n}まいっか、どこに行こうかな?{p}{end}
@@ -1776,7 +1776,7 @@ EN: Maybe that looked suspicious. Oh well, where should I go?{p}{end}
 
 ## MBMS02 g0 s0530
 JP: 学園長こそ保健室に来られて{n}どこか悪いんですか?{p}{end}
-EN: What about you, sir? Coming to the nurse's office, are you feeling unwell?{p}{end}
+EN: What about you, sir? Coming to the infirmary, are you feeling unwell?{p}{end}
 
 ## MBMS02 g0 s0531
 JP: わしか?{n}少し考え事をしていてな…。{n}考え過ぎで少し頭がな…。{p}
@@ -2184,7 +2184,7 @@ EN: A "throw" is... the only attack that can beat the invincibility of a Team Up
 
 ## MBMS02 g0 s0640
 JP: とにかく闘いの流れを変えるには絶対必要{n}なテクニックです。特に空中投げは全ての技{n}の中で一番早いので相手が受け身を取った後{n}などに狙って下さい。かっこいいですよ。{p}
-EN: It's essential for changing the flow of a fight. The air throw is the fastest move of all, so aim for it after a recovery roll. It looks cool, too.{p}
+EN: It's essential for turning a fight around. The air throw is the fastest move of all, so aim for it after a Breakfall. It looks cool, too.{p}
 
 ## MBMS02 g0 s0641
 JP: このゲームの基本テクニック{n}「熱血コンボ」について{n}教えて下さい。{p}
@@ -2236,7 +2236,7 @@ EN: But watch the opponent's moves carefully. At first, only use it after guardi
 
 ## MBMS02 g0 s0653
 JP: ありがとうございました。{n}なんだか進級試験に向けて{n}自信が出てきました。{p}{end}
-EN: Thank you very much. Somehow I feel more confident about the promotion test.{p}{end}
+EN: Thank you very much. Somehow I feel more confident about the promotion exam.{p}{end}
 
 ## MBMS02 g0 s0654
 JP: 隼人先生は手強いですよ。{n}がんばってください!{p}
@@ -3124,7 +3124,7 @@ EN: When I think that once we're in different years you'll all forget about me..
 
 ## MBMS02 g1 s0327
 JP: …そんな時、{n}{v3:9}だけは違うって思ったのさ。{n}おまえだけはいつまでも{n}ダチの関係でいてくれるって…。{p}{end}
-EN: ...And then I thought, {v3:9}'s different. You're the one who'll always stay my buddy...{p}{end}
+EN: ...And then I thought, {v3:9}'s different. You're the one who'll always stay my pal...{p}{end}
 
 ## MBMS02 g1 s0332
 JP: そうだよ。{n}決まってるじゃない!{p}{end}
@@ -3184,7 +3184,7 @@ EN: Sc-science isn't really my strong subject. I wish it had been something else
 
 ## MBMS02 g1 s0412
 JP: また意味もなく{n}保健室に来てしまった。{p}
-EN: For no real reason, I came to the nurse's office again.{p}
+EN: For no real reason, I came to the infirmary again.{p}
 
 ## MBMS02 g1 s0436
 JP: 人を勇気付けるような歌をうたう{n}歌手になりたいです。{p}{end}
@@ -3240,7 +3240,7 @@ EN: Asking about throws means you understand fighting to some degree.{p}{end}
 
 ## MBMS02 g1 s0478
 JP: とにかく闘いの流れを変えるには絶対必要な{n}テクニックです。特に空中投げは全ての技{n}の中で一番早いので相手が受け身を取った後{n}などに狙って下さい。かっこいいですよ。{p}
-EN: It's essential for changing the flow of a fight. The air throw is the fastest move of all, so aim for it after a recovery roll. It looks cool, too.{p}
+EN: It's essential for turning a fight around. The air throw is the fastest move of all, so aim for it after a Breakfall. It looks cool, too.{p}
 
 ## MBMS02 g1 s0484
 JP: 完全燃焼アタックについて{n}聞いてくる言うことは{n}基礎はもう身に付いているようですね。{p}{end}

@@ -476,7 +476,7 @@ EN: No, no!! You're still kicking with your toes. Use your instep more!! Or you'
 
 ## MBMS06 g0 s0147
 JP: うるせえな!{n}さっきからやってるだろ!!{n}見てろよぉ……。{n}爆裂!!{sp}Vゴォォーーール!!{p}
-EN: Shut up! I've been doin' that this whole time!! Watch this... Victory GOOOOAL!!{p}
+EN: Shut up! I've been doin' that this whole time!! Watch this... Explosive!! Victory GOOOOAL!!{p}
 
 ## MBMS06 g0 s0148
 JP: （かけ声こそいさましいが、ボールの方は{n}{sp}ゴールの枠をはずれて彼方へ飛んでいく。{n}{sp}みると、ゴールの得点板は{n}{sp}まだ一枚もとれていない。）{p}

@@ -452,7 +452,7 @@ EN: Yeah, high school life doesn't start until you join a club.{p}{end}
 
 ## MBMSO04 g0 s0113
 JP: よお、{v0}。{n}お前もうクラブは決めたか?{n}まだなら野球部に入ろうぜ!{p}
-EN: Hey, {v0}. Picked a club yet? If not, join the baseball team!{p}
+EN: Hey, {v0}. Picked a club yet? If not, join the baseball club!{p}
 
 ## MBMSO04 g0 s0114
 JP: こいつと同じ部に入るのは{n}やめたほうがいいと思うよ。{n}バカがうつっちゃうから。{p}
@@ -472,7 +472,7 @@ EN: Here they go again... You two, quit fighting on the first day.{p}{end}
 
 ## MBMSO04 g0 s0118
 JP: まあ、気が向いたらサッカー部を{n}見学しに来てくれ、じゃあな。{p}{end}
-EN: Well, if you feel like it, come check out the soccer team. See you.{p}{end}
+EN: Well, if you feel like it, come check out the soccer club. See you.{p}{end}
 
 ## MBMSO04 g0 s0119
 JP: どのクラブに入ろうか?{p}
@@ -484,7 +484,7 @@ EN: Baseball            Brass Band{n}Soccer              Drama{n}Volleyball     
 
 ## MBMSO04 g0 s0121
 JP: おう{v0}、来たな!{n}野球部に入りにきたんだろ?{p}{end}
-EN: Hey {v0}, you came! You're here to join the baseball team, right?{p}{end}
+EN: Hey {v0}, you came! You're here to join the baseball club, right?{p}{end}
 
 ## MBMSO04 g0 s0122
 JP: もちろんだ!{n}ちがうぞ{p}
@@ -496,7 +496,7 @@ EN: ...Heh, I've got a feeling we'll make a good battery! Glad to have you!{p}
 
 ## MBMSO04 g0 s0124
 JP: {v1}は『野球部』に入部した!{p}
-EN: {v1} joined the "Baseball Team"!{p}
+EN: {v1} joined the "Baseball Club"!{p}
 
 ## MBMSO04 g0 s0125
 JP: お前ならけっこういいセン行くと思うぜ。{n}その気になったら、また来いよな!{p}{end}
@@ -504,7 +504,7 @@ EN: I think you'd do pretty well. Come back if you change your mind!{p}{end}
 
 ## MBMSO04 g0 s0126
 JP: よう、{v0}。{n}お前、サッカー部に入らないか?{n}俺と国立競技場を目指そうぜ!{p}{end}
-EN: Hey, {v0}. Want to join the soccer team? Let's aim for the National Stadium together!{p}{end}
+EN: Hey, {v0}. Want to join the soccer club? Let's aim for the National Stadium together!{p}{end}
 
 ## MBMSO04 g0 s0127
 JP: どうせ行くならワールドカップ!{n}自分には無理かな…。{p}{end}
@@ -516,7 +516,7 @@ EN: Heh, talking pretty big, aren't you? I'm counting on you!{p}
 
 ## MBMSO04 g0 s0129
 JP: {v1}は『サッカー部』に入部した!{p}
-EN: {v1} joined the "Soccer Team"!{p}
+EN: {v1} joined the "Soccer Club"!{p}
 
 ## MBMSO04 g0 s0130
 JP: …そうか、残念だな。{n}気が変わったらまた来てくれよ。{p}{end}
@@ -524,11 +524,11 @@ EN: ...I see. Too bad. Come back if you change your mind.{p}{end}
 
 ## MBMSO04 g0 s0131
 JP: {v0}{col:0}クン{col:-}じゃない。{n}バレーボール部に入部しにきたの?{p}
-EN: Well, if it isn't {v0}{col:0}-kun{col:-}. Here to join the volleyball team?{p}
+EN: Well, if it isn't {v0}{col:0}-kun{col:-}. Here to join the volleyball club?{p}
 
 ## MBMSO04 g0 s0132
 JP: バレーボール部に入部!{n}考え直す{p}{end}
-EN: Join the volleyball team!{n}Think it over{p}{end}
+EN: Join the volleyball club!{n}Think it over{p}{end}
 
 ## MBMSO04 g0 s0133
 JP: フフ、やっぱりアタシの目に{n}狂いはなかったみたいだね。{p}
@@ -536,7 +536,7 @@ EN: Heh heh, looks like my eye for people was right.{p}
 
 ## MBMSO04 g0 s0134
 JP: {v1}は『バレーボール部』に入部{n}した!{p}{end}
-EN: {v1} joined the "Volleyball Team"!{p}{end}
+EN: {v1} joined the "Volleyball Club"!{p}{end}
 
 ## MBMSO04 g0 s0135
 JP: …そう。でも、{n}アンタはきっとこのバレーコートに{n}もどってくる。きっとね!{p}
@@ -640,7 +640,7 @@ EN: (Grr) My name is {v1} {v0}. Don't call people that.{p}
 
 ## MBMSO04 g0 s0164
 JP: ほう……。{n}すまなかった。{n}しかし、そこまではっきりモノがいえる{n}ジャパニーズも珍しいな!!{p}{end}
-EN: Oh... My apologies. But it's rare to meet a Japanese who speaks his mind that clearly!!{p}{end}
+EN: Oh... My apologies. But it's rare to meet a Japanese who speaks up that clearly!!{p}{end}
 
 ## MBMSO04 g0 s0166
 JP: おお、たしかにこのあたりです!{n}ここまでくれば、あとは私でも{n}わかります!{sp}ありがとう!!{p}
@@ -1000,7 +1000,7 @@ EN: I wouldn't join the same club as her. Her stupidity is contagious.{p}{end}
 
 ## MBMSO04 g1 s0113
 JP: それよりも、野球部に入らないか?{n}歓迎するぜ。{p}
-EN: How about the baseball team instead? You'd be welcome.{p}
+EN: How about the baseball club instead? You'd be welcome.{p}
 
 ## MBMSO04 g1 s0114
 JP: ちょっと!{n}いま、何て言ったのよ将馬!?{p}{end}
@@ -1008,7 +1008,7 @@ EN: Hey! What did you just say, Shoma!?{p}{end}
 
 ## MBMSO04 g1 s0116
 JP: まあ、気が向いたらサッカー部を{n}見学に来てくれ、じゃあな。{p}
-EN: Well, if you feel like it, come check out the soccer team. See you.{p}
+EN: Well, if you feel like it, come check out the soccer club. See you.{p}
 
 ## MBMSO04 g1 s0120
 JP: もちろんよ!{n}ちがうわ{p}
@@ -1024,7 +1024,7 @@ EN: ...I see. Too bad. Well, come back if you change your mind.{p}{end}
 
 ## MBMSO04 g1 s0129
 JP: {v0}{col:0}さん{col:-}じゃない。{n}バレーボール部に入部しにきたの?{p}
-EN: Well, if it isn't {v0}{col:0}-san{col:-}. Here to join the volleyball team?{p}
+EN: Well, if it isn't {v0}{col:0}-san{col:-}. Here to join the volleyball club?{p}
 
 ## MBMSO04 g1 s0146
 JP: 結局、{v1}は{n}どのクラブにも入らなかった…{p}{end}

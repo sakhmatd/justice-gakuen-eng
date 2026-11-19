@@ -336,7 +336,7 @@ EN: Let's see...{p}{end}
 
 ## MBMS05 g0 s0093
 JP: バレー部の鮎原夏さんです{n}サッカー部のロベルト三浦君です{n}野球部の沢村将馬君です{n}{v0}{sp}{v1}こと私です{p}
-EN: Natsu Ayuhara from volleyball{n}Roberto Miura from soccer{n}Shoma Sawamura from baseball{n}Me, {v1} {v0}!{p}
+EN: Natsu Ayuhara-san, volleyball club{n}Roberto Miura-kun, soccer club{n}Shoma Sawamura-kun, baseball club{n}Me, {v1} {v0}!{p}
 
 ## MBMS05 g0 s0094
 JP: 夏君なら今見てきたところだよ。{n}背も高いしなかなか活発そうな{n}生徒ですね。{p}

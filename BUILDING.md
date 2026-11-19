@@ -8,7 +8,9 @@ translation. To play, apply the release patch instead (see
 
 The build runs on Linux. It needs:
 
-- Python 3 with numpy, scipy and Pillow.
+- Python 3 with numpy, scipy, Pillow and OpenCV 4 or later with the
+  contrib modules (`cv2.xphoto`, e.g. the pip package
+  `opencv-contrib-python`).
 - Your dumps of the JP Evolution Disc and of *Rival Schools: United by
   Fate (USA) (Disc 1) (Arcade Disc)* (SLUS-00681). The fight callouts are
   taken from the USA disc.
@@ -19,6 +21,27 @@ The build runs on Linux. It needs:
   Georgia Bold Italic, Segoe Script Bold, Segoe UI Black Italic, Palatino
   Linotype and Bahnschrift. Other versions of a font can change the
   pixels of the redrawn graphics.
+
+## Text removal (GPU)
+
+The redraws of the event banners, month cards, Festival header and
+Festival pictures erase the Japanese text with LaMa (`tools/inpaint.py`).
+LaMa needs PyTorch and the weights file `big-lama.pt` (the TorchScript
+model from IOPaint, MD5 e3aa4aaa15225a33ec84f9f4bc47e500). The weights
+are not in the repository. Put them at `private/models/big-lama.pt`, or
+set `LAMA_MODEL` to their path.
+
+- With a CUDA GPU, torch runs LaMa on the GPU.
+- Without one, LaMa runs on the CPU. This is slower and gives the same
+  kind of result.
+- Without torch or the weights, the build falls back to an OpenCV fill
+  (method `auto`). It needs no extra files, but it is softer on busy art,
+  and those graphics differ from the release.
+
+LaMa output also depends on the GPU, driver and torch version. A build on
+another setup can differ from the release image in a few pixels of these
+graphics. The v1.1 release was built with torch 2.15 on CUDA and OpenCV
+5.1.
 
 ## Build
 

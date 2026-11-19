@@ -128,7 +128,18 @@ emulator or burn it.
 If the check fails, the dump differs from the Redump one (another dump,
 or a file converted to .ecm, .chd or .iso). Make a raw 2352-byte
 dump, or convert yours back to .bin/.cue, and try again.
-"""
+{changes}"""
+
+# Release notes per version, appended to README.txt.
+CHANGES = {
+    'v1.1': """\
+- Cleaner redrawn graphics on the banners and Festival screens.
+- Official names for the last four Team Ups.
+- A pass over names, terms and character details.
+- Rewrite some missed shared male/female protagonist lines to be
+  gender-neutral.
+""",
+}
 
 
 def digest(path, algo='sha1'):
@@ -169,7 +180,8 @@ def main():
         shutil.copy(lic, out)
     open(os.path.join(out, 'README.txt'), 'w', newline='\r\n').write(README.format(
         ver=ver, size=os.path.getsize(ORIG), crc=apply_patch.crc32_file(ORIG),
-        sha=digest(ORIG), md5=digest(ORIG, 'md5'), pcrc=want, psha=digest(patched), bps=bps, ppf=ppf))
+        sha=digest(ORIG), md5=digest(ORIG, 'md5'), pcrc=want, psha=digest(patched), bps=bps, ppf=ppf,
+        changes=f'\nChanges in {ver}\n----------------\n' + CHANGES[ver] if ver in CHANGES else ''))
     zpath = out + '.zip'
     with zipfile.ZipFile(zpath, 'w', zipfile.ZIP_DEFLATED, compresslevel=9) as z:
         for fn in sorted(os.listdir(out)):

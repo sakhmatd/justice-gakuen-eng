@@ -370,7 +370,7 @@ EN: Game System
 
 ## SYSMSG s091
 JP: 受け身
-EN: Recover
+EN: Brkfall
 
 ## SYSMSG s092
 JP: 根性ゲージ

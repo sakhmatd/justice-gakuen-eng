@@ -216,7 +216,7 @@ EN: Let's go to the gym.{p}
 
 ## MBMS00 g2 s0030
 JP: 保健室にでも行ってみるか。{p}
-EN: Maybe I'll drop by the nurse's office.{p}
+EN: Maybe I'll drop by the infirmary.{p}
 
 ## MBMS00 g2 s0031
 JP: 教室にもどってみるか。{p}
@@ -280,7 +280,7 @@ EN: {col:1}Mar. 8{col:-}{n}Today is the year-end exam. If I'm not quick, Hayato-
 
 ## MBMS00 g2 s0046
 JP: {col:1}{sp}3月20日{col:-}{n}今日は今年最後の試験、進級試験がある。{n}隼人先生を最後に一発見返してやるか!{p}
-EN: {col:1}Mar. 20{col:-}{n}Today is the last exam of the year, the promotion test. Time to finally show Hayato-sensei what I've got!{p}
+EN: {col:1}Mar. 20{col:-}{n}Today is the last exam of the year, the promotion exam. Time to finally show Hayato-sensei what I've got!{p}
 
 ## MBMS00 g2 s0047
 JP: {col:1}{sp}3月24日{col:-}{n}長かった一年も終わり、今日は終業式だ。{p}{end}
@@ -408,7 +408,7 @@ EN: I'll go to the gym.{p}{end}
 
 ## MBMS00 g3 s0030
 JP: 保健室にでも行ってみようか。{p}{end}
-EN: Maybe I'll drop by the nurse's office.{p}{end}
+EN: Maybe I'll drop by the infirmary.{p}{end}
 
 ## MBMS00 g3 s0031
 JP: 教室にもどってみよっと。{p}{end}
@@ -460,7 +460,7 @@ EN: {col:1}Mar. 8{col:-}{n}Today is the year-end exam. If I'm not quick, Hayato-
 
 ## MBMS00 g3 s0046
 JP: {col:1}{sp}3月20日{col:-}{n}今日は今年最後の試験、進級試験。{n}隼人先生を最後に見返してやろうかナ。{p}{end}
-EN: {col:1}Mar. 20{col:-}{n}Today is the last exam of the year, the promotion test. Time to finally show Hayato-sensei!{p}{end}
+EN: {col:1}Mar. 20{col:-}{n}Today is the last exam of the year, the promotion exam. Time to finally show Hayato-sensei!{p}{end}
 
 ## MBMS00 g3 s0047
 JP: {col:1}{sp}3月24日{col:-}{n}長かった一年も終わり、今日は終業式。{p}
@@ -692,7 +692,7 @@ EN: {col:1}Diary{col:-}{n}Manage data and change the message speed setting.{p}
 
 ## MBMS00 g4 s0057
 JP: {col:1}課外活動{col:-}{n}実技試験や球技大会の練習ができます。{p}
-EN: {col:1}Activities{col:-}{n}Practice for skill exams and sports events.{p}
+EN: {col:1}Activities{col:-}{n}Practice for practical exams and sports events.{p}
 
 ## MBMS00 g4 s0058
 JP: {col:1}移動{col:-}{n}移動する場所を選択します。{p}{end}
@@ -736,7 +736,7 @@ EN: {col:1}Text Speed{col:-}{n}Change how fast messages are shown.{p}
 
 ## MBMS00 g4 s0068
 JP: {col:1}実技試験予習{col:-}{n}定期試験の練習を行うことができます。{p}
-EN: {col:1}Exam Prep{col:-}{n}Practice for the regular skill exams.{p}
+EN: {col:1}Exam Prep{col:-}{n}Practice for the regular practical exams.{p}
 
 ## MBMS00 g4 s0069
 JP: {col:1}クラブの練習{col:-}{n}五輪祭などでおこなう、ミニゲームの{n}練習ができます。{p}

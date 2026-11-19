@@ -1344,7 +1344,7 @@ EN: I'm good, thanks.{p}
 
 ## MBMS12 g0 s0608
 JP: なんだあ?{n}若いのにしょうがねえなあ。{n}もっとやる奴だと思ったが{n}残念だぜ!{p}{end}
-EN: What? Pathetic, for a young guy. I thought you had more fight in you. What a shame!{p}{end}
+EN: What? Pathetic, for someone so young. I thought you had more fight in you. What a shame!{p}{end}
 
 ## MBMS12 g0 s0609
 JP: もっと気合いの入った奴を探すとするかな!{n}じゃあな!{p}{end}

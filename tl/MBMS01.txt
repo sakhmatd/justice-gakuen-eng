@@ -28,27 +28,27 @@ EN: I'll stay the same this term...{p}
 
 ## MBMS01 g0 s0008
 JP: 野球部に入部しますか?{p}
-EN: Join the baseball team?{p}
+EN: Join the baseball club?{p}
 
 ## MBMS01 g0 s0010
 JP: {v1}は野球部に入部した!{p}
-EN: {v1} joined the baseball team!{p}
+EN: {v1} joined the baseball club!{p}
 
 ## MBMS01 g0 s0011
 JP: サッカー部に入部しますか?{p}
-EN: Join the soccer team?{p}
+EN: Join the soccer club?{p}
 
 ## MBMS01 g0 s0013
 JP: {v1}はサッカー部に入部した!{p}
-EN: {v1} joined the soccer team!{p}
+EN: {v1} joined the soccer club!{p}
 
 ## MBMS01 g0 s0014
 JP: バレー部に入部しますか?{p}{end}
-EN: Join the volleyball team?{p}{end}
+EN: Join the volleyball club?{p}{end}
 
 ## MBMS01 g0 s0016
 JP: {v1}はバレー部に入部した!{p}{end}
-EN: {v1} joined the volleyball team!{p}{end}
+EN: {v1} joined the volleyball club!{p}{end}
 
 ## MBMS01 g0 s0028
 JP: うーん……やっぱり、面倒くさいし{n}今学期はクラブに入るのは{n}止めておこう…{p}

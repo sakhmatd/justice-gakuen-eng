@@ -172,7 +172,7 @@ EN: (Wh-what's with this guy, picking a fight all of a sudden!! ...Wait!? Delpho
 
 ## MBMSP04 g0 s0146
 JP: ち、ちがうのよ!{sp}バツ!!{n}ぶつかったのは私なの!!{n}それに、私この人の服汚しちゃって……。{p}{end}
-EN: N-no, Batsu!! I'm the one who bumped into him!! And I got his clothes dirty...{p}{end}
+EN: N-no, Batsu!! I'm the one who bumped into this person!! And I got their clothes dirty...{p}{end}
 
 ## MBMSP04 g0 s0147
 JP: それは早めにクリーニングに出した方が{n}いいな。{n}スミマセン、ちゃんとクリーニング代、{n}出させてもらいますから。{p}

@@ -28,9 +28,9 @@ EN: {col:1}Team Up Technique{col:3} - Select{p}{end}
 
 ## MBMS13 g1 s0001
 JP: W気合弾{n}ファイト百倍{n}ラブ&ピース{n}血”獄{n}連撃連舞{n}活火山{n}究極の矯正術{n}人間大砲{n}ダイブ&プレス{n}究極の愛の波動{n}男の中の男{p}
-EN: Dbl. Guts Bullet{n}Praise & Spirit{n}Love & Peace{n}Bloody Nightmare{n}Barrage Dance{n}Active Volcano{n}Final Correction{n}Ningen-Taihou{n}Bridge Drop{n}Heart Attack{n}Man Among Men{p}
+EN: Dbl. Guts Bullet{n}Praise & Spirit{n}Love & Peace{n}Bloody Nightmare{n}Gang Buster{n}Active Volcano{n}Rest & Relax{n}Ningen-Taihou{n}Bridge Drop{n}Heart Attack{n}Super Parry{p}
 
 ## MBMS13 g1 s0002
 JP: ガッツ百倍{n}ラストシンフォニー{n}Wライジングトルネード{n}Wパワーバスター{n}トラップWシュート{n}島津流真正波拳{n}春獄殺{n}協奏連撃蹴{n}クロスファイヤーキック{n}Wスカイアタック{p}
-EN: Guts & Power{n}Last Symphony{n}Dbl. Rising Tornado{n}Double Power Buster{n}Double Shot{n}Shin Seihaken{n}Shungokusatsu{n}Concerto Combo Kick{n}Crossfire Kick{n}Final Spike{p}
+EN: Guts & Power{n}Last Symphony{n}Dbl. Rising Tornado{n}Double Power Buster{n}Double Shot{n}Shin Seihaken{n}Shungokusatsu{n}Neo Sync Attack{n}Crossfire Kick{n}Final Spike{p}
 

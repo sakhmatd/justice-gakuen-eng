@@ -200,7 +200,7 @@ EN: Well, I have disciplinary committee work, so I'll excuse myself.{p}
 
 ## MBMST04 g0 s0124
 JP: なあ、もうクラブは決めたか?{n}まだなら野球部に入ろうぜ!{p}{end}
-EN: Hey, decided on a club yet? If not, join the baseball team!{p}{end}
+EN: Hey, decided on a club yet? If not, join the baseball club!{p}{end}
 
 ## MBMST04 g0 s0125
 JP: こいつと同じ部に入るのは{n}やめたほうがいいわよ。{n}馬鹿がうつるからね。{p}
@@ -236,7 +236,7 @@ EN: Geez, lately there are too many guys who are all style!{p}{end}
 
 ## MBMST04 g0 s0138
 JP: そこの君、サッカー部に入らないか?{n}俺と国立競技場を目指そうぜ!{p}{end}
-EN: You there, want to join the soccer team? Let's aim for the National Stadium together!{p}{end}
+EN: You there, want to join the soccer club? Let's aim for the National Stadium together!{p}{end}
 
 ## MBMST04 g0 s0139
 JP: どうせ行くならワールドカップ!{n}自分には無理かな…{p}
@@ -264,7 +264,7 @@ EN: I'm Natsu Ayuhara, nice to meet you!{p}{end}
 
 ## MBMST04 g0 s0148
 JP: {v1}は『バレーボール部』に{n}入部した!{p}{end}
-EN: {v1} joined the "Volleyball Team"!{p}{end}
+EN: {v1} joined the "Volleyball Club"!{p}{end}
 
 ## MBMST04 g0 s0163
 JP: 教室の前にいくと、{n}ちょうど、ひなたとバツ、恭介の{n}3人が出てくるところだった。{p}{end}
@@ -932,7 +932,7 @@ EN: Good grief, always like this. ...By the way, {v8:5}, what club did you join 
 
 ## MBMST04 g1 s0197
 JP: 野球部だよな。{n}女子野球部の期待の新人だぜ。{p}{end}
-EN: Baseball, right? The girls' baseball team's rising star.{p}{end}
+EN: Baseball, right? The girls' baseball club's rising star.{p}{end}
 
 ## MBMST04 g1 s0198
 JP: そう。野球部よ。{n}将馬君と同じで、まだ補欠だけどネ。{p}{end}

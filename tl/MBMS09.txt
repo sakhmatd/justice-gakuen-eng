@@ -12,7 +12,7 @@ EN: You can still switch clubs right now. Your club has a big effect on how you 
 
 ## MBMS09 g0 s0003
 JP: ま、もっともオイラは野球部を{n}やめるつもりはないけどな。{n}じゃあな、{v3:3}!!{p}{end}
-EN: Course, I'm not quittin' the baseball team anytime soon. See ya, {v3:3}!!{p}{end}
+EN: Course, I'm not quittin' the baseball club anytime soon. See ya, {v3:3}!!{p}{end}
 
 ## MBMS09 g0 s0004
 JP: そうだな、他のクラブも{n}おもしろそうだし、{n}クラブをかえてみようか?{p}{end}
@@ -184,7 +184,7 @@ EN: Geez, that was so sloppy.{p}
 
 ## MBMS09 g0 s0071
 JP: しっかりしてくれよな。{n}見てたこっちまで{n}恥ずかしかったぜ。{p}{end}
-EN: Get it together, man. I was embarrassed just watching.{p}{end}
+EN: C'mon, get it together. I was embarrassed just watching.{p}{end}
 
 ## MBMS09 g0 s0072
 JP: 『弘法にも筆の誤り』と言うが、{n}それにしてもヒドイな…。{p}{end}
@@ -1208,7 +1208,7 @@ EN: I must go to church and confess. I will see you at school.{p}{end}
 
 ## MBMS09 g0 s0401
 JP: さっきダチに聞いたんだけどよ、{n}今年はなんか『肝試し』ってのが{n}面白いらしいぜ。{p}{end}
-EN: A buddy told me earlier, this "test of courage" thing is supposed to be fun this year.{p}{end}
+EN: A pal told me earlier, this "test of courage" thing is supposed to be fun this year.{p}{end}
 
 ## MBMS09 g0 s0403
 JP: それがよ、ただのお化け屋敷じゃなくて、{n}迷路の中に隠されてるおフダを探す{n}っていうゲームになってるんだってよ!{p}
@@ -1612,7 +1612,7 @@ EN: Ya think......{p}
 
 ## MBMS09 g0 s0527
 JP: さて、と!!{n}悪かったな、草刈り手伝わしちまって。{n}サンキュ、な!!{p}{end}
-EN: Alright, that's that!! Sorry for makin' ya help with the weeding. Thanks, man!!{p}{end}
+EN: Alright, that's that!! Sorry for makin' ya help with the weeding. Thanks a bunch!!{p}{end}
 
 ## MBMS09 g0 s0528
 JP: （いつの間にか、あんなに日が傾いている…{n}{sp}そろそろ帰るか…。）{p}{end}

@@ -20,7 +20,7 @@ beta021.date: January 1
 beta021.title: New Year's Visit
 beta022.date: February 14
 beta022.title: Valentine's Day
-beta023.title: Promotion Test
+beta023.title: Promotion Exam
 beta024.title: Year-End Exam
 beta025.date: March 24
 beta025.title: Closing Ceremony
@@ -63,6 +63,6 @@ beta010.month: March
 beta010.day1: 8th
 beta010.ev1: Year-End Exam
 beta010.day2: 20th
-beta010.ev2: Promotion Test
+beta010.ev2: Promotion Exam
 beta010.day3: 24th
 beta010.ev3: Closing Ceremony

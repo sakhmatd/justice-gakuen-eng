@@ -168,7 +168,7 @@ EN: (Looking around, there are nearly ten of his buddies. They all look tough...
 
 ## MBMS20 g0 s0042
 JP: 「おい!!{n}{sp}その手を放せ!!」{p}{end}
-EN: "Hey!! Let go of him!!"{p}{end}
+EN: "Hey!! Get your hands off!!"{p}{end}
 
 ## MBMS20 g0 s0043
 JP: バツだ!{p}{end}
@@ -1300,7 +1300,7 @@ EN: Wh-what was that for!! Punching me out of nowhere... Oww... Hey, you made me
 
 ## MBMS20 g0 s0333
 JP: こんなヤツのこと……!!{n}夏はあんなに真剣なのに………!!{p}
-EN: A guy like this...!! When Natsu's so serious about him...!!{p}
+EN: Someone like you...!! When Natsu's so serious about you...!!{p}
 
 ## MBMS20 g0 s0334
 JP: 見そこなったぜ!{n}{v3:3}!!{n}お前がそんなヤツだったとはな!!{p}{end}
@@ -1404,7 +1404,7 @@ EN: Wow, what intensity! Roberto looks so cool when he's serious about soccer.{p
 
 ## MBMS20 g0 s0359
 JP: 「爆裂!{sp}Vゴォ～ル!{n}{sp}燃える!{sp}Vゴォ～ル!{n}{sp}消える!{sp}Vゴォ～ル!{n}{sp}だっだめだっ!」{p}
-EN: "Victory Goal! Burning V Goal! Vanishing V Goal! Argh, no good!"{p}
+EN: "Explosive V Goal! Burning V Goal! Vanishing V Goal! Argh, no good!"{p}
 
 ## MBMS20 g0 s0360
 JP: ちょっと声かけてみようかな。{p}{end}

@@ -1356,7 +1356,7 @@ EN: Go yourself.{p}{end}
 
 ## MBMS21 g0 s0356
 JP: そうかよ!{n}わかったよ!{n}つめてえなあ!{n}ちっ!{p}{end}
-EN: Fine! I get it! Cold, man! Tch!{p}{end}
+EN: Fine! I get it! So cold! Tch!{p}{end}
 
 ## MBMS21 g0 s0357
 JP: えらく怒らせてしまったけど、{n}この方が彼のためだろう。{n}さあ、自分の昼飯でも{n}買いに行こうっと。{p}{end}
@@ -1376,7 +1376,7 @@ EN: Here's your yakisoba bun. It was the last one.{p}
 
 ## MBMS21 g0 s0361
 JP: すまねえなあ。{n}もう腹ペコだぜ。{n}いただきまあーす。{p}{end}
-EN: Thanks, man. I'm starvin'. Let's eat!{p}{end}
+EN: Thanks a bunch. I'm starvin'. Let's eat!{p}{end}
 
 ## MBMS21 g0 s0362
 JP: かーっ!{n}やっぱり、ここのやきそばパンは{n}最高だぜ!{p}{end}
@@ -1416,7 +1416,7 @@ EN: Edge gets it if you tell him straight. You really shouldn't judge people by 
 
 ## MBMS21 g0 s0375
 JP: おめえなあ。{n}そうやって何でも言うことばっかり{n}聞いてたらきりがねえぞ!{p}{end}
-EN: Man, if ya just do whatever folks tell ya, there's no end to it!{p}{end}
+EN: Look, if ya just do whatever folks tell ya, there's no end to it!{p}{end}
 
 ## MBMS21 g0 s0376
 JP: 男なら、もうちっと{n}ビシッとしろよな!{p}
@@ -1468,7 +1468,7 @@ EN: Just a school friend, I guess.{p}{end}
 
 ## MBMS21 g0 s0389
 JP: そうかよ、その程度かよ!{n}オレは学校の友達以上には{n}思ってたのによ!{n}ちょっとがっかりだぜ!{p}{end}
-EN: Oh yeah? That's all, huh? I thought of you as more than just a school friend! Kinda disappointed, man!{p}{end}
+EN: Oh yeah? That's all, huh? I thought of you as more than just a school friend! Kinda disappointed!{p}{end}
 
 ## MBMS21 g0 s0390
 JP: エッジ……。{p}{end}
@@ -1668,7 +1668,7 @@ EN: Sounds fun! Okay, let's go!{p}{end}
 
 ## MBMS21 g0 s0440
 JP: よし!{n}そうでなければのう!{n}さあ、カレー食いにレッツゴーじゃ!{p}{end}
-EN: Atta boy! That's more like it! Now, let's go eat us some curry!{p}{end}
+EN: Alright! That's more like it! Now, let's go eat us some curry!{p}{end}
 
 ## MBMS21 g0 s0441
 JP: ふうう、食った食った。{p}
@@ -1916,7 +1916,7 @@ EN: You just thought "Not my problem, whatever," didn't ya!{p}{end}
 
 ## MBMS21 g0 s0505
 JP: 非力な子供だからこそ{n}俺達が助けてやらなきゃ{n}いけねえんじゃねえのか?{p}
-EN: A kid's powerless. Ain't that exactly why guys like us gotta help 'em?{p}
+EN: A kid's powerless. Ain't that exactly why we gotta help 'em?{p}
 
 ## MBMS21 g0 s0506
 JP: 少しは見所がある奴だと思ってたのによう{n}見損なっちまったぜ……。{p}{end}
@@ -2332,7 +2332,7 @@ EN: Okay! I'll say I looked but couldn't find you!{p}
 
 ## MBMS21 g0 s0626
 JP: 本当か!{n}すまねえ!{n}この恩は絶対今度返すぜ!{n}じゃあな!{p}
-EN: Seriously!? Thanks, man! I'll pay ya back for sure! Later!{p}
+EN: Seriously!? Thanks a ton! I'll pay ya back for sure! Later!{p}
 
 ## MBMS21 g0 s0627
 JP: 心あたりの所は探したのですが、{n}見つかりませんでした。{p}
@@ -3316,7 +3316,7 @@ EN: Classes are finally over. Why do classes feel so long lately?{p}
 
 ## MBMS21 g1 s0671
 JP: が、学園長……。{n}（背中が寂しかったなあ。{n}{sp}ウソでも学園長と言うべき{n}{sp}だったのかしら……。）{p}{end}
-EN: S-sir... (He looked so lonely walking away. Should I have said him, even if it was a lie...?){p}{end}
+EN: S-sir... (He looked so lonely walking away. Should I have said it was him, even if it was a lie...?){p}{end}
 
 ## MBMS21 g1 s0676
 JP: 何!一人もいないのか!{n}そうか、{n}そう思わせるのも{n}学園長であるわしの責任かもな……。{p}

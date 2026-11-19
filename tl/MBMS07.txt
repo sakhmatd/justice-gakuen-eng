@@ -408,7 +408,7 @@ EN: (Maybe I made him mad...){p}
 
 ## MBMS07 g0 s0106
 JP: あれが…、あれこそが俺の夢だ～!!{n}休んでる暇はない!もう16歳だゼ!{n}はっ!{sp}時間がない。練習再開だ!{n}「いくぜ!!{sp}爆裂!Vゴーーーール!!」{p}
-EN: That... that right there is my dream!! No time to rest! I'm already 16! Ah! I'm running out of time. Back to practice! "Here goes!! Victory Goaaaal!!"{p}
+EN: That... that right there is my dream!! No time to rest! I'm already 16! Time's running out. Back to practice! "Here goes!! Explosive! Victory Goaaal!!"{p}
 
 ## MBMS07 g0 s0107
 JP: 普段はけっこうクールなのに{n}サッカーがからむとあつい人だなぁ…。{p}{end}
@@ -436,7 +436,7 @@ EN: Take your Victory Goal?? Gimme a break...{p}
 
 ## MBMS07 g0 s0113
 JP: いくぜーっ爆裂っ……{p}{end}
-EN: Here goes! Victory...{p}{end}
+EN: Here goes! Explosive...{p}{end}
 
 ## MBMS07 g0 s0114
 JP: わぁーっ!たすけてぇ～!{p}{end}
@@ -816,7 +816,7 @@ EN: Inspired by the World Cup?{n}That World Cup final was amazing!{n}Maybe I'll 
 
 ## MBMS07 g1 s0106
 JP: あれが…、あれこそが俺の夢ダァ!{n}休んでる暇はない。もう16歳だゼ!{n}はっ!{sp}時間がない。練習再開だ!{n}「いくぜ!!{sp}爆裂!Vゴーーーール!!」{p}{end}
-EN: That... that right there is my dream!! No time to rest! I'm already 16! Ah! I'm running out of time. Back to practice! "Here goes!! Victory Goaaaal!!"{p}{end}
+EN: That... that right there is my dream!! No time to rest! I'm already 16! Time's running out. Back to practice! "Here goes!! Explosive! Victory Goaaal!!"{p}{end}
 
 ## MBMS07 g1 s0109
 JP: じゃあコレ私がもらってもいいよね!{n}アリガトッ{v9:1}!{p}{end}

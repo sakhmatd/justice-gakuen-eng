@@ -417,24 +417,24 @@ tu02: Guts & Power
 tu03: Love & Peace
 # ファイト百倍 (Natsu, PDF, likely)
 tu04: Praise & Spirit
-# 究極の矯正術 ? (no official match)
-tu05: Final Correction
+# 究極の矯正術 (Kyoko, official)
+tu05: Rest & Relax
 # トラップWシュート (Roberto, PDF, likely)
 tu06: Double Shot
 # 血"獄 (Edge, PDF, likely)
 tu07: Bloody Nightmare
 # Wライジングトルネード
 tu08: Double Rising Tornado
-# 連撃連舞 ? (no official match)
-tu09: Barrage Dance
+# 連撃連舞 (Akira, official)
+tu09: Gang Buster
 # Wパワーバスター
 tu10: Double Power Buster
 # 活火山
 tu11: Active Volcano
 # 島津流真正波拳 (Hideo, PDF)
 tu12: Shin Seihaken
-# 男の中の男 ? (no official match)
-tu13: Man Among Men
+# 男の中の男 (Daigo, official)
+tu13: Super Parry
 # クロスファイヤーキック
 tu14: Crossfire Kick
 # 春獄殺 (pun on 瞬獄殺)
@@ -445,7 +445,7 @@ tu16: Final Spike
 tu17: Ningen-Taihou
 # ダイブ&プレス (Tiffany2, PDF, likely)
 tu18: Bridge Drop
-# 協奏連撃蹴 ? (no official match)
-tu19: Concerto Combo Kick
+# 協奏連撃蹴 (Akira, official; MBMS13 list: Neo Sync Attack)
+tu19: Neo Synchronous Attack
 # 究極の愛の波動 (Kyoko2, PDF, likely; MBMS02 calls it her new Team Up)
 tu20: Heart Attack

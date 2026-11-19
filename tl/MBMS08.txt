@@ -1000,7 +1000,7 @@ EN: I-I'm heading out for another long swim, to an even farther island!{p}
 
 ## MBMS08 g0 s0290
 JP: な、なんて熱い奴なんだお前は……{n}わかった、何もいうな…、{n}海がお前を呼んでるんだろう?{p}{end}
-EN: Wh-what a fiery guy you are... Alright, say no more... The sea is calling you, isn't it?{p}{end}
+EN: Wh-what a fiery kid you are... Alright, say no more... The sea is calling you, isn't it?{p}{end}
 
 ## MBMS08 g0 s0291
 JP: 俺も…、{n}付き合うぜ…。{p}{end}
@@ -2996,7 +2996,7 @@ EN: ...Still, with a nurse this beautiful, I suppose anyone would want to play s
 
 ## MBMS08 g0 s0871
 JP: 健全な精神は健全な肉体をつくる{n}正直でいいぞ、若人よ。{n}ではな。{p}{end}
-EN: A sound mind makes a sound body. Your honesty is commendable, young man. Farewell.{p}{end}
+EN: A sound mind makes a sound body. Your honesty is commendable, youngster. Farewell.{p}{end}
 
 ## MBMS08 g0 s0872
 JP: ありがとうございます。{n}正直に言ってよかった。{p}
@@ -3200,7 +3200,7 @@ EN: Thank you! Bye-bye!{p}
 
 ## MBMS08 g0 s0926
 JP: {v3:7}アリガト!ミーは元気出たよ!{n}サンキュ!{n}「チュッ{col:5}♥{col:-}」{p}
-EN: {v3:7}, thank you! I feel great now! Thanks! "Mwah{col:5}♥{col:-}"{p}
+EN: {v3:7}, thank you! I feel better! Thanks! "Smooch{col:5}♥{col:-}"{p}
 
 ## MBMS08 g0 s0927
 JP: （キスされた!!!!{sp}ラッキー!）{n}わっ他のチアリーディング部のメンバーも{n}来たぞ…。{p}

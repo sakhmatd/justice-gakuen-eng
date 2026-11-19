@@ -17,6 +17,15 @@ styles in data/fest_pics.tsv (RE notes: private/re/fest/pics_notes.txt).
   Yes / No, rect 656,168 112x72, CLUT 49) is erased to its fill stipple
   and redrawn (AGAIN, paint_again; RE: private/re/festprac/findings-A2.org).
 
+Text removal (erase_fill): each erase step's own JP mask gets a 5 px rim
+of pixels that differ from the background (inpaint.text_mask), small
+islands closed, and is filled with inpaint.fill (LaMa; per-step overrides
+in METHOD; the CPU 'auto' fill plus grain without torch or the weights).
+Filled pixels are written back into the picture's own CLUT with
+Floyd-Steinberg dither, nearest colour where the dithered pick is more
+than DITHER_MAX off; EN drawn later keeps nearest colour. The HUD atlas
+and the end-of-round box are flat or stippled and are cleared directly.
+
 The picture TIMs are always taken from private/unpacked (originals), so the
 tool can be rerun. The rest of each MINITTL file comes from
 private/build/MINITTLn.BIZ.lz when it exists (atlas edits of build_fest.py).
@@ -24,7 +33,7 @@ Writes private/build/MINITTLn.BIZ(.lz) and CEFT5.BIZ(.lz). --png writes
 before/after previews to private/re/fest/en/. --dry skips compression and
 writing. Page tags (r1 r2a r2b r3 r4 t1..t8 hud) limit the run to those
 pages (for previews; a real build should paint everything).
-FESTPICS_ERASE_ONLY=1 stops the titles after the erase step (debugging).
+FESTPICS_ERASE_ONLY=1 stops after the erase step (titles and rules; debugging).
 """
 import sys, os, struct, colorsys, re
 sys.path.insert(0, os.path.dirname(__file__))
@@ -32,6 +41,7 @@ import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 from scipy import ndimage
 import lz
+import inpaint as IP
 
 FD = '/usr/share/fonts/TTF/'
 F_BODY = FD + 'tahomabd.ttf'
@@ -83,23 +93,47 @@ def rgb15(v): return np.array([(v & 31) << 3, (v >> 5 & 31) << 3, (v >> 10 & 31)
 
 class Page:
     """One 8bpp 512x480 picture with its 256-colour CLUT."""
-    def __init__(self, src, off):
-        self.off = off
+    def __init__(self, src, off, tag=''):
+        self.off = off; self.tag = tag
         self.clut = list(struct.unpack_from('<256H', src, off + 0x14))
         self.pal = np.array([rgb15(v) for v in self.clut])
         self.idx = np.frombuffer(bytes(src[off + 0x220:off + 0x220 + PW * PH]),
                                  np.uint8).reshape(PH, PW).copy()
         self.img = self.pal[self.idx]
         self.orig = self.img.copy()
+        self.filled = np.zeros((PH, PW), bool)   # pixels set by erase_fill
+        self.pre = None                          # the image after the last fill
+        self.flog = []
+        # keep_stp off when the only STP entries are opaque black (0x8000):
+        # refilled pixels could then only become black
+        stp = [v for v in self.clut if v & 0x8000]
+        self.keep_stp = any(v != 0x8000 for v in stp)
+
+    def settle(self):
+        """Fill pixels drawn over since the last fill are no longer fill."""
+        if self.pre is not None:
+            self.filled &= np.abs(self.img - self.pre).sum(-1) < 0.5
 
     def store(self, d):
-        new = quantize(np.clip(self.img, 0, 255), self.pal, self.idx)
+        """Nearest colour for changed pixels; Floyd-Steinberg (IP.to_clut,
+        real CLUT) for fill pixels no later drawing touched, nearest colour
+        where the dithered pick is more than DITHER_MAX from the fill."""
+        img = np.clip(self.img, 0, 255)
+        bad = [i for i, v in enumerate(self.clut) if v == 0]
+        new = quantize(img, self.pal, self.idx, bad)
+        self.settle()
+        w = self.filled & (np.abs(img - self.pal[self.idx]).sum(-1) > 3)
+        if w.any():
+            fs = IP.to_clut(img, self.idx, self.clut, w, pal=self.pal, keep_stp=self.keep_stp)
+            ok = w & (np.abs(self.pal[fs] - img).sum(-1) <= DITHER_MAX)
+            new[ok] = fs[ok]
         d[self.off + 0x220:self.off + 0x220 + PW * PH] = new.tobytes()
         self.idx = new
         return self.pal[new]
 
-def quantize(img, pal, idx):
-    """Nearest CLUT colour for every pixel that changed (weighted RGB)."""
+def quantize(img, pal, idx, bad=()):
+    """Nearest CLUT colour for every pixel that changed (weighted RGB).
+    Entries in bad (0x0000, transparent) are never chosen."""
     out = idx.copy()
     ch = np.abs(img - pal[idx]).sum(-1) > 3
     flat = img[ch]; wt = np.array([0.30, 0.59, 0.11]) ** 0.5
@@ -107,8 +141,65 @@ def quantize(img, pal, idx):
     for k in range(0, len(flat), 4096):
         q = flat[k:k + 4096] * wt
         dd = ((q[:, None, :] - pw[None]) ** 2).sum(-1)
+        if len(bad): dd[:, list(bad)] = 1e12
         out.ravel()[sel_all[k:k + 4096]] = dd.argmin(1)
     return out
+
+# ---------------------------------------------------------------- erase
+
+RING = 5            # px of shadow/glow rim around each JP mask (IP.text_mask)
+ISLAND = 30         # unmasked islands under this size (px) inside a mask are filled
+DITHER_MAX = 24     # max sum |RGB| error of a dithered fill pixel
+# fill method per erase step (page tag or '*', step); default 'best' (LaMa,
+# CPU fallback 'auto')
+METHOD = {
+    ('t2', 'title'): 'lama_ctx',     # plain lama speckles the head top
+    ('*', 'back'): 'auto',           # small hole on flat ground: lama paints a blob
+}
+
+def close_islands(m, size=ISLAND):
+    """Small unmasked holes inside a mask seed dark smudges in LaMa."""
+    hole = ndimage.binary_fill_holes(m) & ~m
+    lab, n = ndimage.label(hole)
+    if not n: return m
+    sz = ndimage.sum(hole, lab, np.arange(1, n + 1))
+    return m | np.isin(lab, 1 + np.nonzero(sz < size)[0])
+
+def erase_fill(pg, mk, step, domain=None, limit=None, ring=RING, thr=40, shadow=None,
+               keep=None, protect=None):
+    """Erase mk on pg in place: the script's mask plus a ring px rim of
+    pixels that differ from the background (soft shadows, glows), small
+    islands closed, filled with IP.fill (METHOD or 'best'). Pixels outside
+    domain are neither filled nor copied from. The rim stays inside limit
+    (sharp edges next to the text). keep (EN drawn earlier, art) is never
+    filled. The rim does not grow into protect (art next to the text), which
+    stays a source. Returns the filled mask."""
+    if keep is not None: mk = mk & ~keep
+    if not mk.any(): return mk
+    avoid = None if domain is None else ~domain
+    if keep is not None: avoid = keep if avoid is None else avoid | keep
+    m = mk
+    nogo = avoid if protect is None else protect if avoid is None else avoid | protect
+    if ring:
+        m = IP.text_mask(pg.img, IP._bbox(mk, ring + 2 + (max(map(abs, shadow)) if shadow else 0),
+                                          mk.shape),
+                         pred=lambda a: mk, ring=ring, thr=thr, halo=1, min_px=0, close=0,
+                         shadow=shadow, protect=None if nogo is None else nogo & ~mk)
+        m = m | mk
+    m = close_islands(m)
+    if limit is not None: m &= limit | mk
+    if avoid is not None: m &= ~avoid
+    meth = METHOD.get((pg.tag, step), METHOD.get(('*', step), 'best'))
+    if meth.startswith('lama') and not IP.lama_ok(): meth = 'best'
+    pg.settle()
+    new = IP.fill(pg.img, m, meth, avoid=avoid)
+    if meth == 'best' and not IP.lama_ok():
+        new = grain(new, m, pg.img, 0.8, ignore=avoid)    # CPU fallback only
+    pg.img = new
+    pg.filled |= m
+    pg.pre = new.copy()
+    pg.flog.append(f'  fill {step}: {int(m.sum())} px (script mask {int(mk.sum())}) {meth}')
+    return m
 
 # ---------------------------------------------------------------- inpaint
 
@@ -448,7 +539,8 @@ def header_band(pg, r, text, jobs):
     dom = np.zeros(img.shape[:2], bool); dom[by0 + 1:by1 - 1, bx0 + 1:bx1 - 1] = True
     mk = dom & ~comp
     mk = ndimage.binary_dilation(mk, iterations=1) & dom
-    pg.img = inpaint(img, mk, dom, iters=150)
+    # band only: no source outside it, the rim stays inside (sharp edge)
+    erase_fill(pg, mk, 'hdr', domain=dom, limit=dom)
     # text
     sh_col = r['sh_col']; soff = r['sh_off']
     avail_w = (bx1 - bx0) - 24; avail_h = (by1 - by0) - 8
@@ -508,8 +600,7 @@ def section_heading(pg, r, text, jobs):
     ell = ((xx - (ex0 + ex1) / 2) / ((ex1 - ex0) / 2 + 2)) ** 2 + ((yy - cy) / (b + 2)) ** 2 <= 1
     mk = ell | diff_mask(img, x - 2, y - 2, x + w + 4, y + h + 4, thr=45, grow=1)
     mk = ndimage.binary_dilation(mk, iterations=1)
-    new = inpaint(img, mk, iters=250)
-    pg.img = grain(new, mk, img, 0.8)
+    erase_fill(pg, mk, r['id'])
     # radial colour profile of the old plate (centre -> rim)
     rho = np.sqrt(((xx - (ex0 + ex1) / 2) / ((ex1 - ex0) / 2)) ** 2 + ((yy - cy) / b) ** 2)
     text_px = diff_mask(img, x, y, x + w, y + h, thr=45, grow=1)
@@ -557,7 +648,7 @@ def grey_plate(pg, r, text, jobs):
     img = pg.img; shp = img.shape[:2]
     x, y, w, h = r['x'], r['y'], r['w'], r['h']
     mk = rect_mask(shp, x - 1, y - 1, w + 5, h + 5)
-    pg.img = inpaint(img, mk, iters=150)
+    erase_fill(pg, mk, r['id'])
     size = 13
     a, base, _ = render(text, F_BODY, size)
     pw_ = max(w, a.shape[1] + 12)
@@ -579,7 +670,12 @@ def grey_plate(pg, r, text, jobs):
 def back_hint(pg, r, text, jobs):
     img = pg.img
     mk = ink_mask(img, r, tol=80, extra=1)
-    pg.img = inpaint(img, mk, iters=100)
+    # the rim must not reach the arrow right of the rect
+    lim = rect_mask(img.shape[:2], r['x'] - 4, r['y'] - 4, r['w'] + 5, r['h'] + 8)
+    # the arrow and the button right of it are no source (LaMa grew a blob
+    # from their colours, the CPU fills copied their edge)
+    icons = rect_mask(img.shape[:2], r['x'] + r['w'] + 2, r['y'] - 8, 64, r['h'] + 16)
+    erase_fill(pg, mk, 'back', limit=lim, domain=~icons)
     fill = rgb_of(r['fill'])[0]
     sh = r['sh_col'] if r['sh_col'] is not None else None
     size = 13.5
@@ -604,8 +700,7 @@ def paint_rules(pg, rows, tl):
             mk |= erase_body(pg, r)
             prot |= protect_mask(shp, r, 1)
     mk &= ~protect_mask_all(shp, rows, 0)
-    new = inpaint(pg.img, mk, ~prot, iters=200)
-    pg.img = grain(new, mk, pg.img, 0.9, ignore=prot)
+    erase_fill(pg, mk, 'body', domain=~prot)
     for r in rows:
         t = tl.get(r['id'])
         if t is None: continue
@@ -619,7 +714,8 @@ def paint_rules(pg, rows, tl):
             log.append(section_heading(pg, r, t, jobs))
         elif r['kind'] == 'button_hint':
             log.append(back_hint(pg, r, t, jobs))
-    for j in jobs: j()
+    if not os.environ.get('FESTPICS_ERASE_ONLY'):
+        for j in jobs: j()
     return log
 
 # ---------------------------------------------------------------- titles
@@ -783,6 +879,11 @@ PRED = {
     'yellow': lambda c: (c[..., 0] > 190) & (c[..., 1] > 120) & (c[..., 2] < 80),
     'orangeghost': lambda c: (c[..., 0] > 220) & (c[..., 2] < 20) & (c[..., 1] > 50) & (c[..., 1] < 185),
     'redghost': lambda c: (c[..., 0] > 180) & (c[..., 1] < 120) & (c[..., 2] < 60),
+    # hair under the titles (kept out of the erase mask)
+    'greyhair': lambda c: (c.max(-1) - c.min(-1) <= 24) & (c.mean(-1) >= 40) & (c.mean(-1) <= 150),
+    'darkhair': lambda c: (c.sum(-1) < 200) & (c[..., 2] < 40),
+    'brownhair': lambda c: (c[..., 0] >= c[..., 1]) & (c[..., 1] >= c[..., 2]) & (c[..., 1] >= 60)
+        & (c[..., 1] <= 130) & (c[..., 0] <= 180) & (c[..., 0] - c[..., 2] >= 20) & (c[..., 0] - c[..., 2] <= 80),
 }
 
 # per title: erase rect (x0, y0, x1, y1) for the background-difference mask,
@@ -798,12 +899,15 @@ T3_HEAD2 = [(326, 80), (340, 67), (372, 65), (394, 78), (396, 100), (326, 100)]
 T2_VISOR = [(80, 66), (90, 58), (97, 55), (130, 55), (142, 58), (150, 64), (178, 84), (80, 84)]
 T7_RIGHT = [(462, 0), (512, 0), (512, 110), (414, 110)]
 T7_HAIR = [(96, 0), (212, 0), (212, 106), (96, 106)]
+T2_HEAD = [(76, 58), (100, 50), (140, 50), (178, 62), (190, 80), (76, 80)]
+T8_SPIKES = [(70, 60), (96, 50), (150, 42), (180, 50), (185, 95), (70, 95)]
 TCFG = {
     1: dict(style='silver', erase=(58, 22, 448, 78), plate=(0, 0), box=(70, 26, 432, 76)),
     5: dict(style='silver', erase=(68, 10, 456, 66), plate=(9, -12), box=(80, 14, 400, 64)),
     2: dict(style='yellow', erase=(88, 8, 424, 84), box=(96, 4, 420, 82), split="Roberto's",
             protect=[T2_VISOR], colour=[(T2_VISOR, 'yellow'), (T2_VISOR, 'darkred'), (T2_VISOR, 'echo'),
-                                         (T2_VISOR, 'light')]),
+                                         (T2_VISOR, 'light')],
+            keep=[(T2_HEAD, 'brownhair')], smooth=[T2_HEAD]),
     6: dict(style='yellow', erase=(80, 14, 414, 86), box=(86, 8, 372, 86), split="Roberto's"),
     3: dict(style='brush', erase=(36, 16, 486, 98), box=(40, 22, 478, 84),
             protect=[T3_HEAD1, T3_HEAD2],
@@ -818,12 +922,12 @@ TCFG = {
                   (T7_HAIR, []), (None, lattice((9, 7), (9, -7), 4))]),
     4: dict(style='script', erase=(40, 10, 482, 70), box=(56, 12, 470, 66),
             lens=(46, 466, 42.5, 18), protect=[T4_HAIR],
-            colour=[(T4_HAIR, 'blue')]),
+            colour=[(T4_HAIR, 'blue')], keep=[(T4_HAIR, 'darkhair')]),
     8: dict(style='script', erase=(28, 8, 502, 72), box=(40, 12, 414, 64),
             lens=(34, 470, 43, 18), protect=[T8_POLE, T8_HAIR],
             colour=[(T8_POLE, 'blue'), (T8_POLE, 'ghost'), (T8_HAIR, 'blue'), (T8_HAIR, 'ghost')],
             fill=[(T8_POLE, along((1, -1.133), 80)), (None, along((-2, 3), 20))], lens_under=[T8_POLE],
-            bubble_shift=True),
+            bubble_shift=True, keep=[(T8_SPIKES, 'greyhair')]),
 }
 
 def paint_title(pg, n, rows, tl):
@@ -848,25 +952,36 @@ def paint_title(pg, n, rows, tl):
         mk |= ndimage.binary_dilation(m, iterations=2) & poly_mask(shp, poly)
     mk |= smk
     mk &= ~pm
-    new = img.copy(); rest = mk.copy()
+    # hair under the title: its own pixels stay (a real contour for the fill)
+    for poly, pred in cfg.get('keep', []):
+        k_ = PRED[pred](pg.orig) & poly_mask(shp, poly)
+        lab, nl = ndimage.label(k_)          # solid hair only, no specks in the text
+        if nl:
+            sz = ndimage.sum(k_, lab, np.arange(1, nl + 1))
+            k_ = np.isin(lab, 1 + np.nonzero(sz >= 40)[0])
+        mk &= ~k_; prot = prot | k_
+    if plate is not None:
+        # the rebuilt plate goes in first: a clean source for the fill
+        img = img.copy(); img[pm] = prgb[pm]; pg.img = img
+    rest = mk.copy()
     claimed = np.zeros(shp, bool)
-    for poly, shifts in cfg.get('fill', []):
+    for poly, shifts in cfg.get('fill', []) if cfg.get('shift') else []:
+        # periodic texture (checker, streaks): shifted copies
         todo = rest & ~claimed if poly is None else rest & poly_mask(shp, poly) & ~claimed
         if poly is not None: claimed |= poly_mask(shp, poly)
-        new, left = shift_fill(img, mk, shifts, todo)
+        img, left = shift_fill(img, mk, shifts, todo)
         rest &= ~(todo & ~left)
-        img = new
-    new = img
-    if (rest & prot).any():
-        # strokes over protected art: fill from that art only
-        img = inpaint(img, rest & prot, prot, iters=300)
-        rest &= ~prot
-    new = img
-    if rest.any():
-        new = inpaint(img, rest, (~prot | rest) & ~pm, iters=300)
-        new = grain(new, rest, pg.img, 1.0, ignore=pm | smk)
-    if plate is not None:
-        new[pm] = prgb[pm]
+    pg.img = img
+    fm = erase_fill(pg, rest, 'title', keep=pm, protect=prot, shadow=cfg.get('shadow'),
+                    thr=cfg.get('rthr', 40))
+    for poly in cfg.get('smooth', []):
+        # LaMa continues the dark specks of the hair texture into specks
+        # of its own; a 5x5 median over the filled part takes them out
+        sel = fm & poly_mask(shp, poly)
+        med = ndimage.median_filter(pg.img, size=(5, 5, 1))
+        pg.img[sel] = med[sel]; pg.pre = pg.img.copy()
+    new = pg.img.copy()
+    if os.environ.get('FESTPICS_ERASE_ONLY'): return log
     if 'lens' in cfg:
         lx0, lx1, ly, lt = cfg['lens']
         L = lx1 - lx0
@@ -895,8 +1010,10 @@ def paint_title(pg, n, rows, tl):
         new = new * (1 - balpha * ba[..., None]) + col * balpha * ba[..., None]
     pg.img = new
     if os.environ.get('FESTPICS_ERASE_ONLY'): return log
+    before = pg.img.copy()
     log.append(draw_title(pg, cfg, tl[f't{n}_title'], n))
-    log.append(bubble(pg, br, tl[f't{n}_bubble'], cfg))
+    drawn = np.abs(pg.img - before).sum(-1) > 0.5          # EN title: not erased again
+    log.append(bubble(pg, br, tl[f't{n}_bubble'], cfg, ndimage.binary_dilation(drawn, iterations=2)))
     if sr is not None: log.append(stamp(pg, sr, tl[f't{n}_stamp']))
     return log
 
@@ -968,7 +1085,7 @@ def draw_title(pg, cfg, text, n):
         over(img, X, Y, a, np.array([0., 32, 248]))
     return f't{n}_title: {st} size {size} sx {sx:.2f} w {a.shape[1]}'
 
-def bubble(pg, r, text, cfg):
+def bubble(pg, r, text, cfg, keep=None):
     """Flat speech bubble: fill the text with the bubble colour, then draw
     the EN centred in the same text colour and shadow."""
     img = pg.img; shp = img.shape[:2]
@@ -1018,13 +1135,14 @@ def bubble(pg, r, text, cfg):
     if outm.any():
         shifts = [sh_ for poly, sh_ in cfg.get('fill', []) if poly is None and cfg.get('bubble_shift')]
         rest = outm
-        if shifts:
+        if shifts and cfg.get('shift'):
             img, rest = shift_fill(img, outm | ndimage.binary_dilation(inside, iterations=9),
                                    shifts[0], outm)
-        if rest.any():
-            new = inpaint(img, rest, ~inside, iters=200)
-            img = grain(new, rest, img, 1.0, ignore=inside)
         pg.img = img
+        # the bubble is no source; no dither along its edge
+        erase_fill(pg, rest, 'bubble', domain=~inside, keep=keep)
+        pg.filled &= ~ndimage.binary_dilation(inside, iterations=3)
+        img = pg.img
     # lines are centred on the bubble interior at their own row
     lines = text.split('|')
     fill = rgb_of(r['fill'])[0]
@@ -1285,8 +1403,18 @@ def save_prev(name, before, after):
     im.paste(Image.fromarray(after.astype(np.uint8)), (w + 8, 0))
     im.save(f'{PREV}/{name}.png')
 
+def lama_plain():
+    """The TorchScript graph executor optimises the LaMa graph after its
+    first calls, so the pixels of a fill depended on the calls before it
+    (a page built alone differed from the same page in the full run).
+    With the optimiser off every call runs the same graph."""
+    if not IP.lama_ok(): return
+    import torch
+    torch._C._set_graph_executor_optimize(False)
+
 def build(png=False, only=None, dry=False):
     tl = load_tl(); rows = load_rows()
+    lama_plain()
     problems = 0
     orig = {n: open(f'private/unpacked/MINITTL{n}.BIZ.lz', 'rb').read() for n in range(1, 9)}
     out = {n: bytearray(open(src_path(n), 'rb').read()) for n in range(1, 9)}
@@ -1294,9 +1422,9 @@ def build(png=False, only=None, dry=False):
     for n, off, tag in ((1, RULES, 'r1'), (2, RULES, 'r2a'), (2, RULES2, 'r2b'),
                         (3, RULES, 'r3'), (4, RULES, 'r4')):
         if only and tag not in only: continue
-        pg = Page(orig[n], off)
+        pg = Page(orig[n], off, tag)
         sel = [r for r in rows.values() if r['id'].startswith(tag + '_') and r['off'] == off]
-        for line in paint_rules(pg, sel, tl): print(line)
+        for line in paint_rules(pg, sel, tl) + pg.flog: print(line)
         after = pg.store(out[n])
         blk = slice(off + 0x14, off + 0x220 + PW * PH)
         assert orig[n + 4][blk] == orig[n][blk]
@@ -1304,8 +1432,8 @@ def build(png=False, only=None, dry=False):
         if png: save_prev(tag, pg.orig, after)
     for n in range(1, 9):
         if only and f't{n}' not in only: continue
-        pg = Page(orig[n], TITLE)
-        for line in paint_title(pg, n, rows, tl): print(line)
+        pg = Page(orig[n], TITLE, f't{n}')
+        for line in paint_title(pg, n, rows, tl) + pg.flog: print(line)
         after = pg.store(out[n])
         if png: save_prev(f't{n}', pg.orig, after)
     for n in range(1, 9):

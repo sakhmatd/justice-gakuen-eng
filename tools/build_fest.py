@@ -7,8 +7,9 @@
   0x140 (384 bytes per row). Holds the four game names, "back to mode
   menu", the minigame title-menu items and the record labels.
 - Header 五輪祭: painted into the 8bpp 512x480 background of MINITTL0 (TIM at
-  0x18800, CLUT +0x14, pixels +0x220). Repainted like the event banners,
-  with the original's left-to-right colour gradient.
+  0x18800, CLUT +0x14, pixels +0x220). JP erased with tools/inpaint.py
+  (ink mask + 5 px rim, LaMa fill, dithered write-back into the own
+  CLUT); EN drawn with the original's left-to-right colour gradient.
 Reads tl/FEST.txt. Writes private/build/MINITTL0-8.BIZ. --png previews.
 Rectangles: private/re/fest/fest.tsv.
 """
@@ -19,7 +20,8 @@ from PIL import Image
 from scipy import ndimage
 import lz
 from build_title import mask as text_mask_lines
-import build_banners as BB
+import build_banners as BB          # rgb15, FONT_T
+import inpaint as IP
 
 PIX, STRIDE, W, H = 0x140, 384, 768, 256
 # id: (x, y, w, h, clut)
@@ -68,14 +70,74 @@ def atlas(d, tl, prev):
         prev[rid] = (out, pc)
     d[PIX:PIX + STRIDE * H] = (px[:, 0::2] | (px[:, 1::2] << 4)).astype(np.uint8).tobytes()
 
-def header(d, text):
+HEADER_FILL = 'best'      # LaMa (CPU fallback: auto); see header()
+RING = 5                  # px of glow / shadow rim around the JP ink
+ISLAND = 30               # unmasked holes up to this size join the mask
+DITHER_MAX = 24           # max sum |RGB| error of a dithered fill pixel
+
+def diffuse(img, mk, iters=400):
+    """Background estimate for the JP ink mask: masked pixels filled by
+    repeated averaging of their neighbours (only used to find the ink)."""
+    out = img.copy()
+    ys, xs = np.where(mk)
+    if not len(ys): return out
+    y0, y1, x0, x1 = max(0, ys.min() - 3), ys.max() + 4, max(0, xs.min() - 3), xs.max() + 4
+    sub = out[y0:y1, x0:x1]; m = mk[y0:y1, x0:x1]
+    for c in range(3):
+        ch = sub[..., c]; ch[m] = ch[~m].mean() if (~m).any() else 128
+    k = np.array([[0, 1, 0], [1, 0, 1], [0, 1, 0]], float) / 4
+    for _ in range(iters):
+        for c in range(3):
+            ch = sub[..., c]
+            ch[m] = ndimage.convolve(ch, k, mode='nearest')[m]
+    out[y0:y1, x0:x1] = sub
+    return out
+
+def nearest(img, pal, idx):
+    """Nearest CLUT colour (plain RGB) for every pixel that changed."""
+    out = idx.copy()
+    ch = np.abs(img - pal[idx]).sum(-1) > 0.5
+    flat = img[ch]; sel = np.where(ch.ravel())[0]
+    for k in range(0, len(flat), 4096):
+        dd = ((flat[k:k + 4096, None, :] - pal[None, :, :]) ** 2).sum(-1)
+        out.ravel()[sel[k:k + 4096]] = dd.argmin(1)
+    return out
+
+def erase_mask(img):
+    """JP ink of the header (pixels further than 40 from a background
+    diffused in from HEADER, closed, grown by 2) plus a RING px rim of
+    pixels that differ from the background (the soft dark glow under and
+    right of the strokes). Unmasked holes up to ISLAND px are closed:
+    specks left inside the hole make LaMa grow dark smudges.
+    Returns (fill mask, raw ink mask)."""
+    x0, y0, x1, y1 = HEADER
+    rect = np.zeros(img.shape[:2], bool); rect[y0:y1, x0:x1] = True
+    bg = diffuse(img, rect, iters=600)
+    raw = ndimage.binary_closing(rect & (np.sqrt(((img - bg) ** 2).sum(-1)) > 40), iterations=1)
+    core = ndimage.binary_dilation(raw, iterations=2) & ndimage.binary_dilation(rect, iterations=2)
+    ys, xs = np.where(core)
+    box = (xs.min() - RING - 2, ys.min() - RING - 2, xs.max() + RING + 3, ys.max() + RING + 3)
+    m = IP.text_mask(img, box, pred=lambda _: core, ring=RING, min_px=1)
+    hole = ndimage.binary_fill_holes(m) & ~m
+    lab, n = ndimage.label(hole)
+    if n:
+        sz = ndimage.sum(hole, lab, np.arange(1, n + 1))
+        m |= np.isin(lab, 1 + np.nonzero(sz <= ISLAND)[0])
+    return m, raw
+
+def header(d, text, method=HEADER_FILL, dbg=None):
+    """Erase the JP header (erase_mask, IP.fill) and paint the EN title.
+    Write-back into the TIM's own CLUT: EN pixels nearest colour, other
+    filled pixels Floyd-Steinberg (IP.to_clut), nearest where the dithered
+    pick is more than DITHER_MAX from the fill. keep_stp is off: the only
+    STP entry of this CLUT is opaque black 0x8000."""
     t = 0x18800
     clut = struct.unpack_from('<256H', d, t + 0x14)
     pal = np.array([BB.rgb15(v) for v in clut])
     idx = np.frombuffer(bytes(d[t + 0x220:t + 0x220 + 512 * 480]), np.uint8).reshape(480, 512).copy()
     img = pal[idx]
     x0, y0, x1, y1 = HEADER
-    mk, fill, line, raw = BB.text_mask(img, x0, y0, x1, y1)
+    mk, raw = erase_mask(img)
     # per-column fill colour of the original (left -> right gradient)
     core = ndimage.distance_transform_edt(raw) >= 2
     sat = img.max(-1) - img.min(-1)
@@ -85,11 +147,12 @@ def header(d, text):
         c = img[sel, x]; s_ = sat[sel, x]
         return c[s_ >= np.percentile(s_, 60)].mean(0)
     cols = [colcol(x) for x in range(x0, x1)]
-    # outline: the darkest quarter of the stroke-edge pixels
-    edge = raw & ~ndimage.binary_erosion(raw)
+    # outline: the darkest 5% of the ink pixels
     e = img[raw]; line = e[e.sum(-1) <= np.percentile(e.sum(-1), 5)].mean(0)
     cols = [c for c in cols if c is not None]
-    img = BB.inpaint(img, mk)
+    img = IP.fill(img, mk, method=method)
+    erased = img.copy()
+    if dbg is not None: dbg.update(mask=mk, erased=erased)
     # draw: outline in the original outline colour, fill with the gradient
     lines = text.split('|')
     a = text_mask_lines(lines, x1 - x0, y1 - y0, 40, font=BB.FONT_T, align='centre',
@@ -106,7 +169,12 @@ def header(d, text):
         t_ = (x - xs[0]) / max(1, xs[-1] - xs[0])
         c = cols[min(len(cols) - 1, max(0, int(t_ * (len(cols) - 1))))]
         reg[:, x] = reg[:, x] * (1 - a[:, x, None]) + c * a[:, x, None]
-    new = BB.quantize(np.clip(img, 0, 255), pal, idx)
+    img = np.clip(img, 0, 255)
+    new = nearest(img, pal, idx)
+    w = mk & (np.abs(img - erased).sum(-1) < 1e-6)
+    fs = IP.to_clut(img, idx, clut, w, pal=pal, keep_stp=False)
+    stray = np.abs(pal[fs] - img).sum(-1) > DITHER_MAX
+    new[w] = np.where(stray, new, fs)[w]
     d[t + 0x220:t + 0x220 + 512 * 480] = new.tobytes()
     return pal[new]
 

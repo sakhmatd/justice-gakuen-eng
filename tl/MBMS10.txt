@@ -792,7 +792,7 @@ EN: Boman's training is pretty hardcore... Huh?{p}
 
 ## MBMS10 g0 s0228
 JP: （………ココからだと{n}{sp}女子バレー部の練習も{n}{sp}よく見えるな……。{n}{sp}心なしかはりきっちゃうな。）{p}
-EN: (...From here you can see the girls' volleyball team practicing too... Somehow it's got me all fired up.){p}
+EN: (...From here you can see the girls' volleyball club practicing too... Somehow it's got me all fired up.){p}
 
 ## MBMS10 g0 s0229
 JP: ボーマンに{v7:4}も{n}がんばってるねぇー{col:5}♥{col:-}{p}
@@ -1176,7 +1176,7 @@ EN: Boman, what're you doing?{p}
 
 ## MBMS10 g1 s0228
 JP: （………ココからだと{n}{sp}女子バレー部の練習も{n}{sp}よく見えるな……。{n}{sp}負けないように頑張らないと。）{p}{end}
-EN: (...From here you can see the girls' volleyball team practicing too... I'd better work hard so I don't fall behind.){p}{end}
+EN: (...From here you can see the girls' volleyball club practicing too... I'd better work hard so I don't fall behind.){p}{end}
 
 ## MBMS10 g1 s0229
 JP: ボーマンに{v8:4}も{n}がんばってるねぇー{col:5}♥{col:-}{p}

@@ -12,9 +12,21 @@ Each entry is one LZ'd 8bpp TIM, 512x208, with its own 256-colour CLUT
 (CLUT at +0x14, pixels at +0x220). The text is painted into the picture.
 For each rectangle the builder picks the palette indices that are much
 more common inside it than in a ring around it (the text fill and
-outline), paints those pixels out by diffusion from the surrounding
-background, draws the English with the original fill and outline colours,
-and maps the result back to the nearest CLUT colours.
+outline), paints those pixels out (see below), draws the English with the
+original fill and outline colours and maps the EN pixels to the nearest
+CLUT colours.
+
+Text removal (tools/inpaint.py): the script's own JP mask (text_mask()
+below for banners, colour_mask() for month cards) plus a RING px rim of
+pixels that differ from the background, small islands closed, filled
+with inpaint.fill (LaMa if the model is there, else the OpenCV 'auto'
+fill; FILL holds per-entry overrides). The fill is written back into the
+entry's own CLUT with Floyd-Steinberg dither inside the fill mask only,
+capped at DITHER_MAX; the EN drawn after it keeps nearest colour. Month
+cards are filled in card layout (left half over right half), so the
+schedule line that crosses TIM row 255 gets its real neighbours. Entries
+are filled in a fixed order (LaMa's first call in a process differs
+slightly from later ones).
 """
 import sys, os, struct
 sys.path.insert(0, os.path.dirname(__file__))
@@ -22,6 +34,7 @@ import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 from scipy import ndimage
 import lz
+import inpaint as inp         # tools/inpaint.py (inpaint() below is the old fill)
 
 ARC = 'private/disc/DAT2/MA_BETA.BIZ'
 ENT = 'private/unpacked/MA_BETA.BIZ/%03d.lz'
@@ -224,13 +237,76 @@ def card_layout(e, tl, rc):
         v.update(h=he, maxw=MAXW_C, left=left + dw + gap)
     return jobs + days + evs
 
-def build(png=False, out='private/build/MA_BETA.BIZ', pngdir='private/re/banner/en'):
+# ---------------------------------------------------------------- removal
+
+RING = 5                # text_mask rim around the script's JP mask (px)
+ISLAND = 30             # unmasked islands under this size (px) are filled too
+DITHER_MAX = 24         # max sum |RGB| error of a dithered fill pixel
+FILL = {}               # entry -> fill method override (default 'best')
+PANEL = (26, 32, 486, 449)  # month card panel inside the marble frame (card layout)
+
+def stack(a):
+    """Month card TIM (256 rows x 1024) -> card layout (512 x 512)."""
+    return np.concatenate([a[:, :512], a[:, 512:]], 0)
+
+def unstack(a):
+    return np.concatenate([a[:256], a[256:]], 1)
+
+def keep_stp(clut):
+    """False if the CLUT's only STP entries are opaque black (0x8000):
+    refilled pixels of that class could only become black."""
+    s = {v for v in clut if v & 0x8000}
+    return bool(s) and s != {0x8000}
+
+def fill_mask(img, mk, pad=0):
+    """The script's JP mask mk plus a RING px rim of pixels that differ
+    from the background (soft glow and shadow of the JP), with unmasked
+    islands under ISLAND px closed (dark specks in a hole make LaMa grow a
+    smudge)."""
+    if not mk.any(): return mk
+    x0, y0, x1, y1 = inp._bbox(mk, RING + pad, img.shape)
+    m = inp.text_mask(img, (x0, y0, x1, y1), pred=lambda a: mk, ring=RING,
+                          halo=1, min_px=0, close=0)
+    holes = ndimage.binary_fill_holes(m) & ~m
+    lab, n = ndimage.label(holes)
+    if n:
+        sz = ndimage.sum(holes, lab, np.arange(1, n + 1))
+        m |= np.isin(lab, 1 + np.nonzero(sz < ISLAND)[0])
+    return m
+
+# Write-back steps, tried in order until the entry fits its slot: (dither
+# cap, blur). LaMa fills busy art with fine texture, which LZ packs worse
+# than the JP's flat glyphs; three month cards (001, 005, 010) overflow
+# their slots with dither. The steps drop the dither, then soften the fill
+# (gaussian sigma) before nearest colour. Entries never move in the archive.
+STEPS = [(DITHER_MAX, 0.0), (None, 0.0), (None, 0.4), (None, 0.5), (None, 0.7), (None, 1.0)]
+
+def writeback(out, m, clut, pal, idx, cap=DITHER_MAX, blur=0.0):
+    """Fill result out (float RGB) inside m -> CLUT indices. cap: FS
+    dither inside m, nearest colour where the dithered pick is more than
+    cap (sum |RGB|) from the fill (dither scatters saturated art colours
+    over flat ground otherwise); None: nearest colour only. blur: gaussian
+    sigma applied to the fill inside m first."""
+    if blur:
+        out = np.where(m[..., None], ndimage.gaussian_filter(out, (blur, blur, 0)), out)
+    ks = keep_stp(clut)
+    near = inp.to_clut(out, idx, clut, m, pal=pal, dither='none', keep_stp=ks)
+    if cap is None: return near
+    fs = inp.to_clut(out, idx, clut, m, pal=pal, keep_stp=ks)
+    return np.where(np.abs(pal[fs] - out).sum(-1) > cap, near, fs)
+
+MASKS = {}              # entry -> fill mask (TIM layout, for checks)
+STEP = {}               # entry -> write-back step used
+
+def build(png=False, out='private/build/MA_BETA.BIZ', pngdir='private/re/banner/en',
+          filldir=None, entries=range(26)):
     tl = load_tl(); rc = rects()
     arc = bytearray(open(ARC, 'rb').read())
     toc = [struct.unpack_from('<II', arc, 8 * i) for i in range(26)]
     problems = 0
     if png: os.makedirs(pngdir, exist_ok=True)
-    for e in range(0, 26):
+    if filldir: os.makedirs(filldir, exist_ok=True)
+    for e in entries:
         card = e < 11
         if card:
             keys = [k for k in rc if k.startswith(f'beta{e:03d}.')]
@@ -245,34 +321,55 @@ def build(png=False, out='private/build/MA_BETA.BIZ', pngdir='private/re/banner/
         idx = np.frombuffer(bytes(d[0x220:0x220 + W * H]), np.uint8).reshape(H, W).copy()
         img = pal[idx]
         jobs = []
+        method = FILL.get(e, 'best')
         if card:
+            mk = np.zeros(idx.shape, bool)
             for k in keys:
-                mk = colour_mask(img, rc[k], COLS[k])
-                img = inpaint(img, mk)
+                mk |= colour_mask(img, rc[k], COLS[k])
+            # month shadow 4,6 px down-right: rect padded by 6
+            m = fill_mask(stack(img), stack(mk), pad=6)
+            px0, py0, px1, py1 = PANEL
+            pm = np.zeros(m.shape, bool); pm[py0:py1, px0:px1] = True
+            m &= pm
+            fo = unstack(inp.fill(stack(img), m, method))
+            m = unstack(m)
             jobs += card_layout(e, tl, rc)
             keys = []
+        else:
+            mk = np.zeros(idx.shape, bool)
         for k in keys:
             x0, y0, x1, y1 = rc[k]
-            mk, fill, line, _ = text_mask(img, x0, y0, x1, y1)
-            img = inpaint(img, mk)
+            mk_k, fill, line, _ = text_mask(img, x0, y0, x1, y1)
+            mk |= mk_k
             big = k.endswith('title')
             jobs.append(dict(key=k, text=tl[k], cy=(y0 + y1) / 2, h=(y1 - y0) * (0.62 if big else 0.75),
                              fill=fill, line=line, ol=3 if big else 2, font=FONT_T if big else FONT_D,
                              vis=VIS, maxw=MAXW_B, shadow=None, soff=(0, 0)))
-        if not card: banner_layout(e, jobs, rc)
-        for j in jobs:
-            ink = draw_text(img, j['text'], j.get('cx', 0), j['cy'], j['h'], j['fill'], j['line'],
-                            j['ol'], j['font'], j['maxw'], j['vis'], j.get('left'),
-                            j['shadow'], j['soff'])
-            INK[j['key']] = tuple(int(v) for v in ink)
-        new = quantize(np.clip(img, 0, 255), pal, idx)
-        d[0x220:0x220 + W * H] = new.tobytes()
-        c = lz.compress(bytes(d))
+        if not card:
+            m = fill_mask(img, mk)
+            fo = inp.fill(img, m, method)
+            banner_layout(e, jobs, rc)
+        MASKS[e] = m
         o = toc[e][0]; slot = (toc[e + 1][0] if e + 1 < len(toc) else len(arc)) - o
+        for step, (cap, blur) in enumerate(STEPS):
+            fidx = writeback(fo, m, clut, pal, idx, cap, blur)
+            img = pal[fidx]
+            for j in jobs:
+                ink = draw_text(img, j['text'], j.get('cx', 0), j['cy'], j['h'], j['fill'], j['line'],
+                                j['ol'], j['font'], j['maxw'], j['vis'], j.get('left'),
+                                j['shadow'], j['soff'])
+                INK[j['key']] = tuple(int(v) for v in ink)
+            new = quantize(np.clip(img, 0, 255), pal, fidx)
+            d[0x220:0x220 + W * H] = new.tobytes()
+            c = lz.compress(bytes(d))
+            if len(c) <= slot: break
+        STEP[e] = step
+        if step: print(f'MA_BETA {e:03d}: write-back step {step} {STEPS[step]}, {slot - len(c)} bytes spare')
+        if filldir: Image.fromarray(pal[fidx].astype(np.uint8)).save(f'{filldir}/{e:03d}.png')
+        if png: Image.fromarray(pal[new].astype(np.uint8)).save(f'{pngdir}/{e:03d}.png')
         if len(c) > slot: print(f'MA_BETA {e:03d}: {len(c)} > slot {slot}'); problems += 1; continue
         arc[o:o + slot] = c + bytes(slot - len(c))
         struct.pack_into('<I', arc, 8 * e + 4, len(c))
-        if png: Image.fromarray(pal[new].astype(np.uint8)).save(f'{pngdir}/{e:03d}.png')
     if out: open(out, 'wb').write(arc)
     print(f'MA_BETA: problems {problems}')
 

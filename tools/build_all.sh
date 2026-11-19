@@ -15,6 +15,7 @@ python3 tools/build_logo.py
 python3 tools/build_diarygfx.py
 python3 tools/build_entry.py
 python3 tools/build_title.py
+python3 tools/build_titlescreen.py
 python3 tools/build_sysmsg.py
 python3 tools/build_banners.py
 python3 tools/build_exam.py
